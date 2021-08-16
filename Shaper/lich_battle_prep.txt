@@ -1,0 +1,25 @@
+-Undead assualt prep:
+	-Powers:
+		-Defensive Powers:
+			-Inertial Armor 19
+			-Vigor 20
+			-Precognition, Defensive 19
+				-Saves: "Temp +7 insight to all for Precog., Def."
+			-Oak Body? 13
+			-Conceal Thoughts (cheap!) 1
+			-Elfsight (cheap-ish!)	3
+			-Mind Blank 15
+		-Black Lotus extract, just because it's cheap? 1
+		-Fortifications:
+			-Jax/icyfinger can lift 1800 lbs. off the ground alone
+			-Include artful scenes of the party smashing the undead you saw there!
+		-Keen Edge for Joe's anti-undead weapon?
+		-Construct to teleport with you? 17
+			-You likely have just enough teleport capacity for one Huge one.
+			-They can _definitely_ lift a lot in the way of fortifications.
+-Planning for during the assault:
+	-Teleport in with your crystal and your construct.
+	-Immediately, before your turn is over, manifest Temporal Acceleration and use the time to
+	 create constructs.
+		-Probably 2 per casting, with your augment, now that you can Overchannel to 19.
+			-All melee? Maybe one that comes with is ranged? Whirlwinders?

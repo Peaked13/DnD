@@ -1,0 +1,323 @@
+&{template:default} {{name=Full Attack (Divine Favor +3, Greater Magic Fangs: All,Bite+4, Heroes' Feast)}}
+&{template:default} {{name=Bite}} {{attack=[[1d20cs>20+19+10-2+4+3+1]] Crit:[[1d20cs>20+19+10-2+4+3+1]]}} {{damage=[[2d8+10+4+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[1d8+5+1+3]] Crit:[[1d8]]}}
+&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[1d8+5+1+3]] Crit:[[1d8]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[2d6+15+1+3]] Crit:[[2d6]]}}
+
+
+&{template:default} {{name=Full Attack}}
+&{template:default} {{name=Bite}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[2d8+10]] Crit:[[2d8]]}}
+&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[2d6+5]] Crit:[[2d6]]}}
+&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[2d6+5]] Crit:[[2d6]]}}
+&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[1d8+5]] Crit:[[1d8]]}}
+&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[1d8+5]] Crit:[[1d8]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+19+10-2+1]] Crit:[[1d20cs>20+19+10-2+1]]}} {{damage=[[2d6+15+1]] Crit:[[2d6]]}}
+
+
+&{template:default} {{name=Crush}} {{attack=[[1d20cs>20+19+10-2+1]] Crit:[[1d20cs>20+19+10-2+1]]}} {{damage=[[2d8+15+1]] Crit:[[2d8]]}}
+
+
+&{template:default} {{name=Full Attack (Divine Favor +3, Greater Magic Fangs: All,Bite+4, Heroes' Feast, Bull's Strength, Righeous Might, Haste)}}
+&{template:default} {{name=Bite 1}} {{attack=[[1d20cs>20+19+10-4+4+3+1]] Crit:[[1d20cs>20+19+14-4+4+3+1]]}} {{damage=[[4d6+14+4+3]] Crit:[[4d6]]}}
+&{template:default} {{name=Bite 2}} {{attack=[[1d20cs>20+19+10-4+4+3+1]] Crit:[[1d20cs>20+19+14-4+4+3+1]]}} {{damage=[[4d6+14+4+3]] Crit:[[4d6]]}}
+&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d8+7+1+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d8+7+1+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d6+7+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d6+7+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d8+17+1+3]] Crit:[[2d8]]}}
+
+
+
+
+&{template:default} {{name=Arvaec Bow Attack (Divine Favor +3, Divine Power, Heroes' Feast)}}
+&{template:default} {{name=Attack 1}} {{attack=[[1d20cs>20+17-1+2+3+1]] Crit:[[1d20cs>20+17-1+2+3+1]]}} {{damage=[[d8+2+3]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 2}} {{attack=[[1d20cs>20+12-1+2+3+1]] Crit:[[1d20cs>20+12-1+2+3+1]]}} {{damage=[[d8+2+3]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 3}} {{attack=[[1d20cs>20+7-1+2+3+1]] Crit:[[1d20cs>20+7-1+2+3+1]]}} {{damage=[[d8+2+3]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 4}} {{attack=[[1d20cs>20+2-1+2+3+1]] Crit:[[1d20cs>20+2-1+2+3+1]]}} {{damage=[[d8+2+3]] Crit:[[d8]]}}
+
+
+&{template:default} {{name=Arvaec Rod of the Viper Attack (Divine Favor +3, Divine Power, Heroes' Feast)}}
+&{template:default} {{name=Attack 1}} {{attack=[[1d20cs>20+17+3+2+3+1]] Crit:[[1d20cs>20+17+3+2+3+1]]}} {{damage=[[d8+3+2+3]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 2}} {{attack=[[1d20cs>20+12+3+2+3+1]] Crit:[[1d20cs>20+12+3+2+3+1]]}} {{damage=[[d8+3+2+3]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 3}} {{attack=[[1d20cs>20+7+3+2+3+1]] Crit:[[1d20cs>20+7+3+2+3+1]]}} {{damage=[[d8+3+2+3]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 4}} {{attack=[[1d20cs>20+2+3+2+3+1]] Crit:[[1d20cs>20+2+3+2+3+1]]}} {{damage=[[d8+3+2+3]] Crit:[[d8]]}}
+
+
+&{template:default} {{name=Arvaec Lich Touch Attack (Divine Favor +3, Divine Power, Heroes' Feast)}} {{attack=[[1d20cs>20+17+3+3+1]] Crit:[[1d20cs>20+17+3+3+1]]}} {{damage=[[d8+5+3]] Crit:[[d8]] NE Dmg., Will DC 20 for half, Fortitude DC 20 or permanently paralyzed, seemingly dead.}}
+
+
+&{template:default} {{name=Arvaec Inflict Critical (Divine Favor, Divine Power, Death Dragon, Heroes' Feast)}} {{attack=[[1d20+17+3+2+3+1]]}} {{damage=[[4d8+19]] NE Dmg., Will DC 23 for half}}
+
+
+&{template:default} {{name=Arvaec Rod of the Viper Attack}}
+Attack 1:
+--------------
+Hit:
+/r d20+10+0+2
+Damage (B):
+/r d8+0+2
+
+Attack 2:
+--------------
+Hit:
+/r d20+5+0+2
+Damage (B):
+/r d8+0+2
+
+
+&{template:default} {{name=Arvaec Bow Attack)}}
+Attack 1:
+--------------
+Hit:
+/r d20+8-1+3
+Damage (P):
+/r d8+2+3
+
+Attack 2:
+--------------
+Hit:
+/r d20+8-1+3
+Damage (P):
+/r d8+2+3
+
+
+
+
+
+-Past macros:
+	-Young:
+		Full Attack:
+		==============
+		Bite:
+		--------------
+		Hit:
+		/r d20+13+7
+		Damage (PSB):
+		/r 2d6+7
+
+		Claw 1:
+		--------------
+		Hit:
+		/r d20+13+7-2
+		Damage (PS):
+		/r 1d8+3
+
+		Claw 2:
+		--------------
+		Hit:
+		/r d20+13+7-2
+		Damage (PS):
+		/r 1d8+3
+
+		Wing 1:
+		--------------
+		Hit:
+		/r d20+13+7-2
+		Damage (B):
+		/r 1d6+3
+
+		Wing 2:
+		--------------
+		Hit:
+		/r d20+13+7-2
+		Damage (B):
+		/r 1d6+3
+
+		Tail Slap:
+		--------------
+		Hit:
+		/r d20+13+7-2
+		Damage (B):
+		/r 1d8+10
+
+
+
+
+		Full Attack +1:
+		==============
+		Bite:
+		--------------
+		Hit:
+		/r d20+13+7+1
+		Damage (PSB):
+		/r 2d6+7+1
+
+		Claw 1:
+		--------------
+		Hit:
+		/r d20+13+7-2+1
+		Damage (PS):
+		/r 1d8+3+1
+
+		Claw 2:
+		--------------
+		Hit:
+		/r d20+13+7-2+1
+		Damage (PS):
+		/r 1d8+3+1
+
+		Wing 1:
+		--------------
+		Hit:
+		/r d20+13+7-2+1
+		Damage (B):
+		/r 1d6+3+1
+
+		Wing 2:
+		--------------
+		Hit:
+		/r d20+13+7-2+1
+		Damage (B):
+		/r 1d6+3+1
+
+		Tail Slap:
+		--------------
+		Hit:
+		/r d20+13+7-2+1
+		Damage (B):
+		/r 1d8+10+1
+
+
+
+
+		Full Arvaec Attack (Divine Favor CL 11):
+		==============
+		Attack 1:
+		--------------
+		Hit:
+		/r d20+8-1+3
+		Damage (P):
+		/r d8+2+3
+
+		Attack 2:
+		--------------
+		Hit:
+		/r d20+8-1+3
+		Damage (P):
+		/r d8+2+3
+
+
+
+
+		Full Arvaec Attack (Bless, Prayer):
+		==============
+		Attack 1:
+		--------------
+		Hit:
+		/r d20+8-1+2
+		Damage (P):
+		/r d8+2+1
+
+		Attack 2:
+		--------------
+		Hit:
+		/r d20+3-1+2
+		Damage (P):
+		/r d8+2+1
+
+
+
+
+		Full Attack (+1, Bull's, Bless, Prayer):
+		==============
+		Bite:
+		--------------
+		Hit:
+		/r d20+13+7+1+2+1+1
+		Damage (PSB):
+		/r 2d6+7+1+2+1
+
+		Claw 1:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (PS):
+		/r 1d8+3+1+2+1
+
+		Claw 2:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (PS):
+		/r 1d8+3+1+2+1
+
+		Wing 1:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (B):
+		/r 1d6+3+1+2+1
+
+		Wing 2:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (B):
+		/r 1d6+3+1+2+1
+
+		Tail Slap:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (B):
+		/r 1d8+10+1+2+1
+
+
+
+
+
+
+
+
+		Full Attack (+1 to only bite, Bull's, Bless, Prayer, Haste):
+		==============
+		Bite:
+		--------------
+		Hit:
+		/r d20+13+7+1+2+1+1+1
+		Damage (PSB):
+		/r 2d6+7+1+2+1
+
+		Bite:
+		--------------
+		Hit:
+		/r d20+13+7+1+2+1+1+1
+		Damage (PSB):
+		/r 2d6+7+1+2+1
+
+		Claw 1:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (PS):
+		/r 1d8+3+1+2+1
+
+		Claw 2:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (PS):
+		/r 1d8+3+1+2+1
+
+		Wing 1:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (B):
+		/r 1d6+3+1+2+1
+
+		Wing 2:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (B):
+		/r 1d6+3+1+2+1
+
+		Tail Slap:
+		--------------
+		Hit:
+		/r d20+13+7-2+1+2+1+1
+		Damage (B):
+		/r 1d8+10+1+2+1

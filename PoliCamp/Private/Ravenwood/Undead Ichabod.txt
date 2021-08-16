@@ -1,0 +1,19 @@
+Ichabod
+Psuedonatural Ice Mephit Zombie
+Small Undead(Air, Cold, Extraplanar)
+HD: 6d12+3 (42 HP)
+Initiative: +2
+Speed: 30 ft., fly 50ft.(clumsy)
+AC: 18 (+1 size, +2 Dex, +5 natural), touch 13, 
+    flat footed 16
+Base Attack/Grapple: +3/+2
+Attack: Claw +6 melee (1d3+3 + 1d4 cold) or (Slam 1d4+3 + 1d4 cold)
+Full Attack: None (Single actions only)
+Space/Reach: 5ft,5ft
+Special Attacks: --
+Special Qualities: Single actions only, DR 5/Slashing, darkvision 60ft., undead traits
+Saves: Fort +2, Ref +4, Will +5
+Abilities: Str 16, Dex 15, Con --, Int --, Wis 10, Cha 1
+Skills: 
+Feats: Toughness
+Alignment: Neutral Evil

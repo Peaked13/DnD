@@ -1,0 +1,18 @@
+
+
+-Costs & Incomes
+	-Weekly Totals
+		-Income: 
+		-Cost:	 
+	-Sources
+		-Taxes: 
+			-Trade: 
+			-Town:  450 (10% gp limit)
+				-gp limit /day or /week for purposes of taxes?
+		-Mining: (minor)
+		-Stronghold upkeep: 
+			-Buildings: 
+			-Wages:     
+			-Equipment: 
+-Gateton
+	-Large town: 4,500 gp limit (+50% over normal due to trade)

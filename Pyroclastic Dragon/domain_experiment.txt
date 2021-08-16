@@ -1,0 +1,42 @@
+Name: Sszythrach's Domains
+Type: Player Directed
+Savant/Sorcerer: 
+Magnitude: 2
+Willpower: 6
+Temp Willpower: 6
+Limit Break: 4
+
+Attributes: (1 in each, 2 for Magnitude 2)
+	Military:	2, Temp: 2
+	Culture:	1, Temp: 2
+	Government:	2, Temp: 2
+
+Abilities: (10 for Magnitude 2, none above Magnitude)
+	Bureaucracy: 1
+	Craft: 2
+	Integrity: 2
+		Secret Police Specialty x 2
+	Investigation: 1
+	Presence: 2
+		Imperious Demands Specialty x 2
+	War: 2
+		Slash & Burn Tactics Specialty
+
+Virtues: (1 in each, plus 6 for Magnitude 2)
+	Compassion: 1
+	Conviction: 3
+	Temperance: 3
+	Valor:		3
+Virtue Flaw: Conviction
+
+Bonus Points (5 per magnitude):
+	2	Integrity Secret Police Specialty x 2
+			Sszythrach and Arvaec's wraith spies.
+	1	War Slash & Burn Tactics Specialty
+			Sszythrach knows how to burn. . .
+	2	Presence Imperious Demands Specialty x 2
+	5	Available
+
+
+
+Experiment with applying Exalted 2E's domain (Mandate of Heaven) rules, from Storyteller's Companion pg. 130.

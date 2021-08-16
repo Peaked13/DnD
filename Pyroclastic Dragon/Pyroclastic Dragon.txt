@@ -1,0 +1,177 @@
+-Dragon: Sszythrach, implacable and furious.
+	-Up to date epitaphs: Sszythrach, Champion of Dragons, He Before Whom Foes Crumble
+	-Young Pyroclastic Dragon (13 HD)
+		-Feats: 5 from HD
+			1	Ability Focus (Monster Manual pg. 303)
+			3	Multiattack (Monster Manual pg. 304)
+			6	Heighten Breath (Draconomicon pg. 70)
+			9	Recover Breath (Draconomicon pg. 73)
+			12	Shape Breath  (Draconomicon pg. 73)
+				-Future:
+					15	Juvenile		Extend Spell
+					18	Young Adult		Persistent Spell
+					21	Adult			Is Epic Leadership necessary? Well, Epic Spellcasting may now be! Alternately, Extra Turning for Divine Metamagic.
+					24	Mature Adult	
+					27	Old				
+					30	Very Old		
+					33	Ancient			Quicken Spell-Like Ability (Produce Flame)
+					36	Wyrm			Rapid Breath
+					39	Great Wyrm		
+			-Potential future ones:
+				-Well, with cleric casting now, Divine Metamagic shenanigans might be your major
+				 goal with feats.
+					-Shit, you'll be a high enough caster level to begin persisting great stuff like
+					 Divine Favor the honest way, on top of whatever your turning lets you do.
+				-Improved Multiattack (Draconomicon pg. 70)
+					-Hmm. . . Epic Prowess's (Epic Level Handbook pg. 54) untyped +1 to all attacks
+					 may be better, depending on how many full vs. single attacks you find yourself
+					 making.
+				-Improved Speed (Draconomicon pg. 71)
+				-Rapidstrike (Draconomicon pg. 73)
+				-Improved Rapidstrike (Draconomicon pg. 70)
+				-Improved Initiative (The Epic Dire Charge feat requires it.)
+					-Oh, Dire Charge kind of sucks, since it only works on the first round of any
+					 given combat.
+					-Still not a bad feat to have, I.I., because Sszythrach acting means many after
+					 him in initiative are ash before they can act themselves.
+				-Flyby Breath (Dragonlance Campaign Setting pg. 85): http://dnd.arkalseif.info/feats/dragonlance-campaign-setting--98/flyby-breath--3612/index.html
+					-Requires Flyby Attack first, but is great, and would probably enable the burrow pop out.
+						https://www.dandwiki.com/wiki/SRD:Flyby_Attack
+				-Strafing Breath may then be an interesting follow up: http://dnd.arkalseif.info/feats/dragonlance-campaign-setting--98/strafing-breath--3701/index.html
+				-Hover would let you make full attacks in the air, along with other handy effects.
+					-Eh, against _other hovering targets. . ._
+				-Rapid Breath (Savage Species pg. 39)
+					-Same effect as Recover Breath, stacking with it.
+					-Is the book kosher?
+						-Discussed it briefly with Lesley and sounded like it was. Might want to
+						 doublecheck when you actually take it, though.
+					-Needs a (tax) feat of Quicken Spell-Like Ability (Savage Species pg. 38), which
+					 in turn requires minimum caster levels for the ability.
+						-Produce Flame is a level 1 Druid spell, and thus easiest, requiring caster
+						 level 10.
+						-Sound Burst would be slightly useful, but not possible until 12th.
+					-Your caster level for your spell-likes sucks, though. It's equal to your age
+					 category, since you don't get Sorcerer casting, and thus you don't reach 12
+					 until you're a great wyrm.
+					-Options for working around that:
+						-Supernatural Transformation (Savage Species pg. 39)
+							-Spell-like becomes Supernatural, dodging spell resistance and bumping
+							 caster level to HD (other properties are useless), meaning you could
+							 manage this as fast as you can spare the feats. 2 feat tax, though.
+								-Oh! I don't think this works, as the ability will no longer be
+								 Spell-Like, and thus ineligible for Quickening.
+							-Opens quickening other spell-likes too, though only the Walls look
+							 remotely worth it. They benefit a lot from this boosting their caster
+							 level, but are only once per day, unlike Sound Burst's three per day.
+								-Wall of Stone's permanent nature _would_ be kind of cool, but
+								 building isn't really Sszythrach's style.
+					-This is probably the way to go, as fast as possible.
+						-Well, with no work around, that's Quickening at Ancient, then this at
+						 Wyrm. Reasonably fair, given it's impact on your power.
+				-Great Constitution [Epic] (Epic Level Handbook pg. 56) is actually a solid choice,
+				 increasing Constitution by 1 each time you take it.
+					-You otherwise have odd Constitution, so one copy at least is clearly worth it.
+					-Then again, Wish or a Manual would also solve that odd number, and might be
+					 somewhat trivial by the time you can take epic feats.
+						-Arvaec will probably be able to cast it for you by that time.
+				-Fast Healing [Epic] (Draconomicon pg. 70)
+					-Fast Healing 3 would be pretty cool. Good for hit and runs too.
+				-Damage Reduction [Epic] (Epic Level Handbook pg. 52)
+					-Adding 3/- to your DR isn't bad, and it stacks in some way with your natural
+					 DR, but you should probably look into the details of what stacking DR means.
+				-Improved Spell Resistance [Epic] (Epic Level Handbook pg. 60) could also be good,
+				 but is only +2.
+		-Skills ranks: (6+Int)*(HD+3)=112, Max 16/8
+			Climb 				 5	(At least 5 for Speedy Ascent)
+			Concentration		 6
+			Intimidate			16
+			Knowledge(The Planes)5
+			Knowledge(Geology)	 1
+			Listen				12
+			Search				12
+			Sense Motive		16
+			Speak Language		 2	(Infernal & Ignan)
+			Spot				12
+			Swim 				 5
+			Tumble				16
+			
+			Skill tricks:
+				-Never Outnumbered (Complete Scoundrel pg. 87): http://dnd.arkalseif.info/feats/complete-scoundrel--60/never-outnumbered--3295/index.html
+				-Speedy Ascent (Complete Scoundrel pg. 89): http://dnd.arkalseif.info/feats/complete-scoundrel--60/speedy-ascent--3306/index.html
+			
+			All skills are apparently class skills for dragons in the campaign.
+				Now that you know that, do you want to change anything? Perhaps Tumble over Use Magic?
+		-Languages:
+			Common
+			Draconic
+			Infernal
+			Ignan
+		-Alignment: Lawful Evil
+
+
+-Cohort: His thrall Arvaec, God-Slave of Tiamat.
+	-Level is Dragon HD-2, overriding normal Leadership rule.
+	-11th level Cleric of Tiamat
+		-Feats: 
+			1	Extra Turning
+			3	Extend Spell
+			6	Persistent Spell (Complete Arcane pg. 81)
+			9	Divine Metamagic(Persistent Spell) (Complete Divine pg. 80)
+		-Skills ranks: (2+Int)*14=56, Max 14/7
+			Bluff				7
+			Concentration		14
+			Diplomacy			7
+			Knowledge(Religion)	14
+			Spellcraft			14
+		-Attributes:
+			Str  10
+			Dex  8	(+2 for being an elf)
+			Con  10	(-2 for being an elf)
+			Int  15
+			Wis  17	(+2 for HD)
+			Cha  13
+			
+			Rolls:
+				12-
+				10-
+				6-
+				15-
+				15-
+				13-
+		-Domains:
+			Scaleykind:	https://www.dandwiki.com/wiki/SRD:Scalykind_Domain
+			Trickery:	https://www.dandwiki.com/wiki/SRD:Trickery_Domain
+		-Languages:
+			Common
+			Elvish
+			Draconic
+			Infernal
+		-Alignment: Lawful Evil
+
+
+-Equipment: https://docs.google.com/spreadsheets/d/1fy9q1enouRUfry5j9xlkrQq4u3z-ASrwlKduipFOYT4/edit#gid=0
+
+
+-Followers:
+	-As a Young dragon:
+		-Level 1: 15
+		-Level 2: 2
+	-Kobolds might be attractive, as well as thematic.
+		-You could use them as miners.
+	-Dwarves could be another option for a similar role, if nice, scaly kobolds aren't available.
+
+
+-Initial discussion of character details with Lesley and Jake: https://discord.com/channels/560915739796570113/560915739796570119/810970288618995724
+	-Divine Metamagic and Persistent Spell are kosher.
+-Useful post with Persistent options for <= level 4: https://forum.rpg.net/index.php?threads/d-d-3-5-cheese-up-my-cleric.592975/post-14408135
+-Your Scaleykind rebuking seems to be a different pool of attempts per day: https://www.enworld.org/threads/cleric-domains-extra-turning.104080/
+	-It even gets it's own bonus form the same Extra Turning: https://dndtools.net/feats/players-handbook-v35--6/extra-turning--1050/
+
+-Questions I'm going to need a ruling on:
+1. What meets Persistent Spell's qualification that the spell must have a "personal range or a fixed range"?
+The feat: https://www.dandwiki.com/wiki/SRD:Persistent_Spell
+Pretty obviously Personal: https://www.dandwiki.com/wiki/SRD:Persistent_Spell
+Touch?: https://www.dandwiki.com/wiki/SRD:Protection_from_Energy
+Fixed, numerical range with an area?: https://www.dandwiki.com/wiki/SRD:Prayer
+	Personal only.
+2. Can you mix movement modes in a single move action? How does that work? Couldn't find an official system.

@@ -1,0 +1,33 @@
+
+
+Bow attack:
+/r d20+12
+Bow damage:
+/r d8+6
+
+Sharpshoot attack:
+/r d20+7
+Sharpshoot damage:
+/r d8+16
+
+
+Sharpshoot attack:
+/r d20+7
+Sharpshoot damage:
+/r d8+16+1d4
+
+
+Divine Favor rounds (out of 10): 1
+
+
+Attack roll:
+/r d20+6
+Damage:
+/r d8+2+d10
+
+
+
+Loot:
+ 6100
+ Manual of Bodily Health
+ I grabbed some fancy Legendary Sunblade

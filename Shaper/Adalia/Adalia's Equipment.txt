@@ -1,0 +1,38 @@
+-Important stuff:
+	-Headband of Intellect +4: 16,000
+	-Mighty (+2 Str) Psychokinetic Composite Longbow +1: 8,600
+		-Base: 100
+		-Mighty 2: 200
+		-Masterwork: 300
+		-+2: 8,000
+			-Psychokinetic is +1 bonus on Expanded Psionic Handbook pg. 166
+		-60 arrows: 3
+	-Deep Crystal Rapier +1: 3,320
+		-Deep Crystal on Expanded Psionic Handbook pg. 182
+	-Gloves of Dexterity +2: 4,000
+	-Cloak of Resistance +1: 2,000
+	-Buckler +1: 1,165
+	-Leather armor: 10
+	-Power Stone (Know Direction and Location): 25
+	-Power Stone (Inertial Armor): 25
+	-Healing Belt: 750
+	-Ring of Protection +1: 2000
+	-Amulet of Natural Armor +1: 2000
+	-Planeshift Foci:
+		Foci for Material Plane: 150
+		Foci for Astral Plane: 1500
+		Foci for Ysgard: 166.5
+		Foci for Ethereal: 53.34
+
+-Misc gear:
+	-Explorer's Outfit: 10
+	-Backpack: 2
+	-Flint and steel: 1
+	-Pouch, belt: 1
+	-Trail Rations: .5
+	-Waterskin: 1
+
+-Gold: 10997.22
+
+-Stuff to perhaps get:
+	-Figure out more

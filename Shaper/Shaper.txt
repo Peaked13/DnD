@@ -1,0 +1,434 @@
+Race: Elan		Age: 53		Height: 6'1"	Weight: 184
+
+Lvl	Class lvl		Feat											Max Pwr		Powers
+-------------------------------------------------------------------------------------
+1	Shaper 1		Elan Resilience, Enhanced; Boost Construct		1			Astral Construct; Crystal Shard; Inertial Armor
+2	Shaper 2														1			Ecto Protection; Minor Creation, Psionic
+3	Shaper 3		Overchannel										2			Energy Push; Psionic Lock
+4	Shaper 4														2			Psionic Repair Damage; Recall Agony
+5	Shaper 5		Psicrystal Affinity (Artiste)					3			Time Hop; Swarm of Crystals
+6	Shaper 6		Practiced Manifester							3			Forced Dream; Dispel Psionics
+7	Constructor 1													3			0
+8	Constructor 2	(Overchannel can now do two levels)				4			Fabricate, Psionic; Psychic Reformation
+9	Constructor 3	Talented (Psicrystal bonus feat, & flight)		4			Dimension Door, Psionic (CP. augmentations); Divination, Psionic (share it with psicrystal?!?)
+10	Constructor 4													5			Hail of Crystals; Major Creation
+11	Constructor 5													5			Plane Shift, Psionic; Death Urge
+12	Constructor 6	Psicrystal Containment (Lifesense & PR to psicr)6			Fabricate, Greater
+13	Constructor 7													6			Disintigrate, Psionic; Temporal Acceleration
+14	Constructor 8													7			Oak Body
+15	Constructor 9	Expand Knowledge(Teleport), later respeced		7			Energy Wave; Telekinetic Thrust
+16	Shaper 7		(Respec Teleport feat into Quicken Power)		8			Teleport, Psionic Greater
+17	Shaper 8														8			Mind BLank, Psionic; Shadow Body
+18	Shaper 9		Improved Initiative								9			True Creation (Reality Revision? Nah, you need tons of XP to burn to benefit from it, and can always reform.)
+19	Shaper 10		Psionic Meditation								9			Anticipatory Strike; 1 more
+  future
+20	Psy. War 1?		Would give bonus feat and weapon profs. Don't think it ever really gives you casting worth caring about, nor substantial PP.
+21	Thrallherd 1?	Enabled by 20 bonus feat and respec of II (Feat is Epic Spellcasting)
+  or
+20	Thrallherd 1?	Enabled by respec of last two feats. This seems like the way to go.
+21	Thrallherd 2?	Still two Psion levels left that give PP. (Feat is Epic Spellcasting)
+22	Thrallherd 3?
+23	Psy. War. 1?	Gives you a bonus feat, weapon perfs., a weird power, and another manifesting class to advance.
+  or same as above, but:
+23	War Mind 1?		Has faster Psy. War. casting progression. Only costs another Knowledge(History) rank and the feats and profs. Psy War would have given you. Gets you +1 BAB and +2 Ref. (No! 'Cause epic. Probably enough to not do this.), though. I guess the casting _does_ cap out, and the 6th level Dispelling Buffer _would_ be nice, but that matters only if the game goes _well_ past 30. . .
+  do I even want this?
+??	Constructor 10	Oh, Epic Psionic Focus makes this worthwhile!	Same		0
+
+
+Divine Rank Planning:
+Rank	Divine Saliant Abilities
+	1	Divine Earth Mastery (if Earth domain), Increased Spell Resistance
+	2	(1)
+Interesting ones:
+	DR 5 and less:
+		-Alter Size then Alter Form, and even more after DR 6.
+			-Fits being a creature in full conscious control of his physicality.
+		-Automatic Metamagic: Amazing, but need to get a metamagic feat first.
+			-Once you have Quicken Power, it's a must.
+			-Twin Power would be cool too.
+		-Call Creatures(Elans) would be interesting.
+		-Gift of Life is OK.
+		-Increased Spell Resistance is solid.
+		-Know Secrets is OK-ish, but thematic.
+		-Divine Recall is terrible, but thematic.
+		-Somehow getting to 29 Cha would allow some amazing stuff, like:
+			-Alter Reality: Free wishes!
+			-Avatar: Be many places at once!
+	DR 6-10:
+		-Extra Domain is great.
+			-Pick up Creation, at least.
+		-Create Object is OK, fast True Creation without the XP cost, and combining it with Divine
+		 Earth Mastery and/or Fabricate eases the material limits somewhat.
+Domains:
+	https://www.dandwiki.com/wiki/SRD:Artifice_Domain
+	https://www.dandwiki.com/wiki/SRD:Earth_Domain
+	https://www.dandwiki.com/wiki/SRD:Mind_Domain
+
+Extra Knowledge Skills (wouldn't all fit on the sheet; these are all one rank):
+	Knowledge(Dungeoneering):		12 = 9 + 1 + 2
+	Knowledge(Geology):				12 = 9 + 1 + 2
+	Knowledge(History):				12 = 9 + 1 + 2
+	Knowledge(Local):				12 = 9 + 1 + 2
+	Knowledge(Nature):				12 = 9 + 1 + 2
+	Knowledge(Nobility & Royalty):	12 = 9 + 1 + 2
+	Knowledge(Religion):			12 = 9 + 1 + 2
+	Knowledge(Arcana):				12 = 9 + 1 + 2
+	Knowledge(Law):					12 = 9 + 1 + 2
+	Knowledge(Politics):			12 = 9 + 1 + 2
+	Knowledge(War):					12 = 9 + 1 + 2
+	
+	Others, for the future: https://forums.giantitp.com/showthread.php?514547-The-Library-of-Knowledge-Getting-the-most-out-of-your-studies
+		You've already grabbed everything that seemed worth it, though.
+	Remember your +5 competence to "identify a creature or to learn its special powers or vulnerabilities"
+		From Collector of Stories: https://dndtools.net/feats/complete-scoundrel--60/collector-stories--3280/
+	More Geography could be useful if you get into boats more, and for a few other things too.
+
+Knowledge macro:
+Ed:
+/r d20+12
+
+Crystal assist:
+/r d20+4
+
+Other skill stuff:
+	-Remember Inquistor for Sense Motive.
+	-Future stuff to get:
+		-Bump Knowledge(The Planes) back up.
+		-Look for untrained stuff that could get a rank, particularly Decipher Script and Dex stuff.
+
+
+Psicrystal @ Lvl 20:
+	Diminutive Construct
+	Hit Dice: As master’s HD (hp 1/2 master’s)
+	Initiative: +3*
+	Speed: 30 ft.*, climb 20 ft.*, fly 50 feet (poor)
+	Armor Class: 26 (+4 size, +3 Dex*, +9 Natural**), touch 17, flatfooted 23 (also probably shares your inertial armor)
+		You can also assign a +1 Dodge bonus.
+	Base Attack/Grapple: +0/–17
+	Space/Reach: 1 ft./0 ft.
+	Saves: As master’s saves
+	Abilities:
+		Str: 1*
+		Dex: 16* (increased 1 for HD)
+		Con: —
+		Int: 16** (increased 1 for HD)
+		Wis: 10
+		Cha: 13 (increased 3 for HD)
+	Skills**:
+		Same ranks as owner, plus a minimum of 4 ranks each in Spot, Listen, Move Silently, and Search. 
+			A psicrystal uses its own ability modifiers on the skill checks.
+			Use it to aid you on craft checks!
+				On Minor Creation and Fabricate? Yep, Jake confirmed it!
+		Listen: 6
+		Move Silently: 7*
+		Search: 7**
+		Spot: 6
+	Feats** (Jake confirmed it gets them):
+		Alertness
+		Mindsight
+			http://dnd.arkalseif.info/feats/lords-of-madness--72/mindsight--1960/
+			See subjects with minds out to telepathy range of 30 ft.
+		Draconic Aura (Senses)
+			http://therafim.wikidot.com/draconic-aura
+			+1 to Listen, Spot, and initiative checks for self and allies within 30 ft.
+		Wild Talent
+			2 power point and now psionic
+		Lifesense
+			https://dnd.arkalseif.info/feats/libris-mortis-the-book-of-undead--71/lifesense--1764/
+			Small or medium creatures shed 60' of light only you can see. Each size above medium doubles the radius.
+		Dodge
+		Hover
+			http://marksworld.zeemer.com/files/feats/featlibrary/hover.html
+			It can hover despite it's fly speed's Poor maneuverability.
+		Take these later:
+			Psionic Dodge?
+			Save bonus feats?
+			Feat giving skill bonus for Hide and Move Silently?
+				Stealthy
+			Another Draconic Aura?
+				http://therafim.wikidot.com/draconic-aura
+				Only one can be in use at a time
+				Another aura, Vigor, seems possible (PHB II, pg. 13), granting fast healing 1 to anyone below half
+					Decent
+					Seems to still work on constructs: https://www.dandwiki.com/wiki/SRD:Construct_Type
+				Resolve is a decent option: "a bonus on Concentration checks and on saves against fear, paralysis, and sleep effects."
+				Swiftness is almost OK
+					"Swiftness: This aura grants you a bonus on Climb, Jump, and Swim checks. It also increases your climb, fly, and swim speeds by 5 × your bonus. (The aura doesn’t grant you a fly or swim speed if you don’t already have one.)"!
+				Eh, over all, not great options
+			Dragontouched would enhance the auras, but you need one more charisma
+				http://dnd.arkalseif.info/feats/dragon-magic--62/dragontouched--747/index.html
+				NOPE! The increased bonus is pegged to *class* level in Draconic Aura's description
+			More flight feats?
+				Good list: http://marksworld.zeemer.com/files/feats/flight.html
+				After Hover, Improved Flight might be the only other useful one (that you qualify for).
+					The Complete Adventurerer doesn't require "Natural" fly speed, and explicitly allows it for magic or shapechanging.
+	Special Qualities**:
+		Construct traits:
+			A psicrystal has immunity to poison, sleep, paralysis, stunning, disease, death effects, necromancy effects,
+			mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and any effect that
+			requires a Fortitude save unless it also works on objects or is harmless. It is not subject to critical hits,
+			nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. It cannot heal damage,
+			but it can be repaired. Psicrystals do not have the usual construct traits of darkvision and low-light vision.
+		Hardness 8
+			-Hardness applies to energy damage and the like.
+			-As an object with hardness, it may also take less damage from some energy types: https://www.dandwiki.com/wiki/SRD:Breaking_and_Entering#Energy_Attacks
+				-Jake has not yet confirmed this.
+		Alertness (Ex): Psicrystal in arms reach gives owner +2 Listen & Spot
+		Improved Evasion (Ex)
+		Personality (Artiste) (Ex): +3 to owner's Craft skills
+		Self-Propulsion (Su):
+			-Standard action by owner to grow legs for 24 hours. 30 ft. land, 20 ft. climb
+			-This is part of Edric's morning routine, along with Flight and gaining psionic focus (for you both!).
+			-Monster Manual entry also mentions "a +8 racial bonus on Climb checks and can always choose to take 10,
+			 even if rushed or threatened." I think this is a property of having a climb speed.
+		Share Powers (Su):
+			-Any power owner casts on self can be shared with psicrystal, though duration stops if it moves > 5 ft. away.
+			-Additionally, owner can cast powers with target of self on psicrystal as touch.
+		Sighted (Ex): Telepathic sight and hearing to 40 ft. Ignores darkness and silence, though can't see invisible/ethereal.
+		Telepathic Link (Su): As Mindlink with owner, out to 1 mile. Allows owner to teleport to it as if he'd seen location.
+		Deliver Touch Powers (Su):
+			-Owner, in contact with crystal, may designate it the "toucher" for touch range power, though it's lost if the
+			 owner manifests another power before it's delivered.
+		Telepathic Speech (Ex):
+			-Can communicate telepathically with any creature within 30 ft. that has a language, if within 1 mile of owner.
+		Flight (Su):
+			-Standard action by owner to grant flight speed of 50 feet (poor) for 24 hours.
+			-This is part of Edric's morning routine, along with Self-Propulsion and gaining psionic focus.
+		Power Resistance 25** (Ex):
+			-Equal to the owner's level + 5.
+		Sight Link (Sp):
+			-If the owner is 13th level or higher, the character can remote view the psicrystal(as
+			 if manifesting the remote view power) once per day.
+				https://www.d20srd.org/srd/psionic/powers/remoteViewing.htm
+		Channel Power (Sp):
+			-Manifest powers through the psicrystal to a distance of up to 1 mile.
+			-The psicrystal is treated as the power's originator, and all ranges are calculated from
+			 its location.
+			-When channeling a power through his psicrystal, the owner manifests the power by paying
+			 its power point cost. He is still subject to attacks of opportunity and other hazards of
+			 manifesting a power, if applicable
+	* with self-propulsion activated
+	** changes with owner's levels (usually just psionic ones, but that doesn't matter for Edric)
+	This gets ability increases
+		"..... I read the listing over again. The Psicrystal needs a Cha of 11+ to manifest a power. Meh, I can wait 2 levels to put a point into that stat. I'll be putting points into that specific stat anyway, I want the Psicrystal to have Lifesense."
+			From: http://www.giantitp.com/forums/showthread.php?366175-What-are-the-best-feats-to-give-a-3-5-Psicrystal/page2
+		Asked about it, with Monster Manual page reference: https://discordapp.com/channels/560915739796570113/560915739796570119/597112043107123200
+			Yep, Jake confirmed it
+		Charisma to 13 for life sense seems to be the way to go
+		Then maybe dex or int
+	Holy crap! Do psicrystals get _item slots_?
+		Listing his inventory under yours, tagged with "(Worn by psicrystal)"
+		Sure seems like they've got most of them, according to the Magic Item Compendium.
+			Where I found that: http://www.giantitp.com/forums/showthread.php?585673-3-5-Magic-Item-Slots-For-Various-Creatures
+		I talked about that page and more here: https://discordapp.com/channels/560915739796570113/560915739796570119/665035124366245939
+		Healing belt will be an early priority, but the possibilities are endless and endlessly weird.
+		Things that it can use it's actions to activate are good for it, though soon many of those actions will go to restoring focus
+		Concentration boosting items become useful at 12, and remain so until 16, when your bonus for the skill hits 19
+			To restore focus
+			At 12, your skill will be 15
+			Creating a brand new one (Renar!):
+			Skill bonus (competence)	Bonus squared × 100 gp
+			Slotless doubles the cost
+				Maybe make it an ioun stone?
+				Better yet, stick on crystal! Bedazzle that psicrystal!
+				+4 would cost 3200 gp., or 1600 and 128 XP!
+					-1.6 days to craft
+						-Hmm. . . at that price, more of these are interesting, but you might need to respec
+						 Renar in and out of skills, which would substantially increase XP costs
+				Then, when the crystal is done with it, stick it on you!
+			Got it.
+
+References:
+	-Poison crafting DCs are on page 98 of Complete Adventurer
+	-Power and Construct Guides were copied from http://www.d20srd.org (format copies nicely)
+	-Equipment: https://docs.google.com/spreadsheets/d/1DVroD8YaTENIxQ-GjJXygxzlT0HtgrMbL9gQiiSNBxg/edit#gid=0
+
+Power Stone Bandolier:
+	-A plain leather band, worn as a bandolier against my bare chest, with my many power stones
+	 tightly embedded within it, such that only a little bit of the stone is exposed, on the inward
+	 side of the band andtouching my skin. It was carefully sized to also fit around the waist of
+	 the tentacle monster Renar often helps me transform into.
+		-Worth about 6 gp.
+	-I personally fabricated it here: https://discordapp.com/channels/560915739796570113/560915739796570119/674826657948893199
+	-The stones embedded in it are tracked on both your powers.html and your gear spreadsheet
+	 (the latter mostly to amuse yourself by tracking their value).
+
+Stuff Edric always does:
+	-Every morning:
+		-Psionically focus himself and his psicrystal
+		-Refresh his psicrystal's 24 hour Self-Propulsion and Flight abilities
+		-Summon his floating disk (periodically resummoning it as needed)
+	-Takes a round to restore focuses as needed, after combat is over
+	-Manifest powers without their display if it's automatic
+		-DC is 15 + power level
+		-So, at level 12, that's 4th level and below
+
+Feats to look at:
+	-Psionic Meditation
+		-This makes the 10th level of Constructor, with free Quickened for Astral Constuct, very
+		 worth it
+		-Only question now is when you take this and the 10th level
+			-This at 15 and then the level at 16 is possible
+				-Would delay your 1st 8th level power by a level, which might not be worth it
+					-Getting Greater Teleport might be a big deal for you, probably depending on
+					 how much Adalia is around
+			-Reforming into this is always an option too, allowing a temp feat in the meantime
+			-Maybe get Expanded Knowledge(Teleport, Psionic) at 15, Constructor 10 at 16, and then
+			 respec feat to Meditation at 17, when you get Greater?
+				-Earlier teleport, Quicken as fast as possible (but with limits), then everything
+				 great at 17, for a mere handful of XP
+		-You have the Wisdom
+	-Extend Power followed by Persistant Power?
+		-Extend is semi-useful but not amazing. Making a psionic analogue of Persistant Spell,
+		 though, could be good, especially with power stone sourced buff powers
+	-Expanded Knowledge
+		-Always interesting powers on other lists
+	-Midnight Augmentation?
+		-http://dnd.arkalseif.info/feats/magic-of-incarnum--74/midnight-augmentation--1939/index.html
+		-Weird incarnum stuff, but might be powerful
+			-Eh, not astonishingly
+
+Potential Powers:
+	7th:
+		Oak Body is decent
+			Crucially, you're immune to _poison_, along with all sorts of other stuff
+			Grants the same to your psicrystal, by virtue of that ability to share personal range spells
+			Ah, Iron Body is this, but better, as an 8th level power
+				Only get Oak temporarily (Refomation!) or if you really want 8th level slots for other stuff
+		Mind Blank, Personal is almost as decent
+			Duration of a day, and blocking mind control and scrying is starting to get important at so high of ability
+			level
+			Ooo, given it's duration, a power stone is a decent substitute for actually taking it
+				Only costs 2,275 gp. for one
+		Phase Door would also be a neat stone
+		Divert Teleport is getting even more niche
+		Same deal with Evade Burst
+			Eh, maybe it's worth geting, especially for protecting your psicrystal
+			Nah, because it prevents you from using your immediate save bonus too.
+		Energy Wave is probably the best of the direct attacks
+		Decerebrate is Fortitude or (sort of) die
+			-The "sort of" is important, as a powerful cleric can restore them, making it sort of a
+			 knockout power
+		Moment of Prescience, Psionic is a _huge_ bonus
+			-Depends on if Jake lets me use this with craft and knowledge checks, which is stretching the flavor
+				-Ahhh, it explicitly can't, due to commas. It only applies to *opposed* ability or skill checks.
+	For 11th (aside from the below):
+		No, wait, it's totally Quintessence
+			It plus items made with creation is amazing. Those poisons just got a lot more flexible.
+			Eh, Jake ruled it out: https://discordapp.com/channels/560915739796570113/560915739796570119/664978640689299467
+			That removes any reason to take this power.
+				Well, not entirely. Turned out well as a power stone, dumping end-of-day points
+				into it for later niche applications.
+		Body Purification, solving the risk of poison somewhat?
+		Correspond could be handy, though the telegraph quills solve a lot of it
+		Anticipatory Strike, from CP, is kind of interesting: http://therafim.wikidot.com/anticipatory-strike
+		Concussion Blast is a decent blasting power
+			~1d6 force dmg per 2 pp, but no save or attack roll, extra target per 2 pp, and can choose nonlethal dmg
+	5th
+		Hail of Crystals
+		Incarnate
+			Along with Psychic Reformation weirdness to make use of it, and then get rid of it
+			Minimum manifester levels to use this with various powers may mean you want to delay getting and using this
+				Saves XP not to get and remove it multiple times, albeit a miniscule amount
+				Still, the moment you get access to it it, you can get some solid value for reasonable XP
+				Actually, Overchannel probably works with this! You have a lot more available to you faster than you'd think.
+		Major Creation
+		Plane Shift, Psionic
+	4th (for the one more you'll need at lvl 9):
+		Dimension Door
+			Won't get another telepot until 8th level spells
+				And can always use reformation then
+			Neat additional augmentations in complete psionic
+		Death Urge
+			Great will save targeting offensive power
+			Damages and disables
+		Quintessence
+			Weird outlet for excess power points
+				Fabricate will already consume a good amount of that downtime excess
+		Nothing in Complete Psionic seems even decent
+	Glyph of Warding, Psionic (CP)?
+		Material cost seems to apply, making it less attractive, but still good
+		Eh, you can pay people to do this, and material components means you won't be using it randomly on adventures
+			Though you might be able to embed nastier things than the average cleric
+	Vigor and Share Pain?
+		Combined with the psicrystal's ability to share your personal range powers, this effectively doubles the HP bonus
+		Probably only worthwhile if you really have powers to burn, which is unlikely
+			The astral constructs are already tanking for you, as is Conor
+			Vigor is only 1 minute per level anyways
+
+Interesting Skills (Constructor gets 2 more points than Psion! Psychic Reformation can adjust them later!):
+	This skill trick is great: https://dndtools.net/feats/complete-scoundrel--60/collector-stories--3280/
+		2 skill points for +5 compentence when using any trained knowledge check "to identify a
+		creature or to learn its special powers or vulnerabilities"
+		TAKEN!
+	Profession(Pilot):
+		Airships!
+		Eh, probably not worth much, due to limited applications of airships without enchantments powering them
+		Maybe a few ranks, so you can Minor Creation hangliders and occasional aerial weapons platforms
+	Craft skills (none of which are likely worth it to you, now, at high level):
+		Craft(Weaponsmithing):
+			It includes crossbows!
+			Lots of metal, so it needs Fabricate or Major Creation
+		Craft(Sculpture):
+			Fancy constructs, and some Complete Psionic content requires it, though most of that you don't want
+		Craft(Food) and/or Craft(Brewing):
+			Interesting social possibilities, preparing feasts and such for people
+			Especially interesting depending on what happens after duration/dismissal
+				Do people suddenly have room for more? Suddenly sober up?
+				We seem to have established that they're nourished/affected if they manage to digest it before dismissal
+		Craft(Boatbuilding):
+			Under Stormwrack rules (pg. 84), this covers Huge or smaller vessels
+				The largest of which is a Pinnace for DC 20, the highest listed DC
+					https://en.wikipedia.org/wiki/Pinnace_(ship%27s_boat)
+				Anything larger is covered by Knowledge(Architecture and Engineering)
+		Craft(Alchemy/Chemistry):
+
+Lvl 1 Abilities:
+	Str:	15
+	Dex:	16
+	Con:	16
+	Int:	17
+	Wis:	13
+	Cha:	10
+
+@ Lvl 4
+Hit Points: 28
+Base Attack:	+2
+Base Saves (F/R/W):	+1/+1/+4
+Power Points:	27
+Powers:		
+	Lvl 1: 5
+		Astral Construct
+		Crystal Shard
+		Ecto Protection
+		Inertial Armor
+		Minor Creation, Psionic
+	Lvl 2: 4
+		Energy Push
+		Psionic Lock
+		Psionic Repair Damage
+		Recall Agony
+Coins to spend: 5,400 gp.
+Carrying Capacity: 66/133/200
+Gear:								Weight	Cost
+	See https://docs.google.com/spreadsheets/d/1DVroD8YaTENIxQ-GjJXygxzlT0HtgrMbL9gQiiSNBxg/edit#gid=0
+	
+Skill Ranks (Max 7/3.5):					36
+	Concentration:							7
+	Craft(Poisonmaking):					7
+	Craft(Sculpture):		
+	Craft(Weaponsmithing?):						(It includes crossbows!)
+	Craft(Woodworking):						4
+	Craft(Textile):							4
+	Craft(Alchemy/Chemistry?):
+	Craft(Brewing?)
+	Knowledge(Architecture & Engineering):	1
+	Knowledge(Psionics):					6
+	Knowledge(The Planes)					1
+	Psicraft:								6
+
+Languages: 3 bonus
+	Common
+	Draconic
+	Elven
+	Undercommon

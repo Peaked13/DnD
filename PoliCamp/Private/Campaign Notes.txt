@@ -1,0 +1,42 @@
+-Vale ruled by council of 4 lords
+	-Council founded by 4 traitors against original king
+	-2/3 ranking lords under king + wizard's heir + traitor steward (let wizard inside castle)
+	-Rebellion against Empire closely linked to foriegn wars
+		-High taxes to pay for
+		-Emporer preoccupied
+-Forest Stronghold (The Tower of Ravens)
+	-Wizards, descended from wizard who burnt king's castle
+	-Mystical Well
+		-Reduces XP cost (10% decrease or about 1xp/25gp -> 1xp/27.77777gp)
+			-Research for improvement of this and other abilities
+		-Source is weak border between the planes
+			-Enhances related spells
+				-Summons have double duration (free Extend Spell) inside tower
+				-Planeshift has larger number of max targets
+	-Ruled by Count Ellerd Ravenwood (Wizard)
+	-Title: Count of Ravenwood
+	-Founder of dynasty was the wizard Jarald who took the name Ravenwood when he was raised to count
+-Ruins Stronghold
+	-Built amidst the burnt ruins of the old kings
+	-Lord's dynasty founded by traitor steward
+	-Ruled by Marquis Jaque Destra
+		-Symbol is the pheonix
+-Smuggler's Port Stronghold (Drake's Nest)
+	-Ruled by Baron Arthinius Drake (Swashbuckler)
+	-Orb of Storms?
+-Pass Stronghold (The Gatehouse)
+	-Original human traitor lord dynasty disposed for greedy taxes by rest of council
+	-Replaced by dwarf for heroism serving council, dynasty later wiped out by Empire in conquering
+	-Empire put halfling in place
+		-Current Lord is fat halfling, Duke Milo Brandywine
+		-Power behind throne (literally) is rogue, Orth Brandywine
+			-Elder brother of Duke and recently Duke in name
+			-Faked death around time of rebellion against Empire
+	-Title: Duke of the Gate
+	-If declare for empire, priests of empire return?
+-3 Skeleton's went rogue in gatehouse
+-Side Quest: Shocker lizard cave
+	-Cave from which a small stream flows. Source of stream is pool in small cavern just inside cave mouth.
+	-Walls contain numerous small tunnels (only large enough to fit small creature)
+		-One tunnel large enough to fit Med. underwater in pool
+		-All tunnels lead to second cavern containing more lizards + Med size matriarch

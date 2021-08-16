@@ -1,0 +1,118 @@
+-Alvert is somewhat impressed by Andrew
+	-For impressive performance on first adventure
+-Innkeeper hates Thicc (Bruno)
+	-Due to weird little shrine in the alley along side, with markings on the inn wall, and refusal to leave
+		-All the goblin ears probably didn't help
+	-Thicc is now dead
+-Bert's Homestead has the goblin well
+-Chapel
+	-Description of chapel:
+		As you approach the chapel, you can see the chapel is a small, relatively recently built wooden structure. Around it's door are carved the symbols of the Imperial Pantheon.
+		Inside, the building is one large, stone floored room, around which are arranged idols representing the various gods of the pantheon. It's centered on a statue of Martinus, founder of The Empire. At his right hand is the idol of Valerius.
+	-Run by Nebel, a priest of the Imperial Godhead
+		-Description:
+			Sweeping in one corner of the building is a man, in late middle age, in the robes of a priest of The Imperial Godhead.
+		-To Jake: "I'm the only priest of the Imperial Faith in this little town. I celebrate the feasts and holidays of each of the gods, but you'd be welcome to hold services in the chapel for Valerius."
+			  "Beyond that, from time to time people come to the chapel for somewhat more direct help. If you'd be willing to spend some time in the chapel, and provide such aid and healing too, I'd certainly welcome that."
+		-Later sacrificed himself with
+	-Plan:
+		-Keep track of donations to the chapel, giving opportunities to donate direct or increase donations from the town
+			-NPC spellcasting cost: 10 * spell level * casting level
+				-Remove Disease is 3
+					-Let's make Nebel level 5, then
+			-Expenses per week for church: 42 gp (6 gp per day)
+				-Based, in part, on 30 gp. to keep 8 oil lamps running 12 hrs./day
+			-See "Jake's downtime" email for details you gave him
+		-Later, let some combination of Nebel and Jake spend that on upgrades
+		-Tracked score or some such might be good option, with changes in income or similar and certain levels
+-Bardic Schools
+	-Andrew: "My bard will spend the morning into early afternoon  looking around the town and doing research about schools in the area. Late afternoon and evening he will be busking outside the inn or by the town well. "
+		Performance is now a 9
+		Bardic Knowledge is a 6
+		Knowledge (history) is a 7
+-Alvert has the Ring of Swimming
+	-He mentioned the item lending programs that exist at more established chapters
+-Bandit note
+	-"Meet me at Lion Rock with your tax. -The Bandit King"
+	-Players took it back to the guild with them but haven't mentioned it to anyone yet
+-Edric the traveling merchant
+	-Offered the bounty for the group of bandits that attacked his caravan
+-Vil Modetsk, Cleric of Bassus
+	-Is a Cleric/Wizard/Mystic Theurge
+	-Vil is short for Villiam
+	-Came to Aarl's Rest in response to Alvert's report of a demon sighting
+	-Paid players to take him to ruined tunnel, site of first adventure
+		-He examined it and determined it to be the remains of a temple of Gargillith, Lord of Passages
+	-Discovered records of a temple complex dedicated to Gargillith a few days travel away
+		-1 day North to river, then West up stream for two days to temple
+		-Hired a party to explore it for him, who had to turn away
+			-Stopped by small, dying hamlet so Conor could recover
+				-It is called Glenwald
+				-Suspcious villager sold them food and a place to rest in an empty home
+					-Became substantially friendlier when they agreed to an absurd price
+		-Second attempt was more successful
+			-Both attempts proved it was the temple of Gargillith
+			-This one turned up a note on a dead human, working with the orcs, mentioning Keys that were not found there
+	-Later, he hired another band to go investigate the old rumors of a "Keymaster of Glenwald"
+		-Robert is the guy they've previously dealt with
+			-Is thrilled with them; not only got to gouge the party, but got tipped for it.
+			-He was able to fill in more details of the story of The Keymaster
+				-With some help from his great aunt
+				-Led them to the ruins of The Keymaster's home
+			-They found ritual diagrams there, along with a note and key directing them to a supply cache
+				-It was behind a stone door in the back of a natural cave near Glenwald's graveyard
+				-It had a diagram at the door, which summoned a Quasit when Mary walked down it
+				-It was also infested with Ghouls, one of whom attacked the Quasit
+			-They delivered the key, and copies of the note and diagrams to Vil
+				-Vil cast zone of truth, and asked if these were the only copies, to which they replied honestly yes
+	-Hired a party to explore a mountain to the Southeast
+		-The Ranger
+			-So named for being a lone mountain, well to the West of the big Eastern range
+			-3 days West on the trade road, then 5 days South through wilderness
+		-A woodsman (and cousin of Tam) reported seeing a band of orcs there, and found a token with a symbol of Gargillith
+		-The party returned with letters discussing the search for the keys and a captive chaos cleric
+			-Letters discussed the crate of wands of Detect Magic they found
+			-Did not speak to the captive, keeping him either gagged or under a silence spell the whole time
+			-Vil was particularly thrilled by the delivery of the captive
+-Tam the wizard provides spellcasting services in town
+	-Hired adventurers to find a caravan carrying a magical reagent he had ordered
+		-Agreed that, if they completed it, he'd offer Identify at a discount (charging 110 gp.)
+-Undead city states
+	-Ket is one of the ones The Empire is at war with
+		-Sent guerrilla weapon (skeletal necromancer) to the area of Aarl's Rest
+		-Ruled by The Bonelord of Ket
+	-Edku is the first of the cities along the Eastern trade road
+-Conor has enraged Gellick, god of vagrants and wanderers, by stealing his alter
+	-Is Gellick chaotic?
+		-I'm leaning towards Chaotic Neutral
+-More encounters with bandits, who again mention a bandit king
+	-"He's a dick"
+	-Still haven't mentioned this to anyone
+-After a bounty was place by The Empire, the party hunted down and killed the Bandit King in the old mines at Lion Rock
+	-Recovered an unusual +5 dagger, with one edge of the blade covered in an irregular saw tooth pattern
+-Zach finished up reroofing the Adventurers Guild
+	-In return, Alvert spent the money saved for that on a lock (Average; DC 25) for the chest Zach brought back
+		-Alvert and Zach have keys
+-The Dagger
+	-Identified as a +5 dagger
+	-One edge of the blade covered in an irregular saw tooth pattern
+	-The party showed it to merchants around town
+		-Did NOT show it to Vil
+		-Tam saw it, as he identified it
+		-One merchant showed suspiciously enthusiastic interest
+			-Offered to return after arranging something
+			-Asked a lot of questions about where it was being kept and the like
+			-Knows the party is associated with the Adventurer's Guild
+			-Party assumed he was going to try and steal it
+	-Renar talked about sealing the knife in stone somewhere, using Stoneshape
+		-I think he eventually did this, but it was stolen by demons and cultists anyways
+	-Turned out to be one of The Keys of Gargillith
+		-After stealing it, a group of cultists and demons used it to open a portal to The Abyss
+			-The party, with Nebel and Vil in tow, chased them back to ogre cave near $VILLAGE_NEAR_NORTH_RIVER
+				-Matt may have the name of that village written down
+			-They witnessed a cultist open the portal by cutting open his chest with the dagger
+			-They battled demons and the portal was eventually closed when Nebel, grabbing the dagger, ran through the portal
+			 and stabbed himself in the chest with it
+-Eb $LASTNAME, Cleric of Severus Maro
+	-
+-Owing to a downtime email he sent me, Yuan-Ti in the area of Aarl's Rest hate Renar and other druids

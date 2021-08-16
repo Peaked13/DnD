@@ -1,0 +1,88 @@
+Name: 			Age: 54		Height: 4' 10"		Weight: 162
+Hill Dwarf Cleric
+
+HP: 8 + Con + 1 Racial
+
+Str: 17
+Dex: 
+Con: 17
+Int: 
+Wis: 18
+Cha: 
+
+17 x
+17 x
+15 x
+14
+13
+13 
+
+GP: 5d4 x 10
+
+
+
+Notes:
+-200 gp. reward for slaying orcs at Wyvern Tor
+	-It's in the Sword Mountains, South of Old Owl Well
+-Cragmaw Castle is North of town in The Neverwinter Wood
+	-Gundren is probably there.
+-Took over the abandoned manor on the East side of Phandalin
+	-Town Headmaster granted us leave to use it, with no terms
+		-Though he agreed to send people over to clean it out
+	-Have a skeleton key for it, taken from Iarno
+	-Build a shrine to Clangeddin Silverbeard?
+	-Bought some training materials for the manor
+		-3 dummies (3 gp. per)
+		-4 targets (5 sp. per)
+-Iarno (Glassstaff) is in the town jail
+	-Convinced Headmaster and Soldar that he's evil
+-Offer to make Continual Flames for party members
+	-50 gp. of ruby dust is material consumed
+	-Charge party a mark up?
+		-Offerred them it to them at 75 gp.
+	-Sell to town?
+		-Definitely at mark up
+	-See email with details from Zach
+		-Boils down to 52.5 gp. profit per, above cost of ruby's
+			-Sold one to each of 2 friendly merchants
+		-Spellcasting cost formula, from Zach: "10 * (spell/slot level) ^ 2 + (1.25 x consumed material cost)"
+		-Enough rubies in town for 6 castings, including the two sold thus far
+			-Have used 5 total, as of 11/27/17 session
+-Cleared the orcs from cave near Wyvern Tor
+	-Freed 3 human captives, and took a goblin they'd enslaved too
+		-They had them making crude spider figures
+		-What happened to the three humans?
+			-Sent an email about it to the list
+				-Offered combat training
+		-The goblin, Goblor, knows the way to Cragmaw Castle
+	-Met a necromancer camping at Old Owl Well, along the way
+		-Named "Hamun Kost"
+		-Made a bad initial impression, as our paladin tried to shocking grasp him while shaking his hand
+		-The necromancer prevented things from escalating much, and seemed generally all right
+		-Also wanted orcs gone, and gave us an orc zombie to help
+			-She follows Jeff, and now has AC 10 after we stuck some armor on her
+			-He let us keep her
+	-Told the town and got paid
+-Ask about selling more torches, and getting more rubies, with the two town merchants
+	-Emailed Zach about it
+-4/7/18 Session:
+	-Got Scroll of Megalixer
+		-1 min. to cast
+		-Full HP for party
+		-Plus recover a spell slot of up to 3rd level
+			-Possibly other stuff, like ki, for non-casters
+	-Got plans for magic armor
+		-Effects/mechanics yet unknown
+	-Emailed Zach about sprint mail sale price, plus talking to town merchants about selling more Continual Flame castings
+	-In an earlier email, told him I'd repeatedly attempt to dispel enchantments on chamberpot, then chalice
+		-Asked party to stand around with weapons drawn as it happens
+	-Learned about the usage of the forge:
+		-Gives mundane weapons and armor a hours long +1 enchantment
+			-Even tiefling fists
+		-Holy Symbols or other items enchanted can have their enchantment expended to, once per day per character, recover a spell slot of up to 3rd
+			-Lots of potential downtime use!
+			-Extra dispelling in the immediate term.
+	-Consider Glyph of Warding to fortify the cave
+		-Permanent until triggered trap for 200 gp. worth of incense and powdered diamonds
+	-Consider (eventually?) getting Clairvoyance foci: https://5thsrd.org/spellcasting/spells/clairvoyance/
+	-Consider getting 300 gp. worth of diamonds (or multiples sets?) so you can cast Revivify: https://5thsrd.org/spellcasting/spells/revivify/

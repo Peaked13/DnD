@@ -1,0 +1,57 @@
+Prohibited Schools: Necromancy & Divination
+Summons: Psuedonatural & Augmented
+	Becomes Outsider
+	True Strike (+20 insight one attack, no conceal) 1/day
+	Alt Form: Std Action to become tentacled mass, -1 morale 
+		  to attack this creature
+	Resistance:
+		HD	Acid/Elec Resist	DR Reduction
+		1-3	5			-
+		4-7	5			5/Magic
+		8-11	10			5/Magic
+		12+	15			10/Magic
+	Spell Resistance 10+HD (Max 25)
+	Abilities:
+		Str +4
+		Con +4
+		Int is at least 3
+
+Familiar: 
+	Ichabod
+	Psuedonatural Ice Mephit
+	Small Outsider(Air, Cold, Extraplanar)
+	HD: 15 (familiar)
+	HP: 38 (familiar)
+	Initiative: +7
+	Speed: 30 ft., fly 50ft.(perfect)
+	AC: 26 (+1 size, +3 Dex, +12 natural) +1 dodge, touch 14, 
+	    flat footed 23
+	Base Attack/Grapple: +7/+5
+	Attack: Claw +9 melee (1d3+2 + 1d4 cold)
+	Full Attack: 2 claws +9 melee (1d3+2 + 1d4 cold)
+	Space/Reach: 5ft,5ft
+	Special Attacks: Breath weapon, spell-like abilities, 
+			 summon mephit
+	Special Qualities: DR 10/Magic, Darkvision 60 ft., 
+			   immune to cold, vulnerable to fire, 
+			   SR 25, Acid/Elec Resist 15
+	Saves: Fort +6, Ref +7, Will +11
+	Abilities: Str 14, Dex 17, Con 10, Int 13, Wis 11, Cha 15
+	Skills: 
+	Feats: Dodge, Improved Initiative, Alertness
+	Alignment: Neutral
+	
+	Breath Weapon: 10 ft cone of ice, 1d4 cold, Reflex DC 14 half. 
+		       Living creatures that fail save are frostbitten, 
+		       -4 AC, -2 Attack for 3 rounds.
+	Alt Form: Std Action to become tentacled mass, -1 morale 
+		  to attack this creature
+	Fast Healing 2 if in contact with ice or temp below freezing
+	Improved Evasion
+	Share Spells
+	Empathic Link
+	Deliver Touch Spells
+	Master may scry (as Scrying) on familiar once per day
+	Spell-like Abilities: 1/hour Magic Missle (caster lvl 3), 
+			      1/day  Chill Metal (DC 14, caster lvl 6), 
+				     True Strike

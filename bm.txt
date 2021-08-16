@@ -1,0 +1,66 @@
+Human
+Stats:
+	Str: 10 
+	Dex: 14 
+	Con: 18 
+	Int: 20 
+	Wis: 19 
+	Cha: 16 
+
+Levels:
+	1: Monk 1
+		Iron Will
+		Practiced Spellcaster (Ur Priest)
+	2: Monk 2
+	3: Monk 3
+		Spell Focus (Evil)
+	4: Monk 4
+		+1 Wis
+	5: Monk 5
+	6: Wizard 1
+		Scribe Scroll
+		Practiced Spellcaster (Beholder Mage)
+	7: Wizard 2
+	8: Dread Necromancer 1
+		+1 Wis
+	9: Dread Necromancer 2
+		Assume Supernatural Ability (Antimagic Eye)
+	10: Ur Priest 1
+	11: Ur Priest 2
+	12: Beholder Mage 1
+		Assume Supernatural Ability (Flight)
+		+1 Int
+	13: Beholder Mage 2
+	14: Mystic Theurge 1
+	15: Mystic Theurge 2
+	16: Mystic Theurge 3
+		Extend Spell
+		+1 Int
+	17: Mystic Theurge 4
+	18: Mystic Theurge 5
+	19: Mystic Theurge 6
+		Persistent Spell
+	20: Mystic Theurge 7
+		+1 Int
+
+Base Attack Bonus: +10/+5
+Fortitude: 6+Con
+Reflex: 6+Dex
+Will: 18+Wis
+
+BM requirements:
+	True beholder
+	Put out central antimagic eye [Assume Supernatural Ability (Antimagic Eye)]
+
+UP requirements:
+	Any evil
+	Fort 3, Will 3
+	Bluff 6, Knowledge (Arcana) 5, Knowledge (Planes) 5, Knowledge (Religion) 8, Spellcraft 8
+	Iron Will, Spell Focus (evil)
+
+MT requirements:
+	Knowledge (Arcana) 6, Knowledge (Religion) 6
+	Cast level 2 divine and arcane
+
+11th level starting gold: 66k 
+cost of two polymorph any object: 10*8*17 = 1360 * 2 =2720

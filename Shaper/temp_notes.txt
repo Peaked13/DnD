@@ -1,0 +1,114 @@
+Healing belt charges: 3
+Psycrystal belt: 3
+Cure Moderate from Pale Green Ioun: 3
+
+Currently active powers:
+	15	Mind Blank, cast after waking in Elysium (1 day duration)
+	1	Filled my Black Lotus after waking in Elysium (23 hour duration, overchanneled)
+	23	Inertial armor +15 cast after waking in Elysium (23 hour duration, overchanneled)
+		358-15-1-23=319
+
+
+Stuff you've done in the past:
+	15	Mind Blank, cast after waking in Xul-Jarak (1 day duration)
+	1	Filled my Black Lotus after waking in Xul-Jarak (23 hour duration, overchanneled)
+	23	Inertial armor +15 cast after waking in Xul-Jarak (23 hour duration, overchanneled)
+	15	Mind Blank on Jaxx, cast after waking in Xul-Jarak (1 day duration)
+	20	Oak Body, cast before assault (27 minute duration)
+	22	Precognition, Defensive +8, cast before assault (23 minute duration)
+	22	Precognition, Offensive +8, cast before assault (23 minute duration)
+	23	Vigor +115, cast before assault (23 minute duration)
+	1	Skate, cast before assault (23 minute duration)
+	5	Keen Edge on 50 bolts, cast before assault (230 minute duration)
+	15	Shadow Body, cast before attacking Sharlocke (20 minute duration)
+	9	Adapt Body, cast before attacking Sharlocke (19 hour duration)
+	
+
+AC 33 (Inertial Armor and Precognition, Defensive)
+
+106 of 106 HP ( temp, 23 minutes, cast )
+295 of 358 PP
+Cognizance Crystal (5 points): 5
+
+Psycrystal HP: 53 of 53 ( temp)
+
+Constructs:
+	1:
+		Duration: 
+		HP: 144
+	2:
+		Duration: 
+		HP: 144
+	3:
+		Duration: 
+		HP: 144
+
+Ed using his crossbow while buffed at diamond mine:
+&{template:default} {{name=Ed's Crossbow}} {{attack=[[1d20cs>17+21]] Crit:[[1d20cs>17+21]]}} {{damage=[[1d8+2d6+14d6]] Crit:[[2d8]]}}
+
+Ed using his crossbow while buffed at diamond mine, plus Beansong:
+&{template:default} {{name=Ed's Crossbow}} {{attack=[[1d20cs>17+24]] Crit:[[1d20cs>17+24]]}} {{damage=[[1d8+2d6+14d6+4]] Crit:[[2d8]]}}
+
+9th level construct with: Improved Natural Attack (Slam), Brawn, Improved Brawn, Extra Brawn, Tail Slap,
+						  Muscle, Extra Attack, Pounce, Cleave, and Trip
+&{template:default}
+&{template:default} {{name=Slam 1}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Slam 2}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Slam 3}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+25]] Crit:[[1d20cs>20+25]]}} {{damage=[[2d8+36]] Crit:[[2d8]]}}
+&{template:default}
+Grapple: +38
+
+
+9th level construct with: Improved Natural Attack (Slam), Fly, Improved Brawn, Extra Brawn, Tail Slap,
+						  Muscle, Extra Attack, Pounce, Cleave, and Trip
+&{template:default}
+&{template:default} {{name=Slam 1}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27-1]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Slam 2}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27-1]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Slam 3}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27-1]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+25]] Crit:[[1d20cs>20+25]]}} {{damage=[[2d8+36-1]] Crit:[[2d8]]}}
+&{template:default}
+Grapple: +38
+
+With Dragonfire Inspiration:
+&{template:default}
+&{template:default} {{name=Slam 1}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27-1+14d6]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Slam 2}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27-1+14d6]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Slam 3}} {{attack=[[1d20cs>20+30]] Crit:[[1d20cs>20+30]]}} {{damage=[[3d6+27-1+14d6]] Crit:[[3d6]]}}  {{trip=[[1d20+26]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+25]] Crit:[[1d20cs>20+25]]}} {{damage=[[2d8+36-1+14d6]] Crit:[[2d8]]}}
+&{template:default}
+
+
+Artillery: 9th level construct with Energy Bolt, Concussion, Dimension Slide, Natural Invisibility, Extreme Deflection
+	Maybe change the last one or two in different circumstances. Movement modes and defenses are valuable.
+	65' Dimension Slide
+
+
+Whirlwinder:
+	9th level construct with: Improved Natural Attack (Slam), Brawn, Improved Brawn, Extra Brawn,
+							  Whirlwind Attack, Muscle, Reach, Pounce, Cleave, and Trip
+							  (Same as pouncer, but not tail and one last slam, in exchange for
+							  Reach and Whirlwind.)
+
+
+Adalia:
+	Inertial armor +9 cast when we left Melvaunt (11 hour duration)
+	AC 26
+	59 of 59 HP (55 temp, 11 minutes, cast at cave mouth)
+	83 of 141 PP
+	Ada belt charges: 3
+
+
+Macro references:
+	Try this out:
+		DMJake — Today at 5:02 PM
+		[Rapid/Multi]
+		MS:[[1d20cs>19 + 15 -2]](![[1d20 + 15 -2]]!)=[[{ 1d8 + 3 , 1d8 + 3 }]]+![[{ 1d8 + 3 , 1d8 + 3, 1d8 + 3 ,1d8 + 3 }]]!
+		RS:[[1d20cs>19 + 15 -2]](![[1d20 + 15 -2]]!)=[[ 1d8 + 3 ]]+![[{ 1d8 + 3 , 1d8 + 3 }]]!
+		H2:[[1d20cs>19 + 10 -2]](![[1d20 + 10 -2]]!)=[[ 1d8 + 3 ]]+![[{ 1d8 + 3 , 1d8 + 3 }]]!
+		H3:[[1d20cs>19 + 5 -2]](![[1d20 + 5 -2]]!)=[[ 1d8 + 3 ]]+![[{ 1d8 + 3 , 1d8 + 3 }]]!
+		this will help your constructs output to be more compact
+	Jake offered some very helpful explanation here:
+		https://discord.com/channels/560915739796570113/560915739796570119/839238743273111582
+	&{template:default} {{name= My Test Roll}} {{attack= [[1d20]]}} {{damage= [[2d6]]}}
+

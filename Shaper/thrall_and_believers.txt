@@ -1,0 +1,206 @@
+-Thrall (Rovert):
+	-Physical description:
+		-A portly old man, dressed in fine clothing.
+	-Proposal:
+		.   I think I've formulated a general Thrall concept I'd be interested in, which I wanted to run by you. I've been reading through the rules for running a business again (DMG II, pg. 180), since that seems like a good model for some of the downtime stuff I'd like to do with this guy. Business, particularly the Shop or Moneylender ones I'm eying, tend to benefit from social and profession skills. As such, I've been eying various skillful classes and options for mental bonuses, and arrived at the idea of a middle-aged-or-older Phrenic-human Expert.
+		.   I'm imagining Rovert as a formerly successful merchant, now rather down on his luck. The son of a wealthy merchant family, he was passed over as it's heir because his family shunned him for his strange inborn psionics. Intent on showing them the error of their ways, he worked in the family business that would never be his until he could afford to strike out on his own. Driven by how they wronged him, he eventually surpassed them on his own. His vengeance in hand, though, he found it did not make him happy. Pursuing his goal relentlessly, he never started a family of his own and, his goal acheived, the wealth brought him no further joy. In a downward spiral, he squandered all of it trying to fill the hole inside himself. Finally broke and suriviving on odd jobs, he found himself in Melvaunt, where he first. . . heard a strange call. Purposeless, it beckoned him with an offer of just that. His inborn psionics were perhaps what made him so sensitive to it, but they would also have allowed him to resist it. Perhaps, though, he had been happier working as his family had directed him, those long years ago, and the independence he'd been driven to seek had certainly brought him nothing but grief. . .
+		.   The most dubious bit of that is the Phrenic template:
+		https://www.d20srd.org/srd/psionic/monsters/phrenicCreature.htm
+		.   It's LA +2 and grants mental attribute bonuses and Psi-Like Abilities. Probably not too egregious, but templates are always something to run by the DM and this one has an additional caveat: "Similarly, creatures who advance by character class are usually not phrenic creatures—they simply take levels in a psionic class to hone their mental powers." That's not a _strict_ prohibition, but definitely something I'd want you to OK. It _does_ seem to fit a "naturally psionic, but repressed the powers, rather than embracing and formally developing them" concept. I like the story of that quite a lot, and how it plays off Edric's full-throated embrace of psionics.
+		.   The other dubious bit is using one of the older age categories, which is often abused. I think it fits the story I have here in mind quite well, though, particularly as I try to explain _why_ someone is receptive to a thrallherd's call. This guy looking for a new purpose after a mid/late-life crisis suits it well. Looking for skill bonuses from the resulting attribute changes also dramatically limits the potential for abuse, as opposed to the impact of age categories on full spellcasting classes.
+	-What level was he when he reached each age category? It affects skill points.
+		-(So does being Human.)
+		-Int by level:
+			1-3		17
+			4-7		19	(Middle age)
+			8-11	20	
+			12-13	22	(Old Age)
+	-Skills: (4+2)*10+4*11+4*12+2*13=178
+	-Feats: 6
+		-Able Learner (Races of Destiny pg. 150)
+		-Negotiator
+			-+2 to Diplomacy and Sense Motive
+		-Business Savvy (DMG II pg. 184)
+		-Open Minded x3
+	-Languages:
+		Common
+		Aquan
+		Draconic
+		Dwarven
+		Elven
+		Giant
+		Goblin
+		Infernal
+		Terran
+		Undercommon
+-Believers:
+	-Introduction for other players:
+		-A few days into Edric's work on the creation of the planes, a strange visitor arrived at the gates of Xûl-Jarak, early in the morning. A portly and disheveled old man, with clothes badly worn by hard travel, he gave the name Rovert, and soon had the guards laughing along with him at the indignities the road had inflicted on him. By the time the guards got around to asking him his purpose at the fort, one had already offered to buy him a dinner at the tavern once his shift was over.
+		-At the question, Rovert's genial disposition changed and, after a pause, he began to delicately explain that he felt. . . called to the place. He said some strange feeling pulled at his mind, flickering, but always leading him here. "It felt," he said, "like the call of home, of belonging." As he explained this, the guards noted his eyes kept straying towards the keep, and it seemed he had to consciously pull them back to the faces of the guards.
+		-Not sure what to make of this, one of the guards went to collect the members of The Brotherhood that were already awake, relaying this tale to each in turn. The last he collected was Edric who, at the mention of the "call", interrupted the guard, explaining he knew exactly what Rovert spoke of. Edric then quickly walked to the gate, the guard following in tow.
+		-"Ah! There you are!" Edric said, greeting Rovert. "I've been expecting you!"
+		-Those present could see that, as soon as Edric emerged from the doors of the keep, the old man could look at nothing but Edric. ". . . you called?" he managed, stammering a bit.
+		-"Yes, yes. Come," Edric said, leading Rovert off to the keep, "We've so much to learn about one another!" The next morning, before setting out to the Astral Plane to resume his work, Edric introduced Rovert to the rest of The Brotherhood and many others about the fort. Rovert now wore fine clothes clearly made by Edric (masterfully crafted, perfectly fitted, and made from local materials) and Edric introduced him as "my steward and business manager," adding, with strange emphasis, that Rovert was "to be trusted as you would me, in all things."
+		-Soon, Rovert was helping the fortress's clerk, its tavernkeeper, and even Thranton, in matters of bookkeeping and negotiation with suppliers, aid he offered up freely for no recompense. He also began taking and organizing orders for work to be performed by Edric, both repairs to the fortress and paid, comissioned works.
+		
+		-In the weeks that followed, that odd process repeated many times, with a wide variety of people arriving at the fortress, speaking of a call, beacon, or voice. Soon, all but the strangest were greeted by bored guards who cut their stories short, trudging off in search of Edric (those that did give the guards pause included a goblin, a man that must have some giant blood, and a small tribe of kobolds that arrived via the undergate, whose winged leader thankfully spoke common). Thankfully, they never seemed to arrive except when Edric was there, and all were soon put to various tasks by Edric, and many of them offered lodging at the fort (helped by the kobolds, who proved to be industrious miners, expanding the basement).
+		
+		-Anyone who questions Edric about his new allies is met with somewhat awkward evasions and mentions of how his "ambitions, mind, and will had outstripped the room this body offers" and that, as such, he had "offered a great purpose to the purposeless, who had answered the call." He's clearly not very eager to discuss the subject (out of character, _I_ totally _am_, so I'd be more than happy to do some kind of roleplaying if anyone wants to press Edric on what this shit he's getting up to is).
+		-Those new allies, though, are more than happy to discuss themselves and, if asked about their connection to Edric, will freely speak of being "called", but even the most eloquent among them seem to struggle to explain much more than that. They don't seem to be distressed by that fact, though. Instead, they seem to adore Edric, and often seem quite. . . protective of him.
+	-Totals:
+		1st	2nd	3rd	4th	5th	6th
+		60	6	3	2	1	1
+	-By level:
+		-6th:
+			-CN Kobold Bard, "The Piper" or _____ in Draconic.
+				-Once viewed as something of an irresponsible ne'er do well by his tribe, but
+				 blessed with visible signs of draconic ancestory (probably had something to
+				 do how he ended up a spoiled troublemaker, and pursuing his indulgent-in-the-
+				 Underdark love of music and stories).
+				-When his tribe met it's crisis and was driven from their homes by their Drow
+				 neighbors, few authority figures were left among the refugees, and many began
+				 to look to The Piper, charismatic and bewinged like a mighty dragon.
+				-While The Piper at first reveled in this new-found, even greater status, it
+				 quickly began to wear on him. He was ill-suited to the leadership of his
+				 largely lawful and hierarchical people, and they were in a dire situation that
+				 would severely test _any_ leader. His stories had actually offered useful bits
+				 of knowledge, but the remnants of the tribe had few supplies and every day
+				 more of them fell to the hazards of The Underdark.
+				-Eventually, some of his people began to feel. . . a call. By the time he heard
+				 it himself, The Piper was willing to give in, and led his people upwards
+				 toward the surface. . .
+				-Feats: Dragonwrought(Howling), Dragon Wings, Improved Dragon Wings
+					-All on Races of the Dragon pg. 100.
+					-Means he's got flight (with weird limits), +2 to survival, sleep/paralysis
+					 immunity, and status among Kobolds.
+				-His spells include Cure Light and Cure Moderate, and he now serves through
+				 healing and song.
+		-5th:
+			-LN Human Cleric with no deity
+				-Uses the Community and Mind domains:
+					https://www.dandwiki.com/wiki/SRD:Community_Domain
+					https://www.dandwiki.com/wiki/SRD:Mind_Domain
+				-She has a vaguely Greek theme, and is from a city state that revered it's
+				 democratic(ish) governance and norms as sacred, complete with a formal
+				 priesthood serving both in ritual roles and as functionaries.
+				-She was a member of the priesthood, and still holds simlar ideas sacred, but
+				 found that the reality of her city did not always live up to it's ideals. It's
+				 leaders professed in public to think only of the good of the community,
+				 claiming the mantle of philospher-princes, weighing carefully the implications
+				 of their decisions. What she found instead, as she graduated from acolyte to
+				 full priestess-bureaucrat, was leadership that was venal and selfish, more
+				 concerned with perceptions, their own interests, and personal slights than
+				 with what the city as a whole needed. Her fellow priests were either blind
+				 idealists (useful fools for those in power) or almost as nakedly corrupt.
+				-She bucked the system, and the response was not kind. She eventually found
+				 herself assigned to a role as a missionary for the city, meant to serve as a
+				 liason in a remote city, promoting democracy (and the city's trade interests).
+				 Little more than a face-saving veneer on exile, she abandoned her mission,
+				 setting sail for the remote port of Melvaunt, looking to find a community
+				 better suited to her ideals, that could truly benefit from her guidance. When
+				 she felt the call of a great mind in the wilderness, she _had_ to investigate,
+				 and soon fell into it's orbit.
+		-4th:
+			-LE Kobold Ranger
+				-Uses Kobold Ranger substitution levels in Races of the Dragon (pg. 109),
+				 so he rides his Dire Weasel animal compantion.
+				-Most senior of the tribe's scattered scouts that the fleeing refugees
+				 managed to find.
+				-Could perhaps have been a candidate for leadership of the refugees, but the
+				 scouts were scouts for good reason, and largely preferred time away from the
+				 rest of the tribe.
+			-CG 3rd level Half-Giant Psychic warrior, Jez-E
+				-Has a Large Greatsword and the Burst, Expansion, and Precognition, Offensive
+				 powers.
+				-Disappeared into wilderness to commune with "the computational spirit". He did
+				 indeed hear a "voice", and answered it's call.
+				-This is Jesse's character from the last game I ran.
+		-3rd:
+			-LE Kobold Ranger
+			-LN Human Rogue trader, Sara
+				-Middle aged, prioritizing Charisma, Intelligence, then Dexterity.
+				-Good at social skills, Local and Geography knowledge, and wilderness skills.
+				-Makes her living in the high margin, but high risk, business of a wandering
+				 trader in unsettled wilderness areas.
+				-TODO: complete this
+			-CN Halfling Rogue smuggler, Barmo Pridefoot
+				-He was the proprietor of a small smuggling caravan. Times are tough for an
+				 independent operator and, down on his luck, he accepted a job involving
+				 trafficking weapons to the gnolls of Thar. Maybe it was a set up all along,
+				 but, if he had to guess, the scarred, hungry-looking gnolls had decided it was
+				 worth burning their contact for one last shipment of weapons.
+				-In any case, the mule, the cart, and all the weapons were gone. He and his
+				 guards were running for their lives, when, one by one, they began to feel a. . .
+				 presence. It seemed to promise belonging, and safety. Soon, they began running
+				 towards something, rather than just away from the gnolls. Perhaps there's a
+				 better deal than independence after all. . .
+		-2nd:
+			-4 Kobold Rangers
+			-CE 1st level Blue Psion, Gorthag
+				-Expanded Psionic pg. 190
+				-He was driven out of his tribe after the tribe's blues attempted to usurp it's
+				 leadership. Young, and a bit player, he was the only survivor of the coup.
+				-Without the protection of his tribe, he was not likely to survive long and,
+				 when he heard a strange psionic call, he clung to it in desperation.
+			-Human Ranger
+				-Captain of the smuggling caravan's guards.
+		-1st:
+			-25 Kobolds, a mix of Commoners and Experts, all skilled in their racial pursuits
+			 of Craft(Trapmaking) and Profession(Miner).
+				-The civilians of a tribe of kobold refugees from the nearby Underdark. 
+				-The tribe was pushed out of it's home by drow that had once been occasional
+				 customers for their mined metals.
+				-The drow, in turn, are under pressure of their own from newly well-armed bat
+				 people, resulting in them making incursions into strategic locations in kobold
+				 territory, and trying to enslave their old suppliers, now that the war with
+				 the desmodu is consuming more drow resources.
+			-4 Fighters, 3 Humans and a Dwarf
+				-The smuggling caravan's guards.
+			-6 Human Psions
+				-A "circle" of newly trained psions, comprised of one of each discipline, a
+				 model used by the psionic school they'd trained at, in a distant land (or a
+				 different plane?).
+				-Their training complete, they were set loose, to test and grow both their
+				 minds and the bond of their group gestalt.
+				-When they first felt Edric's subtle pull, they knew more than most, enough to
+				 be wary, but also enough to be curious. . . Their Seer eventually settled the
+				 matter, speaking of glimpses she'd seen of both great danger and great psionic
+				 power for them, should they seek the source. They were helpless to resist the
+				 latter, and thus found both.
+			-15 Wilders
+				-Mostly human, and a couple of dwarves (class description suggested these races).
+				-Those with in-born psionic talent seem more receptive to Edric's call, and those
+				 that lack for training are unlikely to understand the presence they feel, or
+				 realize it's danger. Further, many of the Wilders _welcomed_ this strange
+				 psionic presence, promising as it did belonging and an understanding of their
+				 own strange powers.
+				-As such, many of the Wilders came a greater distance than other believers, and
+				 they're somewhat over represented among Edric's believers, as compared to their
+				 rarity in the general population.
+			-10 PHB races, a mix of Barbarians and Rangers
+				-Locals of Thar. The land is largely unsettled, but a small number of especially
+				 hardy individuals brave living in it's monster infested wilderness. They fell
+				 under Edric's sway when passing near Xûl-Jarak.
+				-Regardless of how they felt about the wilderness, whether they loved it or were
+				 driven off into it, they now work towards Edric's project of civilizing it,
+				 surveying for building projects and tracking Thar's monsters to their lairs,
+				 for elimination.
+	-Other local monsterous races?
+	-Humans from the surrounding area?
+	-Any Elans?
+	-Other psionic stuff?
+	-A Marshal would be cool.
+
+-Rules stuff for them:
+	-Will mean talking to Jake about followers ASAP, given that Thrallherd doesn't give easy reason
+	 to delay.
+		-Talked on voice.
+		-PC classes and race choices are based on where you're hanging around long enought to attract
+		 them.
+		-Using Pathfinder rules for how fast believers arrive: https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-prestige-classes/thrallherd/
+			-"A thrallherd’s thrall and believers arrive within 24 hours. Lost thralls are replaced
+			 within 24 hours. Believers arrive and are replaced at a rate of the thrallherd’s
+			 leadership score per day, with the lowest level believers arriving first. If the
+			 thrallherd is in a location where thralls and believers cannot reach, none arrive
+			 until she moves to a location where she can be reached."
+				-Jake mentioned Kobolds, which are _super_ attractive for mining.

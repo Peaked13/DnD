@@ -1,0 +1,49 @@
+Race: Thri-Kreen	LA: +2
+
+Lvl	HD	Class lvl				Feat
+3	1	Thri-Kreen Racial HD	Deflect Arrows, Multiattack
+4	2	Thri-Kreen Racial HD	
+5	3	Psychic Warrior 1		Practiced Manifester, Multiweapon Fighting
+6	4	Psychic Warrior 2		Illithid Heritage 
+7	5	Psychic Warrior 3		
+8	6	Psychic Warrior 4		Illithid Skin
+9	7	Psychic Warrior 5		Illithid Grapple
+10	8	Psychic Warrior 6		
+11	9	Psychic Warrior	7		Illithid Grapple
+12	10	Psychic Warrior	8		Illithid Grapple
+13	11	Psychic Warrior 9		Illithid Grapple
+14	12	Psychic Warrior	10		Improved Multiattack
+15	13	Psychic Warrior 11		Improved Critical(Scimitar)
+
+Other possible feats:
+	Weapon Focus(Scimitar)
+	Psychic Body
+	Improved Natural Attack
+
+Are the Illithid feats really worth it?
+	
+Powers from old instance:
+	Vigor
+		+5 Temp HP / PP
+		4 min
+			Max: 20 HP for 4 PP
+	Precognition, Offensive
+		+1 to Attack
+		+1 / 3 PP
+		6 PP for swift action
+		4 min
+			Max: +2 for 4 PP
+	Expansion 
+		Become large:
+			+2 Str
+			-2 Dex
+			-1 attack & AC
+		4 rounds
+			2 PP for min / lvl instead	
+		6 PP for swift action
+		6 PP to become huge:
+			All bonuses & penalties double
+	Greater Concealing Amorpha 1/Day
+		50% miss chance for HD/2 rounds
+	Deflect Arrows (Need a free hand) 1/Round
+	

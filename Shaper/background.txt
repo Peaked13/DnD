@@ -1,0 +1,81 @@
+Originally emailed to Jake, in "My character's background and goals":
+	My character's general goal is to establish himself in the world. He's an Elan, found in The Expanded Psionics Handbook and who are basically psionic transhumans. He managed to leave his life as some kind of artisan behind by working to be selected to undergo the process that rendered him an immortal. He took his new psionic powers and lived a life of adventure for a bit, reveling in what he had won. Now that he's much older than he looks, it's starting to sink in that he'll live until someone kills him. He's starting to think about more long term goals, and how to set him self up for a life that may have no end.
+
+	To some extend, Jake, this has been tailored to what you've told me about the game, to suit someone who will be set to participate in a series adventures for some initial story arc, and then who will have more self directed goals set up for the near future. Also interwoven into that is my Psion(Shaper) power progression, where some of my primary combat abilities are already available by level 4, and then Fabricate shows up 3-4 levels later, enabling some interesting ways of earning some downtime money and integrating himself into the campaign world. I think a vague desire to visit the old world, where he can both seek ancient items of power and get rich selling shovels is part of those later ambitions.
+
+	My question about the age of the five new Eastern kingdoms was tied to my character's age. Right now, I'm thinking he's in his fifties, despite appearing to be in his twenties, and has been an adventurer for nearly 30 years. It sounds like they're already centuries old by that point, but being wrong about that might change things and I'm curious anyways.
+
+	I'm also curious about degree of role my race, the Elans, might play in the world. They're easy enough to drop in as PCs without any broader consequences, in that they generally live among humans and aren't typically eager to advertise that they're something else. That said, I would enjoy having some involvement with other Elans, offering story hooks and maybe acting as a source of items related to psionics.
+
+Edric's sponsor, Osorin (sent to Jake via Discord https://discordapp.com/channels/@me/560920165383143425/676193181569777763):
+	Edric's life as a human was spent as a wood carver, doing furniture and architectural work, first as an apprentice, than going quickly from journeyman to master by his early twenties. He learned of the existence of elans when one sought him out, after seeing some of Edric's work.
+	That elan, named Osorin Umonar (and who Edric later heard referred to as Eternal Osorin), returned several times, talking with Edric about his work and purchasing several items. Eventually, explaining his strange mannerisms, he let Edric know that he was something other than human, gradually explaining what it was to be an elan. After Osorin said that he had once been human himself, Edric inevitably asked how he became one of these wondrous creatures, exactly has Osorin had hoped.
+	Osorin explained to Edric the process by which the Cullers of the elan council selected applicants to undergo the ritual which made them elans. Edric eagerly shuttered his shop and followed Osorin to $SOME_LOCATION, where he met many more elans, applied, was accepted, and underwent the ritual that made him a Newmade elan (@DMJake#5594, suggestions as to location? The capitol we're currently heading to?).
+	Edric then spent a number of years there with his new kin, mostly secluded with them learning to his new psionic powers. He followed in Osorin's footsteps, becoming a Shaper (his psion subdiscipline) like his sponsor, and Osorin was very happy to help teach Edric the art whenever Osorin was in town.
+	Edric ultimately disappointed Osorin, though. Osorin had sought him out all those years ago after seeing Edric's _artwork and craftsmanship_. In encouraging Edric to become an elan, Osorin thought he was granting a great artist centuries to perfect his craft, also imagining some prestige among their kin for Osorin himself, for such a find.
+	Instead, upon becoming confident in his newfound powers and setting out into the world (basically, a level one character), Edric took up the life of an adventurer. Though Edric had been a talented artisan, it was a life determined for him from a young age, when his parents had paid to make him an apprentice with a master carver. It was not without joy for him, but, upon learning of the elans and their strange powers, he saw for himself the opportunity for a less humble and far more exciting life. Osorin's disappointment was somewhat tempered by his own age. After many years of life, and with many ahead for Edric, he reasoned that things may yet change.
+	Now, nearly 30 years later, it remains to be seen what Osorin thinks of Edric, should their paths cross again. After decades of life as an adventurer himself, Edric has been thinking about something more settled for himself, but that's taken the form of a castle, involvement in politics, and strange mass manufacture ambitions, rather than great works of art. Edric _has_, though, gotten back in touch with his artistic side a bit lately, having found a bit more cognitive capacity for it in his psicrystal.
+
+Other random relations:
+	-Elans:
+		-Olfunso, rival student of psionics:
+			-Made elans at a similar time, though he appears 20 years older than Edric's apparent 25.
+			-Learned to be a psion during the same time as Edric.
+				-Olfunso is an egoist (psion subdiscipline).
+		-Adalia, friend and fellow adventurer:
+			-Has been an elan a couple of decades longer than Edric, though is a similar apparent age.
+			-Seldom in once place for long, but stopped by many times during Edric's time with his kind.
+				-Is a psion of the nomad subdiscipline.
+				-Her stories of adventure probably have a lot to do with him being an adventurer.
+			-Edric and Adalia have crossed paths several times since he hit the road.
+				-Each time, they swap stories.
+				-Last time was a couple of years before the campaign.
+			-Adalia now has a 9th level character sheet and gear, as she came on an adventure with
+			 us.
+		-Vallo, a favorite teacher:
+			-Helped teach newmade elans what their changed forms are now capable of.
+			-Also offered weapons training, providing Edric his simple weapon profiencies.
+				-He's a psychic warrior.
+			-He was gruff, but also somewhat less rigid in what he expected his students to become,
+			 compared to many of Edric's teachers (particularly Osorin).
+				-Probably tied to the fact that he's a psychic warrior who mostly trains psions.
+		-Rexoic, elan abomination:
+			-Has strange, cuttlefish-like pupils and his skin is begining to develop a purplish tinge,
+			 clashing horribly with his red hair
+			-Malicious and at least slightly insane
+			-Naturally, Edric wondered why he was kept around the group, albeit generally supervised
+				-He eventually got the answer that something had gone wrong during the process of 
+				 remaking Rexoic into an elan. The group was both wished to study him and felt some
+				 degree of pity towards him, thinking of his behavior as something like congenital
+				 mental illness.
+				-Unknown to Edric, but known to at least some of the group, the human that became
+				 Rexoic came from a bloodline that had previously been meddled with by illithids,
+				 which interacted strangely with the ritual that creates elans.
+			-Based on Jason's illithid heritage elan
+				-Talked to Jason about it here: https://notcleversafe.slack.com/archives/D861U9ECR/p1581618104001600
+					-Oh! Jason had a whole back story, already in your email with subject "Character back story"
+						-I'm thinking that the group that created him was likely some other group of elans,
+						 with them sounding somewhat malicious, but Edric doesn't know anything about the
+						 subject.
+						-Jason's conception of becoming an elan, with the total memory loss, is somewhat
+						 different from what I've described with Edric's background (the books are
+						 ambiguous on the subject, though *do* state that elans never retain class
+						 levels from their previous lives, which is likely where Jason got that from)
+							-It could always be unique to him, a result of either the illithid tampering
+							 or something his none too friendly sounding creators did.
+				-Searching this for "illithid" has the heritage feats: https://world-walker-chronicles.fandom.com/wiki/Complete_Psionic_Feats
+		-Elan clones?
+			-Based on Bruno's (deceased) character from my game
+				-My notes from that, concerning him:
+					-Innkeeper hates Thicc (Bruno)
+						-Due to weird little shrine in the alley along side, with markings on the inn wall, and refusal to leave
+							-All the goblin ears probably didn't help
+						-Thicc is now dead
+				-Both because of his death and because of the mysterious backstory he gave me (that
+				 I can't find), I had offered to resurrect him as some kind of clone of his
+				 character, minus his inventory of mostly goblin ears, similarly uncertain of his
+				 origins but also an elan monk. Was a bit sad I never got to use it, since he didn't
+				 take me up on it.
+				-I had imagined it being some strange project, perhaps a project to create elans
+				 from nothing, rather than from humans, but mass produced psionic monks have a
+				 variety of applications.

@@ -1,0 +1,79 @@
+-Imperial Pantheon:
+	-The Imperial Godhead
+		-Lawful Neutral
+			-Though, technically, as an abstract principle, the Imperial Godhead
+			 does not possess an alignment, its priesthood and adherents are 
+			 almost entirely lawful neutral
+		-Domains: Domination (CD), Law, Nobility (DD)
+		-Priests of the Imperial Godhead revere the divinity of the Empire itself 
+		 and the current Emperor as the mortal manifestation of that principle. 
+		 As such, they generally serve as the Emperor's administrative arm. Their 
+		 submission to the will of the Empire is near absolute.
+	-Martinus the Founder
+		-Lawful Neutral
+		-Domains: Community (CD), Glory (CD), Law, Nobility (DD)
+		-Favored Weapon: Longsword
+		-Portfolio: Nobility, justice, discipline
+		-Deified first Emperor
+		-Head of the Imperial Pantheon
+	-Valerius the Conquerer
+		-Lawful Neutral
+		-Domains: Law, Travel, War
+		-Favored Weapon: Bastard Sword
+		-Portfolio: War, soldiers, conquest, valor
+		-Deified former Emperor
+		-As emperor, oversaw largest territorial expansion by conquest in history. 
+		 Rather than plunder and loot the lands he conquered, Valerius oversaw 
+		 their tight integration into the Empire.
+		-Generally appears, and is depicted, as a young man, armed and armored
+	-Bassus the Wise
+		-Lawful Neutral
+		-Domains: Knowledge, Magic, Mind (CD)
+		-Favored Weapon: Quarterstaff
+		-Portfolio: Magic, learning, foresight, culture
+		-Deified former Emperor
+		-The son of Valerius, Bassus delighted in experiencing the many and varied 
+		 cultures his father had conquered. 
+		-Generally appears, and is depicted, as an elderly bearded scholar
+	-Jeronim the Defender
+		-Lawful Good
+		-Domains: Law, Protection, Strength
+		-Favored Weapon: Shield Bash
+		-Portfolio: Defense, bravery, valor
+		-Deified former Emperor
+		-As emperor, defended Empire from demonic invasion
+		-Founder of current dynasty of emperors
+			-All heirs of the previous dynasty were killed by demons
+	-Ivellios Meliamne
+		-Neutral
+		-Domains: Community (CD), Liberation (CD), Luck
+		-Favored Weapon: Longbow
+		-Portfolio: Non-human Imperial citizens, freedom
+		-Elven friend and adviser to three generations of early Emperors.
+		-Largely responsible for the high level of racial and religious tolerance
+		 in the predominantly human Empire.
+	-Severus Maro
+		-Lawful Evil
+		-Domains: Competition (CD), Travel, Trickery
+		-Favored Weapon: Dagger
+		-Portfolio: Trade, greed, 
+		-Severus Maro was once a mortal merchant who amassed a vast amount of 
+		 wealth and power in the Empire, rivaling the Emperor himself. Though not 
+		 hesitant to use underhanded and ruthless means for his own advancement, 
+		 Severus Maro's work greatly enriched the Empire as a whole and expanded 
+		 it's sway to far lands.
+	-Prisca the Benevolent
+		-Neutral Good
+		-Domains: Creation (CD), Good, Healing
+		-Favored Weapon: Mace
+		-Portfolio: Healing, art, music, generosity
+		-Deified former Empress
+		-When Prisca's husband, known today as Trebonius the Infirm, was struck 
+		 with a wasting illness that eventually, a decade later, took his life, 
+		 Prisca assumed most of his responsibilities while still personally 
+		 tending to his health. The years she ruled were a period of unprecedented 
+		 peace and a golden age for the arts
+-Chaos Cults:
+	-Gargillith, Lord of Passages
+		-Chaotic Neutral
+		-Domains: 

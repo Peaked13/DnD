@@ -1,0 +1,20 @@
+Race: Human?		Age: Old?		Height: 	Weight: 
+
+Lvl	Class lvl			Feat										Caster Lvl.		Spell Lvl.
+-----------------------------------------------------------------------------------------------
+1	Wizard 1			Scribe Scroll, Iron Will + human bonus?		W1				W1
+2	Fighter 1			Fighter bonus								W1				W1
+3	Wizard 2			Malign Spell Focus (BoVD)					W2				W1
+4	Wizard 3														W3				W2
+5	Wizard 4														W4				W2
+6	Ur-Priest 1			Practiced Spellcaster (Wizard)				W6/U3			W2/U1
+7	Ur-Priest 2														W7/U4			W2/U2
+8	Mystic Theurge 1												W8/U5			W3/U3
+9	Mystic Theurge 2	Practiced Spellcaster (Ur-Priest)			W9/U9			W3/U4
+10	Mystic Theurge 3												W10/U10			W4/U5
+11	Mystic Theurge 4												W11/U11			W4/U6
+12	Mystic Theurge 5	1											W12/U12			W5/U7
+13	Mystic Theurge 6												W13/U13			W5/U8
+14	Mystic Theurge 7												W14/U14			W6/U9
+15	Mystic Theurge 8	1											W15/U15			W6/U9
+16	Wizard 5			Wizard bonus								W16/U16			W7/U9

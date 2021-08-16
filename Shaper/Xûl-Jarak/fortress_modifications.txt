@@ -1,0 +1,127 @@
+-Before the demon siege, constructed arrow hoardings and wooden walls for the breached section of
+ the curtain wall
+	-5 wooden arrow hoardings
+		-Description: https://discordapp.com/channels/560915739796570113/560915739796570119/609939208332902410
+		-Picture: https://discordapp.com/channels/560915739796570113/560915739796570119/611364598112845883
+		-Movable, at least with enough hands and maybe rollers. About the size of a small shed.
+	-Thick wooden walls fill the breach in the curtain wall, with a walkway on top of them
+	-campaign_notes on the subject:
+		-Construction projects:
+			-Arrow hoardings?
+				-Came up with a plan: https://discordapp.com/channels/560915739796570113/560915739796570119/609939208332902410
+				-Bought the wood for it on 8/14
+					-1000 gp. worth, or enough for 3 stronghold spaces
+				-Drew an example: https://discordapp.com/channels/560915739796570113/560915739796570119/611364598112845883
+				-Maybe one less or so, to also seal breach in wall with temp. wood
+			-Look through stronghold guide for pricing
+				-Will save having to know volume of wood per gp. or some such
+			-What kind of quarry output can you obtain?
+				-Asked a question about it here: https://discordapp.com/channels/@me/560920165383143425/609798839817338952
+				-Jake did some rolls and I got 62 gp. worth of stone over 6 days of 10 laborers quarrying: https://discordapp.com/channels/@me/560920165383143425/609825256609415218
+
+-Sealed the basment off from the Underdark
+	-Masonry (superior?) walls and a secret stone door, with interior stone bolt and a psionic lock
+		-Description with page references for hardness, HP, and such: https://discordapp.com/channels/560915739796570113/560915739796570119/695856097097023489
+			-Craft check was my then minimum roll, 22
+	-Psionic Lock improves the door's break DC by +10: http://www.d20srd.org/srd/psionic/powers/psionicLock.htm
+
+-Fortress repairs:
+	-Repaired the curtain wall shortly after we first started the workers quarrying.
+		-Interior is now a single large room, connected to the hallways North and South of it.
+	-Repaired the throne room's ceiling (#14), the second level interior walls that once stood on
+	 it, and the collapsed corner of the keep (#8).
+		-Cost estimates: https://discord.com/channels/560915739796570113/560915739796570119/781580104811544606
+		-Volume estimates:
+			-Ceiling hole is about 20 5' squares, and lets assume you're making it an average of a
+			 a foot thick, so: 20*5*5*1 = 500 ft.^3
+			-Interior walls above it are pretty similar in size to the chunk of missing floor, so
+			 call that another 500 ft.^3
+			-The damage to #8 looks to require replacing a pretty similar quantity of walls and
+			 ceiling/floor.
+			-Lets call it 2,000 ft.^3 in total.
+			-Ed can currently manage 160 ft.^3 of mineral work per casting of Greater Fabricate,
+			 so that means 12.5 castings of it, or 13*11=143 power points.
+			-Got it approved by Jake: https://discord.com/channels/560915739796570113/560915739796570119/781609457641062412
+		-Did the work on 11/15/300
+		-The repair of #8 gives us a bunch of small rooms, to house our new party members or even
+		 serve as inn rooms.
+			-The hallway outside them already has a door to the tavern and now has a new (stone)
+			 door, connecting it again to the keep.
+	-Minor curtain wall damage
+		-5 5x5 squares, X tall?
+		-Description for #18 mentions the walls rise 40' above the moor.
+		-So, call it 5*5*5*40 = 5000 ft.^3?
+		-Asked for a ruling here: https://discord.com/channels/560915739796570113/560915739796570119/781653107536166962
+			-Yep, that's the volume, and we're calling it 25k gp. worth of stone.
+			-5000/160 = 31.25, so call it 32 castings of Fabricate, or 352 power points
+
+-Started the workers quarrying in area #34, followed by #37, if they clear it out or find something
+ that they should pause or notify us about
+	-https://discordapp.com/channels/560915739796570113/696036374062825482/696062171053817907
+	-Discussion of area they excavate per shift: https://discordapp.com/channels/560915739796570113/696036374062825482/696090320735174709
+		-And value now too
+		-The math:
+			(num_workers * 6/7) * 5 = Y ft.^3 per day
+				Divide ft.^3 by 250 to get 5'x5'x10' spaces.
+			Y * density of stone in lbs./ft.^3 / 1 gp. worth of stone in lbs. = X gp. per day
+			So, for the basement's granite:
+				Y * 168.6 / 3.87 = X gp. per day
+		-Each day, the 10 workers quarry:
+				10*6/7*5= just over 42 ft.^3
+				10*6/7*5* 168.6 / 3.87 = just over 1867.10 gp. per day
+	-Clearing #34:
+		-Started this 10/17 in game date
+		-Time it takes: https://discordapp.com/channels/560915739796570113/696036374062825482/696096415784501299
+			-volume cleared at 2X rate, so it takes 14.5 days
+		-Value: https://discordapp.com/channels/560915739796570113/696036374062825482/696099677573218384
+			-1/2 price
+			-14.5*1867.10/2=13,536.47 gp. worth of stone
+		-Finished it on 11/2
+			-Update the map?
+				-Ask Jake about the resulting room
+	-Now quarrying in #37:
+		-More stone and more space!
+		-Added stone quarried up through 11/15, in game, to the spreadsheet
+			-That expanded #37 by (5+7)*(10*6/7*5) = 514 ft.^3, or just over two 5 ft. squares with 10 ft. ceilings
+		-With the quarrying done as of end of 11/24/300, that's an additional 42 * 9 = 378 ft.^3
+			-Now up to 892 ft.^3, or 3.56 more 5 ft. squares.
+
+-Looks like The Brotherhood now holds official title to the fortress and everything withing 60
+ miles of it that's part of Thar.
+	-60 miles being the distance to Melvaunt, that last bit carves out existing settled land in
+	 from the area.
+	-Jake posting about this: https://discord.com/channels/560915739796570113/560915739796570119/763549106559647775
+
+-Road building:
+	-Useful post for converting labor to roads: https://history.stackexchange.com/questions/55028/how-long-would-it-take-to-build-30-miles-of-roman-road
+	-Brought the cost details up in Discord here: https://discord.com/channels/560915739796570113/560915739796570119/734262065048322058
+	-Jake gave me a progress per labor ruling here: https://discord.com/channels/560915739796570113/560915739796570119/763085824051904604
+		-Boils down to 8 yards per Medium construct per day.
+		-Formula for progress per power points spent:
+			-Remember your multiple construct augment! 2 for an extra is cheaper than 3 on a whole new medium.
+				-In other words, every 9 PP gets you 4 medium constructs.
+				-Or, 9 PP gets you 32 yards of road, or 96 ft.
+				-Oh! That means the total cost of a mile is 5280/96*9 = 495 PP
+			-Now, with the Torc of Power Preservation, that augment doesn't matter.
+				-Instead, it's a flat 2 PP per medium construct.
+				-So, 2 PP now gets you 8 yards of road, or 24'
+				-The cost of a mile is now 5280/24*2 = 440 PP
+	-He also gave me some distances for proposed South and East links (as well as a Southeast
+	 option we probably won't pursue): https://discord.com/channels/560915739796570113/560915739796570119/763079217633558558
+		-Due South, to Melvaunt is 60 miles.
+			-The first 195336' (37 miles) from the fort is complete, as of end of 3/15/301
+		-Due East, connecting to the road to Glister is 45 miles.
+
+-TODO:
+	-Put a grate over where water drains in the basement, to keep out aquatic stuff
+		-You'll need to buy iron for it
+		-Oh, actually, you've got a literal ton of steel.
+	-Jake suggested Dungeon Fog for working with the map: https://www.dungeonfog.com/
+		-You can clone an existing map of the fortress: https://www.dungeonfog.com/share/?h=3f61a0966f9e103a921cde49aaa6265b
+			-Eh, it turned out just to be the main level, and was the only one I could find there
+		-Without it having premade maps for the fort, it doesn't look too appealing.
+			-Seems like nice software, but also something that hides a lot of what I'd need behind
+			 a paid account (including enough levels to map the fort), and I'm adverse to
+			 subscriptions.
+	-Options for turning us into a trade hub: https://discordapp.com/channels/560915739796570113/696036374062825482/701856223892471838
+	-Other economic projects: https://discordapp.com/channels/560915739796570113/696036374062825482/701863896125931522

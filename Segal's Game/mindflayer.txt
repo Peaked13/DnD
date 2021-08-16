@@ -1,0 +1,136 @@
+-Items to buy:
+	-Dorje of Knock (maybe not if ogre)
+	-x Tome of Clear Thought +4 or +5 (110k or 137k): It gives skill points too!
+	-Ioun Stones
+		-Dusty Rose (5k): +1 AC
+		-Pink (8k): +2 Con
+		-Pearly White (20k): Regen 1 HP / Hr
+		-Pale Green (30k): +1 attack, save, skill, ability checks
+		-Rainbow (16k): Cognizance Crystal 5 that regenerates
+	-Ring 
+	-Skin of the Defender (32k)
+	-Third Eye of Sense 24k
+		-Get Viewing 10k later
+	-Get enchanted leather armor over better rings of protection (not if hero skin)
+	-Maybe get Aspect Mirror (4k): Video Phone
+	-Cognizance Crystals
+		PP	Price
+		1	1k
+		3	4k
+		5	9k
+		7	16k
+		9	25k
+		11	36k
+		13	49k
+		15	64k
+		17	81k
+	-Permenant Spells (Cost: 50 * Caster Level + 5 * XP Gp)
+		-Additional 10 * Spell Level * Caster Level if I can't cast original 
+			spell
+		-2x Aura Sight (2x 10750): Concentrate to know good or evil or law or 
+			chaos
+		-Conceal Thoughts (2950): +10 Bluff, +4 Save vs. Mind Reading
+		-*Danger Sense (8150): +4 save & AC vs traps, 2 augments to get regular 
+			& improved uncanny dodge (included in price)
+		-*Detect Psionics (2950)
+		-Detect Remote Viewing (10750)
+		-Elf Sight (5550): low-light & Elf bonuses to search, spot & secret 
+			doors
+		-Know Direction & Location (2950)
+		-Psionic Tongues (5550)
+		-Ubiquitous Vision (8150): No flanking, +4 search & spot, -4 vs gaze
+		-*Enlarge Person (*2950) (Perhaps not if Ulitharid)
+		-*Greater Magic Fang (8050+30*lvl): Maybe Resch can help cast
+			Bonus	Cost	x4
+			+1 all	*8200	N/A
+			+2	8290	33160	
+			+3	8410	33640
+			+4	8530	34120
+			+5	8650	34600
+		-*Resistance (*2950): +1 to saves
+-Levels:
+	HD	Class Lvl		Feat			Note
+	13	Psion 10		Linked Power		Research Lion's Charge,
+								Take Correspond, Persistent
+	14	Soul Eater 5
+	15	Psion 11		Leadership
+	16	Soul Eater 6
+	17	Soul Eater 7
+	18	Soul Eater 8		Practiced Manifester
+	19	Soul Eater 9
+	20	Soul Eater 10
+	21	Illithid Savant 1	Practiced Manifester
+	22	Illithid Savant 2
+	23	Illithid Savant 3
+	24	Illithid Savant 4	
+	25	Illithid Savant 5
+	26	Illithid Savant 6
+-Stuff to Do:
+	-Get unguarded gold
+		-Kill more golems depending on party
+	-Look into items
+	-Find merchant with mindflayer info
+		-Directed to continent we started out on to find info on 
+			augmentations
+	-Find wizard who can cast 8th lvl spells and no higher (lvl 15-16) and 
+	 craft wonderous
+		-Got a sorcerer instead
+		-Use for crafting Inscriptions of Falsehood in stronghold
+		-x Later, have him create item: Robe of the Illithid Empire
+			Cloak of Charisma +6 (36k)
+			Lawful Evil
+			Int: 18, Wis: 10, Cha: 18 (12k)
+				Speech: Common, Undercommon, Abyssal, Infernal
+				Telepathy
+				120 ft: darkvision, blindsense & hearing
+			Wielder Gets +2 luck to attacks, saves and checks (80k)
+				Purpose: Further the power of Illithids
+			Item can Detect Thoughts (DC 18) at will (44k)
+			Item has 10 ranks in Intimidate (Total: 14) (5k)
+			Item has Death Watch continually active (2.7k)
+			Item can use Cure Moderate Wounds 2d8+3 on wielder 3/day (6.5k)
+			_______________________________________________________________
+			Total Price: 186.2k gp
+			To Craft: 93.1k gp + 8k xp
+		-x Craft another intelligent item: Crown of Illithid Intellect
+			Headband of Intellect +6 (Already have, not included in cost)
+			Lawful Evil
+			Int: 19, Wis: 10, Cha: 19 (15k) 2 less
+				Speech: Common, Undercommon, Gith, Infernal
+				Telepathy
+				120 ft: darkvision, blindsense & hearing
+			Item can use True Resurrection dedicated power on wielder 1/day (200k)
+				Purpose: Further the power of Illithids
+			Item has 10 ranks in Knowledge History (5k)
+			Item can use Locate Creature (1200 ft. range) 3/day (30k)
+			Item can use Locate Object (1200 ft. range) 3/day (6.5k)
+			Item can use Status (6 creatures) at will (11k)
+			Item can use Zone of Truth (DC 18) 3/day (6.5k)
+			Item can use Cure Moderate Wounds 2d8+3 on wielder 3/day (6.5k)
+			_______________________________________________________________
+			Total Price: 275.5k gp
+			To Craft: 137.75k gp + 11k xp
+				For Spells:
+					3800 gp
+					9 + 2 + 2 + 2 4
+-Other:
+	-Use Soul blast sometimes
+	-Perhaps take Hyperconscious powers
+		-Correspond, Persistent
+		-x The dominate augmentations (research if necessary)
+		-Double dimension for thrall
+	-Powers to research:
+		-Expansion 1 (Maybe not, perhaps permenant enlarge person instead)
+		-Psionic Lion's Charge 2
+	-x Get polymorphed into a Ulitharid (It would be permenant using Poly Any Object)
+		Str: 20	(24(28))
+		Con: 20
+		(Stats include character level bonuses)
+	-Perhaps make a Urophion (LoM)
+		-Illithid tadpole + roper
+	-Look at skill Tricks in Complete Scoundral
+		-False Theurgy (Psionic Version?): Make spell look like another of 
+							same level
+		-Collector of Stories: +5 Knowledge(Any) to identify monsters and their 
+					abilities/weaknesses
+		-Trinket of Trickery (1k): slotless item that gives you a free one

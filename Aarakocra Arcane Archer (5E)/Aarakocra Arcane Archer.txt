@@ -1,0 +1,251 @@
+Race: Aarakocra (Elemental Evil Players Companion)    Age: 6    Height: 5' 1"    Weight: 88 lbs.
+Class: Fighter 8 (Arcane Archer (Xanthar's)), Cleric 1    Hit Die: 8d10+1d8    Alignment: Chaotic Neutral
+Speed: 25 ft., 50 ft. flying
+
+Stats: (standard set: 15,14,13,12,10,8)
+	Str: 10
+	Dex: 20 (+2 racial, +3 from feats included)
+	Con: 13
+	Int: 12
+	Wis: 16 (+1 racial, +1 from feat included)
+	Cha: 8
+
+Abilities:
+	Flight:
+		You have a flying speed of 50 feet. To use this speed, you can’t be wearing medium or heavy armor.
+	Talons:
+		You are proficient with your unarmed strikes, which deal 1d4 slashing damage on a hit.
+	Wanderer (background feature):
+		You have an excellent memory for maps and geography, and you can always recall the general layout of terrain,
+		settlements, and other features around you. in addition, you can find food and fresh water for yourself and up to
+		five other people each day, provided that the land offers berries, small game, water, and so forth.
+	Archery Fighting Style:
+		You gain a +2 bonus to attack rolls you make with ranged weapons.
+	Second Wind: 1 / short rest
+		You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use
+		a bonus action to regain hit points equal to 1d10 + your fighter level.
+		Once you use this feature, you must finish a short or long rest before you can use it again.
+	Action Surge: 1 / short rest (used: 1)
+		Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take
+		one additional action on top of your regular action and a
+		possible bonus action.
+		Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th
+		level, you can use it twice before a rest, but only once on the same turn.
+	Extra Attack:
+		Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+		The number of attacks increases to three when you reach 11th level in this class and to four when you reach
+		20th level in this class.
+	Arcane Archer Lore:
+		Chose proficiency with Nature and the Druidcraft cantrip
+	Arcane Shot: 2 / short rest (used: 1)
+		Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of 
+		your Arcane Shot options to that arrow. You decide to use the option when the arrow hits, unless the option doesn’t
+		involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish
+		a short or long rest.
+		Choices:
+			Grasping Arrow:
+				When this arrow strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around
+				the target. The creature hit by the arrow takes an extra 2d6 poison damage, its speed is reduced by 10 feet,
+				and it takes 2d6 slashing damage the first time on each turn it moves 1 foot or more without teleporting. The
+				target or any creature that can reach it can use its action to remove the brambles with a successful Strength
+				(Athletics) check against your Arcane Shot save DC. Otherwise, the brambles last for 1 minute or until you use
+				this option again.
+				The poison damage and slashing damage both increase to 4d6 when you reach 18th level in this class.
+			Bursting Arrow:
+				You imbue your arrow with force energy drawn from the school of evocation. The arrow detonates after your attack.
+				Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take 2d6
+				force damage each.
+				The force damage increases to 4d6 when you reach 18th level in this class.
+			Piercing Arrow.
+				You use transmutation magic to give your arrow an ethereal quality. When you
+				use this option, you don’t make an attack roll for the attack. Instead, the arrow shoots forward in
+				a line, which is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly
+				through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw.
+				On a failed save, a creature takes damage as if it were hit by the arrow, plus an extra 1d6 piercing
+				damage. On a successful save, a target takes half as much damage
+		Your Arcane Shot save DC is 8 + your proficiency bonus + your Intelligence modifier: 13
+	Magic Arrow:
+		At 7th level, you gain the ability to infuse arrows with magic. Whenever you fire a nonmagical arrow from a shortbow or
+		longbow, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+		The magic fades from the arrow immediately after it hits or misses its target.
+	Curving Shot:
+		At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic
+		arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the
+		original target.
+	Cleric Spellcasting:
+		DC is 8 + your proficiency bonus + your Wisdon modifier = 15
+		Spell Attack is your proficiency bonus + your Wisdom modifier = 7
+	War Domain Spells:
+		1st: divine favor, shield of faith
+	War Priest: 3 / long rest (used: 3)
+		From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the
+		Attack action, you can make one weapon attack as a bonus action.
+		You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain
+		all expended uses when you finish a long rest
+	Sharpshooter:
+		You have mastered ranged weapons and can make shots that others find impossible. You gain the
+		following benefits:
+		• Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+		• Your ranged weapon attacks ignore half cover and three-quarters cover.
+		• Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5
+		  penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+
+Spells:
+	Cantrips:
+		Druidcraft
+		Guidance
+		Light
+		Sacred Flame
+	Prepared 1st:
+		Bless
+		Cure Wounds
+			Cure Wounds is probably mandated, and would benefit from Wisdom
+		Shield of Faith
+			Always prepared due to War domain!
+		Guiding Bolt
+			Probably not worth it unless you've got nothing better for a slot
+		Divine Favor
+			Always prepared due to War domain!
+						https://5thsrd.org/spellcasting/spells/divine_favor/
+
+Ability score enhnancements or feats "at 4th level, and again at 6th, 8th"
+	Stuff taken for those levels:
+		Sharpshooter:
+			You have mastered ranged weapons and can make shots that others find impossible. You gain the
+			following benefits:
+			• Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+			• Your ranged weapon attacks ignore half cover and three-quarters cover.
+			• Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5
+			  penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+		+2 Dex
+		+1 Dex, +1 Wis
+		
+	Attractive Feats:
+		Resiliant, choosing Dex:
+			Choose one ability score. You gain the following benefits:
+			• Increase the chosen ability score by 1, to a maximum
+			of 20.
+			• You gain proficiency in saving throws using the
+			chosen ability
+		Lucky is generally good
+		Observant is very flavorful and almost half decent
+		Resiliant can shore up a save, but likely with a ability bonus that does nothing else
+
+Background: Outlander
+
+Proficiency Bonus: +4
+
+Proficiencies:
+	Armor: All armor, shields
+	Weapons: Simple Weapons, Martial Weapons, Unarmed Strike
+	Tools: Harp
+	Saving Throws: Strength, Constitution
+	Skills: Acrobatics, Athletics, Nature, Perception, Survival
+
+Languages:
+	Common
+	Aarakocra
+	Auran
+	Primordial
+
+Equipment: (3000gp from starting, 2 uncommon magic items and 2 common)
+	Longbow +1 (Uncommon) 2 lb.
+		Same deal as ever
+	Cloak of Protection (Uncommon)
+		+1 to AC and saving throws
+	2 x Walloping Arrow (Common)
+		This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked prone.
+	Studded Leather, 45 gp., 13 lbs.
+	Backpack, 2 gp., 5 lbs.
+	400 Arrows, 20 gp., 20 lbs. -15
+	100 Silver Arrows, 1005 gp., 5 lbs.
+	5 x Ball bearings (bag of 1,000), 5 gp 10 lb. (1 gp, 2 lb.)
+	5 x  Caltrops (bag of 20) 5 gp 10 lb. (1 gp 2 lb.)
+	Clothes, traveler's 2gp 4 lb
+	Holy symbol of Tempus, let 5 gp 1 lb.
+	Mess kit 2 sp 1 lb.
+	5 x Potion of healing 250 gp 2.5 lb. (50 gp 1/2 lb)
+	Pouch 5 sp 1 lb.
+	Quiver 1 gp 1 lb.
+	10 x Rations (1 day) 5 gp 20 lb. (5 sp 2 lb.)
+	4 x Rope, silk (50 feet) 40 gp 20 lb. (10 gp 5 lb.)
+	Sack 1 cp 1/2 lb.
+	Severed Gargoyle Claw 1 lb
+	Spyglass 1,000 gp 1 lb.
+	Waterskin 2 sp 5 lb. {full)
+	Acquired in game
+		Healing Herbs from the castle garden
+			Would help with first aid
+		4 more gargoyal claws
+	
+	614.09 gp. remaining (3000-(45+2+20+1005+5+5+2+5+.2+250+.5+1+5+40+.01+1000+.2))
+	
+	Planning:
+		Outlander background grants:
+			A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a belt
+			pouch containing 10 gp
+		Fighter normally grants:
+			You start with the following equipment, in addition to
+			the equipment granted by your background:
+			• (a) chain mail or (b) leather, longbow, and 20 arrows
+			- (a) a martial weapon and a shield or (h) two martial
+				  weapons
+			• (a) a light crossbow and 20 bolts or (b) two handaxes
+			• (a) a dungeoneer's pack or (b) an explorer's pack
+		Studded leather armor is the way to go for you, due to fly requirements and dex
+		Longbow for the weapon
+		Other possible magic items:
+			Longbow +1 (Uncommon)
+				Same deal as ever
+				1st choice
+			Cloak of Protection (Uncommon)
+				+1 to AC and saving throws
+				2nd choice
+			Bracers of Archery (Uncommon)
+				Short and longbow proficiency, and +2 to damage rolls with them
+			Stone of Good Luck (Uncommon)
+				+1 to ability checks and saving throws
+			Two potions of healing seem like the only real option for the common items
+				They heal 2d4+2 HP each
+			Ah, Xanthar's has two potentially useful options, on page 311 of your weird copy
+				Walloping Ammunition is good, expecially if you get more than 1. Seems like it might just be 1, though.
+				Eh, looks like *all* magic ammo is improbably just 1, not the old batch of 50
+		Mundane spending:
+			Pack items?
+			Other misc. adventure gear?
+			Definitely some rope (you can fly, but others can't)!
+			Backup full plate or similar ground armor?
+			No bed roll. It's undefined, but I'm going to say I sleep standing up on one leg, bird-style.
+
+Copy of the Arcane Archer rules online: http://dnd5e.wikidot.com/fighter:arcane-archer
+
+Swap that final fighter level for a level of another class?
+	It doesn't provide you much
+	Attractive classes:
+		Cleric
+			War domain's War Priest abilitiy means bonus action extra attack up to Wis bonus
+			Spellcasting:
+				Cantrips:
+					Guidance
+					Light
+					Sacred Flame
+				Solid 1st lvl spells
+					Bless
+					Cure Wounds
+						Cure Wounds is probably mandated, and would benefit from Wisdom
+					Shield of Faith
+						Always prepared due to War domain!
+					Guiding Bolt
+						Probably not worth it unless you've got nothing better for a slot
+					Divine Favor
+						Always prepared due to War domain!
+						https://5thsrd.org/spellcasting/spells/divine_favor/
+				Good resource: https://5thsrd.org/spellcasting/spell_lists/cleric_spells/
+			Would probably want to swap stats to up Wis
+			Diety:
+				Unpronounceable, a war god of my people
+				If we want to go with a listed one, Tempus would be a good Forgotten Realms candidate
+					Or some feathered manifestation thereof?
+					Maybe Tempus adopted after being sent to the material plane, a rebuke to the shaman that sent him
+	All of this would be a different story if this was a one shot, where getting to later fighter/archer abilities
+	sooner might be important

@@ -1,0 +1,235 @@
+Classes To Consider:
+	8 4 Fatespinner, Min cast 4, CA 37
+	Up to 7 Init of 7fold Veil, Lots of feats (overlap with Archmage), CA 44
+	10 Up to 1 Wayfarer Guide, Know(geog) 10, CA 65
+	Up to 5 Archmage, 3 Feats (all but one overlap with Init), DM 55
+	Up to 10 Loremaster, Skill focus know any, DM 191
+	Up to 5 Abjurant Champion, 1 Martial Weap Prof + Combat Casting + 5 BAB, CM 50
+	2 Unseen? skills
+Classes To Take:
+	Wizard 7 
+		Scribe Scroll + 1 Bonus + 3 Feats
+	 	+3 BAB
+	Fatespinner 4
+		1 Feat
+		+1 BAB
+	Wayfarer Guide 1
+		1 Feat
+	Wizard 1
+		+1 BAB
+	Abjurant Champion 3
+		1 Feat - 1 Feat
+		+3 BAB
+	Archmage 2
+		1 Feat - 3 Feat
+		+1 BAB
+	Archmage 1
+	Abjurant Champion 1
+	Demilich
+	Sorcerer 1
+	Ultimate Magus 10+?
+Gray Elf
+Max Age: 694
+HP: 26
+
+Spellbook:
+	0:
+		All
+		Amanuinsis (SC 9; Photocopies)
+		Detect Magic 			x4
+	1:
+		Alarm
+		Benign Transposition (SC 27)
+		Burning Hands			x1
+		Detect Secret Doors	25
+		Detect Undead		25
+		Disguise Self			x1
+		Enlarge Person
+		Hold Portal		25
+		Identify			x1
+		Mage Armor			
+		Magic Missle			x2 
+		Nystul's Magic Aura	25
+		Obscuring Mist		25
+		Protection from Chaos	25
+		Protection from Evil	25
+		Protection from Good	25
+		Protection from Law	25
+		Ray of Enfeeblement
+		Reduce Person		25
+		Shield				x3 
+		Shocking Grasp		25
+		Tenser's Floating Disk	25
+		True Strike		25
+		Undetectable Alignment	
+		Unseen Servent		25
+	2:
+		Baleful Transposition (SC)	x1
+		Bear's Endurance	150
+		Bull's Strength		150
+		Cat's Grace		150
+		Command undead
+		Continual Flame		200
+		Dark Vision		150
+		Eagle's Splendor	150
+		Fox's Cunning		150
+		Locate Object
+		Melf's Acid Arrow		x4 
+		Mirror Image		150	x1
+		Owl's Wisdom		150
+		Protection from Arrows		
+		Scorching Ray
+		See Invisibility	150	
+	3:
+		Analyze Portal	(SC 10)	375
+		Anticipate Teleportation (SC 13)x.5 (Alternates daily with Nondetection on phylactory)
+		Arcane Sight		375
+		Clairaudience/Clairvoyance
+		Fireball			x5 |
+		Fly			375
+		Haste			375
+		Hold Person		375
+		Lightning Bolt			x1
+		Major Image
+		Nondetection			x.5 (Alternates daily with Anticipate Teleportation)
+		Protection from Energy
+		Suggestion		375
+		Tongues			375
+	4:
+		Animate Dead
+		Assay Spell Resistance (SC 17)	x1
+		Evard's Black Tentacles		
+		Invisibility, Greater		x4 
+		Scrying			700
+		Stoneskin			x1
+		Wall of Fire			x1 
+	5:
+		Cone of Cold			x3
+		Permanency
+		Teleport			x3 
+		Wall of Force			x1
+	6:
+		Chain Lightning			x2
+		Create Undead
+		Globe of Invulnerability	x2
+		Guards and Wards	1,650
+		Dispel Magic, Greater		x2 
+	7:
+		Avasculate (SC)			x2 
+		Delayed Blast Fireball		
+		Elemental Body (SC)		x1 |
+		Energy Immunity (SC)		x1 |
+		Plane Shift		2,275
+		Teleport, Greater	2,275	x1
+	8:
+		Create Greater Undead
+		Horrid Wilting			x3 
+		Polar Ray
+		Spell Engine			x1
+	9:
+		Dominate Monster
+		Summon Elemental Monolith (SC)	x3 ||
+		Wail of the Banshee		x1
+		Wish
+
+Permanent Spells:
+	Resistance		   2,070
+	See Invisibility
+
+Items:
+	Spellbook
+	Headband of Intellect +6  36,000
+	Gloves of Dexterity +6	  36,000
+	Bracers of Armor +8	  64,000
+	Everburning Torch	      50
+	Ring of Protection +2	   8,000
+	Dusty Rose Ioun Stone (+1 insight bonus to AC)
+	Portable Hole		  20,000
+	5x  Aquamarine		 10x 100
+	10x Tourmaline		 10x 100
+	5x  Garnet		  5x 100
+	2x  Pearl		  2x 100
+	Silver Wheel		     500
+	Royal Outfit		     200
+	10x Good Meal
+	2x  Blank Spellbook
+	Bedroll
+	Chalk				.01
+	Flask				.03
+	Flint and Steel		       1
+	Ink			       8
+	Pen				.1
+	Mug				.02
+	Paper				.4
+	Belt Pouch		       1
+	Spell Component Pouch	       5
+	5x  Sack		  5x    .1
+	Soap				.5
+	Tent			      10
+	Vial			       1
+	Waterskin		       1
+	Whetstone			.02
+	Hemp Rope		       1
+	Dagger			       2
+	Merchant's Scale	       2
+	Thieves' Tools		      30
+	Pearl of Power (3rd)	   9,000
+	Pearl of Power (2 spells, different levels 6 or below)
+	Crystal Ball of True Seeing
+	Cloak of Charisma +6
+	Stone of Good Luck
+	Phylactery
+		Gem
+		Intelligent							15,000
+			Ego:	23
+			Int	19
+			Wis	10
+			Cha	19
+			Speech, Telepathy
+				Languages: Common, Elven, Draconic, Infernal and Undercommon
+					   Reads all languages and magic
+			120ft., Darkvision, Blindsense and Hearing
+			Special Purpose: Serve Aramil M'or.
+			Dimension Door at will (Special Purpose) on self and wielder	50,000
+			Continous Detect Scrying					10,000
+			Clairvoyance 3/day						16,000
+			Major Image 1/day						 5,400
+			Continous Deathwatch						 3,600
+			Locate Object 3/day						 6,500
+			Detect Magic at will						 3,600
+	Gem (2/3) Related to (source of?) Chaos Faction's antimagic fields
+	Ring of Freedom of Movement
+	Goggles of Minute Seeing
+	Boots, Winged (Fly 3/day for 5 min. as Fly spell)
+	Black Robe of the Archmagi
+	Nolzur's Marvelous Pigments (Paint something in 2D to create it)
+	Paint brush
+	Orange Ioun Stone (+1 caster level)
+	Dragon:
+		Bracers of Armor +5
+		Gloves of Dex +6
+		Belt of Giant Strength +6
+		Cloak of Resistance +5
+		Exotic Military Sadle
+	Corpses:
+		Fernando
+		Marilith
+		Human from temple of Hextor (<= 5HD)
+
+Money:	165,854
+
+Buy Later:
+	More Pearls of Power
+			     9 is 	81,000
+
+Notes:
+	-Ally: Ionhill, Half Elven Fighter 15
+		-Trainer
+		-Based out of Awgard
+		-I have been there and can teleport to and from
+		-Has not yet seen me as a lich
+	-Protection of Church of Hextor
+		-From Bahamut
+	-Have not yet explored the hallway below trap door in ziggaraut
+	-Captured priest of Heironyous at ziggaraut
+		-Appeared to be leader of paladins there

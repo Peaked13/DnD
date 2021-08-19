@@ -1196,13 +1196,13 @@
 	-We'd seen evidence of some of the dwarven generals being raised as wights, and think that the
 	 "dwarves" seen below still doing the bidding of the humans may be more such.
 	-In sweeping the rest of the fortress, we found a dwarf corpse unlike the others, where something
-	 had burst out _of it's skull_.
+	 had broken open it's _skull_.
 		-Dokinanth and Starfire had apparently seen similar wounds before Sszythrach joined them, on
 		 a pirate ship where, through object reading magic, Dokinanth had determined that blue armored
 		 humans had been present.
 	-After we completed, our search of the castle, Starfire appeared.
 		-He'd apparently been working with his spy network in search of more shards of the sword of
-		 Io.
+		 Io (Jeff couldn't make last session).
 		-He believes he's found the locations of both the Divination and Enchantment shards.
 			-The Enchantment one lies on The Isle of the Mad.
 			-The Divination one is at The Oracle, protected by a great gold dragon.
@@ -1218,14 +1218,15 @@
 		-From one, though, a long line of slaves emerged. They were lead to the fourth hole, directly
 		 beneath the floating citadel, and were being forced into it.
 		-Sszythrach wished to bring swift destruction to his foes, starting immediately, but the
-		 others counciled caution, and said the tiny Caltor was fatigued and needed rest.
+		 others counciled caution, and said that tiny Caltor was fatigued and needed rest.
 			-Accustomed to the weakness of the lesser races, Sszythrach assented, acknowledging that
 			 we may also require new spells to fit him into these caves.
 		-They also wished to send someone ahead to scout, a task for which shadow-y Starfire and tiny
-		 Caltor volunteered. Starfire flew Cal down and, finding the hole narrow even for runty
-		 Starfire, Starfire tossed Cal in.
+		 Caltor volunteered. Starfire flew Cal down and, finding the hole narrow even for his runty
+		 self, Starfire tossed Cal in.
 			-The hole opened into a volcanic-looking tunnel, leading to a frozen "river" of obsidian.
 			-The slaves were being chained to cables anchored in the stone walls, and then forced
+			 to follow the cables deeper into the tunnel.
 			-The guards, matching the dead leaders above, bore a tatoo of a dwarven face, the mark
 			 of Clan Mithralmane, apparently our traitors.
 			 along those steel paths, deeper into the gound.
@@ -1249,7 +1250,8 @@
 				-Cal offered them some rations, while Sszythrach barked questions at them.
 				-We learned they were also of Clan Mithralmane, and claimed they'd been "loyal" (to
 				 their treacherous leaders), but had been chained nonetheless.
-					-Sszythrach 
+					-Sszythrach lectured them on the wages of treachery against their _true_ masters,
+					 but mercifully decided they'd been punished enough.
 					-One volunteered that some dwarves in the capitol, apparently of more stalwart
 					 stuff, still were actively resisting.
 				-We asked them where the slaves were being taken, and they said they'd seen many
@@ -1268,7 +1270,7 @@
 					-He also saw visions of chambers, seemingly within it, containing figures somewhat
 					 like the squid elves they'd encountered, though taller, four-fingered (rather
 					 than five) and of somewhat more. . . octopus-like features.
-					-And of another, containing a great, tendrilled brain in a tank, devouring smaller
+					-And of another, containing a great, tentacled brain in a tank, devouring smaller
 					 brains.
 					-And then, of conflict amongst the tentacled humanoids, one stabbing another,
 					 and then cracking open an egg in the great brain's tank, which went red, and
@@ -1310,7 +1312,7 @@
 							-Dokinanth wanted more, though, and wished to know of the outer realms
 							 it had seen, to perhaps correspond with it in some way.
 							-It volunteered that the only way to leave "this crystal sphere" (?) was
-							 with the Spelljammer drive, contained on this ship. It would give it to
+							 with the "Spelljammer drive", contained on this ship. It would give it to
 							 us, if only we would assent to it's bargain.
 						-This struck us as a reasonable bargain, and we assented.
 						-It then told us that the weapons the girl had armed herself with required
@@ -1347,7 +1349,8 @@
 			 a dispute between them.
 			-A black also lept from the water, joining the battle with gouts of acid, and then a great
 			 silver dragon also emerged from a cloudbank.
-			-Finally, a tentacled 
+			-Finally, a great tentacled silhouette appeared in the fog briefly.
+				-Perhaps aid from our indebted storm god?
 		-Around the same time, Starfire got a strange look in his eyes, and then suddenly burst with
 		 light, glowing like a beacon.
 			-He said he'd seen a vision of the girl on the way to The Rookerie's amphitheater,
@@ -1375,23 +1378,300 @@
 	-With the leader fallen, the army remained.
 		-Sszythrach, none too happy with Arvaec at the moment, grabbed him by the ankle and took wing.
 		-Setting him down in admidst the settlement buildings around The Rookerie, Arvaec cast Death
-		 Dragon and joined the street fighting, while Sszythrach flew on to the nearest beached ship.
+		 Dragon and joined the street fighting, while Sszythrach flew on, to the nearest beached ship.
 		-Flying from ship to ship, Sszythrach blasted the ships and crowds of soldiers with his breath.
-		-The others visited similar devestation upon our enemies, Dokinanth with spell and breath
+		-The others visited similar devastation upon our enemies, Dokinanth with spell and breath
 		 while Starfire drained the very life from them, some three hundred rising as spectors under
 		 his control.
-	-As the sun rose, broken survivors slowly crawled ashore, where they were met and offer death or
+	-As the sun rose, broken survivors slowly crawled ashore, where they were met and offered death or
 	 to submit to the will of the council.
-	-Meanwhile, the 5 wyrms who came to our aid eventually came ashore, and now wait for us in the
-	 amphitheater.
+	-Meanwhile, the five wyrms who came to our aid eventually came ashore, but busied themselves barking
+	 orders to their servants, and then took wing.
 		-That's where we're leaving off, also leaving (the fuckton of) loot for the next session.
+
+
+TODO:
+	-Speech:
+		I have promised the humans my vengeance.
+		Io has sent these creatures to unify his children. I say we gratefully accept his blessing! Let us indeed stand united. . . to bring war to these humans in their own countries. We will burn their cities and lay waste to their lands! The survivors will fear the skies for generations!
+		Do not mistake this for _just_ sweet vengeance, though. This is truely a blessing from Io!
+		War is a potent force for our unification, to be sure! However, humans cannot possibly stand before dragons long. Io, in his wisdom, would seem to have planned for this, though! When their nations fall, though, the _territory_ will remain. . .
+		How much conflict among us is born from fights over wealth and territory? With these new vistas, that pressure will be eased! And, though we are mighty, I doubt even our kind could wipe humans from the land entirely, small and fast breeding as they are. If the more bellicose among us still find they crave conflict, they can satisfied for a millenia at least, digging the vestiges of humanity from their borrows to secure our new holdings.
+		Io's offer to us here is as generous as it is wise. We'd be wise to accept it.
+
+
+8/18/21:
+	-Servants of the wyrms who arrived to our rescue came to speak with us.
+		-They informed us that the wyrms were forming a new council, and were currently busy seeing
+		 to their clans in light of this new order, but that they wished to speak to us in two weeks
+		 time.
+			-There goes the appetizing power vacuum. . .
+			-The new council:
+				Green - Blighttooth
+				Blue - Glimmerscale
+				Gold - Blaze Talons (Sheeredni-vaktar in Draconic)
+				Silver - Winter Warden (Kuulvaysheniruss in Draconic)
+				Amethyst - Stone Crested (Loexpersveksauriv in Draconic)
+		-The servants of the wyrms also searched the human ships and corpses, taking anything of value,
+		 and heaped it in the amphitheater where it was divided into shares for the various groups of
+		 dragons that arrived to the battle.
+	-Meanwhile, we returned to the buried ship, and salvaged our promised spelljammer helms with the
+	 help of the voice.
+		-We installed the whole drive system in the floating castle, and returned with it to The
+		 Rookerie.
+		-Treasure_for_dragons.odt has rules for the helms.
+	-We also took some time to complete the saining of my name.
+		-And inadvertently created a wild magic zone in one of The Rookerie's storerooms.
+		-Dokinanth eventually completed the saining, though, and even then added a rune to my true
+		 name, granting me _+1 base attack_.
+	-Dokinanth also attempted the same with Starfire.
+		-In the course of it, he managed to rip a hole in spacetime, sucking us all through to The
+		 Elemental Plane of Earth.
+			-We found ourselves in a vast cavern in which a huge crystal structure should, attended
+			 by various crystalline creatures that seemed to shed cold.
+				-The others had heard of "Elemental Councils", and suspected this might be one such,
+				 though what a "council" of mindless forces of nature means is unclear.
+				-Starfire thought the crystals likely valuable, in part because of a psionic resonance
+				 of some kind, but we opted to leave the creatures be for now.
+		-The portal was two ways, though, (and not going anywhere, it seems) so we walked back
+		 through it and completed the saining and granting him his own +1.
+	-Dokinanth then set in on his own name.
+		-Complete with another botch, swapping a big chunk of the store room with an equal section
+		 of The Windswept Depths of Pandamonium.
+			-It took the portal and a portion of the wild zone with, but specifically seemed to leave
+			 living creatures behind, leaving us standing in a substantially craggier storeroom.
+		-He did eventually complete his own name, and granted himself some skill points.
+	-We then prepared for the arrival of this new council.
+		-Starfire and Dokinanth had mentioned meeting the Green and Blue in the past, so Sszythrach
+		 asked them about them.
+			-They had settled a conflict between the two of them, over some servants taken by one
+			 from the other, and had sided with the Blue. The two don't seem to care for one another,
+			 and the Green likely is none to happy with my fellows, while the Blue is, and has aided
+			 them in the past.
+		-Sszythrach also asked them what they knew of the others.
+			-Blaze Talons was the wyrm representative for the gold dragons on the old council.
+			-Winter Warden was the wyrm representative for the silver dragons on the old council.
+			-Stone Crested was the advocate of Clan Startail.
+	-One by one, the wyrms arrived, and we were eventually brought before the council.
+		-After quite a lot of waiting, and similar humiliations. . .
+			-Actually quite a lot or ritualized humiliation. Sszythrach is going to remember the 
+			 names of this new council.
+		-Finally brought before them, Dokinanth questioned this ill treatment for the saviors of
+		 The Rookerie, while Starfire asked them where _they_ were when the council betrayed us,
+		 sullying the image of us all, by becoming profane dracolichs.
+			-The Blue, Gold, Silver, and Amethyst all seemed suitably agrieved, but the Green was
+			 deadset against us.
+		-They claimed we had violated the law by pretending to the status of council members and
+		 claiming the hoards of it's dead members, without consulting the wyrms of this land.
+			-The Green apparently wanted our deaths, but the Blue suggested instead exile, to
+			 which the rest had agreed.
+		-Sszythrach had little problem with this (though a big one to eventually resolve with the
+		 wyrms). It is not his home, and it seems the land is thoroughly unworthy of me.
+			-Sszythrach made the first part of that speech:
+				I have promised the humans my vengeance.
+				Io has sent these creatures to unify his children. I say we gratefully accept his blessing! Let us indeed stand united. . . to bring war to these humans in their own countries. We will burn their cities and lay waste to their lands! The survivors will fear the skies for generations!
+				Meanwhile, hide and squabble amongst yourselves. . 
+	-The gave us two months to order our affairs and bring our followers and wealth with us.
+		-Byond our followers, joining us on the journey would be:
+			-The Desmodu and Salamanders.
+			-The withered, comatose body of The Speaker.
+			-Glimmerscale's circle of hags also joined us, claiming that it was fated to be so,
+			 a thing they could see, but they did not know why.
+				-Dokinanth was suspicous of one of them, though, and questioned her. She professed
+				 a continued loyalty to Glimmerscale, and said that she would still be in contact
+				 with him.
+			-We were also joined by younger dragons who were sympathetic to Sszythrach's attempts
+			 to rally them against the humans, in which he also enlisted the rest of the party.
+				-Dokinanth took the lead on the speechifying, once Sszythrach brought him on board.
+				-The dragons who agreed to come with us:
+					Gold-4
+					Silver-2
+					Bronze-3
+					Copper-4
+					Brass-8
+					Red-8-
+					Blue-2
+					Green-3
+					White-8
+					Black- 4
+					Amathyst- 6
+					Quartz- 6
+					Emerald- 1
+					Sapphire- 7
+					Topaz- 4
+				-TODO: d4 to determine age category, from hatchling (1) to juvenile (4).
+				-We're previously acquainted with one of the Reds, Profidious.
+		-We'd be taking our floating castle with us, providing us a residence for the moment, though
+		 it's _extremely_ crowded, with all of the above.
+		-That just makes our next big question all the more urgent: Where to?
+			-Though the dragons of this plane speak of other landmasses, little is known about them.
+			-Dokinanth and Starfire at least knew of a cold land, populated by giants, far to the
+			 South. Apparently The Keeper (?) had once tried to send them there, in search of true
+			 name secrets and to find the source of the corruption, but they never went.
+				-That's one option, at least.
+			-What of the homeland of the humans?
+				-We don't know where it is, but perhaps Divinations could tell?
+				-Oh, another option presents itself! Dokinanth has managed to restore The Speaker,
+				 through True Name workings.
+					-Reacting to our exile from the isles, he said that we were a threat to the new
+					 council, that our deeds meant their power was. . . insecure.
+					-Asking us our intent now, we told him that we meant to strike back at the
+					 humans that had plagued the isles in his absence.
+						-He was unsurpised by their presence, and in fact claimed to have called
+						 them!
+						-He had discovered the council was corrupt, and had sent the girl we slew
+						 dreams of the buried weapons in the desert. He meant to destroy the corrupt
+						 council members.
+						-At this, Dokinanth gestured to the drive system, speaking of our own salvage
+						 from the ship, at which The Speaker's eyes widened.
+						-He spoke excitedly of the wonderous places that might allow us to reach,
+						 contrasting it with our (paltry, in his eyes) goal of human destuction.
+						-Sszythrach insisted that he had made a promise, and asked The Speaker what
+						 he knew of their homeland.
+							-He said that the clan of dragon hunters that had attacked us was in fact
+							 residing on the isles themselves, hidden amongst The Painted Ones for
+							 centuries.
+							-Blast! This exile has rendered them beyond our reach (for now). At very
+							 least our enemies can plague one another.
+						-We asked him then what he knew of travel to these other spheres.
+							-He spoke of a creature brought here by the gods. One which destroyed the
+							 human gods, though it was eventually bound, it's name broken. It's name
+							 gone, it is now known as The Tarrasque, or "World Breaker".
+							-The gods, it said, brought this creature from another crystal sphere.
+							-The ark, then, in which they did so, the gods are said to have stored in
+							 the sun.
+						-We pressed him on the subject of navigating to these other spheres, and he
+						 suggested investigating these other ships, the crashed one, or (and here he
+						 seemed rather eager) the ark in the sun.
+							-Sszythrach supposed he may be able to survive in even such a place. . .
+							-How, then, could we reach the realm of the sun?
+								-He was no longer sure, bereft of much of his memories as he was,
+								 from prior to the breaking of his name.
+							-Well then, Dokinanth attempted to restore his memories through true
+							 naming, and met with success!
+								-His memories restored, he spoke of stone tablets, found long ago by
+								 his people, that told of the gods making a deal with illithids for
+								 a ship, a spelljammer.
+								-The realm of the sun must be plane shifted to, with it's focus being
+								 a daidem of purest gold.
+									-Which Dokinanth promptly miracled up from a clawful of coins.
+								-You then must sail a sea of golden flame to find an island, upon
+								 which rests the wreckage of the ark.
+	-Well, off to the sun.
+		-Sszythrach plane shifted there alone, and indeed arrived in a sea of golden flames, boiling
+		 like a cauldron.
+		-The place managed to be hot even for Sszythrach.
+		-Sszythrach took wing, and (somewhat languidly) flapped towards a land mass vaguely seen
+		 in the distance.
+		-Beneath me, creatures of living lava occasionally surfaced amidst the swiling flame, some
+		 far larger than even Sszythrach imagined life could be.
+		-Occasionally, Sszythrach saw mountains of magma and molten gold beneath him, the closest
+		 thing to a solid surface on which to rest he saw, but Sszythrach's endurance is the stuff
+		 of legend and he flew on.
+		-Sszythrach flew for hours, as the island very gradually grew larger in the distance.
+		-As it finally grew close, he could see something hovering over the island, outshining even
+		 the sun beneath me, a great white light over the island.
+		-As Sszythrach came close to the edge of the island, he could see the wreckage of the ark, an
+		 improbably Noah-like craft to have survived the heat. It lay a few miles towards the center
+		 of the island.
+			-It was also broken open, with claw marks all around the opening.
+		-Sszythrach could also see more clearly the source of the white light, a shining creature
+		with six wings, skin of shining gold, blindfolded and with an absurdly large sword at it's
+		waist.
+			-Sszythrach recognized it as a kind of angel, though not a kind he knew.
+			-As Sszythrach got to the edge of the island, it turned to look at him, despite it's
+			 blindfold.
+			-Sszythrach addressed it, with Tongues, asking who it was?
+				-In answer he received a great cacophony, one which he eventually realized was many
+				 languages at once, some of which he recognized.
+				-Straining, he could just make out the strange speech.
+			-Rather than an answer, he instead received a warning. It said the island was forbidden
+			 by the gods, and that to approach would mean death.
+			-It demanded Sszythrach leave this place, and asked what it would take to make that so.
+				-Sszythrach explained he came in search of the knowledge to leave this crystal
+				 sphere, and that he would happily leave with that in hand. Did the being have such
+				 knowledge?
+			-Seeing Sszythrach would not leave empty-handed, it drew it's blade and flew at him.
+			-It was met with disintegration, but, in this particular instance, it felt like Sszythrach
+			 was aided.
+				-A storm rose around him, and amidst flame, ash, and green energy, his breath also
+				 crackled with lightening. It would seem the not _all_ gods forbade this island, and
+				 the storm god still stood with Sszythrach.
+		-With that, Sszythrach began a search of the wreckage.
+			-He spent four hours searching, but eventually heard a sound, not aloud, but in his mind.
+			-It was a a repeating signal, seemingly of distress: "It has escaped! Run, if you can,
+			 but please, help me!"
+			-Sszythrach climbed inside the sundered ship, in search of the signal, and, after hours
+			 of searching, came to a pedestal supporting an assemblage of glass tubes and machinery,
+			 including a metal claw that thrashed and flailed.
+				-Inside the largest of the tubes, a brain floated.
+			-As he approached it closer, the signal in his mind changed, now seemingly addressing
+			 him directly, in a plea fo aid.
+				-"Who has left you here?"
+					-Bahamut brought it here, venturing deep into the phlogiston to retrieve it,
+					 seeking it's knowledge. When it refused to yield it, he slew it, preserving it
+					 as it now was.
+				-"What knowledge did they seek? To travel beyond this crystal sphere?"
+					-"A weapon."
+					-"Ah, I think I know of what you speak. . ."
+				-Sszythrach confessed he came in search of knowledge as well, the escape from this
+				 sphere he'd mentioned.
+					-"Grant me my freedom and I will aid you in attaining what you seek."
+					-He did not smell of lies (though seemed a bit crazy, as one would be after a
+					 millenia or so), so Sszythrach assented.
+					-Lacking Use Psionic Device, I needed to open my mind to the creature, but was
+					 rewarded with a rush of knowledge, allowing me to use the machinery that would release this sorry creature.
+					-At the pull of a final lever, the pillar retracted and the device containing
+					 the brain was lowered to the floor, allowing it to move on a mechanism
+					 unfamiliar to Sszythrach (treads).
+			-I followed that by Plane Shifting us back to the Material, though I ended up quite a
+			 distance away, brain-bot in hand, flying above the ocean.
+	-It was quite a journey back to the fortress, fatigued as Sszythrach was, but he finally reached
+	 the floating fortress's dock.
+	-Sszythrach performed introductions, and told the rest that the creature had agreed to aid us.
+		-Upon reaching the chamber in which we'd installed the helms, it asked us how we'd come by
+		 helms of illithid manufacture, and we relayed the story of the illithid that traded the
+		 spelljammer drive for it's solitude.
+		-It then moved over to the central tank, and began to smash at it's glass container with
+		 it's claw, eventually shattering it and throwing its brain into the pool.
+		-It then asked us where to?
+			-We confessed we were actually unsure, and merely wished at the moment to leave this
+			 place far behind.
+			-It then suggested Crucible, a place of commerce.
+				-Sszythrach said that would likely suit Dokinanth and Cal just fine, and seemed a
+				 good place to get our bearings.
+				-With that, we were off at speed, soon leaving behind this sphere and travelling
+				 through the misty green phlogiston.
+
+
+TODO:
+	-Loot bookkeeping:
+		-See Treasure_for_dragons.odt
+		-Full value for coins, gems, art, but 1/4 value of magic items towards hoards.
+		-Spreadsheet-ify items people can claim.
+		-Add existing loot too:
+			Dragon's Bane sickle +3
+			Blue dragonscale
+			+5 vorpal great axe (Huge)
+			blue dragon scale
+			Dragons bade longsword + 6
+			Dragonbane Spear + 6 (improved crit 19-20 x3)
+			Dragonscale shirt +5 (25% chance to ignore crits)
+			Bracers of armor +5 (3 sets)
+			Ring of true ressurection 2
+		-Some items are defined in Roll20.
 
 
 -TODO:
 	-Spreadsheet-ify followers.
+		-You probably have more of them! You went up two age categories, and the last, unexpected
+		 one, at least, could not have been factored in.
 	-Clarify how that "year and a day" works.
 		-You'd initially figured it started immediately, but that seems unlikely to be true with you
 		 now sleeping many years past that.
+
+
+-TODONE:
 	-Figure out that greater touchstone power.
 		-Didn't get the details of it written down.
 		-Lesley's links related to it:
@@ -1402,9 +1682,6 @@
 			 non-magical abilities until user reverts to their human form. Greater attunement lasts
 			 for 1 lunar cycle, and must be renewed using the 3 thuribles."
 		-The Thuribles: https://discord.com/channels/759886843801239603/759886844258943039/869359796514590720
-
-
--TODONE:
 
 
 -Flavor stuff:

@@ -1,32 +1,32 @@
 &{template:default} {{name=Full Attack (Divine Favor +3, Greater Magic Fangs: All,Bite+4, Heroes' Feast)}}
-&{template:default} {{name=Bite}} {{attack=[[1d20cs>20+19+10-2+4+3+1]] Crit:[[1d20cs>20+19+10-2+4+3+1]]}} {{damage=[[2d8+10+4+3]] Crit:[[2d8]]}}
-&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
-&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
-&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[1d8+5+1+3]] Crit:[[1d8]]}}
-&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[1d8+5+1+3]] Crit:[[1d8]]}}
-&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+19+10-2+1+3+1]] Crit:[[1d20cs>20+19+10-2+1+3+1]]}} {{damage=[[2d6+15+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Bite}} {{attack=[[1d20cs>20+20+10-2+4+3+1]] Crit:[[1d20cs>20+20+10-2+4+3+1]]}} {{damage=[[2d8+10+4+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+20+10-2+1+3+1]] Crit:[[1d20cs>20+20+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+20+10-2+1+3+1]] Crit:[[1d20cs>20+20+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+20+10-2+1+3+1]] Crit:[[1d20cs>20+20+10-2+1+3+1]]}} {{damage=[[1d8+5+1+3]] Crit:[[1d8]]}}
+&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+20+10-2+1+3+1]] Crit:[[1d20cs>20+20+10-2+1+3+1]]}} {{damage=[[1d8+5+1+3]] Crit:[[1d8]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+20+10-2+1+3+1]] Crit:[[1d20cs>20+20+10-2+1+3+1]]}} {{damage=[[2d6+15+1+3]] Crit:[[2d6]]}}
 
 
 &{template:default} {{name=Full Attack}}
-&{template:default} {{name=Bite}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[2d8+10]] Crit:[[2d8]]}}
-&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[2d6+5]] Crit:[[2d6]]}}
-&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[2d6+5]] Crit:[[2d6]]}}
-&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[1d8+5]] Crit:[[1d8]]}}
-&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+19+10-2]] Crit:[[1d20cs>20+19+10-2]]}} {{damage=[[1d8+5]] Crit:[[1d8]]}}
-&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+19+10-2+1]] Crit:[[1d20cs>20+19+10-2+1]]}} {{damage=[[2d6+15+1]] Crit:[[2d6]]}}
+&{template:default} {{name=Bite}} {{attack=[[1d20cs>20+20+10-2]] Crit:[[1d20cs>20+20+10-2]]}} {{damage=[[2d8+10]] Crit:[[2d8]]}}
+&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+20+10-2]] Crit:[[1d20cs>20+20+10-2]]}} {{damage=[[2d6+5]] Crit:[[2d6]]}}
+&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+20+10-2]] Crit:[[1d20cs>20+20+10-2]]}} {{damage=[[2d6+5]] Crit:[[2d6]]}}
+&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+20+10-2]] Crit:[[1d20cs>20+20+10-2]]}} {{damage=[[1d8+5]] Crit:[[1d8]]}}
+&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+20+10-2]] Crit:[[1d20cs>20+20+10-2]]}} {{damage=[[1d8+5]] Crit:[[1d8]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+20+10-2+1]] Crit:[[1d20cs>20+20+10-2+1]]}} {{damage=[[2d6+15+1]] Crit:[[2d6]]}}
 
 
-&{template:default} {{name=Crush}} {{attack=[[1d20cs>20+19+10-2+1]] Crit:[[1d20cs>20+19+10-2+1]]}} {{damage=[[2d8+15+1]] Crit:[[2d8]]}}
+&{template:default} {{name=Crush}} {{attack=[[1d20cs>20+20+10-2+1]] Crit:[[1d20cs>20+20+10-2+1]]}} {{damage=[[2d8+15+1]] Crit:[[2d8]]}}
 
 
 &{template:default} {{name=Full Attack (Divine Favor +3, Greater Magic Fangs: All,Bite+4, Heroes' Feast, Bull's Strength, Righeous Might, Haste)}}
-&{template:default} {{name=Bite 1}} {{attack=[[1d20cs>20+19+10-4+4+3+1]] Crit:[[1d20cs>20+19+14-4+4+3+1]]}} {{damage=[[4d6+14+4+3]] Crit:[[4d6]]}}
-&{template:default} {{name=Bite 2}} {{attack=[[1d20cs>20+19+10-4+4+3+1]] Crit:[[1d20cs>20+19+14-4+4+3+1]]}} {{damage=[[4d6+14+4+3]] Crit:[[4d6]]}}
-&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d8+7+1+3]] Crit:[[2d8]]}}
-&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d8+7+1+3]] Crit:[[2d8]]}}
-&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d6+7+1+3]] Crit:[[2d6]]}}
-&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d6+7+1+3]] Crit:[[2d6]]}}
-&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+19+14-4+1+3+1]] Crit:[[1d20cs>20+19+14-4+1+3+1]]}} {{damage=[[2d8+17+1+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Bite 1}} {{attack=[[1d20cs>20+20+10-4+4+3+1]] Crit:[[1d20cs>20+20+14-4+4+3+1]]}} {{damage=[[4d6+14+4+3]] Crit:[[4d6]]}}
+&{template:default} {{name=Bite 2}} {{attack=[[1d20cs>20+20+10-4+4+3+1]] Crit:[[1d20cs>20+20+14-4+4+3+1]]}} {{damage=[[4d6+14+4+3]] Crit:[[4d6]]}}
+&{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+20+14-4+1+3+1]] Crit:[[1d20cs>20+20+14-4+1+3+1]]}} {{damage=[[2d8+7+1+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Claw 2}} {{attack=[[1d20cs>20+20+14-4+1+3+1]] Crit:[[1d20cs>20+20+14-4+1+3+1]]}} {{damage=[[2d8+7+1+3]] Crit:[[2d8]]}}
+&{template:default} {{name=Wing 1}} {{attack=[[1d20cs>20+20+14-4+1+3+1]] Crit:[[1d20cs>20+20+14-4+1+3+1]]}} {{damage=[[2d6+7+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Wing 2}} {{attack=[[1d20cs>20+20+14-4+1+3+1]] Crit:[[1d20cs>20+20+14-4+1+3+1]]}} {{damage=[[2d6+7+1+3]] Crit:[[2d6]]}}
+&{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+20+14-4+1+3+1]] Crit:[[1d20cs>20+20+14-4+1+3+1]]}} {{damage=[[2d8+17+1+3]] Crit:[[2d8]]}}
 
 
 

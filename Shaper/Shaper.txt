@@ -41,6 +41,7 @@ Rank	Divine Saliant Abilities
 	2	(1)
 Interesting ones:
 	DR 5 and less:
+		-Oh! Divine Skill Focus is an _amazing_ adjunct to Epic spell casting.
 		-Alter Size then Alter Form, and even more after DR 6.
 			-Fits being a creature in full conscious control of his physicality.
 		-Automatic Metamagic: Amazing, but need to get a metamagic feat first.

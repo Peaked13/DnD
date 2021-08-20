@@ -3,9 +3,9 @@ Psycrystal belt: 3
 Cure Moderate from Pale Green Ioun: 3
 
 Currently active powers:
-	15	Mind Blank, cast after waking in Elysium (1 day duration)
-	1	Filled my Black Lotus after waking in Elysium (23 hour duration, overchanneled)
-	23	Inertial armor +15 cast after waking in Elysium (23 hour duration, overchanneled)
+	15	Mind Blank, cast after waking in Xul-Jarak (1 day duration)
+	1	Filled my Black Lotus after waking in Xul-Jarak (23 hour duration, overchanneled)
+	23	Inertial armor +15 cast after waking in Xul-Jarak (23 hour duration, overchanneled)
 		358-15-1-23=319
 
 

@@ -27,7 +27,7 @@ Stuff you've done in the past:
 AC 33 (Inertial Armor and Precognition, Defensive)
 
 106 of 106 HP ( temp, 23 minutes, cast )
-295 of 358 PP
+271 of 358 PP
 Cognizance Crystal (5 points): 5
 
 Psycrystal HP: 53 of 53 ( temp)

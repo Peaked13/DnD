@@ -1648,6 +1648,7 @@ TODO:
 	-Loot bookkeeping:
 		-See Treasure_for_dragons.odt
 		-Full value for coins, gems, art, but 1/4 value of magic items towards hoards.
+			-What if we sell, them, though?
 		-Spreadsheet-ify items people can claim.
 		-Add existing loot too:
 			Dragon's Bane sickle +3
@@ -1660,6 +1661,11 @@ TODO:
 			Bracers of armor +5 (3 sets)
 			Ring of true ressurection 2
 		-Some items are defined in Roll20.
+		-All entered, so claim your gold and items once everyone has had a chance to contest stuff.
+			-Won the roll for the book, so you have 2*19=38 skill points to spend.
+		-Figure out treasure values to level: https://discord.com/channels/759886843801239603/759886844258943039/882854406180184115
+			-The "Triple Standard" for your adult CR of 13, 3*13,000=39,000, seems way low.
+				-You have many times that.
 
 
 -TODO:
@@ -1676,7 +1682,7 @@ TODO:
 			Yessss. . . Weapons are important. Perhaps great siege engines. . . 
 			Our enemies have conveniently gathered themselves in one place, and I long for the day we rain death upon them. Such tools can serve us well against the old fools of the council.
 		-Cannons? Spelljammer shit?
-			-Crucible may be a good place to fid either.
+			-Crucible may be a good place to find either.
 	-What do we do about the dragons who followed us for vengeance upon the humans?
 		-Reveal to them that they resided on the island all along, among The Painted Ones?
 			-Mix in some insinuations?

@@ -11,11 +11,6 @@ Spells Active:
 	Heroes' Feast on Sszythrach and Arvaec, eaten each morning after waking (12 hour duration)
 	Status on Arvaec, cast by Sszythrach each morning after waking (19 hour duration)
 	Status on Sszythrach, cast by Arvaec each morning after waking (17 hour duration)
-	
-	Tongues on Sszythrach, cast before venturing to the sun (150 minute duration)
-	Freedom of Movement on Sszythrach, cast before venturing to the sun (150 minute duration)
-	GIRALLON’S BLESSING on Sszythrach, cast before venturing to the sun (150 minute duration)
-		3 extra pairs of arms
 
 
 Stuff you've done before:

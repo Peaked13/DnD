@@ -107,6 +107,10 @@
 			Infernal
 			Ignan
 		-Alignment: Lawful Evil
+	-Permanent effects:
+		-+5 Constitution from Manual of Bodily Health +5
+		-+1 base attack from saining and added truename character
+		-TODO: +4 Intelligence book
 
 
 -Cohort: His thrall Arvaec, God-Slave of Tiamat.

@@ -1073,7 +1073,7 @@
 			 after which it rose as a spectral spawn.
 				-Quite the new trick!
 	-That finished, I decided a Sending was in order, to Teysa
-		-"You choose a wise weapon, but grossly underestimated us. I, Sszythrach, will destroy you,
+		-"You chose a wise weapon, but grossly underestimated us. I, Sszythrach, will destroy you,
 		 your family, your nation, and your people."
 		-She repsonded in a like manner (somewhat impressive. . .) and did not seemed cowed, to no
 		 great surprise. She claimed they were but a distraction, one that allowed her to complete
@@ -1459,14 +1459,14 @@ TODO:
 		-Finally brought before them, Dokinanth questioned this ill treatment for the saviors of
 		 The Rookerie, while Starfire asked them where _they_ were when the council betrayed us,
 		 sullying the image of us all, by becoming profane dracolichs.
-			-The Blue, Gold, Silver, and Amethyst all seemed suitably agrieved, but the Green was
+			-The Blue, Gold, Silver, and Amethyst all seemed suitably ashamed, but the Green was
 			 deadset against us.
 		-They claimed we had violated the law by pretending to the status of council members and
 		 claiming the hoards of it's dead members, without consulting the wyrms of this land.
 			-The Green apparently wanted our deaths, but the Blue suggested instead exile, to
 			 which the rest had agreed.
 		-Sszythrach had little problem with this (though a big one to eventually resolve with the
-		 wyrms). It is not his home, and it seems the land is thoroughly unworthy of me.
+		 wyrms). "This is not my home, and it seems the land is thoroughly unworthy of me."
 			-Sszythrach made the first part of that speech:
 				I have promised the humans my vengeance.
 				Io has sent these creatures to unify his children. I say we gratefully accept his blessing! Let us indeed stand united. . . to bring war to these humans in their own countries. We will burn their cities and lay waste to their lands! The survivors will fear the skies for generations!
@@ -1489,7 +1489,7 @@ TODO:
 					Bronze-3
 					Copper-4
 					Brass-8
-					Red-8-
+					Red-7+Profidious
 					Blue-2
 					Green-3
 					White-8
@@ -1499,8 +1499,9 @@ TODO:
 					Emerald- 1
 					Sapphire- 7
 					Topaz- 4
-				-TODO: d4 to determine age category, from hatchling (1) to juvenile (4).
-				-We're previously acquainted with one of the Reds, Profidious.
+				-d4 to determine age category, from hatchling (1) to juvenile (4).
+					-We're previously acquainted with one of the Reds, Profidious.
+					-Done and in Followers tab of spreadsheet
 		-We'd be taking our floating castle with us, providing us a residence for the moment, though
 		 it's _extremely_ crowded, with all of the above.
 		-That just makes our next big question all the more urgent: Where to?
@@ -1554,7 +1555,7 @@ TODO:
 								 a ship, a spelljammer.
 								-The realm of the sun must be plane shifted to, with it's focus being
 								 a daidem of purest gold.
-									-Which Dokinanth promptly miracled up from a clawful of coins.
+									-Which Dokinanth promptly miracled up from a handful of coins.
 								-You then must sail a sea of golden flame to find an island, upon
 								 which rests the wreckage of the ark.
 	-Well, off to the sun.
@@ -1666,6 +1667,16 @@ TODO:
 		-Figure out treasure values to level: https://discord.com/channels/759886843801239603/759886844258943039/882854406180184115
 			-The "Triple Standard" for your adult CR of 13, 3*13,000=39,000, seems way low.
 				-You have many times that.
+			-Ah, it's equivalent to the XP required for a normal PC to reach that HD.
+				-So, it was 171,000 to get to your current age, and then 231,000 for Adult.
+				-We don't actually go up in age until it narratively happens, though: https://discord.com/channels/759886843801239603/759886844258943039/883053665638809660
+				-You'll now have 179627.5+251669.29, so well in excess of what you need.
+					-Plenty of spending money, then, once you're no longer in the space between
+					 multi-verses.
+					-Sounds like it's time to look for the Belt of Magnificence: https://discord.com/channels/759886843801239603/759886844258943039/883069959138324521
+	-Ask after the original form of that helpful brain.
+		-Did so here: https://discord.com/channels/759886843801239603/759886844258943039/883464224569966642
+		-It being an illithid would explain much, and raise many new concerns. . .
 
 
 -TODO:
@@ -1688,6 +1699,7 @@ TODO:
 			-Mix in some insinuations?
 				-"How could the council not know of this infestation, there for the long centuries since last humans attacked? We may know they're fools, but could they be _that_ blind? They let the humans slay so many, before they acted, and punished those who _did_ act. I wonder, was this what they _wanted_? Dragons dead by human hands, to secure their power over us?"
 			-Proposed that here: https://discord.com/channels/759886843801239603/759886844258943039/878003104816193567
+		-Can one of them be a mount for Arvaec? Plenty are big enough.
 
 
 -TODONE:

@@ -1681,8 +1681,21 @@ TODO:
 
 -TODO:
 	-Spreadsheet-ify followers.
+		-Search "Eventually sort your followers out", above.
 		-You probably have more of them! You went up two age categories, and the last, unexpected
 		 one, at least, could not have been factored in.
+			-Yeah, this, your old count you actually fleshed out, looks like the one you had at
+			 juvenile:
+				1st	2nd	3rd	4th
+				30	3	1	1
+			-At young adult, you should have:
+				1st	2nd	3rd	4th	5th	6th
+				60	6	3	2	1	1
+			-But, given the currently crowded flying fort, and trip to parts unknown, maybe recruit
+			 those later, and better suited to your new life.
+			-You could narrowly fit a White Wyrmling as a 5th level follower, but they're not yet
+			 very useful, so probably now dragons unless Lesley waives the level adjustment or
+			 something like that.
 	-Clarify how that "year and a day" works.
 		-You'd initially figured it started immediately, but that seems unlikely to be true with you
 		 now sleeping many years past that.

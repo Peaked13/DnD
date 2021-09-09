@@ -4300,7 +4300,7 @@ TODO:
 		 his ice fort, via Correspond, as it seemed a religious matter.
 		-He suggested that great inspiration, or great fear, may be the appropriate remedy.
 		-As they gradually came to, Enilias tried the inspiration route, but with no luck.
-		-So Jaxx played bad cop, performing a convincing drill sergeant reoutine with Intimidation.
+		-So Jaxx played bad cop, performing a convincing drill sergeant routine with Intimidation.
 		-_That_ seemed to do the job.
 		-We also discussed what is to come, how each of these event has seemed to be a reaction to
 		 the domains of the eventual god to be, and what we may soon see.
@@ -4309,7 +4309,7 @@ TODO:
 			-Eventually, plants began to sprout, perfectly spaced from one another.
 			-I asked Dog, Beansinger, and Jaxx to do what they could to counter this energy leakage.
 			-Jaxx began plucking the plants, while Dog began wildly hacking at them with his axe.
-			-The plants, torn open, reeked or rot, and oozed black ichor.
+			-The plants, torn open, reeked of rot, and oozed black ichor.
 			-Jaxx wished we had some flame and, the instant he'd said it, I was surrounded by
 			 constructs with flaming fists.
 			-Beansinger contributed some Grease as well, and soon the constructs had the plants all
@@ -4334,7 +4334,7 @@ TODO:
 		-Word came from Enilias as well. Sounds like he was successful in his goals.
 		-Returning then to work on Jaxx's, no crisis presented itself either. At least here. . .
 	-Returning to Xûl-Jarak, things seemed calm as well.
-		-Jaxx was less sure, though, and attempted an experiment, having two guards race eachother
+		-Jaxx was less sure, though, and attempted an experiment, having two guards race each other
 		 for a purse of 10 gold.
 		-The response he got, though, was, "Why would we want to do that? We're friends, and one
 		 would lose."
@@ -4356,20 +4356,168 @@ TODO:
 
 
 9/8/21:
-	-
+	-We began work on Enilias and Shawn's planes.
+		-Shawn's is described above, we having retconned some stuff to accomodate Shroud's absence
+		 last session.
+		-Enilias imagined an embassy and panopticon, a secure area to do business, though one whose
+		 secrets were open to _him_.
+			-We opted for a tropical resort environment. The plane will feature a central island
+			 that grows with the plane, bounded by a seemingly endless warm ocean whose currents and
+			 winds inevitably force back anyone who tries to leave the boundaries of the plane.
+		-A short while into work on Enilias's, I felt an attempted mental invasion, thwarted by my
+		 Mind Blank. With a Psicraft check, I recognized something similar to Zone of Truth, though
+		 of Epic power.
+			-I relayed as much to the rest of those with me on The Astral.
+			-The others managed to resist it in various manners too, but we thought it best, for the
+			 health of the plane and it's diety-to-be, that we attempt to counter this energy
+			 leakage in some fashion.
+			-Enilias and I discussed the matter, supposing that a powerful dispelling _might_ do it,
+			 or some equal and opposite force (of deception, in this case).
+			-He had some ideas on the latter front, and spent some time disguising himself as House
+			 Nather's spymaster, and then shifted with Liliana to The Material.
+			-When he returned, and I asked what he had got up to, he claimed only to have, "Planted
+			 some seeds."
+				-I asked him when we'd know if they'd come to fruition, he said it would likely be
+				 at the moment of his ascension.
+	-I wrapped up the day's castings, and we returned to Xûl-Jarak, where we saw a fair amount of
+	 chaos amongst the inhabitents.
+		-It seemed they too were effected by this energy leakage, and, unable to manage even a white
+		 lie, much interpersonal trouble, fights and the like, had resulted.
+		-We sought to dispel the effect, as, Enilias's "seeds" aside, the fort would not survive
+		 like this for long.
+		-Shawn was indeed able to dispel the effect and, as he used is _Reaving_ Dispel, he moved
+		 this apparently permanent effect to Nikisi's plane.
+	-With that sorted, I grabbed a meal at the tavern and then took my rest.
+		-Enilias and Shawn came to the tavern as well, and discussed their respective plans for
+		 divinity, to avoid stepping on each other's toes.
+	-Returning to The Astral, and to work, I started back in on Shawn's plane.
+		-Soon after beginning work, the shape of some kind of stag horned helmet emerged from the
+		 astral medium, soon joined by a circle of chanting figures.
+		-As the chant continued, a giant face slowly formed beneath the helmet. It slowly took what
+		 seemed to be a dragon's form, scaled and bewinged.
+		-Liliana was able to dispel their working, though, which the circle of apparent druids took
+		 some offense to.
+			-They asked why we disrupted their casting, which Enilias countered with his own question
+			 of why they were here. They claimed simply to complete their casting, but Enilias said
+			 we were here first, and they volunteered to move, soaring off through The Astral, some
+			 taking animal forms to do so.
+			-We were still distinctly suspicious, and Enilias raised possibly following them.
+			-I suggested that The Astral is vast and desolate. Chance enounters are possible, but
+			 not exactly _common_. . .
+		-Faro reached out to Shawn with a Sending, reporting these events, and he opted join us
+		 on The Astral.
+		-Meanwhile, the circle resumed their working a short ways off, which soon resulted in a
+		 storm of some kind forming around them.
+		-Shawn and the others went to investigate, but Dog was soon turned back by some kind of
+		 compulsion. The rest, though, were guarded by Mind Blank.
+		-In response to Shawn's inquiries as to what they were doing, they claimed to be communing
+		 with their god, though they were cagey about _what_ god.
+		-Shawn, though, recognized their aims: it would seem they intended to sacrifice the dragon
+		 they were calling to their god.
+		-Shawn told them there was another dragon they could try their hand instead, and cast 
+		 Aspect of the Platinum Dragon.
+		-He caught the lot of them in a Prismatic Wall, and resumed questioning them.
+		-They claimed now to worship Zoretha, and needed a sacrifice worthy of her "to awaken the
+		 five".
+			-Apparently, according to Shawn, the "Hulks of Zoretha" are believed to be stone gods
+			 that can be brought to life, and to a plane, with a great sacrifice.
+			-They're said to embody all the elements, and destruction . . .
+		-Shawn gave them a change their ways, don't bring about the apocalypse speech.
+		-He did a damned good job of it, and seemed to shake their faith.
+		-Indeed, with a little more back and forth, he had them convinced they could see great
+		 rewards in _this_ life, with somewhat better odds than relying on rewards promised by
+		 apocalypse gods in their next life.
+		-We decided to bring them back to Xûl-Jarak with us, at the end of the day's castings, and
+		 I also mentioned that, even now, I was carving new worlds from this astral desolation.
+			-Their talents, I said, could be used to bring life and nature to new domains entirely,
+			 a prospect that seemed to appeal, though they still seemed a bit shell-shocked by the
+			 turning away from their previous world view, and likely needed some time to calm.
+			-They'll be remaining with us until the end of both castings today, until I can help
+			 ferry them back to The Material.
+	-With work completed on Shawn's plane, I returned to work on Enilias's.
+		-A bit into it, the faces of the druids went slack and they began all casting something.
+		-They appeared to be subject to some compulsion, and the spell they each were casting was
+		 Sunbeam, targetting me!
+		-Shawn stepped in with a class ability, a "Jarring Song", the discordance of which quickly
+		 inhibited their spellcasting.
+		-With the failure of the casting, they seemed to also shake free of the compulsion, and
+		 began to protest their innocence.
+		-Shawn reassured them that such. . . side effects are and expected consequence of my work
+		 here, and not their fault.
+		-After that, though, Shawn and Liliana made it a priority to get them back to Xûl-Jarak
+		 now, rather than wait on my manifesting to finish.
+			-They were turned over to the care of our rangers, who walk a similar path.
+		-The rest of the casting thankfully went uneventfully.
+	-Returning to Xûl-Jarak, I rested, and we were soon back to The Astral, and work on Shawn's
+	 plane.
+		-As I worked, I could feel something out of balance, in the conflux. Something somehow tied
+		 to Nikisi's plane.
+		-Balance was briefly restored, then imbalanced again, and I received a Sending from Niksi,
+		 reporting that, "Spring has come to my domain."
+		-I let him know I had detected an imbalance in the conflux, perhaps tied to the creation of
+		 Shawn's plane. I suggested he reach out to Shawn, who may be able to help.
+		-A while later, Nikisi, Shawn, and Beansinger appeared before me in The Astral, the balance
+		 of the conflux apparently restored.
+		-I asked them what had happened and Shawn reported that Mab, Queen of Air and Darkness, had
+		 sought to steal Nikisi's realm, but that they had reached an accomodation with her.
+		-Shawn, though, suggested that we perhaps reach out to her counterpart, Titannia of the
+		 Seelie, and offer her a similar deal, for the sake of balance. . .
+			-I commented that she must be quite the force, to imbalance the conflux so, and that
+			 balancing such a thing would indeed be wise.
+	-With that matter settled, the manifesting was soon finished, and I moved onto Enilias's plane.
+		-Soon, though, tempers seemed to flare, with even the ghosts asking me what's taking so
+		 damned long with the casting.
+		-Querying my ioun stone, it reported the presence of a necromancy effect, which we soon
+		 determined to be a subtle form of energy drain affecting us.
+		-Shouting into the void, an angry Enilias demanded that the one responsible show himself.
+		-That challenge was met, and a shadow soon formed, seemingly _Enilias's_ shadow.
+		-It babbled in what we eventually realized was backwards speech, though we could make out
+		 only a word or two at a time.
+		-Enilias moved aggressively towards it, and it mirrored his movements exactly.
+		-He quickly changed course, attempting to test it's mimicry, darting about agily, enough
+		 such that the shadow was even caught unable to keep up.
+		-Still, though, it followed and mimiced him. He hid from it, and it hid from him in turn.
+		-He took then to trying to speak to it, calling it forth from hiding and inquiring about
+		 its. . . persepective.
+		-He failed, though, to coax it forth, and instead received a shadowy dagger in his back.
+		-Nikisi joined the fight, then, conjuring a phalanx of spectral soldiers to guard Enilias.
+		-They were able to strike at the shadow as it returned for Enilias, allowing an opening for
+		 him to strike it with his blade, one with a relevant enchantment that caused it to briefly
+		 become material, and then crumble into dust.
+	-With that, I was able to complete the remaining days of casting, creating Enilias and Shawn's_
+	 planes on the 15th day of the 4th month of year 301.
+	-With the conflux complete, I shifted to my new plane and began my ascencion, to godhood and
+	 Divine Rank 1 both.
+		.   I shifted to the inside of the innermost, and still _only_, sphere of my plane. There, I floated weightlessly in the center of the sphere's interior, a cavity barely six feet across, and began to meditating. After a few moments, I slowly reached out my arms, touching the crystal studded earth of the sphere's interior with my fingers, then pressing my fingers _into_ the earth, though they did not displace it. As I did so, I also reached out with my _mind_, casting my consciousness forth from my body into the earth I touched, from there into the substance of my plane itself, and on from there into thin tendrils threading through all of complexly interlinked and overlapping planes of The Conflux.
+		.   Touching for the first time all six planes at once, I performed the final adjustments, silencing the lingering resonances from the imbalances present during The Conflux's piecemeal construction, finishing my perfect creation. Perfection, in turn, flowed back through the interconnected Conflux, to me. As it did so, the crystals studding the walls of my chamber began to grow, and to change, flaws disappearing as they took on the psionically resonent perfection of deep crstal. The crystals grew to, and then _through_ my body, though they did not appear to disrupt my flesh any more than my fingers had displaced the earth I thrust them into.
+		.   The process of reaching out with my consciousness had not been unlike what I do each night in place of sleeping, reaching with my consciousness into every corner of my body and repairing the damage of the day. Through the crystals piercing me, my consciousness _perfected_ reached back into me, changing every bit of me more thoroughly than even my rebirth as an elan had. Once the crystals had grown to fill nearly the entirety of the chamber, I withdrew my hands from the walls, moving without regard to the crystals I passed through, then opened my eyes and was gone.
+	-Jake mentioned something about that location now being significant to your divine nature, and
+	 something to guard well.
+		-Well, it presumably counts as a holy site, allowing you that free diety-scry, and you can,
+		 at ranks 1-5, sense two remote locations on top of the immediate vicinity.
+	-Upon the completion of this process, I also felt somehow a new being enter the multiverse, and
+	 that's where we'll pick up next session.
 
 
 TODO:
 	-Power the fuck up!
 		-Spending:
-			-Level 20 XP is 190,000 and you've got 246,150.
+			-Level 20 XP is 190,000 and you've got 251,150.
 			-Then you need to spend 6k on the planes (still haven't deducted any).
-			-Leaves 50,150 to spend. Maybe more, if planar XP counts towards something.
-				-Ah, it counts half, so you've actually got 53,150
-			-Hmm. . . looks like all you'll be able to do is Divine Rank 1.
+			-Leaves 61,150 to spend. Maybe more, if planar XP counts towards something.
+				-Ah, it counts half, so you've actually got 64,150
+			-Looks like you can now do Divine Rank 1 _and_ level 21.
 				-Lvl. 21 is 20k, and so DR 1 is supposed to be 40k.
 				-For the DR, deduct the XP from your total, like an XP expenditure for a spell or
 				 the like.
+					-Spent the 40k!
+				-21 means leveling your thrall and thinking about more followers too.
+	-Exercise your new god powers to further customize your plane.
+		-Adamantine barriers inside the spheres.
+			-Further hardened by your now at will Hardening spell too:
+			 https://www.dandwiki.com/wiki/SRD:Hardening
+	-Precisely word that gravity trait.
+	-Define the focus for your plane.
 
 
 TODO:
@@ -4413,10 +4561,6 @@ TODO:
 				-(DONE!) Pale green (+1 competence bonus on attack rolls, saves, skill checks, and ability checks) 30,000 gp
 				-Orange	Prism	(+1 caster level)	30,000 gp
 					-I asked if I can apply it to psionics here: https://discord.com/channels/560915739796570113/560915739796570119/762867099009548339
-		-Maybe a mithral chainshirt, once 1,100 gp. becomes trivial
-			-https://www.dandwiki.com/wiki/SRD:Mithral_Shirt
-			-Helps a bit if your surprised, dispelled, or otherwise without your Inertial Armor
-			-Only downsides are the 10 lb. weight and a (high) max dex bonus of +6 (hard to exceeed with your natural 16)
 		-Tome of Clear Thought is your next Int upgrade
 			-https://www.dandwiki.com/wiki/SRD:Tome_of_Clear_Thought
 			-You probably want to hold out for the 137,500 gp. +5 one, though.
@@ -4533,6 +4677,7 @@ TODO:
 		-Neat for ships and seiges, and maybe for Creation powers, but slow to load with some training
 		 required.
 			-Can you Create a _loaded_ gun? _Many_ loaded guns?
+				-Jake seemed to agree you could.
 		-Homebrew improved versions:
 			-Breech-loading swivel guns!
 				-https://en.wikipedia.org/wiki/Breech-loading_swivel_gun
@@ -4548,6 +4693,15 @@ TODO:
 			-Could be a good use of fabricate
 			-Should have decent relations with one or more noble families, after returning the kids
 		-Glister, the town the rebelled due to the succubus, has docks with ocean access too
+	-What is your favored weapon as a diety?
+		-Heavy Crossbow is something you're proficient in (though you've generally used light ones
+		 yourself) that would then include Ballista, since it's the same proficiency.
+			-Heroes of Battle is 3.5, though, and offers a Ballista Proficiency feat that might
+			 contradict what the DM's Guide implies.
+			-Ah, it doesn't give clerics proficiency in the weapon anyways, unless you have the War
+			 domain.
+		-Can't find anything defining the rules for picking a diety's favored weapon.
+		-I guess Light Crossbow it is, that being what you actually use.
 
 
 -Long term TODO:
@@ -4674,6 +4828,10 @@ TODO:
 		-Done!
 		-We chose to place the pool of the waters of Oceanus in a font on one of the walls of
 		 Xûl-Jarak dungeon level 2.
+	-Maybe a mithral chainshirt, once 1,100 gp. becomes trivial
+		-https://www.dandwiki.com/wiki/SRD:Mithral_Shirt
+		-Helps a bit if your surprised, dispelled, or otherwise without your Inertial Armor
+		-Only downsides are the 10 lb. weight and a (high) max dex bonus of +6 (hard to exceeed with your natural 16)
 
 
 -TODON'T:

@@ -3,16 +3,15 @@ Psycrystal belt: 3
 Cure Moderate from Pale Green Ioun: 3
 
 Currently active powers:
-	15	Mind Blank, cast after waking in Xul-Jarak (1 day duration)
-	1	Filled my Black Lotus after waking in Xul-Jarak (23 hour duration, overchanneled)
-	23	Inertial armor +15 cast after waking in Xul-Jarak (23 hour duration, overchanneled)
-		358-15-1-23=319
+	1	Filled my Black Lotus growler after waking in Xul-Jarak (24 hour duration, overchanneled)
+	23	Inertial armor +15 cast after waking in Xul-Jarak (24 hour duration, overchanneled)
+		407-1-23=383
 
 
 Stuff you've done in the past:
 	15	Mind Blank, cast after waking in Xul-Jarak (1 day duration)
-	1	Filled my Black Lotus after waking in Xul-Jarak (23 hour duration, overchanneled)
-	23	Inertial armor +15 cast after waking in Xul-Jarak (23 hour duration, overchanneled)
+	1	Filled my Black Lotus growler after waking in Xul-Jarak (24 hour duration, overchanneled)
+	23	Inertial armor +15 cast after waking in Xul-Jarak (24 hour duration, overchanneled)
 	15	Mind Blank on Jaxx, cast after waking in Xul-Jarak (1 day duration)
 	20	Oak Body, cast before assault (27 minute duration)
 	22	Precognition, Defensive +8, cast before assault (23 minute duration)
@@ -24,13 +23,13 @@ Stuff you've done in the past:
 	9	Adapt Body, cast before attacking Sharlocke (19 hour duration)
 	
 
-AC 33 (Inertial Armor and Precognition, Defensive)
+AC 34 (Inertial Armor)
 
-106 of 106 HP ( temp, 23 minutes, cast )
-298 of 358 PP
+147 of 147 HP ( temp, 24 minutes, cast )
+383 of 407 PP
 Cognizance Crystal (5 points): 5
 
-Psycrystal HP: 53 of 53 ( temp)
+Psycrystal HP: 73 of 73 ( temp)
 
 Constructs:
 	1:

@@ -3866,28 +3866,6 @@ TODO:
 			 -Well, you _do_ now have more than enough XP to reach 21. Can you do all three things
 			  at once some how?
 				-210,000 to reach 21, thus 7,350 to play with.
-				-You and gods both do generally seem to be unmoored in time. . .
-				-DC calc (heavily based on Origin of Species):
-					Seeds (if Fortify is needed): 21+27+17
-					Ad-hoc X for weird psicrystal and powerstone properties.
-					Permanent is x5.
-					So: (21+27+17+ X)*5 = 325 + 5X
-					Mitigating options:
-						-42	 42d6 backlash (eh, might be too much if you can't spend PP to prevent(vigor!))
-						-220 for casting time of 100 days, 10 minutes.
-						-25 for your planned followers ritual contributiosn
-						(Maybe can also argue for the -5 for specialist school, but didn't factor that in.)
-					So: 38 + 5X DC, for an XP cost of 13,680 + 1800X
-					XP spend is probably necessary to bring that down to a lower DC.
-						-Every 100 spent at casting even saves 360 during development, making it _very_
-						 worthwhile for this spell you hopefully cast once.
-							-3,800 spent would negate the fixed amount, and another 500X would eliminate
-							 the rest.
-								-So, X of more than 4 would consume more XP than I have for this
-								 right now. . .
-						-More ritual casters would help this too.
-							-Each -1 to the DC saves 360 XP and 9,000 gp.
-							-Convince other Elans to help?
 			-So, doesn't sound like it's a possible option with the XP and ritual casters you
 			 necessarily have available during this ascension.
 				-It _is_, though, probably possible fairly soon thereafter, likely for less XP than
@@ -4495,6 +4473,7 @@ TODO:
 	 something to guard well.
 		-Well, it presumably counts as a holy site, allowing you that free diety-scry, and you can,
 		 at ranks 1-5, sense two remote locations on top of the immediate vicinity.
+			-Posted about that here: https://discord.com/channels/560915739796570113/560915739796570119/885711400163475456
 	-Upon the completion of this process, I also felt somehow a new being enter the multiverse, and
 	 that's where we'll pick up next session.
 
@@ -4512,15 +4491,60 @@ TODO:
 				 the like.
 					-Spent the 40k!
 				-21 means leveling your thrall and thinking about more followers too.
+		-Did everything for Edric.
+		-Just need to level Thrall, look at believers, and give psicrystal a(n Epic?) feat.
 	-Exercise your new god powers to further customize your plane.
 		-Adamantine barriers inside the spheres.
 			-Further hardened by your now at will Hardening spell too:
 			 https://www.dandwiki.com/wiki/SRD:Hardening
 	-Precisely word that gravity trait.
 	-Define the focus for your plane.
+	-Harden essentially everything!
+	-Sort out your portfolios.
+		-Possible Dieties & Demigods options:
+			-Abundance
+			-Civilization
+			-Crafts
+			-Earth
+			-Engineering
+			-Mining
+			-Wealth
+				-Overlaps with Abundance, which is probably a better fit.
+		-Possible homebrew options:
+			-Crystals
+			-Psionics
+		-Haven't found any mention of how many a diety typically has in the diety creation rules.
+			-Maybe look at the sample dieties.
+	-Make a temple of Xûl-Jarak.
+		-Counting as a holy site for you would be nice, but even just a "statue or other likeness"
+		 of you there enables you to Remote Communicate with anyone within 1 mile/DR.
+			-Shit, I should make a bunch of "Brotherhood" commemorative coins, necklaces and such,
+			 with all of our faces, for the party and random people both.
 
 
 TODO:
+	-Epic spell planning:
+		-DC calc (heavily based on Origin of Species):
+			Seeds (if Fortify is needed): 21+27+17
+			Ad-hoc X for weird psicrystal and powerstone properties.
+			Permanent is x5.
+			So: (21+27+17+ X)*5 = 325 + 5X
+			Mitigating options:
+				-42	 42d6 backlash (eh, might be too much if you can't spend PP to prevent(vigor!))
+				-220 for casting time of 100 days, 10 minutes.
+				-25 for your planned followers ritual contributiosn
+				(Maybe can also argue for the -5 for specialist school, but didn't factor that in.)
+			So: 38 + 5X DC, for an XP cost of 13,680 + 1800X
+			XP spend is probably necessary to bring that down to a lower DC.
+				-Every 100 spent at casting even saves 360 during development, making it _very_
+				 worthwhile for this spell you hopefully cast once.
+					-3,800 spent would negate the fixed amount, and another 500X would eliminate
+					 the rest.
+						-So, X of more than 4 would consume more XP than I have for this
+						 right now. . .
+				-More ritual casters would help this too.
+					-Each -1 to the DC saves 360 XP and 9,000 gp.
+					-Convince other Elans to help?
 	-Maybe buy other stuff?
 		-Force Screen seems like an interesting power stone.
 	-"Conflux X", or similar, as the name for our planar structure?

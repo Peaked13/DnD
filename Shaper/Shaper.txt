@@ -60,23 +60,38 @@ Interesting ones:
 			-Pick up Creation, at least.
 		-Create Object is OK, fast True Creation without the XP cost, and combining it with Divine
 		 Earth Mastery and/or Fabricate eases the material limits somewhat.
+			-Shit, you can already True Create without cost, due to being able to use your domain
+			 spell as spell-like abilities: 
+			 "Spell-like abilities are magical and work just like spells (though they are not spells and so have no verbal, somatic, material, focus, or XP components)."
+			 https://www.dandwiki.com/wiki/SRD:Special_Abilities_Overview
+Favored Weapon: Light Crossbow
 Domains:
 	https://www.dandwiki.com/wiki/SRD:Artifice_Domain
 	https://www.dandwiki.com/wiki/SRD:Earth_Domain
 	https://www.dandwiki.com/wiki/SRD:Mind_Domain
+Divine Immunities:
+	Immortality: Can't die from natural causes,does not age, and does not need to eat, sleep, or breath.
+	Transmutation: polymorphing, petrification, or any other attack that alters your form.
+	Energy Drain, Ability Drain, & Ability Damage
+	Mind-Affecting: charms, compulsions, phantasms, patterns, and morale effects.
+	Energy Immunity: Cold, Electricity, Acid.
+	Fire Resistance 21 (20+DR)
+	Spell Resistance 53 (32+DR+20)
+	Immune to disease, poison, stunning, sleep, paralysis, death effects, and disintegration.
+	Damage reduction 36/+4 (35+DR)
 
 Extra Knowledge Skills (wouldn't all fit on the sheet; these are all one rank):
-	Knowledge(Dungeoneering):		12 = 9 + 1 + 2
-	Knowledge(Geology):				12 = 9 + 1 + 2
-	Knowledge(History):				12 = 9 + 1 + 2
-	Knowledge(Local):				12 = 9 + 1 + 2
-	Knowledge(Nature):				12 = 9 + 1 + 2
-	Knowledge(Nobility & Royalty):	12 = 9 + 1 + 2
-	Knowledge(Religion):			12 = 9 + 1 + 2
-	Knowledge(Arcana):				12 = 9 + 1 + 2
-	Knowledge(Law):					12 = 9 + 1 + 2
-	Knowledge(Politics):			12 = 9 + 1 + 2
-	Knowledge(War):					12 = 9 + 1 + 2
+	Knowledge(Dungeoneering):		13 = 9 + 1 + 3
+	Knowledge(Geology):				13 = 9 + 1 + 3
+	Knowledge(History):				13 = 9 + 1 + 3
+	Knowledge(Local):				13 = 9 + 1 + 3
+	Knowledge(Nature):				13 = 9 + 1 + 3
+	Knowledge(Nobility & Royalty):	13 = 9 + 1 + 3
+	Knowledge(Religion):			13 = 9 + 1 + 3
+	Knowledge(Arcana):				13 = 9 + 1 + 3
+	Knowledge(Law):					13 = 9 + 1 + 3
+	Knowledge(Politics):			13 = 9 + 1 + 3
+	Knowledge(War):					13 = 9 + 1 + 3
 	
 	Others, for the future: https://forums.giantitp.com/showthread.php?514547-The-Library-of-Knowledge-Getting-the-most-out-of-your-studies
 		You've already grabbed everything that seemed worth it, though.
@@ -86,7 +101,7 @@ Extra Knowledge Skills (wouldn't all fit on the sheet; these are all one rank):
 
 Knowledge macro:
 Ed:
-/r d20+12
+/r d20+13
 
 Crystal assist:
 /r d20+4
@@ -98,12 +113,12 @@ Other skill stuff:
 		-Look for untrained stuff that could get a rank, particularly Decipher Script and Dex stuff.
 
 
-Psicrystal @ Lvl 20:
+Psicrystal @ Lvl 21:
 	Diminutive Construct
 	Hit Dice: As master’s HD (hp 1/2 master’s)
 	Initiative: +3*
 	Speed: 30 ft.*, climb 20 ft.*, fly 50 feet (poor)
-	Armor Class: 26 (+4 size, +3 Dex*, +9 Natural**), touch 17, flatfooted 23 (also probably shares your inertial armor)
+	Armor Class: 27 (+4 size, +3 Dex*, +10 Natural**), touch 17, flatfooted 24 (also probably shares your inertial armor)
 		You can also assign a +1 Dodge bonus.
 	Base Attack/Grapple: +0/–17
 	Space/Reach: 1 ft./0 ft.
@@ -112,7 +127,7 @@ Psicrystal @ Lvl 20:
 		Str: 1*
 		Dex: 16* (increased 1 for HD)
 		Con: —
-		Int: 16** (increased 1 for HD)
+		Int: 17** (increased 1 for HD)
 		Wis: 10
 		Cha: 13 (increased 3 for HD)
 	Skills**:
@@ -142,6 +157,7 @@ Psicrystal @ Lvl 20:
 			http://marksworld.zeemer.com/files/feats/featlibrary/hover.html
 			It can hover despite it's fly speed's Poor maneuverability.
 		Take these later:
+			Epic feats, now that it's got >20 HD?
 			Psionic Dodge?
 			Save bonus feats?
 			Feat giving skill bonus for Hide and Move Silently?

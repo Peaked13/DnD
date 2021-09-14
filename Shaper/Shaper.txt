@@ -122,7 +122,7 @@ Psicrystal @ Lvl 21:
 		You can also assign a +1 Dodge bonus.
 	Base Attack/Grapple: +0/–17
 	Space/Reach: 1 ft./0 ft.
-	Saves: As master’s saves
+	Saves: Fort: +6, Ref: +13, Will: +14 (uses master's now-unchanging base saves and own bonuses)
 	Abilities:
 		Str: 1*
 		Dex: 16* (increased 1 for HD)
@@ -156,10 +156,14 @@ Psicrystal @ Lvl 21:
 		Hover
 			http://marksworld.zeemer.com/files/feats/featlibrary/hover.html
 			It can hover despite it's fly speed's Poor maneuverability.
+		Epic Reflexes
 		Take these later:
 			Epic feats, now that it's got >20 HD?
+				Great Intelligence for +1 Int?
+				Looks like that and the save feats are the only ones remotely worth it.
 			Psionic Dodge?
 			Save bonus feats?
+				Get the Epic versions now, instead.
 			Feat giving skill bonus for Hide and Move Silently?
 				Stealthy
 			Another Draconic Aura?

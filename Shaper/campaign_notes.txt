@@ -4508,6 +4508,10 @@ TODO:
 				 likely finish.
 			-Posted about it here: https://discord.com/channels/560915739796570113/560915739796570119/889635998315708426
 	-Precisely word that gravity trait.
+		-How about this:
+			"Gravity points to the nearest of the spheres or connecting pillars making up the plane."
+		-Seems to succinctly sum it up.
+		-I even threw together plane_gravity_diagram.png, to demonstrate what I mean.
 	-Define the focus for your plane.
 	-Harden essentially everything!
 		-https://www.dandwiki.com/wiki/SRD:Hardening

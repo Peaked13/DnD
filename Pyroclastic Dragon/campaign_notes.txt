@@ -1664,6 +1664,10 @@ TODO:
 		-Some items are defined in Roll20.
 		-All entered, so claim your gold and items once everyone has had a chance to contest stuff.
 			-Won the roll for the book, so you have 2*19=38 skill points to spend.
+				-Spent it maxing Knowledge(Religion), Spellcraft, Listen, Spot, and Sense Motive, and
+				 boosting Search.
+					-11+12+3+3+3+9
+		-Apply the rest of the items.
 		-Figure out treasure values to level: https://discord.com/channels/759886843801239603/759886844258943039/882854406180184115
 			-The "Triple Standard" for your adult CR of 13, 3*13,000=39,000, seems way low.
 				-You have many times that.
@@ -1674,9 +1678,17 @@ TODO:
 					-Plenty of spending money, then, once you're no longer in the space between
 					 multi-verses.
 					-Sounds like it's time to look for the Belt of Magnificence: https://discord.com/channels/759886843801239603/759886844258943039/883069959138324521
+		-Stuff to raise in session:
+			-Do we keep magic items, for 1/4 hoard value, or sell them (presumably at 1/2)?
+				-Mostly a Lesley question, as that seems to mostly moot the 1/4 hoard value thing,
+				 though I guess it _incentivizes_ sale, rather than banking them?
 	-Ask after the original form of that helpful brain.
 		-Did so here: https://discord.com/channels/759886843801239603/759886844258943039/883464224569966642
 		-It being an illithid would explain much, and raise many new concerns. . .
+
+
+10//21:
+	
 
 
 -TODO:

@@ -3,16 +3,16 @@ Psycrystal belt: 3
 Cure Moderate from Pale Green Ioun: 3
 
 Currently active powers:
+	0	Mind Blank on all non-dieties in party, cast after waking in Xul-Jarak (1 day duration)
 	1	Filled my Black Lotus growler after waking in Xul-Jarak (24 hour duration, overchanneled)
 	23	Inertial armor +15 cast after waking in Xul-Jarak (24 hour duration, overchanneled)
-		407-1-23=383
+		407-0-1-23=383
 
 
 Stuff you've done in the past:
 	15	Mind Blank, cast after waking in Xul-Jarak (1 day duration)
 	1	Filled my Black Lotus growler after waking in Xul-Jarak (24 hour duration, overchanneled)
 	23	Inertial armor +15 cast after waking in Xul-Jarak (24 hour duration, overchanneled)
-	15	Mind Blank on Jaxx, cast after waking in Xul-Jarak (1 day duration)
 	20	Oak Body, cast before assault (27 minute duration)
 	22	Precognition, Defensive +8, cast before assault (23 minute duration)
 	22	Precognition, Offensive +8, cast before assault (23 minute duration)

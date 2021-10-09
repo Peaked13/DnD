@@ -1427,7 +1427,7 @@ TODO:
 	-Dokinanth also attempted the same with Starfire.
 		-In the course of it, he managed to rip a hole in spacetime, sucking us all through to The
 		 Elemental Plane of Earth.
-			-We found ourselves in a vast cavern in which a huge crystal structure should, attended
+			-We found ourselves in a vast cavern in which a huge crystal structure stood, attended
 			 by various crystalline creatures that seemed to shed cold.
 				-The others had heard of "Elemental Councils", and suspected this might be one such,
 				 though what a "council" of mindless forces of nature means is unclear.
@@ -1464,7 +1464,7 @@ TODO:
 		-They claimed we had violated the law by pretending to the status of council members and
 		 claiming the hoards of it's dead members, without consulting the wyrms of this land.
 			-The Green apparently wanted our deaths, but the Blue suggested instead exile, to
-			 which the rest had agreed.
+			 which the rest had already agreed.
 		-Sszythrach had little problem with this (though a big one to eventually resolve with the
 		 wyrms). "This is not my home, and it seems the land is thoroughly unworthy of me."
 			-Sszythrach made the first part of that speech:
@@ -1668,6 +1668,8 @@ TODO:
 				 boosting Search.
 					-11+12+3+3+3+9
 		-Apply the rest of the items.
+			-Done.
+		-Now, do money math resulting from that.
 		-Figure out treasure values to level: https://discord.com/channels/759886843801239603/759886844258943039/882854406180184115
 			-The "Triple Standard" for your adult CR of 13, 3*13,000=39,000, seems way low.
 				-You have many times that.
@@ -1687,8 +1689,323 @@ TODO:
 		-It being an illithid would explain much, and raise many new concerns. . .
 
 
-10//21:
-	
+10/10/21:
+	-The Crucible, or The Rock of Brawl (sp?), is the nearest place in "free space" that accepts a
+	 variety of people, and is our destination.
+	-With the time we spent traveling there, we were able to question this brain further about it's
+	 nature.
+		-It claimed it was once a titan, a massive humanoid from the far distant past, creators of
+		 all that is.
+		-He claims that the gods themselves were the work of the titans, but that, even before they
+		 had begun creating worlds, they were visited by those that came before, the Illithids.
+		-Predating even creation, the gods and Illithids were eventually at war, and the titans sided
+		 with the Illithids.
+		-The Illithids betrayed the titans, though, and this one was taken by an elder brain as a
+		 trophy, reduced to this form.
+		-It declined my offer to attempt to restore it's form, though, saying that it had been like
+		 this so long it had nearly forgotten any other existance, and wished to remain thusly.
+	-The journey took some time, and we got familiar with the basics of Spelljamming.
+		-The titan-brain is able to power the castle's Pool Helm providing our ship with a base speed
+		 of 5 Ship Rating, and we also have 12 Series Helms that can be powered by creatures with
+		 spell-like abilities (and perhaps by normal spell casters too, as normal helms all use?),
+		 each adding 1 to the Ship Rating if manned.
+			-Conveniently, we have a bunch of dragons following us, many of whom can manage various
+			 spell-likes.
+		-Most of the phlogiston was a formless gray fog, but we traveled along a great river of
+		 of flowing energy, a pathway of a kind in this strange desolation.
+		-Eventually, we came to a great rock wall, bordering an area the titan-brain called The
+		 Broken Vast, and passed through it by a route the brain knew.
+		-At the center of this region lay Crucible.
+	-Arriving finally at Crucible, which took the form of a great asteroid, covered in both buildings
+	 and great fins and sails recalling a ship.
+		-We joined a number of strange and fantastic ships at Crucible's docks, from which we could
+		 observe many species, most unfamiliar to us, walking about he city.
+		-The docks were largely manned by hippo-people and apes with gliding flaps linking their arms.
+		-Illithids too coursed through the city, to the evident alarm of no one.
+		-Perhaps most interesting, a "Southern" neighborhood featured dragons soaring above it, of
+		 all kinds and ages.
+	-The titan-brain reminded us that we were here for a map, and suggested that, in The Grand Market,
+	 we seek out Illithids there.
+		-Their maps, it says, are best, for they have sailed the phlogiston the longest.
+	-I suggested we present ourselves to the city's rulers, those wyrms we saw circling, and then,
+	 having announced our presence, venture into the market.
+		-The titan-brain corrected me, though, saying that we'd have to go to the city's palace to
+		 speak to it's rulers.
+		 "What wyrm makes it's lair there?"
+		 "No wyrm rules this city."
+		 *Shocked Pikachu* "Then who rules here? Or at least did, when last you were here?"
+		 "I imagine the same ones who have always ruled here, the dwarves."
+	-As we moored ourselves to the dock, Starfire released his agents into the city, to learn of this
+	 place.
+		-One was fairly immediately accosted by a hippo-man claiming to be the harbormaster, speaking
+		 of docking fees. He directed the creature to the ship's masters.
+		-Coming aboard, he explained that there was both a docking fee and a two percent tax on goods
+		 brought into the city.
+			-The docking fee could be paid in cash or in the labor of 2/3rds of the crew.
+			-The latter was quite attractive to us, with our surfeit of labor, and we accepted it,
+			 with dwarves and hippo-men coming aboard to collect gangs of our followers and have us
+			 sign paperwork.
+	-We also took a moment to test our divine powers.
+		-Our storm-god-granted power indeed fealt. . . weaker, translating to a +4 to attempts to
+		 save against them.
+		-Those granted by Tiamat to Arvaec, though, felt undiminished. 
+	-Starfire's agents eventually brought us back word of The Grand Market, a place where seemingly
+	 everything was for sale, noteably including ships and Spelljammer drives.
+		-They used a currency of "chits", roughly equivalent to a platinum piece, which can be broken
+		 up into "bits", or the equivalent of gold pieces.
+	-They also brought back word of "dragon town", the neighborhood we saw dragons soaring over.
+		-No council, nor single great wyrm rules the area. Instead, each wyrm claims a building as
+		 it's territory here, and usually a larger territory somewhere out in the phlogiston.
+		-It _does_ feature a "Drakkon Enclave", a meeting place.
+		-They also seem to shamefully acknowledge the authority of the humanoid police throughout
+		 the city ("Red Cloaks", to the upper class, but most of the rest of the city name them
+		 "Black Helms").
+		-Dragons are also shamefully considered largely equal, regardless of their age, to any other
+		 inhabitant of the city.
+	-Unlikely to offend our kin here, if they claim such small territories on the rock, we went to
+	 the market.
+		-On the way, vast differences in the technologies in use by various peoples were readily
+		 apparent. From medieval things we're well familiar with, to black powder fire arms and
+		 clockwork, to full on Sci-Fi space opera stuff.
+		-Many homeless also abounded, featuring prominently among them rat-people and two kinds of
+		 insect-person, one of them featuring four arms.
+		-The market itself was dark and crowded, but featured seemingly every sort of good.
+			-Cloth canopies, looming ships, and walkways formed a near complete roof over the area.
+		-As we entered the market, in a caravan of our followers, we received many questions, about
+		 what goods we bring, what good we want, and what crystalline sphere we came from.
+			-Dokinanth announced us as coming from "Draconia", to which we heard things like, "Ah,
+			 The Radiant Triangle. Good, good. . ."
+			-A brisk trade in some of the smaller goods Dokinanth's gnomes had on hand quickly
+			 ensued, teas and spices of our homeland given in exchange for exotic foods and
+			 commodities available here.
+		-We were soon approached by an Illithid, though, one bearing a strange medallion on his chest.
+			-The medallion was made of reddish bronze, carved with a spiral pattern.
+				-None of us recognized it.
+			-It soon "spoke" to us, asking us if we were the owners of the docked castle.
+				-Dokinanth first asked who it was  "The Hunger", a servant of Thrasadune.
+				-It claimed it's elder brain had told it that a being, one not seen in a very long
+				 time, had arrived aboard our castle. Not hard to guess who it "spoke" of.
+				-After some hemming and hawing on Dokinanth's part, Sszythrach broke in, announcing
+				 that we were indeed the ship's master.
+				-It then explained that it sought us because it's elder brain had made agreements
+				 with others. Others of it's kind were active in our homeland, interested in
+				 preserving unique draconic lineages found there, having foreseen a cataclysm coming
+				 to that land.
+				-It asked us for a drop of blood from one of us, from which to make clones, an idea
+				 we were less than enthused about. . .
+					-The clones, it said, would live in Crucible, safe from whatever calamity had
+					 been foretold.
+				-In exchange, it offerred us an atlas, detailing all of the crystal spheres known to
+				 it's kind.
+				-Dokinanth asked it who or what Thrasadune was.
+					-Thrasadune, it said, was a god of mystery, one who once visited here and was then
+					 gone quickly.
+					-Nonetheless, he had made quite an impression on the elder brain, who now
+					 maintained a cleric of Thrasadune on his council always.
+				-Asked for details of this cataclysm, it's eyes glazed over for a moment, and then it
+				 responded, "The cataclysm has not yet occurred."
+				-It also volunteered that the clones would be "severed" from us, such that they would
+				 no longer serve as an arcane link to us.
+					-That was indeed among my concerns, so I asked it if it could provide some surity
+					 of that? It referred us (lol) to previous. . . customers, around the city, for
+					 the elder brain had opperated here for some time.
+				-Dokinanth also inquired about a town crier or the like, some means of finding
+				 information in this strange city.
+					-It said most bars and inns of the city should have an "echobox" for use, and that
+					 they could also be purchased in the market.
+						-Essentially, they're radios.
+						-Dokinanth also asked then about the range of such things, and it responded
+						 that they varied, from those limited to a short, local distance to
+						 transmitters that could reach between the crystalline spheres.
+				-We said we'd thinkg about the deal, speak with his references and talk it over.
+	-From there, we went to Dragon Town, to speak with the dragons the Illithid had referred us to.
+		-We even met a few of their clones.
+		-The general opinion was that, though this whole thing was weird, it did seem to be on the
+		 up and up. No great customer regrets or the like.
+		-The only slight complaint came from the clones, who were banned from leaving Crucible, but
+		 provided for in exchange.
+	-We were convinced, and went off to convince one of our kindred aboard the ship to provide the
+	 blood.
+		-Perfidious actually volunteered, _to stay_, sending the clone with us.
+		-Sszythrach was a bit astounded, and then scornful after Perfidious explained that the
+		 concept of territory he need not fight for appealed to him. With his disability robbing
+		 him of speech and more, though, I suppose it's the best he could hope for. . .
+			-He'd at least managed to pick up sign language over the years.
+		-We brought him to the market, and made the deal. The Illithids were amenable to Perfidious's
+		 modified terms, and turned over to us the atlas.
+	-The Hunger also offerred us another deal, mentioning something it desired in The Radiant Traingle.
+		-A dish, actually. Made by a chef in a town called Solace, spiced potatos said to be the best
+		 in all The Radiant Triangle.
+		-In exchange, it offered weapons, of the sort it learned form Profidious we desired, with
+		 which to defend our ship.
+			-Pressed for specifics, it was vague still, but staked it's reputation on it: "It would
+			 not be good business, to cheat your partners. . ."
+		-Dokinanth also asked if it had coordinates or the like, at which it produced a strange
+		 device, comprised of crystalline spheres.
+			-23 phlogiston units each way.
+		-Dokinanth also attempted a transparent ploy, mentioning the potatos would surely not keep.
+		 Perhaps it could provide us with a faster drive?
+			-Instead, it responded that surely we could obtain a Chrysalis of Preservation. . .
+		-We agreed to the deal.
+	-From there, Sszythrach suggested we do some shopping. We have many things to unload, and also a
+	 few thing to purchase.
+		-Caltor went off in search of a suitable merchant.
+		-10 minutes after he left, though, an angel floated down the street, passerby giving it a wide
+		 berth.
+			-It bore a holy symbol in the shape of an open book.
+			-It floated up to us, standing before Shiv and Arvaec and said, "All gods must register
+			 in crucible. Come with me."
+			-Sszythrach asked who it spoke of, but it yelled back, "Dragon! Know your place. The
+			 divine stands before you!".
+			-Arvaec, one of the two getting special attention, then tried, "Where I go, Sszythrach
+			 can too." He too was shut down, though, as the angel said, "You failed to register! You
+			 cannot make requests here!"
+			-The angel then waved, summoning disks of light, that took Shiv and Arvaec, through the air
+			 and across the city.
+			-It took them across the city, to a clear space amongst the palace grounds across the lake.
+			-There, it unceremoniously dumped them, saying, "The gods will not suffer further
+			 competition. You must die." Then, it swung for us with it's sword.
+			-In response, Shiv stepped into a shadow, and disappeared entirely (seemingly more so
+			 than otherwise, Arvaec normally being able to track his hidden movements via _some_
+			 senses).
+			-Arvaec did not react in time to do anything at all, but nonetheless felt a wave of cold
+			 come over him, and the angel's blade stopped dead the moment it came close to him.
+			-Seizing his advantage, Arvaec reached forward, grasping the angel's wrist with his hand,
+			 employing his energy drain ability to devestating effect.
+			-The angel collapsed to it's knees, shouting, "It couldn't have happened already! You
+			 weren't powerful enough!"
+			-Shiv then reached towards the the stricken angel, and it disappeared as he had done.
+			-More of the creatures swarmed out of the nearby buildings but, as they neared us, Arvaec
+			 was suddenly elsewhere.
+				-He found himself on a desolate moonscape, stars and asteroids overhead.
+				-His form, too, was not his own, but rather that of a withered, desicated corpse
+				 (though admittedly what he'll soon look like anyways).
+				-As he walked around, he witnessed an asteroid hurtling towards the planet. It struck
+				 and, in a flash of blinding light, he could feel his flesh blasted away.
+				-Only to awake, garbed in a new corpse, that of an elf woman. Enclosed in a glass
+				 box, I was surrounded by mourners, who reacted with great alarm as he/she sat up.
+				 Soon, a cleric approached, yelling, and they thrust torches into the box.
+				-And, once more, waking as a corpse, this one floating in water.
+				-This repeated many times, until Arvaec again found himself in Crucible, though still
+				 as a walking corpse.
+				-He could see Shiv nearby, and Caltor soon popped into existence as well.
+				-Arvaec, or the corpse he's garbed in, stood up from where it lay in an alley, and
+				 approached them. As he focused, though, it was soon garbed in his gear, which faded
+				 into being around him. It also seemed to possess noteably tough skin.
+				-Caltor had just had a similarly surreal experience, also featuring an angry angel,
+				 though he got a name of the god it served: Ashnos The Keeper, who keeps the history
+				 of everything.
+				-Caltor then did something to a nearby ad. It took on a new form, proclaiming the
+				 merits of good from The Dragon Isles.
+					-Actually, looking further, not just this ad, but all we could see had taken on
+					 this new form.
+				-Looking to the sky, we could see that more angels poured from the palace grounds
+				 into the air, including twelve larger beings who grew and soon towered over the
+				 city, flickering like insubstantial, ethereal beings.
+					-The twelve great ones had various forms, with us recognizing Tiamat and Bahamut
+					 among them, as well as a giant brain, a giant beholder, a skeleton, and, weirdest
+					 a giant spiral, covered in eyes.
+				-We also saw the dragons circling in the sky, from where they'd been trying to keep
+				 watch over Shiv and Arvaec.
+				-As we debated how to contact them, a robed figure materialized next to us, and spoke:
+				 "They will continue looking for you. You are not gods, but they will continue
+				 pursuing you nonetheless. The dragons are in danger too. They say they are the
+				 breakers of names that made all this possible. Come with me, back to your ship. I
+				 can take you to a place of learning, a safe place."
+				-We agreed and, collecting those from the market, we headed back to the ship.
+					-Keen-eyed Sszythrach spotted the rest of the party in the market, and sooned
+					 joined them.
+				-On the way out, Caltor again affected the ads throughout the market, which now read,
+				 "Freedom of religion! Gods should be free!"
+					-"That'll certainly piss them off," the robed figure said, chuckling.
+					-He was highly intrigued by the powers over illusions that Caltor showed, asking
+					 him to create the illusion of a knife.
+					-The man then tested the illusion, feeling it's heft, and then even testing it's
+					 point, which surprisingly drew blood.
+						-He then asked for a series of further tests, in which Caltor demonstrated
+						 some capacity for making his illusions _real_, albeit only so long as he
+						 concentrated on it.
+				-In fact, all three of the cohorts seemed to demonstrate strange new powers.
+					-Arvaec demonstrated an extreme new resilience, and ability over the mindless
+					 undead (also in Roll20):
+						your body hardens and calloses becoming extreamly durable. You become immune to all damage except for that caused by a dragon's bane weapon. Dragon's bane weapons deal an extra 2d6 damage to you, and the total damage id doubled after it is rolled (quadrupled if it is a critical!)
+						you can jump crystalinne spheres by possessing the bodies of mindless undead.
+				-The robed man aided in our exploration of our new powers, a thing we were all
+				 preoccupied by, but eventually also introduced himself as Urza.
+					-He offered us his aid, as a master artificer, and the aforementioned place of
+					 safety, if we would help him against a foe in a great battle.
+					-His battle, he said, was stuck in a time loop, resolved in some time streams,
+					 but not in others. He warned us that we would be drawn into this fractured time,
+					 if we were to join him.
+					-He came from Dominaria, in Mage Space, a long distance away. To get there, he
+					 offered to upgrade our Spelljammer drive, rendering it much faster.
+						-Magical materials will be required, though,  collected from Toril Space,
+						 The City of Ravnica, Athas Space, Grey Space, and Siberys Space
+					-He had originally come here seeking a great warrior, Elsbeth, from a land plagued
+					 by gods as capricious as those of Crucible.
+						-She is said to reside on the plane of Thedas.
+					-He indicated that the three cohorts may be able to step between crystal spheres
+					 in another way.
+						-"No dragons allowed, huh?" Caltor chimed in.
+						 "They too possess the spark, but it has not yet occurred," Urza said.
+						 "They mistook this spark for godhood, but it is something else, which allows
+						 walking between the crystal spheres."
+						-He said, though, that it is possible to get lost when doing this, and that
+						 we should travel thusly with him, lest that occur.
+							-He also recommended avoiding "The Weird".
+	-To pursue the magical ingredients we required, and given that a subset of us can travel much
+	 faster, we opted to split up.
+		-The cohorts would head to the city of Ravnica, a place that sounds suited more to discretion
+		 than raining destruction form the sky.
+		-The castle and it's contents, then, was to travel, far slower, to Grey Space, our reasoning
+		 being that, as part of The Radiant Triangle, it is perhaps not unlike our home, a place we
+		 rightly ruled.
+	-In the blink of an eye, Urza and the cohorts were in Ravnica.
+		-With Urza's guidance we all found ourselves in more or less the same area of the city.
+		-Arvaec emerged in the body of a dead man, laying in the street. He stood, as his armor and
+		 the rest materialized around him.
+		-From this place, we need a special power core, obtained from an "Izzet" technician, for our
+		 drive modifications.
+		-With in a few minutes, we could see armed and armored figures, hassling people on the street
+		 nearby, asking them for identification.
+			-"This area is under control of the military. All not allowed here will be ejected."
+		-Caltor quickly employed an illusion, duplicating around us the seeming of some blue-skinned,
+		 four-armed humanoids passing on the street nearby. We then hustled out of the area.
+	-Asking around, we learned the Izzet were a kind of guild, and were directed to a guild
+	 house of their order.
+		-Heading there, we found it a place bedecked in strange machinery, spewing lightening.
+		-Most in the area were goblins, along with a smattering of humans, the blue-skinned people,
+		 elves, centaurs, and even, rarely, wooly mammoth people.
+			-Skulking in the shadows of dark alleys, we could also see stranger creatures, hybrid-
+			 seeming things, combining the shapes of many animals.
+		-We decided that Shiv, sneaking in, could watch the place a bit, get some sense of how they
+		 do business and such.
+			-Soon he was running back out, amongst the sound of alarms, after the electricity flowing
+			 from the structure was disrupted.
+			-We hid together inside an illusory structure created by Caltor.
+			-"What did you do?!?" Caltor asked.
+			 "I stole a power core."
+			 "Do you know it was the right one?"
+			 "It was the biggest. . ."
+			-We observed the action for a bit, as several goblins examined the structure, eventually
+			 replacing the device Shiv stole, resuming the flow of electricity.
+			-Examining the device he stole, Caltor said it radiated magical energy, drawn from the
+			 air and flowing out as electricity. Strangely, it seemed to do so without being magical
+			 itself.
+			-Unsure if this is what we want, we asked around further, and what we stole is not, in
+			 fact, a power core.
+				-A power core, instead, is something that would exist beneath the guildhouse,
+				 powering the whole of it.
+				-Only one creature, it was said, could help us obtain such a thing: Niv Mizzet, the
+				 guildmaster.
+				-We also asked more about what the guilds were to this place.
+					-There are 10 of them.
+					-Each oversees a different type of magic in the city, and the conveniences
+					 provided by that type of magic.
+						-The Izzet oversee electricity.
+						-The Orzov are bankers.
+						-The Azorius provide a system of laws to the city.
+					-They often war on one another.
 
 
 -TODO:

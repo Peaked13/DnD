@@ -3,31 +3,31 @@ Psycrystal belt: 3
 Cure Moderate from Pale Green Ioun: 3
 
 Currently active powers:
-	0	Mind Blank on all non-dieties in party, cast after waking in Xul-Jarak (1 day duration)
-	1	Filled my Black Lotus growler after waking in Xul-Jarak (24 hour duration, overchanneled)
-	23	Inertial armor +15 cast after waking in Xul-Jarak (24 hour duration, overchanneled)
-		407-0-1-23=383
+	0	Mind Blank on all non-dieties in party, cast after waking in Xûl-Jarak (1 day duration)
+	1	Filled my Black Lotus growler after waking in Xûl-Jarak (24 hour duration, overchanneled)
+	22	Inertial armor +15 cast after waking in Xûl-Jarak (24 hour duration, overchanneled)
+		407-0-1-22=384
 
 
 Stuff you've done in the past:
-	15	Mind Blank, cast after waking in Xul-Jarak (1 day duration)
-	1	Filled my Black Lotus growler after waking in Xul-Jarak (24 hour duration, overchanneled)
-	23	Inertial armor +15 cast after waking in Xul-Jarak (24 hour duration, overchanneled)
+	15	Mind Blank, cast after waking in Xûl-Jarak (1 day duration)
+	1	Filled my Black Lotus growler after waking in Xûl-Jarak (24 hour duration, overchanneled)
+	23	Inertial armor +15 cast after waking in Xûl-Jarak (24 hour duration, overchanneled)
 	20	Oak Body, cast before assault (27 minute duration)
-	22	Precognition, Defensive +8, cast before assault (23 minute duration)
-	22	Precognition, Offensive +8, cast before assault (23 minute duration)
-	23	Vigor +115, cast before assault (23 minute duration)
-	1	Skate, cast before assault (23 minute duration)
+	21	Precognition, Defensive +8, cast before assault (24 minute duration)
+	21	Precognition, Offensive +8, cast before assault (24 minute duration)
+	23	Vigor +120, cast before assault (24 minute duration)
+	1	Skate, cast before assault (24 minute duration)
 	5	Keen Edge on 50 bolts, cast before assault (230 minute duration)
-	15	Shadow Body, cast before attacking Sharlocke (20 minute duration)
+	14	Shadow Body, cast before assault (24 minute duration)
 	9	Adapt Body, cast before attacking Sharlocke (19 hour duration)
 	
 
 AC 34 (Inertial Armor)
 
-147 of 147 HP ( temp, 24 minutes, cast )
-383 of 407 PP
-Cognizance Crystal (5 points): 5
+147 of 147 HP (120 temp, 24 minutes, cast )
+75 of 407 PP
+Cognizance Crystal (5 points): 1
 
 Psycrystal HP: 73 of 73 ( temp)
 
@@ -41,6 +41,10 @@ Constructs:
 	3:
 		Duration: 
 		HP: 144
+
+Divine Sensing Locations Active (2 available):
+	Inner sanctum of my plane
+	Xûl-Jarak
 
 Ed using his crossbow while buffed at diamond mine:
 &{template:default} {{name=Ed's Crossbow}} {{attack=[[1d20cs>17+21]] Crit:[[1d20cs>17+21]]}} {{damage=[[1d8+2d6+14d6]] Crit:[[2d8]]}}

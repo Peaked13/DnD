@@ -1992,6 +1992,8 @@ TODO:
 			-Examining the device he stole, Caltor said it radiated magical energy, drawn from the
 			 air and flowing out as electricity. Strangely, it seemed to do so without being magical
 			 itself.
+			-Arvaec also took a moment to test his powers.
+				-He felt no connection to Isriboss, and only a faint connection to Tiamat.
 			-Unsure if this is what we want, we asked around further, and what we stole is not, in
 			 fact, a power core.
 				-A power core, instead, is something that would exist beneath the guildhouse,

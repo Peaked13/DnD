@@ -4627,6 +4627,7 @@ TODO:
 TODO:
 	-Level to 22? Or spend XP on something else?
 	-Post stuff in Discord about reaching out to other Elans?
+		-Making more, populating your plane, worshippers, and Epic casting assistants.
 	-Inquire about belt?
 
 
@@ -4635,6 +4636,8 @@ TODO:
 		-Confirmed in session that, to our knowledge, these werewolves are affected by it like any
 		 other.
 	-Epic spell planning:
+		-Time and money: 9,000 x DC gp. to develop, taking one day for every 50k gp.
+			-Or, 5 and 5/9's times the DC in days.
 		-Crystal species:
 			-DC calc (heavily based on Origin of Species):
 				Seeds (if Fortify is needed): 21+27+17
@@ -4657,9 +4660,40 @@ TODO:
 					-More ritual casters would help this too.
 						-Each -1 to the DC saves 360 XP and 9,000 gp.
 						-Convince other Elans to help?
+			-Hmm. . . More than a hundred days to develop, and then 100 days to cast, is pretty
+			 limiting. Not sure this is going to happen.
 		-Concert/Diplomacy?
 			-Nothing I see in the printed Epic seeds or spells gives skill bonuses.
 		-That inscribed earth elemental spell?
+		-Fortify Seed based buff?
+			-Permanent +5 to a stat for no/reduced XP cost:
+				-DC: 47*5-20-42 = 173
+					-Includes: +10 min. casting time, backlash 42d6
+				-What about with XP?
+					-_That_ is very tuneable, at -1 DC per 100 XP.
+					-(173-36)*100=13,700 XP, then, makes it a DC of 36 (auto success).
+					-Still requires 12960 XP to develop, though, making it just half price after the
+					 first +5 inherent.
+			-_Insight_ bonus to abilities:
+				-DC: 23+6*(X-1) for +X to ability.
+					-DC 35 for +3 is auto success and 12600 XP to develop, and only 6.3 days.
+					-How about mitigations?
+						-Math: 23+6*(X-1)-20-42 = 6X-45
+							   X = 45/6 = 7.5
+						-Includes: +10 min. casting time, backlash 42d6
+						-So, +8 is DC 3!
+					-How far can we push that? I have 22150 XP to spend on 10/15/21.
+						- +13 DC = 3+6*5 = 33
+					-What else could we mix in with that?
+						-More duration? Factors list +2 DC for double duration. +1 for 50% more?
+					-Alternate direction: buffing many at once.
+						- +14 to turn touch to area, foregoing a bit more than a +2 bonus.
+							- 20 ft. radius is probably the area to pick.
+						-Yeah, this is an amazing option.
+				-So, +11 insight Int to all within. 20 ft. burst with 300 ft. range.
+					-11 min. casting time, and 42d6 backlash.
+					-DC is 23+6*(11-1)+1+14-20-42 = 36
+					-Dev costs 324,000 gp., 12,960 XP, and 6.48 (rounds up to 7) days.
 	-Further plane modifications:
 		-Have Lesley cast Create Greater Demiplane: https://www.d20pfsrd.com/magic/all-spells/c/create-demiplane/
 			-Since we're allowing Pathfinder content for that, it'll let you speed up the time trait

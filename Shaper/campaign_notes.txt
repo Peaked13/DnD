@@ -4691,7 +4691,7 @@ TODO:
 							- 20 ft. radius is probably the area to pick.
 						-Yeah, this is an amazing option.
 				-So, +11 insight Int to all within. 20 ft. burst with 300 ft. range.
-					-11 min. casting time, and 42d6 backlash.
+					-11 min. casting time, and 42d6 backlash. Will negates (harmless).
 					-DC is 23+6*(11-1)+1+14-20-42 = 36
 					-Dev costs 324,000 gp., 12,960 XP, and 6.48 (rounds up to 7) days.
 	-Further plane modifications:

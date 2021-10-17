@@ -4665,6 +4665,11 @@ TODO:
 		-Concert/Diplomacy?
 			-Nothing I see in the printed Epic seeds or spells gives skill bonuses.
 		-That inscribed earth elemental spell?
+		-Epic Repulsion (Epic pg. 79) is amazing, and now ~50% odds of casting for you (DC 52).
+			-Permanent, and 10 minute casting time, so a fail chance isn't a huge deal anyways.
+		-Crown of Vermin, at DC 56, is also interesting, since you can suspend the duration until
+		 you need it. Could be flavored differently too, to fit Edric.
+		-Contingent Resurrection, at DC 52, is also interesting and permanent until used.
 		-Fortify Seed based buff?
 			-Permanent +5 to a stat for no/reduced XP cost:
 				-DC: 47*5-20-42 = 173
@@ -4692,6 +4697,7 @@ TODO:
 						-Yeah, this is an amazing option.
 				-So, +11 insight Int to all within. 20 ft. burst with 300 ft. range.
 					-11 min. casting time, and 42d6 backlash. Will negates (harmless).
+					-"Edric's Insight"
 					-DC is 23+6*(11-1)+1+14-20-42 = 36
 					-Dev costs 324,000 gp., 12,960 XP, and 6.48 (rounds up to 7) days.
 	-Further plane modifications:

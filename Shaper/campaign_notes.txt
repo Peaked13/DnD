@@ -4430,7 +4430,7 @@ TODO:
 	 plane.
 		-As I worked, I could feel something out of balance, in the conflux. Something somehow tied
 		 to Nkisi's plane.
-		-Balance was briefly restored, then imbalanced again, and I received a Sending from Niksi,
+		-Balance was briefly restored, then imbalanced again, and I received a Sending from Nkisi,
 		 reporting that, "Spring has come to my domain."
 		-I let him know I had detected an imbalance in the conflux, perhaps tied to the creation of
 		 Shawn's plane. I suggested he reach out to Shawn, who may be able to help.
@@ -4592,7 +4592,7 @@ TODO:
 		-He warned Lord Nather of the assassin and gathered the wizards to him, preparing ways to
 		 guard against a supposedly undead shadow assassin.
 		-They went with Enilias to another room in the estate, to prepare new spells, and, there,
-		 Enilias gave be the signal, moving his dagger to the other side.
+		 Enilias gave me the signal, moving his dagger to the other side.
 		-I sprung into Accelerated action, casting a number of buffs on myself, and then teleported
 		 into the ground _beneath_ the Nather estate.
 		-There, again Accelerated, I rose up through the estate's stone floors, into the third story
@@ -4626,9 +4626,46 @@ TODO:
 
 TODO:
 	-Level to 22? Or spend XP on something else?
+		-I have 22,150 XP to spend.
+		-Epic spell(s) seem to be the way to go, and I've messaged Jake about it.
+			-Looks like I can only get the one.
+	-Inquire about belt?
+
+
+10/17/21:
+	-We mostly used the session to sort out questions, including my epic spell.
+	-In full control of the city, we do indeed secure the plaza where Enilias ascended for a temple.
+	-Thranton is looking into Belts of Magnificence.
+	-And, he can indeed provide all the epic spell components, in return for me making a variety of
+	 things, all organized by Rovert.
+	-And so, you take the next week and successfully develop Edric's Insight.
+	-We also resolved to, once it's done, all meet for a Divine Council at Xûl-Jarak at 1:00 AM each
+	 day, part of which includes a casting Edric's Insight.
+
+
+TODO:
 	-Post stuff in Discord about reaching out to other Elans?
 		-Making more, populating your plane, worshippers, and Epic casting assistants.
-	-Inquire about belt?
+	-Make a macro for casting Edric's Insight? Doing the PP math and such?
+		-Probably depends on whether you can deal with it all via Resiliance or not.
+		-Oh! Share Pain Vigor doubling may be very useful here!
+	-Build that temple in Melvaunt.
+		-"A towering metal fortress-cathedral, from which issues forth the holy edicts of The Divine
+		 Brotherhood, rulers of this now-theocratic city-state."
+		-The size of the plaza somewhat limits it's footprint, so make a skyscraper.
+			-A combination of a +41 to Arch&Eng, fantasy metals like mithral and adamantine, and
+			 Edric's divine mastery of materials should allow for _space-elevator-grade_ feats of
+			 architecture.
+			-Pair it with a matching structure piercing downwards into the earth. As above, so
+			 below. Definitely the sort of space Edric is growing to prefer, and can serve as
+			 another Underdark link, like the one at Xûl-Jarak. Nkisi too may like this area.
+			-To further accomodate the limited footprint, leave the lower level or three open to
+			 traffic still. People will pass beneath the soaring and elaborately carved pillars of
+			 the cathedral, ascending (or descending) into it.
+				-That'll also aid it's role as an Underdark link.
+		-It should, of course, be elaborately carved with scenes of The Brotherhood, rendered in
+		 precious metals.
+			-With Nkisi's help, lets include carvings of every ghost ever formed in Melvaunt.
 
 
 TODO:
@@ -4667,10 +4704,11 @@ TODO:
 		-That inscribed earth elemental spell?
 		-Epic Repulsion (Epic pg. 79) is amazing, and now ~50% odds of casting for you (DC 52).
 			-Permanent, and 10 minute casting time, so a fail chance isn't a huge deal anyways.
+			-10 days; 18,720 XP
 		-Crown of Vermin, at DC 56, is also interesting, since you can suspend the duration until
 		 you need it. Could be flavored differently too, to fit Edric.
 		-Contingent Resurrection, at DC 52, is also interesting and permanent until used.
-		-Fortify Seed based buff?
+		-(More) Fortify Seed based buffs?
 			-Permanent +5 to a stat for no/reduced XP cost:
 				-DC: 47*5-20-42 = 173
 					-Includes: +10 min. casting time, backlash 42d6
@@ -4679,7 +4717,7 @@ TODO:
 					-(173-36)*100=13,700 XP, then, makes it a DC of 36 (auto success).
 					-Still requires 12960 XP to develop, though, making it just half price after the
 					 first +5 inherent.
-			-_Insight_ bonus to abilities:
+			-Done! _Insight_ bonus to abilities:
 				-DC: 23+6*(X-1) for +X to ability.
 					-DC 35 for +3 is auto success and 12600 XP to develop, and only 6.3 days.
 					-How about mitigations?
@@ -4691,15 +4729,18 @@ TODO:
 						- +13 DC = 3+6*5 = 33
 					-What else could we mix in with that?
 						-More duration? Factors list +2 DC for double duration. +1 for 50% more?
+							- +1 isn't kosher, according to Jake, so take the full +2.
 					-Alternate direction: buffing many at once.
 						- +14 to turn touch to area, foregoing a bit more than a +2 bonus.
 							- 20 ft. radius is probably the area to pick.
 						-Yeah, this is an amazing option.
 				-So, +11 insight Int to all within. 20 ft. burst with 300 ft. range.
 					-11 min. casting time, and 42d6 backlash. Will negates (harmless).
+					-Duration is 40 hours.
 					-"Edric's Insight"
-					-DC is 23+6*(11-1)+1+14-20-42 = 36
-					-Dev costs 324,000 gp., 12,960 XP, and 6.48 (rounds up to 7) days.
+					-DC is 23+6*(11-1)+2+14-20-42 = 37
+					-Dev costs 333,000 gp., 13,320 XP, and 6.66 (rounds up to 7) days.
+			-Do another ability bonus spell? Luck to Int, or another ability entirely?
 	-Further plane modifications:
 		-Have Lesley cast Create Greater Demiplane: https://www.d20pfsrd.com/magic/all-spells/c/create-demiplane/
 			-Since we're allowing Pathfinder content for that, it'll let you speed up the time trait

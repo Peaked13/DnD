@@ -35,6 +35,8 @@ Lvl	Class lvl		Feat											Max Pwr		Powers
 ??	Constructor 10	Oh, Epic Psionic Focus makes this worthwhile!	Same		0
 
 
+Portfolios (Jake ruled we get 4):
+	Abundance, Crystals, Engineering, Psionics
 Divine Rank Planning:
 Rank	Divine Saliant Abilities
 	1	Divine Earth Mastery (if Earth domain), Increased Spell Resistance
@@ -81,17 +83,17 @@ Divine Immunities:
 	Damage reduction 36/+4 (35+DR)
 
 Extra Knowledge Skills (wouldn't all fit on the sheet; these are all one rank):
-	Knowledge(Dungeoneering):		13 = 9 + 1 + 3
-	Knowledge(Geology):				13 = 9 + 1 + 3
-	Knowledge(History):				13 = 9 + 1 + 3
-	Knowledge(Local):				13 = 9 + 1 + 3
-	Knowledge(Nature):				13 = 9 + 1 + 3
-	Knowledge(Nobility & Royalty):	13 = 9 + 1 + 3
-	Knowledge(Religion):			13 = 9 + 1 + 3
-	Knowledge(Arcana):				13 = 9 + 1 + 3
-	Knowledge(Law):					13 = 9 + 1 + 3
-	Knowledge(Politics):			13 = 9 + 1 + 3
-	Knowledge(War):					13 = 9 + 1 + 3
+	Knowledge(Dungeoneering):		18 = 14 + 1 + 3
+	Knowledge(Geology):				18 = 14 + 1 + 3
+	Knowledge(History):				18 = 14 + 1 + 3
+	Knowledge(Local):				18 = 14 + 1 + 3
+	Knowledge(Nature):				18 = 14 + 1 + 3
+	Knowledge(Nobility & Royalty):	18 = 14 + 1 + 3
+	Knowledge(Religion):			18 = 14 + 1 + 3
+	Knowledge(Arcana):				18 = 14 + 1 + 3
+	Knowledge(Law):					18 = 14 + 1 + 3
+	Knowledge(Politics):			18 = 14 + 1 + 3
+	Knowledge(War):					18 = 14 + 1 + 3
 	
 	Others, for the future: https://forums.giantitp.com/showthread.php?514547-The-Library-of-Knowledge-Getting-the-most-out-of-your-studies
 		You've already grabbed everything that seemed worth it, though.
@@ -101,16 +103,22 @@ Extra Knowledge Skills (wouldn't all fit on the sheet; these are all one rank):
 
 Knowledge macro:
 Ed:
-/r d20+13
+/r d20+18
 
 Crystal assist:
-/r d20+4
+/r d20+10
 
 Other skill stuff:
 	-Remember Inquistor for Sense Motive.
 	-Future stuff to get:
 		-Bump Knowledge(The Planes) back up.
 		-Look for untrained stuff that could get a rank, particularly Decipher Script and Dex stuff.
+
+
+Epic Spells Known:
+	-"Edric's Insight"
+		-+11 insight Int to all within 20 ft. burst with 300 ft. range. Duration is 40 hours.
+		-11 min. casting time, and 42d6 backlash. Will negates (harmless).
 
 
 Psicrystal @ Lvl 21:
@@ -127,7 +135,7 @@ Psicrystal @ Lvl 21:
 		Str: 1*
 		Dex: 16* (increased 1 for HD)
 		Con: —
-		Int: 17** (increased 1 for HD)
+		Int: 28** (increased 1 for HD, and 11 for Edric's Insight)
 		Wis: 10
 		Cha: 13 (increased 3 for HD)
 	Skills**:
@@ -137,7 +145,7 @@ Psicrystal @ Lvl 21:
 				On Minor Creation and Fabricate? Yep, Jake confirmed it!
 		Listen: 6
 		Move Silently: 7*
-		Search: 7**
+		Search: 13**
 		Spot: 6
 	Feats** (Jake confirmed it gets them):
 		Alertness

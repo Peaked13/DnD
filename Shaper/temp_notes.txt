@@ -8,6 +8,7 @@ Currently active powers:
 	1	Filled my Black Lotus growler after waking in Xûl-Jarak (24 hour duration, overchanneled)
 	22	Inertial armor +15 cast after waking in Xûl-Jarak (24 hour duration, overchanneled)
 		455-0-1-22=432
+			Minus 42d6/4, spent preventing backlash from Edric's Insight.
 
 
 Stuff you've done in the past:

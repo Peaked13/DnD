@@ -119,6 +119,7 @@ Epic Spells Known:
 	-"Edric's Insight"
 		-+11 insight Int to all within 20 ft. burst with 300 ft. range. Duration is 40 hours.
 		-11 min. casting time, and 42d6 backlash. Will negates (harmless).
+			-Talked with Jake and the Elan Resilience can indeed be applied to backlash.
 
 
 Psicrystal @ Lvl 21:
@@ -268,8 +269,8 @@ Psicrystal @ Lvl 21:
 			Got it.
 
 References:
-	-Poison crafting DCs are on page 98 of Complete Adventurer
-	-Power and Construct Guides were copied from http://www.d20srd.org (format copies nicely)
+	-Poison crafting DCs are on page 98 of Complete Adventurer.
+	-Power and Construct Guides were copied from http://www.d20srd.org (format copies nicely).
 	-Equipment: https://docs.google.com/spreadsheets/d/1DVroD8YaTENIxQ-GjJXygxzlT0HtgrMbL9gQiiSNBxg/edit#gid=0
 
 Power Stone Bandolier:
@@ -284,13 +285,67 @@ Power Stone Bandolier:
 
 Stuff Edric always does:
 	-Every morning:
-		-Psionically focus himself and his psicrystal
-		-Refresh his psicrystal's 24 hour Self-Propulsion and Flight abilities
-		-Summon his floating disk (periodically resummoning it as needed)
-	-Takes a round to restore focuses as needed, after combat is over
-	-Manifest powers without their display if it's automatic
+		-Psionically focus himself and his psicrystal.
+		-Refresh his psicrystal's 24 hour Self-Propulsion and Flight abilities.
+		-Summon his floating disk (periodically resummoning it as needed).
+	-Takes a round to restore focuses as needed, after combat is over.
+	-Manifest powers without their display if it's automatic.
 		-DC is 15 + power level
-		-So, at level 12, that's 4th level and below
+		-So, at level 12, that's 4th level and below.
+
+Edric's Plane:
+	-"The Nested Domains of the Enlightened Edric"?
+	-The focus is an elaborately complicated forked rod made from crystalline adamantine, seemingly
+	 grown into it's shape. A thing few other than Edric could make.
+	-Size:
+		-Created on the 1st day of the 4th month of year 301.
+		-Recieved some number of expansion castings of Create Demiplane, Greater during 11/3/21
+		 session.
+	-It's weird gravity:
+		-"Gravity points to the nearest of the spheres or connecting pillars making up the plane."
+		-I even threw together plane_gravity_diagram.png, to demonstrate what I mean.
+	-Other properties (from Create Demiplane, Greater):
+		-Double the normal rate of time.
+		-Enhanced Magic for Creation spells and powers.
+	-Portals:
+		-A portal links Dungeon Level 1 of Xûl-Jarak and it's twin on Outer Boundary.
+	-The adamantine barriers between the spheres:
+		-Inside each of his plane's stone spheres, Edric transmutes a portion of the stone into
+		 a foot thick sphere of adamantine. He also needs to perform maintenance over time, both
+		 creating more barriers in new sphere as they form and expanding the existing barriers
+		 as their spheres grow. For the latter purpose, Edric builds carefully designed
+		 expansion joints into each sphereical barrier, comprised of densely interlinked
+		 chainmail-like adamantine rings, allowing the spheres to grow for a few years before
+		 maintenance is required yet not permitting anything much larger than a fly to tunnel
+		 through.
+		-Further hardened by your now at will Hardening spell too.
+			-Looks like that'll take several months, so I'll at least get it _started_, but it will
+			 likely take a very long while.
+	-The spheres:
+		-Boundary:
+			-The outermost sphere of The Domains, it serves as their interface with The Multiverse.
+			-Outer Boundary is a crystal-studded but otherwise flat desert of hard-packed earth.
+			 Roads crisscross it, but serve mostly as guidance between landmarks, as the hard
+			 surface allows travel off them nearly as easily.
+				-The clusters of crystals are sparse, and range from waist high to twice a man's
+				 height. Though they appear random, they actually follow a complex pattern, and can
+				 be read by those who know it, to identify their current location on the sphere and
+				 nearby landmarks.
+				-Edric's copy of Xûl-Jarak stands here, with it's portal to the original. It appears
+				 to be a perfect duplicate of the whatever Edric has currently done to the original,
+				 but actually possesses a variety of changes to optimize it for defense against
+				 intruders coming _from_ the portal, rather than those attempting to get _to_ it on
+				 The Material.
+			-Inner boundary is TODO
+				-City? Market?
+		-The Sanctum:
+			-Only about 20' across, the interior of the innermost sphere contains Edric's crystal-
+			 pierced meditation chamber, from which he connects to the entirety of The Conflux.
+				-He fits within only because he can freely move _through_ the crystals. No other
+				 creature much larger than a cat would.
+			-The outside of The Sanctum is covered in a frequently shifting crystalline structure.
+			 Resembling abstract art, it is in fact elaborately encoded notes and diagrams concerning
+			 whatever Edric is thinking through within.
 
 Feats to look at:
 	-Psionic Meditation

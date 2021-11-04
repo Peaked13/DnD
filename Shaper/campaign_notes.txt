@@ -4507,11 +4507,6 @@ TODO:
 				-Looks like that'll take several months, so I'll at least get it _started_ but won't
 				 likely finish.
 			-Posted about it here: https://discord.com/channels/560915739796570113/560915739796570119/889635998315708426
-	-Precisely word that gravity trait.
-		-How about this:
-			"Gravity points to the nearest of the spheres or connecting pillars making up the plane."
-		-Seems to succinctly sum it up.
-		-I even threw together plane_gravity_diagram.png, to demonstrate what I mean.
 	-Define the focus for your plane.
 	-Harden essentially everything!
 		-https://www.dandwiki.com/wiki/SRD:Hardening
@@ -4644,12 +4639,7 @@ TODO:
 
 
 TODO:
-	-Post stuff in Discord about reaching out to other Elans?
-		-Making more, populating your plane, worshippers, and Epic casting assistants.
-	-Make a macro for casting Edric's Insight? Doing the PP math and such?
-		-Probably depends on whether you can deal with it all via Resiliance or not.
-		-Oh! Share Pain Vigor doubling may be very useful here!
-	-Build that temple in Melvaunt.
+	-(DONE) Build that temple in Melvaunt.
 		-"A towering metal fortress-cathedral, from which issues forth the holy edicts of The Divine
 		 Brotherhood, rulers of this now-theocratic city-state."
 		-The size of the plaza somewhat limits it's footprint, so make a skyscraper.
@@ -4666,9 +4656,48 @@ TODO:
 		-It should, of course, be elaborately carved with scenes of The Brotherhood, rendered in
 		 precious metals.
 			-With Nkisi's help, lets include carvings of every ghost ever formed in Melvaunt.
+		-Posted the above here: https://discord.com/channels/560915739796570113/560915739796570119/899485463268691988
+
+
+11/3/21:
+	-With Shroud returned, we attended to Shawn's divinity.
+		-He had begun the creation of a new, harmonious organization, a college and guild for
+		 peacefully learning adventerous skills.
+		-He worked to establish a branch in Melvaunt, linked by portal to his plane.
+		-He also took a liking to some rats caught in a casting of my Insight spell.
+			-He saw to it that they received a permanent awakening from our recently acquired
+			 druids, and trained them in various skills.
+		-He then gathered a collection of fey, dragons, elementals, and humanoids, and began with
+		 a great party and feast.
+			-He guided the event with his bardic skills.
+		-He gathered, then, a more metaphorical collection, support for a great pact of peace, with
+		 provisions for dispute resolution and the like.
+			-In the course of it, he pushed a pair of warring human civilizations towards peace,
+			 with some help from me. We offered to supply both with a series of airships, of my
+			 manufacture, to obviate the trade chokepoints and disputes that had ignited the conflict.
+			 We offered favorable terms to them, to push the peace, but asked payment in magics,
+			 the only thing I still find scarce. Rovert will be arranging the exact terms, and the
+			 applications of our payment.
+		-At the end of this all, Shawn had achieved an unprecedented peace, a great mutual aid pact
+		 spanning many diverse factions. In doing so, he also achieved divinity.
+	-Meanwhile, Nkisi and Shaggy helped us all further customize our planes, through Create
+	 Demiplane, Greater.
+		-I got:
+			-Portal to Xûl-Jarak.
+			-Double the normal rate of time.
+			-Enhanced Magic for Creation spells and powers.
+			-As much expansion as there's time for.
+	-Out of character, Jake is planning another 3 sessions or so after this one, and then ending the
+	 campaign.
 
 
 TODO:
+	-More portals and planar expansion.
+	-Post stuff in Discord about reaching out to other Elans?
+		-Making more, populating your plane, worshippers, and Epic casting assistants.
+	-Make a macro for casting Edric's Insight? Doing the PP math and such?
+		-Probably depends on whether you can deal with it all via Resiliance or not.
+		-Oh! Share Pain Vigor doubling may be very useful here!
 	-Make alchemical silver stuff for dealing with werewolves?
 		-Confirmed in session that, to our knowledge, these werewolves are affected by it like any
 		 other.
@@ -5037,6 +5066,18 @@ TODO:
 		-https://www.dandwiki.com/wiki/SRD:Mithral_Shirt
 		-Helps a bit if your surprised, dispelled, or otherwise without your Inertial Armor
 		-Only downsides are the 10 lb. weight and a (high) max dex bonus of +6 (hard to exceeed with your natural 16)
+	-Sort out your additional planar features:
+		-https://discord.com/channels/560915739796570113/560916449527332877/905519930307391519
+		-Stuff to do:
+			-Portal to Xul-Jarak.
+			-Portals to other places?
+			-Double the normal rate of time.
+			-Enhanced Magic for Creation spells and powers.
+	-Precisely word that gravity trait.
+		-How about this:
+			"Gravity points to the nearest of the spheres or connecting pillars making up the plane."
+		-Seems to succinctly sum it up.
+		-I even threw together plane_gravity_diagram.png, to demonstrate what I mean.
 
 
 -TODON'T:

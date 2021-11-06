@@ -1,10 +1,10 @@
-Turns until breath weapon use: 9
+Turns until breath weapon use: 
 
 Spells Active:
 	Divine Favor on Arvaec, cast each morning after waking (24 hour duration)
 	Divine Power on Arvaec, cast each morning after waking (24 hour duration)
 	Energy Immunity (Fire) on Arvaec, cast after waking (24 hour duration)
-	Mind Blank on Sszythrach, cast each morning after waking (24 hour duration)
+	Mind Blank on Sszythrach, cast each morning after waking UNLESS NO I-SPELLS (24 hour duration)
 	Divine Favor on Sszythrach, cast each morning after waking (24 hour duration)
 	Greater Magic Fang on Sszythrach (all weapons), cast after waking (17 hour duration)
 	Greater Magic Fang on Sszythrach (Bite+4), cast after waking (19 hour duration)

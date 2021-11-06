@@ -1,3 +1,5 @@
+=============Sszythrach================
+
 &{template:default} {{name=Full Attack (Divine Favor +3, Greater Magic Fangs: All,Bite+4, Heroes' Feast)}}
 &{template:default} {{name=Bite}} {{attack=[[1d20cs>20+20+10-2+4+3+1]] Crit:[[1d20cs>20+20+10-2+4+3+1]]}} {{damage=[[2d8+10+4+3]] Crit:[[2d8]]}}
 &{template:default} {{name=Claw 1}} {{attack=[[1d20cs>20+20+10-2+1+3+1]] Crit:[[1d20cs>20+20+10-2+1+3+1]]}} {{damage=[[2d6+5+1+3]] Crit:[[2d6]]}}
@@ -29,7 +31,7 @@
 &{template:default} {{name=Tail Slap}} {{attack=[[1d20cs>20+20+14-4+1+3+1]] Crit:[[1d20cs>20+20+14-4+1+3+1]]}} {{damage=[[2d8+17+1+3]] Crit:[[2d8]]}}
 
 
-
+=============Arvaec================
 
 &{template:default} {{name=Arvaec Bow Attack (Divine Favor +3, Divine Power, Heroes' Feast)}}
 &{template:default} {{name=Attack 1}} {{attack=[[1d20cs>20+17-1+2+3+1]] Crit:[[1d20cs>20+17-1+2+3+1]]}} {{damage=[[d8+2+3]] Crit:[[d8]]}}
@@ -49,6 +51,29 @@
 
 
 &{template:default} {{name=Arvaec Inflict Critical (Divine Favor, Divine Power, Death Dragon, Heroes' Feast)}} {{attack=[[1d20+17+3+2+3+1]]}} {{damage=[[4d8+19]] NE Dmg., Will DC 23 for half}}
+
+
+
+
+
+
+
+&{template:default} {{name=Arvaec Rod of the Viper Attack (Divine Favor +3, Divine Power, Heroes' Feast, Prayer)}}
+&{template:default} {{name=Attack 1}} {{attack=[[1d20cs>20+17+3+2+3+1+1]] Crit:[[1d20cs>20+17+3+2+3+1+1]]}} {{damage=[[d8+3+2+3+1]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 2}} {{attack=[[1d20cs>20+12+3+2+3+1+1]] Crit:[[1d20cs>20+12+3+2+3+1+1]]}} {{damage=[[d8+3+2+3+1]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 3}} {{attack=[[1d20cs>20+7+3+2+3+1+1]] Crit:[[1d20cs>20+7+3+2+3+1+1]]}} {{damage=[[d8+3+2+3+1]] Crit:[[d8]]}}
+&{template:default} {{name=Attack 4}} {{attack=[[1d20cs>20+2+3+2+3+1+1]] Crit:[[1d20cs>20+2+3+2+3+1+1]]}} {{damage=[[d8+3+2+3+1]] Crit:[[d8]]}}
+
+
+
+
+
+
+
+
+
+
+
 
 
 &{template:default} {{name=Arvaec Rod of the Viper Attack}}

@@ -2214,7 +2214,25 @@ TODO:
 TODO:
 	-Shopping? https://discord.com/channels/759886843801239603/759886844258943039/906663422211534868
 		-Yep, we're doing it between sessions.
-
+		-You need to reserve 231,000 for going up to Adult, but should have plenty beyond that.
+			-Confirmed with Lesley that "we manage to sell all of that at the usual half price, save
+			 the Gray Gem, the glass, and anything someone wants to claim?"
+			-That gives you 161283.75+370846.58=532130.33, or potentially 301130.33 to spend.
+				-Oh, no, you have less, as you claimed many different items.
+					Claimed: (32650+26650+10000+110000+85,000)/2=132,150
+						-Last 85,000 is Dragon's Eye Amulet, only claimed if S gets his belt.
+				-Sell Arvaec's Full Plate +2 for 5650/2 as well.
+			-So, you actually have 301130.33-132150+5650/2 = 171805.33 available.
+				-Still a lot, but basically will only get the belt, if that's available.
+				-It's only available because a quarter of it's value will count towards the hoard.
+			-Maybe sell Arvaec's expensive-but-not-amazing ioun stone too?
+		-Stuff to consider:
+			200,000	Belt of Magnificence
+			 98,000	+7 (5 element) bow?
+			 25,000	Cloak of Resistance +5
+			 64,000	Bracers of Armor +8?
+		-Belt is available, so I guess that's what you do!
+			-Do the required updates.
 
 -TODO:
 	-Get Arvaec a bow that deals all of Tiamat's five elements.

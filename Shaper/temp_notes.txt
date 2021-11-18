@@ -28,7 +28,7 @@ Stuff you've done in the past:
 AC 34 (Inertial Armor)
 
 147 of 147 HP ( temp, 24 minutes, cast )
-432 of 455 PP
+351 of 455 PP
 Cognizance Crystal (5 points): 5
 
 Psycrystal HP: 73 of 73 ( temp)

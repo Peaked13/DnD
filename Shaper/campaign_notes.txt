@@ -4539,8 +4539,8 @@ TODO:
 			-Talked about it in session, and, yeah, it does for all of us, especially after my
 			 modifications to it.
 		-Posted about modifications here: https://discord.com/channels/560915739796570113/560915739796570119/896187853237805118
-			Xul-Jarak is now adamantine (I can do that as a free action, one "object" per round). It also has four more stories (giving 6 of them above ground, one for each of us 6 gods), supported by decorated flying buttresses (seemingly too thin, betraying their adamantine composition), and vast warehouses branching off from dungeon levels 1, 2, and 3.
-			All of this new construction is decorated in lavish carvings depicting the adventures of The Brotherhood of Xul-Jarak. The old construction, though now transmuted, retains it's old orcish decorations, but all scenes there depicted now show The Brotherhood in all the scenes, looking on. A few spots, bits of damage and the like, gain carved, explanatory inscriptions, telling of the events that occurred in _that very spot_, during our adventures.
+			Xûl-Jarak is now adamantine (I can do that as a free action, one "object" per round). It also has four more stories (giving 6 of them above ground, one for each of us 6 gods), supported by decorated flying buttresses (seemingly too thin, betraying their adamantine composition), and vast warehouses branching off from dungeon levels 1, 2, and 3.
+			All of this new construction is decorated in lavish carvings depicting the adventures of The Brotherhood of Xûl-Jarak. The old construction, though now transmuted, retains it's old orcish decorations, but all scenes there depicted now show The Brotherhood in all the scenes, looking on. A few spots, bits of damage and the like, gain carved, explanatory inscriptions, telling of the events that occurred in _that very spot_, during our adventures.
 			Our throne room also gains adamantine statues of all of us, standing around an altar in the center.
 	-Shit, I should make a bunch of "Brotherhood" commemorative coins, necklaces and such,
 	 with all of our faces, for the party and random people both.
@@ -4689,6 +4689,145 @@ TODO:
 			-As much expansion as there's time for.
 	-Out of character, Jake is planning another 3 sessions or so after this one, and then ending the
 	 campaign.
+
+
+11/17/21:
+	-Sounds like Shroud is going to be gone for the next month or two, probably through the end of
+	 the game.
+	-We discussed various options, and decided to pull on the thread of Nkisi's rival, partying in
+	 the suddenly-there forest outside Xûl-Jarak's gate.
+	-Liliana was unable to scry within it, so we opted to walk right in.
+	-Once within the trees, we were surrounded by the sounds of raucous laughter, though with no
+	 obvious source.
+		-In fact, it sounded as if it may be coming from the trees themselves.
+	-A little ways within, we spotted a centaur, hurrying as it carried two kegs, slung over it's
+	 sides.
+		-Quicker than mortals now, we rushed after, and Enilias greeted him, saying, "Sounds like
+		 quite the party!"
+		-"Yes indeed! It's legendary!" he responded. "Want to join?"
+			-He also said something about "this guy" throwing a party so legendary he became a god,
+			 a thing we had less trouble believing than the centaur expected.
+		-We said we'd come along, and followed him deeper into the forest.
+	-Eventually, he led us to an area where the branches of the trees were filled with satyrs,
+	 playing pan pipes, including a similar but. . . greater figure, what felt like the being we
+	 came to see.
+		-Beansinger joined in with the music, but Nkisi committed an apparent party foul, by casting
+		 True Seeing, after which many stared at him.
+		-A giant, apparently acting as bouncer, asked what we were doing here.
+		-Instead of responding, Dog question why a party god would need a buzzkill bouncer, to which
+		 the giant responded, "To keep ones like that out," pointing to Nkisi.
+			-"What's wrong with me?" Nkisi asked.
+			 "It's suddenly cold here. . ." the giant responded.
+			 "Don't you mean _cooler_ here," Beansinger chimed in.
+		-The great satyr then took notice of us, saying, "Ah, you're my neighbors! I wondered when
+		 you'd get here. Come, have a drink!"
+			-We all joined him, and Nkisi very carefully kept up, drink for drink.
+			-He spoke of having been communing with the gods when he heard of Nkisi's ascencion,
+			 and gathering of souls. They deemed it necessary that he have a rival, and told this
+			 one of a ritual to ascend.
+				-"What god?" Nkisi asked.
+				 "Oghma, The Lord of Knowledge. He was unsure of your intent, and Bahamut too had
+				  misgivings."
+				 "Misgivings about what?" Enilias asked.
+				 "You," he replied, pointing at Nkisi.
+			-Nkisi proposed that he join us, but he had his doubts.
+				-He'd been warned by those greater dieties, and feared we may threaten the
+				 destruction of both nature and his new home.
+				-He also spoke of another, ascended long ago, who _does_ seek destruction, with a 
+				 very different view of nature.
+			-Dog chugged a bottle of something without asking what it was, and now has horns.
+			-I asked after his name, introducing myself, and he said he was called Manatos.
+		-With no fondness on his part for this other god, we discussed options for killing or
+		 trapping a god.
+			-We speculated a bit, but Manatos suggested we should probably not discuss this on The
+			 Material.
+			-Knocking on a nearby tree, he opened a portal, and ushered us through into his sanctum.
+			-Manatos had apparently discussed this force with Oghma, who named our enemy The Beast
+			 of the Eternal Cycle, supposedly an intermediate diety.
+			-He also spoke of some rumored aim of this Beast. In puruit of utter annihilation, The
+			 Beast seeks to channel enough energy into the ley lines of this plane, to destroy the
+			 entire plane and return it to void.
+				-That would explain it's interest in Xûl-Jarak.
+				-Indeed, Manatos said The Beast will need access to _every_ ley line intersection,
+				 to feed the necessary energy.
+				-Perhaps, then, that is potential bait for a trap.
+			-Manatos claims that the only way to truely destroy a god is for a diety of greater rank
+			 to slay them on their own plane.
+				-He also spoke of some system of courts and petitions, if we wished to seek the aid
+				 of another, greater god in this, but that it was a mire of pointless bureaucracy
+				 ("Better just to party.").
+			-Beansinger knew of tales of gods somehow trapped in items.
+			-I also might have an option for turning us into god-voltron, in a way that may
+			 sufficiently increase our collective divine rank and enable us to kill him.
+			-Alternately, trapping The Beast on a plane with dead magic also seems possible, since
+			 Nkisi can create such things.
+				-A Gate into such a place would be possible, and dismissing it would then leave The
+				 Beast trapped.
+	-Manatos took his leave of us, and we returned to Xûl-Jarak.
+	-Nkisi began work on our new prison plane.
+	-Liliana and Beansinger, meanwhile, went to Sigil, in search of a master trap maker, through
+	 our contacts with the Thieves' Guild there.
+		-They returned, though, empty handed, reporting that, having mentioned the reason for
+		 our personal absences, our newly divine statuses, their attitudes took a seemingly
+		 hostile turn. Beansinger and Liliana shifted home in a hurry as one of them had tried
+		 to draw some kind of rod on them.
+	-We then went to go see Corsyd, in search of information about either artifacts or the great
+	 trapmakers of The Old World.
+		-I had heard that the old empire had used traps to defend cities against the enormous
+		 warforged behemoths of their wars.
+		-Corsyd indeed had some knowledge of these ancient trapmakers, at least some of whom were
+		 warforged, and thus could still be around.
+		-We also asked about artifacts, but Corsyd claimed any he knew of, he'd taken himself.
+			-Or, perhaps all save one, though he said none among us could likely reach The Book of
+			 Exalted Deeds, for only the Good can tread where it lies.
+			-The Good can likely be talked into helping save the world, though, and he gave us the
+			 location.
+		-Nkisi then spoke up, saying he's seen how Corsyd would die, drained by items within his
+		 hoard.
+			-Corsyd was initially disbelieving, but, revealing his newfound divinity, Nkisi was
+			 able to convince him.
+			-We then all sought out the items from Nkisi's vision.
+			-Eventually, Enilias and I found a suspicious set of items, all marked by the same
+			 maker.
+				-They radiated a strong aura of necromancy, and Corsyd said they all came from
+				 some place called Glarus.
+					-Searching out more from the same place, there was even a minor artifact among
+					 them!
+						-"The Destructive Morningstar of Erythnul is a mighty artifact. It is a +2
+						  anarchic unholy morningstar with other special abilities."
+				-In the hopes that gods, at least, can change fate, Corsyd was willing to give these
+				 things up to us.
+					-Though still in exchange for (Edric made) platinum bars equalling their value.
+			-Nkisi confirmed that had indeed changed his fate, albeit to something at least as dark.
+				-He spoke of a vampire, and a terrifying, heart-like artifact, though one said to
+				 have been shattered into countless pieces.
+	-With that mace in hand, we set about sacrificing the mace.
+		-I suggested that the best place to perform the ritual would be at the heart of my plane, a
+		 place well-linked with the rest of the Confluence since my ascension.
+			-Bearing the mace into the cavity inside, I closed my eyes and forced my mind inside
+			 it's haft. As I did so, crystals bloomed forth from the portions of the haft I grasped,
+			 spreading up and down it, until eventually it was entirely covered. As they spread, they
+			 also glowed with strange, shifting energies, and grew outwards, until the largest grew
+			 out into the earth of the sphere around me. Once they reached it, the energy was
+			 discharged, flowing out into the entirety of The Conflux, leaving only the vague outline
+			 of the mace, formed of crystal inside the chamber.
+		-It resulted in 25k XP towards the next divine rank, for all of us, to be separately tracked.
+		-I also felt the balance of the multiverse shift slightly towards Law.
+
+
+TODO:
+	-Level to 22? Maybe even divine rank 2, with that extra special 25k?
+		-No divine rank yet, since that would require 42k
+		-What class?
+			-Thrallherd?
+				-Charm!
+				-Probably the way to go. Psychic Warrior would need more Practiced Manifester anyways.
+			-Constructor?
+				-Ah, eventual Automatic Metamagic makes this a bit pointless, but not clear I'll
+				 get two more feats.
+			-Psychic Warrior?
+				-Proficiencies and new class for future Thrallherd.
+				-WTF? Psicraft isn't a class skill for them?
 
 
 TODO:
@@ -5069,7 +5208,7 @@ TODO:
 	-Sort out your additional planar features:
 		-https://discord.com/channels/560915739796570113/560916449527332877/905519930307391519
 		-Stuff to do:
-			-Portal to Xul-Jarak.
+			-Portal to Xûl-Jarak.
 			-Portals to other places?
 			-Double the normal rate of time.
 			-Enhanced Magic for Creation spells and powers.

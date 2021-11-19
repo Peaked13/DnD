@@ -4818,25 +4818,30 @@ TODO:
 TODO:
 	-Level to 22? Maybe even divine rank 2, with that extra special 25k?
 		-No divine rank yet, since that would require 42k
+		-Epic spell instead is tempting, but you want the level for the divine rank, which will
+		 probably go to Divine Skill Focus and dramatically improve your Epic casting, something
+		 worth waiting on before further Epic spell development.
 		-What class?
 			-Thrallherd?
 				-Charm!
 				-Probably the way to go. Psychic Warrior would need more Practiced Manifester anyways.
+					-Yep, doing it.
 			-Constructor?
 				-Ah, eventual Automatic Metamagic makes this a bit pointless, but not clear I'll
 				 get two more feats.
 			-Psychic Warrior?
 				-Proficiencies and new class for future Thrallherd.
 				-WTF? Psicraft isn't a class skill for them?
-
+		-Edric is done.
+		-Level thrall too!
+			-Done!
+		-Oh! Do HP for both!
+			-Done!
 
 TODO:
 	-More portals and planar expansion.
 	-Post stuff in Discord about reaching out to other Elans?
 		-Making more, populating your plane, worshippers, and Epic casting assistants.
-	-Make a macro for casting Edric's Insight? Doing the PP math and such?
-		-Probably depends on whether you can deal with it all via Resiliance or not.
-		-Oh! Share Pain Vigor doubling may be very useful here!
 	-Make alchemical silver stuff for dealing with werewolves?
 		-Confirmed in session that, to our knowledge, these werewolves are affected by it like any
 		 other.

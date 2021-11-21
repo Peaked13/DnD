@@ -2119,7 +2119,7 @@ TODO:
 	 unmistakable presence of dragon-fear.
 		-A colossal dragon had arrived, seemingly a mix of blue and red in form, but with
 		 bronzed scales.
-		-Arvaec greeted it, and introduced him self as "Ar vaec".
+		-Arvaec greeted it, and introduced himself as "Ar vaec".
 		-The dragon, though, ignored him, and instead pulled out a lens from a bag of holding around
 		 his neck, and looking all around the square, particularly at it's illusions.
 		-With his evident interest in illusions, _Caltor_ was able to get his attention, as he
@@ -2233,6 +2233,154 @@ TODO:
 			 64,000	Bracers of Armor +8?
 		-Belt is available, so I guess that's what you do!
 			-Do the required updates.
+				-Shit, was looking at the wrong dragon table during part of this, hence FIXED.
+				-Gloves added to Arvaec.
+					-Did attack macros.
+				-Mitre added to Arvaec.
+					-(DONE) Do it's impact on bonus spells, going from +2 item to +6.
+				-Belt added.
+					-FIXED Stats bumped.
+					-FIXED Did DCs.
+					-FIXED Did skills
+						-2*21=42 more points
+						-Are my current skills correct?
+							-Spent: 5+22+22+22+5+22+19+22+22+22+5+19=207
+							-Should have: 21*(6+7)=273
+							-Looks like I never did skills for the sudden jump to YA
+							-So, figure out 273+42=315 worth of skills.
+								-Done!
+						-Actual:
+							-19*(6+7)=247
+							-Diff 273-247=26
+					-NO FIX Did turning attempts.
+						-Do new persistent spell?
+							-Righteous Might? https://www.dandwiki.com/wiki/SRD:Righteous_Might
+								-Being bigger is awkward, but _is_ a stackable Con bonus.
+					-NO FIX Did HP.
+					-NO FIX Did attack macros.
+				-Move int stone to Arvaec and do skills
+					-Are his current skills wrong too?
+					-Wait, is he even the right level? He should be 19 if Sszythrach is 21.
+						-Yeah, his skills and spells both look like 17, not 19.
+				-Did Gold.
+				-Added amulet to Arvaec.
+
+
+11/20/21:
+	-We continued on our way to Athas, in our flying castle.
+	-The journey was interrupted, though, as a vistor alighted on our castle, mid-flight.
+		-The first Sszythrach heard was it's roar. Scrambling to basement balcony, he took wing,
+		 flying out and up to the "ground" level of the castle.
+		-There, I could see a huge dragon. It was (or, perhaps, _was_) a red, but it's chest cavity
+		 gaped ragged and hollow, shining with a sickly green light, and from all of it dripped oily
+		 black corruption.
+			-Similar, but distinct from the corruption we'd seen on our home sphere's material plane.
+				-The oiliness of it seemed new.
+		-As Sszythrach and Dokinanth flew up to it, it turned towards us and lunged, breathing a
+		 noxious breathweapon comprised of the same corruption.
+			-Sszythrach legendary hardiness saw him through the attack, but Dokinanth was afflicted
+			 by the foul stuff, and noxious looking boils grew around his ears and claws.
+		-Arvaec, meanwhile, was hustling up the stairs from the basement in which he was abandoned
+		 by Sszythrach, slamming through the doors of the "ground" floor just in time to witness
+		 the corrupting attack.
+		-Casting his head about, looking for more foes, Sszythrach saw none, and thus gave the thing
+		 the full force of his breath weapon
+			-Shockingly, it weathered it.
+			-As such, Sszythrach then flew to the side of the rock on which the castle was mounted,
+			 digging his claws into it andtaking some cover from the creature, as provided by the
+			 angle.
+		-Arvaec then felt some kind of change to the bubble in which the castle traveled.
+			-Conferring later with the others, it seemed some kind of abjuration affect, maybe a
+			 ward, had been applied, as it interfered with magical travel Caltor attempted during
+			 the fight.
+		-Arvaec blasted the thing with unholy flames and, though the flames seem ineffective, divine
+		 energies still did some damage.
+		-As the others activated various spells, it skittered over to Sszythrach, in a motion more
+		 insect than dragon.
+			-As it's head peeked over the ledge that Sszythrach lurked below, he managed to lunge
+			 up and bite it. His reward was a mouthful of sickening oil, which thankfully did phase
+			 him, and some damage to the creature's neck, which certainly gladdened him.
+			-It followed that with it's own attack, some kind of necromantic effect channeling
+			 negative energy into force damage.
+		-The others attempted various spells, with mixed and minor effects, followed by a flurry of
+		 attacks from enraged Sszythrach.
+			-He landed a few decent blows, but this time, bits of the corruption flung free from the
+			 abomination _did_ cling to Sszythrach, sinking into his scales.
+		-Arvaec, then, blasted it with another Flame Strike.
+		-Caltor joined in that too, slamming an illusory-but-sort-of-real weight into the thing, to
+		 substantial effect.
+		-It was still intent on Sszythrach, and struck out with it's own flurry of blows, dealing
+		 grevious, corrupted wounds to Sszythrach and seemingly tugging at his very soul.
+		-Dokinanth then struck out at it, with spell-lengthened limbs, in an effort to avoid the
+		 corruption. He dealt a few more wounds.
+		-Sszythrach was forced, by his many wounds (particularly the negative levels) to retreat.
+		-After that, the battle descended into a slog, as we tried spell after spell to pierce this
+		 thing's many immunities.
+		-After a short while of that, though, whatever was affecting the bubble around the castle
+		 changed, hexagonal openings forming in it and. . . something pouring in, a shimmer of
+		 glittery light.
+		-Undeterred, we continued to pummel the thing with various spells.
+		-Caltor also called out to Sszythrach, saying he had a ring that could perhaps help Sszythrach.
+			-Sszythrach took him up on his offer, and scurried up to the side of the tower Cal was
+			 hiding within, thrusting one clawed hand inside for the ring.
+			-Caltor placed it on one of his fingers, and the negative levels were immediately banished.
+			-Sszythrach then rushed forward towards the shimmers, halting 15 ft. short of them.
+		-Arvaec, meanwhile, hit the thing with another Flame Stike, and the beast finally collapsed
+		 under it's many wounds.
+			-As it did so, though, it called out, saying, "This is but my first coming. I am endless."
+			-Uh oh.
+		-We then turned to face these new arrivals, as the shimmer slowly formed into (somewhat)
+		 humanoid figures.
+			-The formed on the clump of ground attached to castle, and also appeared to be more
+			 horrifying combinations of necromanticly animated flesh and machinery, much like the
+			 "dragon".
+			-Shiv immediately greated them with a storm-god-powered Firestorm, leaving all of them
+			 greviously burned.
+		-They then ran towards Sszythrach, the closest of us to it.
+			-He got a good bite in as one of them closed within his reach, the rest of the large
+			 creatures closing in behind it.
+		-Before Sszythrach could strike at more of them, Shiv struck them with another spell, an
+		 Ice Storm this time, and Dokinanth finished them of with his screeching breath weapon.
+		-We cast our eyes about, looking for more attackers, but saw none.
+		-As such, Sszythrach and Dokinanth fell to discussing the corruption these things had
+		 sprayed, and how to cleanse it.
+		-A round into that, though, the corpses of the more humanoid things exploded, spraying all
+		 of us around them with more corrupting oil.
+	-We then set about seeing what we could do about the phyresis corruption.
+		-Greater Restoration seemed to remove some portion, and other Restoration spells had similar
+		 effects. Miracle proved able to set you back to the previous taint category too (the minimum
+		 phyresis score to go down a level).
+	-The ward affecting our ability to reach outside our bubble of subspace also eventually seemed
+	 to fade.
+
+
+-TODO:
+	-Adjust spells prepped?
+		-Blood Wind is amazing for both characters. https://dndtools.net/spells/spell-compendium--86/blood-wind--3975/
+		-Holy Star remains very tempting: https://dndtools.net/spells/spell-compendium--86/holy-star--4709/
+		-Maybe ditch:
+			-Divine Power, since you now already have the Str bonus.
+			-The stat boost spells, including Arvaec's extended one at level 3, since they won't stack.
+	-(DONE) Level Arvaec to 19 and move int ioun stone to him.
+		-SHIT, wong dragon table. He's still 17.
+		-STILL Do Skills
+			-Ioun stone adds 1*17
+		-unDid HP
+	-(DONE) Undo Sszythrach impacts of table fuck up.
+	-Do new persistent spell, due to belt?
+		-Righteous Might? https://www.dandwiki.com/wiki/SRD:Righteous_Might
+			-Being bigger is awkward, but _is_ a stackable Con bonus.
+			-Can always polymorph, though, somewhat obviating this.
+			-Ah, far outclassed by non-Core cheese.
+		-Miracle allows Bite of the Werebear: https://dndtools.net/spells/spell-compendium--86/bite-werebear--3950/
+			-Crazy physical stat bonuses and natural armor.
+			-Probably the way to go.
+		-Visage of the Deity, Greater: http://dnd.arkalseif.info/spells/complete-divine--56/visage-deity-greater--757/index.html
+			-Stackable template bonuses to all stats, but sadly only +2 to Con, and the rest of the
+			 abilities are wasted on a dragon.
+			-Eh, I think this may be too weak for dragons. Maybe just prep, but even that is iffy.
+			-Ah, but on Arvaec! TODO
+
 
 -TODO:
 	-Get Arvaec a bow that deals all of Tiamat's five elements.

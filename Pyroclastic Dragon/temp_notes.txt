@@ -1,4 +1,10 @@
-Turns until breath weapon use: 
+Turns until breath weapon use: 9
+Sszythrach Phyresis Damage: 0
+	-Causes mild taint. (Taint effects don't change, and will gome back if you go back up.)
+		-Dead eye: enemies have concealment or something like that.
+			-Lesley read something complicated but you didn't get it all down.
+		-You also get the Mad Faith feat (Heroes of Horror pg. 123), giving you extra divine slots.
+
 
 Spells Active:
 	Divine Favor on Arvaec, cast each morning after waking (24 hour duration)

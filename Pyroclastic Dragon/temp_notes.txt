@@ -1,4 +1,4 @@
-Turns until breath weapon use: 9
+Turns until breath weapon use: 
 Sszythrach Phyresis Damage: 0
 	-Causes mild taint. (Taint effects don't change, and will gome back if you go back up.)
 		-Dead eye: enemies have concealment or something like that.
@@ -13,24 +13,22 @@ Spells Active:
 	Mind Blank on Sszythrach, cast each morning after waking UNLESS NO I-SPELLS (24 hour duration)
 	Divine Favor on Sszythrach, cast each morning after waking (24 hour duration)
 	Greater Magic Fang on Sszythrach (all weapons), cast after waking (17 hour duration)
-	Greater Magic Fang on Sszythrach (Bite+4), cast after waking (19 hour duration)
+	Greater Magic Fang on Sszythrach (Bite+4), cast after waking UNLESS NO I-SPELLS (19 hour duration)
+	Greater Magic Fang on Sszythrach (Tail+4), cast after waking UNLESS NO I-SPELLS (19 hour duration)
 	Heroes' Feast on Sszythrach and Arvaec, eaten each morning after waking (12 hour duration)
 	Status on Arvaec, cast by Sszythrach each morning after waking (19 hour duration)
 	Status on Sszythrach, cast by Arvaec each morning after waking (17 hour duration)
+	Visage of the Deity, Greater on Arvaec, cast by Arvaec after waking (24 hour duration)
+	Surge of Fortune on Arvaec, cast by Arvaec after waking UNLESS NO I-SPELLS (24 hour duration)
+	Eyes of the Oracle on Arvaec, cast by Arvaec after waking UNLESS NO I-SPELLS (24 hour duration)
 
 
 Stuff you've done before:
-	Greater Magic Fang on Sszythrach (all weapons), cast after waking (14 hour duration)
 	Death Dragon on Arvaec, cast when  (24 hour duration)
-	Divine Favor on Arvaec, cast each morning after waking (24 hour duration)
-	Divine Power on Arvaec, cast when  (24 hour duration)
 	Bless on the whole party (11 minute duration)
 	Prayer on the whole party (11 round duration)
-	Heroes' Feast finished by party at  (12 hour duration)
 	Spell Resistance (29) on Arvaec, cast before assault (17 minute duration)
 	Entropic Shield on Sszythrach, cast before assault  (17 minute duration)
-	Bull's Strength on Sszythrach, cast before assault  (17 minute duration)
-	Bear's Endurance on Sszythrach, cast before assault  (17 minute duration)
 	Shield of Faith on Sszythrach and Arvaec, cast before assault (17 minute duration)
 	True Seeing on Sszythrach, cast before assault  (19 minute duration)
 	Righteous Might on Sszythrach, cast before assault (19 round duration)

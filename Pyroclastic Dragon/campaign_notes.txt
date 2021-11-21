@@ -2355,19 +2355,20 @@ TODO:
 
 
 -TODO:
-	-Adjust spells prepped?
+	-(DONE) Adjust spells prepped?
 		-Blood Wind is amazing for both characters. https://dndtools.net/spells/spell-compendium--86/blood-wind--3975/
+			-Eh, not actually much better than Sszythrach's existing reach.
 		-Holy Star remains very tempting: https://dndtools.net/spells/spell-compendium--86/holy-star--4709/
 		-Maybe ditch:
 			-Divine Power, since you now already have the Str bonus.
 			-The stat boost spells, including Arvaec's extended one at level 3, since they won't stack.
 	-(DONE) Level Arvaec to 19 and move int ioun stone to him.
 		-SHIT, wong dragon table. He's still 17.
-		-STILL Do Skills
+		-((STILL) DONE) Do Skills
 			-Ioun stone adds 1*17
 		-unDid HP
 	-(DONE) Undo Sszythrach impacts of table fuck up.
-	-Do new persistent spell, due to belt?
+	-(DONE) Do new persistent spells?
 		-Righteous Might? https://www.dandwiki.com/wiki/SRD:Righteous_Might
 			-Being bigger is awkward, but _is_ a stackable Con bonus.
 			-Can always polymorph, though, somewhat obviating this.
@@ -2379,10 +2380,22 @@ TODO:
 			-Stackable template bonuses to all stats, but sadly only +2 to Con, and the rest of the
 			 abilities are wasted on a dragon.
 			-Eh, I think this may be too weak for dragons. Maybe just prep, but even that is iffy.
-			-Ah, but on Arvaec! TODO
+			-Ah, but on Arvaec!
+				-Should he persist it? YES!
+		-Applied persisted Bite and Visage.
+			-Still do macros.
+			-Still do Arvaec skills
+		-(DONE) Oh, redoing turning math after his Cha boost, Arvaec can persist still more stuff!
+			-Though they'd be I-only. Maybe reserve for Death-Dragon-like stuff, then.
+			-Did some wild stuff, Eyes of the Oracle and Surge of Fortune
+		-Ah, but Sszythrach doesn't have Divine Metamagic! Oh well.
+	-Does Arvaec's damage immunity prevent elemental damage, or just physical? If the former, change
+	 who Energy Immunity is cast on each day.
 
 
 -TODO:
+	-Get bracers of armor for Sszythrach.
+		-Skithiryx made a mess of his low AC.
 	-Get Arvaec a bow that deals all of Tiamat's five elements.
 		-He's got a great attack bonus while buffed anyways, so this would be a good tactical fit,
 		 as well as thematic.

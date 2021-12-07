@@ -516,3 +516,13 @@ Languages: 3 bonus
 	Draconic
 	Elven
 	Undercommon
+
+
+Potential Successors:
+	-Phrenic Bard, with a one level dip into Marshall?
+		-Good option for a social focus, and the +4 Cha mostly negates the level adjustment if
+		 skills is what you really care about.
+		-Level adjustement buy off could make this even more attractive.
+		-Marshall lets you double the Cha bonus applied to skills that use it.
+		-Human or Half-Elf? Latter is in the running for their racial +2 to Diplomacy.
+	-Archivist/Erudite into custom Divine/Psionic version of the Cerebremancer?

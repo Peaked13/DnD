@@ -4914,6 +4914,7 @@ TODO:
 
 TODO:
 	-Record the XP just above and increase divine rank to 2.
+		-Done!
 
 
 TODO:
@@ -4943,8 +4944,6 @@ TODO:
 					 worthwhile for this spell you hopefully cast once.
 						-3,800 spent would negate the fixed amount, and another 500X would eliminate
 						 the rest.
-							-So, X of more than 4 would consume more XP than I have for this
-							 right now. . .
 					-More ritual casters would help this too.
 						-Each -1 to the DC saves 360 XP and 9,000 gp.
 						-Convince other Elans to help?

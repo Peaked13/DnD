@@ -4743,8 +4743,8 @@ TODO:
 			 Material.
 			-Knocking on a nearby tree, he opened a portal, and ushered us through into his sanctum.
 			-Manatos had apparently discussed this force with Oghma, who named our enemy The Beast
-			 of the Eternal Cycle, supposedly an intermediate diety.
-			-He also spoke of some rumored aim of this Beast. In puruit of utter annihilation, The
+			 of the Eternal Cycle, supposedly a lesser diety.
+			-He also spoke of some rumored aim of this Beast. In pursuit of utter annihilation, The
 			 Beast seeks to channel enough energy into the ley lines of this plane, to destroy the
 			 entire plane and return it to void.
 				-That would explain it's interest in Xûl-Jarak.
@@ -4813,6 +4813,8 @@ TODO:
 			 of the mace, formed of crystal inside the chamber.
 		-It resulted in 25k XP towards the next divine rank, for all of us, to be separately tracked.
 		-I also felt the balance of the multiverse shift slightly towards Law.
+	-Then, with a similar plan in mind, we sent Shaggy off in search of (a) The Book of Exalted Deeds.
+		-Apparently multiple copies exist.
 
 
 TODO:
@@ -4837,6 +4839,82 @@ TODO:
 			-Done!
 		-Oh! Do HP for both!
 			-Done!
+
+
+12/8/21:
+	-While waiting on Shaggy's return, we debated other options for preparing to face our destroyer.
+	-We opted to first pursue yet more artifacts, and teleported to Qebras's tower, to ask him about
+	 either donating artifacts to the cause or pointing us in the direction of them.
+		-He proved to be no altruist.
+		-Nonetheless, we found our way to a deal. He would release collected artifacts and creatures
+		 he collected (the latter to Nkisi's tender ministrations). In return, after the current
+		 crisis, we would then aid Qebras in rebuilding his collection ten times over, and we swore
+		 an oath to that effect.
+			-No particular spell was applied to the oath or anything like that, but, as a divine
+			 embodiement of law, you're as thoroughly bound as anything could have managed.
+		-The artifacts were:
+			-A Cube of Force, yielding 31k XP split between all of us.
+			-Rod of Empower Metamagic (32500 gp)
+				-This blackthorn rod was taken from the hoard of the dragon Susudi.
+			-Staff of Passage (20 of 50 charges) (68200 gp)
+				-This heavy birch staff is said to be imbued with the spirit of the renowned
+				 artificer Wilhye Mythey, who slew the Behemoth of Suinio.
+			-Ring Gates (40000 gp) (design provides clue to function)
+				-This ornate item was created by the dwarves of the great realm of Nulbizan.
+				-This is what's keeping Qebras's tarrasque in place.
+			-Staff of Swarming Insects (34 of 50 charges) (16830 gp)
+				-This ornate cedar staff is said to be imbued with the spirit of the renowned
+				 conjurer Gonare, who perished in the Crimson Jungle.
+			-Wand of Call Lightning (5th) (40 of 50 charges) (9000 gp)
+				-A heavy wand, inlaid with topaz.
+			-Scarab of Protection (38000 gp)
+				-This battered item was created by a god of magic for his most loyal champion.
+			-Sacrifice will yield half their gold cost in XP. 28,316 if we keep the Ring Gates and
+			 tarrasque.
+		-He also relocated his floating tower to just above Xûl-Jarak, so he'd be on hand when our
+		 enemy comes.
+		-Nkisi suggested offering live service, or death-then-service, to the creatures even before
+		 waking them, through their dreams, via an arcane spell.
+			-As such, we opted to wait a day, get that done, than sacrifice all but the Ring Gates,
+			 saving the Tarrasque for another use.
+			-While we waited, I set my hands to arming our guards with alchemical silver weapons,
+			 and producing (literal) tons more, for distribution by Rovert to the surrounding
+			 countryside.
+			-Enilias, meanwhile did some rallying of the troops, and of Melvaunt's populace.
+	-The next day, Nkisi began a commotion, calling out to any that listened that all troops must
+	 be recalled.
+		-Apparently he'd seen something in the shifting deaths of our soldiers, with those soon
+		 scheduled for patrols dissolving into some kind of white nothingness.
+		-I took word to Haravak, and between the two of us, I with Sending and he with notes affixed
+		 to his hawk, we recalled our guards and scouts.
+	-Shaggy then returned, book in hand, but he wished to speak with Nkisi.
+		-There were apparently conditions he'd agreed to, for it's use.
+		-I was the first to see him, so we went down to the basement to speak with Nkisi.
+		-Shaggy told us that he'd agreed that "the book would only be used to save The Material
+		 Plane" and that we "would not profane it with evil deeds."
+		-They went back and forth for a bit, debating morality, but Nkisi ultimately offered that,
+		 if it was not to be his, offer it's power up to the rest of The Brotherhood only. Better
+		 than nothing, after all.
+		-That, though, seemed to convince Shaggy, the offer to give up power for the greater good,
+		 and he turned the book over to me.
+	-Once Nkisi and Shaggy both had dream communication spells prepared, they went to work convincing
+	 captive creatures to help.
+		-They met with success with the dragon.
+	-That settled, I gathered up our collection of artifacts, and then shifted to the sanctum at the
+	 heart of my plane, to again perform sacrifice.
+		-A couple of the artifacts being strongly aligned threatened to affect the alignment of my
+		 plane, pushing it in the direction of Chaotic Good. Instead, I routed these influences
+		 through the 5th/6th dimensional threads connecting The Conflux, to planes belonging to
+		 Brotherhood members with compatible alignments, making them _more themselves_.
+		-That yielded 53,316 XP each.
+	-A short while after my return to Xûl-Jarak, though, the sky began to darken, with strange lights
+	 and flashes of green lightning illuminating it more and more frequently.
+	-With signs and portents in the sky, it would seem our final battle was at hand.
+
+
+TODO:
+	-Record the XP just above and increase divine rank to 2.
+
 
 TODO:
 	-More portals and planar expansion.

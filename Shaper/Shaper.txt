@@ -525,4 +525,19 @@ Potential Successors:
 		-Level adjustement buy off could make this even more attractive.
 		-Marshall lets you double the Cha bonus applied to skills that use it.
 		-Human or Half-Elf? Latter is in the running for their racial +2 to Diplomacy.
+	-Rogue instead of Bard?
+		-More skill points and good abilities. Probably more attractive if you're not going to have
+		 enough Bard levels for it's spellcasting to be much good. More dip-compatible.
+		-Shadowdancer? Maybe with more dimensional/planar theming?
+			-Possible for a bard too, though less advantageous than with sneak attack.
+			-Clashes a bit weirdly with both Marshal auras and bardic music, both being audible.
+				-Telepathy, or maybe even whispering, would work around it for the Marshal, and
+				 Marshal aura probably works _for yourself_ regardless.
+				-Yeah, actually, self is mostly what you want it for, and even then for out of combat.
+			-Has Bluff and Diplomacy as class skills.
+			-Hmm. . . Spring Attack doesn't actually affect spellcasting. There is Mobile Spell-Casting,
+			 but do you even need anything more than your normal move action to hide after casting?
+				https://www.dandwiki.com/wiki/SRD:Spring_Attack
+				https://dnd.arkalseif.info/feats/complete-adventurer--54/mobile-spell-casting--1973/
+			-Unlikely that more than one level is worth it, though. _Maybe_ two.
 	-Archivist/Erudite into custom Divine/Psionic version of the Cerebremancer?

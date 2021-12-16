@@ -552,11 +552,39 @@ Potential Successors:
 			http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
 		-Ranged?
 			-The Hide skill's description is generally interesting, but the language of the sniping
-			 bit is problematic. Not clear that moving from where you are avoids th -20.
+			 bit is problematic. Not clear that moving from where you are avoids the -20.
+			-Hand crossbow might be cool: https://www.dandwiki.com/wiki/SRD:Hand_Crossbow
+				-Essential feat if so: http://therafimrpg.wikidot.com/hand-crossbow-focus
+				-Interesting supplement: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
+		-Thug varient fighter lets you maintain skills easier, at cost of first bonus feat.
+			-http://dnd.arkalseif.info/classes/thug/index.html
+			-Makes it more useful as a BAB dip, though second level bonus feat is still there.
 	-Archivist/Erudite into custom Divine/Psionic version of the Cerebremancer?
 	-Druid would be fun.
 	-Ah, we talked about the next campaign a bit during our last session of the former one.
-		-Talked about an aquatic game, and about starting at level one.
-			-Both make the druid a bit more attractive.
+		-Talked about an aquatic game.
+		-Also about starting at level one.
 			-Jake did mention doing something to allow level adjustement if need be, though. Maybe
 			 taking one flaw per point of LA.
+			-Yep, he confirmed that.
+			-Flaws:
+				Flaw list:
+				http://eberronunlimited.wikidot.com/flaws
+				SRD Flaws:
+				https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm
+		-Both make the druid a bit more attractive.
+		-Oh, maybe _sky_pirates instead?
+			-From what Jake says, and from Edric's influence in particular, the world, centuries
+			 later, is going to look more like Eberron than Forgotten Realms, with a subtantial
+			 magic-technilogical jump.
+			-Psionic skypirate rogue feels very right. . .
+		-Either way, ship-based makes Dread Pirate attractive.
+			-Weapon Finesse pushes you towards melee a bit, but a Swashbuckler dip is a way to get
+			 it: http://dnd.arkalseif.info/classes/swashbuckler/index.html
+		-Abilities are 4d6, reroll ones:
+			12
+			8
+			12
+			14
+			18
+			16

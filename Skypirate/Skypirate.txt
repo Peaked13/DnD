@@ -1,0 +1,141 @@
+Race: Phrenic Human		Age: 		Height: 	Weight: 
+
+Lvl	Class lvl		BAB		Skill Points	Feats									Notes	
+------------------------------------------------------------------------------------------
+1	Rogue 1			+0		52				2										
+2	Marshal	1		+0		8														All Knowledge as class skills!
+3	Rogue 2			+1		12				1
+4	Rogue 3			+2		12
+5	Rogue 4			+3		12														First level Dread Pirate is possible, due to skills.
+6	Marshal	2		+4		8				1 (Leadership?)							Alternately, Swashbuckler for free Weapon Finesse? Take it sooner?
+7	Dread Pirate 1	+5		10
+8	
+9											1
+10	
+11	
+12											1
+
+
+
+
+
+
+
+Flavor:
+	-Creche raised?
+		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
+		 levels, among other things). Those peers all abandoned you
+
+
+Character Design Notes:
+	-Phrenic Bard, with a one level dip into Marshall?
+		-Good option for a social focus, and the +4 Cha mostly negates the level adjustment if
+		 skills is what you really care about.
+		-Level adjustement buy off could make this even more attractive.
+		-Marshall lets you double the Cha bonus applied to skills that use it.
+		-Human or Half-Elf? Latter is in the running for their racial +2 to Diplomacy.
+	-Rogue instead of Bard?
+		-More skill points and good abilities. Probably more attractive if you're not going to have
+		 enough Bard levels for it's spellcasting to be much good. More dip-compatible.
+		-Shadowdancer? Maybe with more dimensional/planar theming?
+			-Possible for a bard too, though less advantageous than with sneak attack.
+			-Clashes a bit weirdly with both Marshal auras and bardic music, both being audible.
+				-Telepathy, or maybe even whispering, would work around it for the Marshal, and
+				 Marshal aura probably works _for yourself_ regardless.
+				-Yeah, actually, self is mostly what you want it for, and even then for out of combat.
+			-Has Bluff and Diplomacy as class skills.
+			-Hmm. . . Spring Attack doesn't actually affect spellcasting. There is Mobile Spell-Casting,
+			 but do you even need anything more than your normal move action to hide after casting?
+				https://www.dandwiki.com/wiki/SRD:Spring_Attack
+				https://dnd.arkalseif.info/feats/complete-adventurer--54/mobile-spell-casting--1973/
+			-Unlikely that more than one level is worth it, though. _Maybe_ two.
+				-Hard call if it's worth spending the feats at all, and unfortunately need to do so
+				 early-ish.
+				-You _do_ really want to hide from getting hit, though.
+		-Spymaster could be good for a dip, or maybe even more:
+			http://dnd.arkalseif.info/classes/spymaster/index.html
+		-Guild Thief would be amazing, but is 3.0:
+			http://dnd.arkalseif.info/classes/guild-thief/index.html
+		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
+			https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
+		-Or the ranged version of that? How do ranged sneak attacks work?
+			-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
+		-Craven is a solid sneak attack feat:
+			http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
+		-Ranged?
+			-The Hide skill's description is generally interesting, but the language of the sniping
+			 bit is problematic. Not clear that moving from where you are avoids the -20.
+			-Hand crossbow might be cool: https://www.dandwiki.com/wiki/SRD:Hand_Crossbow
+				-Essential feat if so: http://therafimrpg.wikidot.com/hand-crossbow-focus
+				-Interesting supplement: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
+		-Thug varient fighter lets you maintain skills easier, at cost of first bonus feat.
+			-http://dnd.arkalseif.info/classes/thug/index.html
+			-Makes it more useful as a BAB dip, though second level bonus feat is still there.
+		-Chaotic Neutral, for a rebellious child of Edric?
+			-Enables Dread Pirate.
+	-Archivist/Erudite into custom Divine/Psionic version of the Cerebremancer?
+	-Druid would be fun.
+	-Ah, we talked about the next campaign a bit during our last session of the former one.
+		-Talked about an aquatic game.
+		-Also about starting at level one.
+			-Jake did mention doing something to allow level adjustement if need be, though. Maybe
+			 taking one flaw per point of LA.
+			-Yep, he confirmed that.
+			-Flaws:
+				Flaw list (Dragon stuff is OK, but get approved):
+				http://eberronunlimited.wikidot.com/flaws
+				SRD Flaws:
+				https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm
+			-Attractive ones, in lose order of most to least:
+				-Skulker: http://eberronunlimited.wikidot.com/flaw:skulker
+					-Slightly odd fit for captain role.
+				-Test Subject: http://eberronunlimited.wikidot.com/flaw:test-subject
+					-Psionic version?
+				-Wild: http://eberronunlimited.wikidot.com/flaw:wild
+				-Hot Blooded: http://eberronunlimited.wikidot.com/flaw:hot-blooded
+					-No cold in Edric's spheres.
+				-Frail: http://eberronunlimited.wikidot.com/flaw:frail
+					-Rough. Maybe only if you get to have compensatory high Con.?
+				-Fussy: http://eberronunlimited.wikidot.com/flaw:fussy
+					-Kind of poor flavor, but maybe fitting weird diet in the spheres?
+		-Both make the druid a bit more attractive.
+		-Oh, maybe _sky_pirates instead?
+			-From what Jake says, and from Edric's influence in particular, the world, centuries
+			 later, is going to look more like Eberron than Forgotten Realms, with a subtantial
+			 magic-technilogical jump.
+			-Psionic skypirate rogue feels very right. . .
+			-Profession(Sailor) is still the skill of choice: https://discord.com/channels/560915739796570113/560915739796570119/920912643391389708
+		-Either way, ship-based makes Dread Pirate attractive.
+			-Weapon Finesse pushes you towards melee a bit, but a Swashbuckler dip is a way to get
+			 it: http://dnd.arkalseif.info/classes/swashbuckler/index.html
+		-Abilities are 4d6, reroll ones:
+			12
+			16
+			12
+			14
+			8
+			18
+
+
+
+
+
+
+
+
+
+
+Lvl	Class lvl		BAB		Feats											
+-------------------------------------------------------------------
+1	Rogue	1		2		2
+2	Marshal	1		
+3	Rogue	2				1
+4	Rogue	3		
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	

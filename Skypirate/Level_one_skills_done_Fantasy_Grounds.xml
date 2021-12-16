@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.1" dataversion="20210708" release="17.1|CoreRPG:4.1">
+	<character>
+		<abilities>
+			<charisma>
+				<bonus type="number">6</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<damage type="number">0</damage>
+				<score type="number">22</score>
+			</charisma>
+			<constitution>
+				<bonus type="number">1</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<damage type="number">0</damage>
+				<score type="number">12</score>
+			</constitution>
+			<dexterity>
+				<bonus type="number">3</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<damage type="number">0</damage>
+				<score type="number">16</score>
+			</dexterity>
+			<intelligence>
+				<bonus type="number">3</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<damage type="number">0</damage>
+				<score type="number">16</score>
+			</intelligence>
+			<strength>
+				<bonus type="number">1</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<damage type="number">0</damage>
+				<score type="number">12</score>
+			</strength>
+			<wisdom>
+				<bonus type="number">0</bonus>
+				<bonusmodifier type="number">0</bonusmodifier>
+				<damage type="number">0</damage>
+				<score type="number">10</score>
+			</wisdom>
+		</abilities>
+		<ac>
+			<sources>
+				<abilitymod type="number">3</abilitymod>
+				<abilitymod2 type="number">0</abilitymod2>
+				<armor type="number">0</armor>
+				<cmdabilitymod type="number">1</cmdabilitymod>
+				<cmdbasemod type="number">0</cmdbasemod>
+				<cmdmisc type="number">0</cmdmisc>
+				<deflection type="number">0</deflection>
+				<dodge type="number">0</dodge>
+				<ffmisc type="number">0</ffmisc>
+				<misc type="number">0</misc>
+				<naturalarmor type="number">0</naturalarmor>
+				<shield type="number">0</shield>
+				<size type="number">0</size>
+				<temporary type="number">0</temporary>
+				<touchmisc type="number">0</touchmisc>
+			</sources>
+			<totals>
+				<cmd type="number">14</cmd>
+				<flatfooted type="number">10</flatfooted>
+				<general type="number">13</general>
+				<touch type="number">13</touch>
+			</totals>
+		</ac>
+		<attackbonus>
+			<base type="number">0</base>
+			<grapple>
+				<abilitymod type="number">1</abilitymod>
+				<misc type="number">0</misc>
+				<size type="number">0</size>
+				<temporary type="number">0</temporary>
+				<total type="number">1</total>
+			</grapple>
+			<melee>
+				<abilitymod type="number">1</abilitymod>
+				<misc type="number">0</misc>
+				<size type="number">0</size>
+				<temporary type="number">0</temporary>
+				<total type="number">1</total>
+			</melee>
+			<ranged>
+				<abilitymod type="number">3</abilitymod>
+				<misc type="number">0</misc>
+				<size type="number">0</size>
+				<temporary type="number">0</temporary>
+				<total type="number">3</total>
+			</ranged>
+		</attackbonus>
+		<classes>
+			<id-00001>
+				<favored type="number">0</favored>
+				<level type="number">1</level>
+				<name type="string">Rogue</name>
+				<shortcut type="windowreference">
+					<class />
+					<recordname />
+				</shortcut>
+				<skillranks type="number">52</skillranks>
+				<skillranksused type="number">0</skillranksused>
+			</id-00001>
+		</classes>
+		<classlevel type="string">Rogue 1</classlevel>
+		<defenses>
+			<sr>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</sr>
+		</defenses>
+		<encumbrance>
+			<armorcheckpenalty type="number">0</armorcheckpenalty>
+			<armormaxstatbonus type="number">0</armormaxstatbonus>
+			<armormaxstatbonusactive type="number">0</armormaxstatbonusactive>
+		</encumbrance>
+		<exp type="number">0</exp>
+		<expneeded type="number">0</expneeded>
+		<featlist />
+		<hp>
+			<nonlethal type="number">0</nonlethal>
+			<temporary type="number">0</temporary>
+			<total type="number">0</total>
+			<wounds type="number">0</wounds>
+		</hp>
+		<initiative>
+			<abilitymod type="number">3</abilitymod>
+			<misc type="number">0</misc>
+			<temporary type="number">0</temporary>
+			<total type="number">3</total>
+		</initiative>
+		<level type="number">1</level>
+		<name type="string">Phrenic Rogue</name>
+		<proficiencylist />
+		<race type="string">Phrenic Human</race>
+		<racelink type="windowreference">
+			<class />
+			<recordname />
+		</racelink>
+		<saves>
+			<fortitude>
+				<abilitymod type="number">1</abilitymod>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">1</total>
+			</fortitude>
+			<reflex>
+				<abilitymod type="number">3</abilitymod>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">3</total>
+			</reflex>
+			<will>
+				<abilitymod type="number">0</abilitymod>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</will>
+		</saves>
+		<skilllist>
+			<id-00001>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Intimidate</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">1</state>
+				<statname type="string">charisma</statname>
+				<total type="number">6</total>
+			</id-00001>
+			<id-00002>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Diplomacy</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">1</state>
+				<statname type="string">charisma</statname>
+				<total type="number">10</total>
+			</id-00002>
+			<id-00003>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Tumble</label>
+				<misc type="number">0</misc>
+				<ranks type="number">1</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">4</total>
+			</id-00003>
+			<id-00004>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Hide</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">7</total>
+			</id-00004>
+			<id-00005>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Spot</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">1</state>
+				<statname type="string">wisdom</statname>
+				<total type="number">0</total>
+			</id-00005>
+			<id-00006>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Handle Animal</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">0</state>
+				<statname type="string">charisma</statname>
+				<total type="number">6</total>
+			</id-00006>
+			<id-00007>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Jump</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">1</stat>
+				<state type="number">1</state>
+				<statname type="string">strength</statname>
+				<total type="number">1</total>
+			</id-00007>
+			<id-00008>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Ride</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">0</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">3</total>
+			</id-00008>
+			<id-00009>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Bluff</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">1</state>
+				<statname type="string">charisma</statname>
+				<total type="number">10</total>
+			</id-00009>
+			<id-00010>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Disguise</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">1</state>
+				<statname type="string">charisma</statname>
+				<total type="number">6</total>
+			</id-00010>
+			<id-00011>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Search</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">intelligence</statname>
+				<total type="number">3</total>
+			</id-00011>
+			<id-00012>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Move Silently</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">7</total>
+			</id-00012>
+			<id-00013>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Gather Information</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">1</state>
+				<statname type="string">charisma</statname>
+				<total type="number">10</total>
+			</id-00013>
+			<id-00014>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Use Rope</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">7</total>
+			</id-00014>
+			<id-00015>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Climb</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">1</stat>
+				<state type="number">1</state>
+				<statname type="string">strength</statname>
+				<total type="number">1</total>
+			</id-00015>
+			<id-00016>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Escape Artist</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">3</total>
+			</id-00016>
+			<id-00017>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Listen</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">1</state>
+				<statname type="string">wisdom</statname>
+				<total type="number">0</total>
+			</id-00017>
+			<id-00018>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Balance</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">7</total>
+			</id-00018>
+			<id-00019>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Concentration</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">1</stat>
+				<state type="number">0</state>
+				<statname type="string">constitution</statname>
+				<total type="number">1</total>
+			</id-00019>
+			<id-00020>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Disable Device</label>
+				<misc type="number">0</misc>
+				<ranks type="number">2</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">intelligence</statname>
+				<total type="number">5</total>
+			</id-00020>
+			<id-00021>
+				<armorcheckmultiplier type="number">1</armorcheckmultiplier>
+				<label type="string">Sleight of Hand</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">3</total>
+			</id-00021>
+			<id-00022>
+				<armorcheckmultiplier type="number">2</armorcheckmultiplier>
+				<label type="string">Swim</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">1</stat>
+				<state type="number">1</state>
+				<statname type="string">strength</statname>
+				<total type="number">5</total>
+			</id-00022>
+			<id-00023>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Appraise</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">intelligence</statname>
+				<total type="number">7</total>
+			</id-00023>
+			<id-00024>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Survival</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">0</state>
+				<statname type="string">wisdom</statname>
+				<total type="number">0</total>
+			</id-00024>
+			<id-00025>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Use Magic Device</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">6</stat>
+				<state type="number">1</state>
+				<statname type="string">charisma</statname>
+				<total type="number">10</total>
+			</id-00025>
+			<id-00026>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Speak Language</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">0</state>
+				<total type="number">0</total>
+			</id-00026>
+			<id-00027>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Heal</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">0</state>
+				<statname type="string">wisdom</statname>
+				<total type="number">0</total>
+			</id-00027>
+			<id-00028>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Sense Motive</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">1</state>
+				<statname type="string">wisdom</statname>
+				<total type="number">4</total>
+			</id-00028>
+			<id-00029>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Open Lock</label>
+				<misc type="number">0</misc>
+				<ranks type="number">1</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">dexterity</statname>
+				<total type="number">4</total>
+			</id-00029>
+			<id-00030>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Forgery</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">intelligence</statname>
+				<total type="number">3</total>
+			</id-00030>
+			<id-00031>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Decipher Script</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">1</state>
+				<statname type="string">intelligence</statname>
+				<total type="number">3</total>
+			</id-00031>
+			<id-00032>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Spellcraft</label>
+				<misc type="number">0</misc>
+				<ranks type="number">0</ranks>
+				<showonminisheet type="number">0</showonminisheet>
+				<stat type="number">3</stat>
+				<state type="number">0</state>
+				<statname type="string">intelligence</statname>
+				<total type="number">3</total>
+			</id-00032>
+			<id-00033>
+				<armorcheckmultiplier type="number">0</armorcheckmultiplier>
+				<label type="string">Profession</label>
+				<misc type="number">0</misc>
+				<ranks type="number">4</ranks>
+				<showonminisheet type="number">1</showonminisheet>
+				<stat type="number">0</stat>
+				<state type="number">1</state>
+				<statname type="string">wisdom</statname>
+				<sublabel type="string">(Sailor)</sublabel>
+				<total type="number">4</total>
+			</id-00033>
+		</skilllist>
+		<skillpoints>
+			<spent type="number">52</spent>
+		</skillpoints>
+		<specialabilitylist />
+		<speed>
+			<armor type="number">0</armor>
+			<base type="number">0</base>
+			<final type="number">0</final>
+			<misc type="number">0</misc>
+			<temporary type="number">0</temporary>
+			<total type="number">0</total>
+		</speed>
+		<token type="token"></token>
+		<traitlist />
+	</character>
+</root>

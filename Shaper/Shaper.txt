@@ -540,4 +540,17 @@ Potential Successors:
 				https://www.dandwiki.com/wiki/SRD:Spring_Attack
 				https://dnd.arkalseif.info/feats/complete-adventurer--54/mobile-spell-casting--1973/
 			-Unlikely that more than one level is worth it, though. _Maybe_ two.
+		-Spymaster could be good for a dip, or maybe even more:
+			http://dnd.arkalseif.info/classes/spymaster/index.html
+		-Guild Thief would be amazing, but is 3.0:
+			http://dnd.arkalseif.info/classes/guild-thief/index.html
+		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
+			https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
+		-Or the ranged version of that? How do ranged sneak attacks work?
+			-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
+		-Craven is a solid sneak attack feat:
+			http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
+		-Ranged?
+			-The Hide skill's description is generally interesting, but the language of the sniping
+			 bit is problematic. Not clear that moving from where you are avoids th -20.
 	-Archivist/Erudite into custom Divine/Psionic version of the Cerebremancer?

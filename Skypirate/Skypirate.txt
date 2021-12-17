@@ -1,4 +1,4 @@
-Race: Phrenic Human		Age: 		Height: 	Weight: 
+Race: Phrenic Human		Age: 25		Height: 5'11'	Weight: 138		Alignment: Chaotic Neutral
 
 Lvl	Class lvl		BAB		Skill Points	Feats									Notes	
 ------------------------------------------------------------------------------------------
@@ -9,22 +9,47 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 5	Rogue 4			+3		12														First level Dread Pirate is possible, due to skills.
 6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse. Take it sooner?
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
-8	
-9											Combat Reflexes
+8	Dread Pirate 2
+9	Dread Pirate 3							Combat Reflexes
 10	Shadowdancer 1																	Could have it as soon as 7, if Leadership is delayed until 9.
 11	
 12											1
 
 
+Flaws (compensating for +2 LA):
+	-Skulker: http://eberronunlimited.wikidot.com/flaw:skulker
+		-You're vastly more fragile than many in the society in which you were raised, and you're
+		 keenly aware of your mortality.
+	-Test Subject: http://eberronunlimited.wikidot.com/flaw:test-subject
+		-A psionic version, chosing Metacreativity, Pyschometabolism, and Telepathy.
+		-The process by which you were created left. . . hooks that other psionic creatures can
+		 exploit
 
 
-
+Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention.
+	20	Rapier
+	2	Dagger
+	30	Shortbow
+	1	20 Arrows
+	25	Studded Leather Armor
+	30	Thieves Tools
+	2	Backpack
+	1	Belt Pouch
+	.1	Bedroll
+	1	Flint & Steel
+	4	Sunrod x2
+	5	Trail Rations x10
+	1	50' Hemp Rope
+	1	Waterskin
+	1	Traveler's Outfit
+	5 gp. remaining
 
 
 Flavor:
 	-Creche raised?
 		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
-		 levels, among other things). Those peers all abandoned you
+		 levels, among other things). Those peers all abandoned you, though, and their old selves,
+		 by means of the elan transcendence that is denied to you.
 
 
 Character Design Notes:
@@ -115,6 +140,9 @@ Character Design Notes:
 			14
 			8
 			18
+		-Don't forget template bonuses.
+		-Swap Wis and Str, to qualify for Speed of Thought?
+			-Eh, there's lots of other ways to boost speed.
 
 
 

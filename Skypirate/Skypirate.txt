@@ -1,8 +1,9 @@
-Race: Phrenic Human		Age: 25		Height: 5'11'	Weight: 138		Alignment: Chaotic Neutral
+Name: Fredrick		Race: Phrenic Human		Alignment: Chaotic Neutral
+Hair: Red	Eyes: Blue		Age: 25		Height: 5'11'	Weight: 138
 
 Lvl	Class lvl		BAB		Skill Points	Feats									Notes	
 ------------------------------------------------------------------------------------------
-1	Rogue 1			+0		52				Quick Draw, Dodge										
+1	Rogue 1			+0		48				Quick Draw, Dodge										
 2	Marshal	1		+0		8														All Knowledge as class skills!
 3	Rogue 2			+1		12				Mobility
 4	Rogue 3			+2		12
@@ -26,11 +27,12 @@ Flaws (compensating for +2 LA):
 		 exploit
 
 
-Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention.
+Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention,
+	  and 2 more on and extra dagger and set of arrow.
 	20	Rapier
 	2	Dagger
 	30	Shortbow
-	1	20 Arrows
+	2	20 Arrows
 	25	Studded Leather Armor
 	30	Thieves Tools
 	2	Backpack
@@ -42,14 +44,24 @@ Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on cl
 	1	50' Hemp Rope
 	1	Waterskin
 	1	Traveler's Outfit
-	5 gp. remaining
+	3 gp. remaining
 
 
 Flavor:
-	-Creche raised?
+	-Creche raised.
 		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
 		 levels, among other things). Those peers all abandoned you, though, and their old selves,
 		 by means of the elan transcendence that is denied to you.
+		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
+			-You're not too fond of it, as a result.
+			-Sometimes "Fred the Red".
+	-Took to air shortly after leaving his home, The Nested Domains of the Enlightened Edric,
+	 seeking freedom, and distance from the portal he'd emerged from.
+		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
+		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
+			-Yep. Varani is in The Brotherhood's service as well. You met in The Nested Domains, and
+			 it was his tales of The Material Plane's vast, liberating vistas that pushed you out of
+			 the nest (lol).
 
 
 Character Design Notes:
@@ -130,6 +142,8 @@ Character Design Notes:
 			 magic-technilogical jump.
 			-Psionic skypirate rogue feels very right. . .
 			-Profession(Sailor) is still the skill of choice: https://discord.com/channels/560915739796570113/560915739796570119/920912643391389708
+			-Jake confirmed Climb can be subbed for Swim for airship versions of nautical prestige
+			 class requirements: https://discord.com/channels/560915739796570113/560915739796570119/922944881171771442
 		-Either way, ship-based makes Dread Pirate attractive.
 			-Weapon Finesse pushes you towards melee a bit, but a Swashbuckler dip is a way to get
 			 it: http://dnd.arkalseif.info/classes/swashbuckler/index.html
@@ -143,27 +157,3 @@ Character Design Notes:
 		-Don't forget template bonuses.
 		-Swap Wis and Str, to qualify for Speed of Thought?
 			-Eh, there's lots of other ways to boost speed.
-
-
-
-
-
-
-
-
-
-
-Lvl	Class lvl		BAB		Feats											
--------------------------------------------------------------------
-1	Rogue	1		2		2
-2	Marshal	1		
-3	Rogue	2				1
-4	Rogue	3		
-5	
-6	
-7	
-8	
-9	
-10	
-11	
-12	

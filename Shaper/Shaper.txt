@@ -294,7 +294,7 @@ Stuff Edric always does:
 		-So, at level 12, that's 4th level and below.
 
 Edric's Plane:
-	-"The Nested Domains of the Enlightened Edric"?
+	-"The Nested Domains of the Enlightened Edric"
 	-The focus is an elaborately complicated forked rod made from crystalline adamantine, seemingly
 	 grown into it's shape. A thing few other than Edric could make.
 	-Size:

@@ -87,3 +87,32 @@
 		 noise as a drunk Varani falling while fishing, but we then had to row out of there as the
 		 sentry shoed us off.
 		-We opted to return another night.
+
+
+TODO:
+	-Once you get Leadership, what cohort should you get?
+		-CN Gnome Illusionist?
+			-Gnome is definitely solid for an illusionist.
+				-+1 to Illusion spell DCs.
+				-Alchemy bonus is solid for ships too, furnishing novel alchemical weapons and maybe
+				 dovetailing with cannons or more traditional seige weapons.
+				-If any gnome, then forest gnome seems a no-brainer. It seemingly only has upsides
+				 over the default: https://www.dandwiki.com/wiki/SRD:Gnomes,_Forest_(Race)
+				-Considers himself a "pargon of gnomishness".
+			-Sorcerer or wizard?
+				-Still Spell, etc.?
+				-Charisma also:
+					-Is the basis for gnome spell-likes.
+					-Helps Disguise, a big-deal skill for illusions (though _you_ also help that a ton).
+				-Intelligence also:
+					-Helps with alchemy.
+				-Variant Illusionist wizards are interesting: http://www.d20srd.org/srd/variant/classes/specialistWizardVariants.htm#chainsofDisbelief
+			-Interesting applications with ships, especially flying ones.
+				-How big can you make illusions? Big enough to hide a ship in a cloud?
+					-1st level spell Silent Image is plenty big, with a duration of Concentration!
+					-Ah, but can an illusion _follow_ a ship? Silent Image seems to have a static
+					 location. _Maybe_ tortured logic would consider a ship a location. . .
+			-Illusionist is a great fit for social rogue.
+				-Lies + illusions = profit.
+				-Invisibility + rogues = death.
+				-Eventual Simulacrums are an amazing effect form a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm

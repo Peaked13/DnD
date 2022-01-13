@@ -26,7 +26,7 @@
 	-In paying the docking fee, we also heard about a job oppotunity, a lady offering work, and
 	 requesting candidates meet her at her estate tomorrow evening.
 	-In the meantime, we found a tavern, The Drunken Bear.
-		-Talking with the barkeep, we learned more about Lavina. Apparently she'd lost her family
+		-Talking with the barkeep, we learned more about Lavinia. Apparently she'd lost her family
 		 in an airship accident, leaving just her and a sibling.
 		-The barkeep also seemed none too fond of The Dawn Council, on account of new taxes.
 		-She also told us of the city's seven districts:
@@ -58,15 +58,15 @@
 	-After some quick patches to an abandoned skiff, we took to the water, to cross the lagoon,
 	 but opted instead to stop on a deserted, brush-and-trash-strewn island. It seemed a good 
 	 hiding spot.
-		-Note entirely deserted, as it turned out. I heard the sound of some voices speaking in
+		-Not entirely deserted, as it turned out. I heard the sound of some voices speaking in
 		 Goblin somewhere nearby.
 		-I crept over and listened in. It seemed they were a party of scrappers, arguing over salvage.
 		-Goblins seem generally _tolerated_, if looked down upon, so I decided we should leave them be.
-		-There's bigger fish in the water tonight, and no sense showing up to a Lady's house smelling
+		-There's bigger fish in the water tonight, and no sense showing up to a lady's house smelling
 		 like we'd been rolling around in trash with goblins.
 	-As the time came, we headed to our dinner.
 		-After knocking, we were ushered inside.
-		-A party of armored folks were exiting as we entered. Apparently Lady Lavina has other
+		-A party of armored folks were exiting as we entered. Apparently Lady Lavinia has other
 		 suitors. . .
 			-Varani knew them as a group of mercenaries, "The Jade Ravens".
 			-They were talking about being sent to the city of Cauldron, to the South.
@@ -75,7 +75,7 @@
 		 it's aboard an impounded ship.
 			-She paid the fine, but the man holding the ship claims to have never received it, and
 			 she suspects he's up to something, aboard the ship.
-				-Zolar Vark is his name, and she suspects him of being a smuggler.
+				-Soller Vark is his name, and she suspects him of being a smuggler.
 			-She asks that we recover her money, and, if possible, find out what he's doing aboard
 			 the ship.
 				-I haggled for 250 gp. in exchange for the task and she directed us to the ship.
@@ -89,7 +89,165 @@
 		-We opted to return another night.
 
 
+1/12/22:
+	-Returning to our own ship to spend the night, given the goons looking for Varani near the inn,
+	 we debated our strategy.
+	-We didn't come up with anything better, though, and Varani claims she's not normally that clumsy,
+	 so we opted to keep watch over the ship for another day, and attempt boarding again after
+	 nightfall if we don't catch someone leaving the ship.
+	-A little while into the morning, we boarded our skiff and headed out onto the bay to watch the
+	 ship.
+		-Near nightfall, the ship headed in toward the dock it had been tied to, some distance out.
+		-We followed, and as we neared the ship, we could hear them shouting about making the ship
+		 ready for departure.
+		-We beached the skiff and hurried towards the dock, Larix employing his shapechanger
+		 heritage to disguise him as one of the crew.
+			-Ducking behind a crate, he tried to hide to cast a spell, summoning a mist to give the
+			 rest of us some cover.
+			-He was caught in that, but his disguise worked, and he was shoed aboard the departing
+			 ship.
+		-Varani then tried playing it cool, carrying a random crate aboard, while I crouched behind
+		 one still on the docks.
+		-Didn't go too well, though. A sentry questioned her, and she then dropped the crate and ran
+		 aboard.
+		-Well, there's my distraction, so I attempted to sneak aboard myself.
+		-Varani threw a punch at one of the thugs, and a brawl ensued.
+		-Larix tried his spell again, calling up the mist, but at least one of the sentries began
+		 pointing and shouting at him as he did so.
+		-With the shit kicking off, I ran into the now-present fog, towards someone shouting from
+		 the upper deck on one end of the ship.
+			-Hmm. . . I may lie to the lady about what went down here. "Some fight with criminal
+			 rivals, no doubt. . ."
+		-Hearing some commotion nearby, I crept up on someone stomping around in the fog, only to
+		 trip over a length of rope abandoned on deck. Someone began shouting at me to keep back,
+		 so I stabbed into the fog with my rapier, but didn't connect with anything.
+		-Things went pretty far South. After another vain fog-stabbing, and a legit me-stabbing, I
+		 ran the fuck away, back onto the dock and ducking behind a crate..
+		-These aren't good odds. I figured I might be able to buy some time, though, and set about
+		 sabatoging the ramp running from ship to dock, wedging a stake found into the dock into the
+		 rotating mechanism it was locked into. Now, as the ship moved with the waves, it squeals,
+		 and probably won't be easily undone.
+		-I then made my way towards the seaward end of the ship, where the anchor chain and the
+		 docking rope were, aiming to sabatoge those too.
+			-I had to take it slow, though, darting from cover to cover, having seen thugs
+			 brandishing crossbows on the ship.
+		-Meanwhile, the commotion in the fog seemed to intensify. There was some kind of metalic-
+		 sounding shrieking, as if from something breaking, and then running and thuds.
+		-I got to the anchor and, seeing the quick-release lever for it's winch, leaned over onto
+		 the ship, and pulled it, dropping the anchor. I then darted back, further down the dock,
+		 and behind some crates.
+		-Now there were _screams_ coming from the ship, and someone yelling, "It's free! It's free!
+		 Abandon ship!"
+		-In short order, one of the sailors ran down the ramp and onto the dock. Another even lept
+		 down from the poop deck, but landed badly and wasn't moving.
+		-I sheathed my rapier and then ran up to the one by the ramp, shouting, "I heard the
+		 commotion! What's going on here? Do you need help?"
+			-He responded with jumbled, panicked shouting, saying something about "the fog" and "It's
+			 loose!"
+			 "What's loose?!?"
+			 "Fuckin' spider thing!"
+		-More crew fled the ship, and eventually the fog cleared, revealing Larix and a horrible
+		 spider-thing, with waving. . . tendrils.
+		-The monster didn't seem hostile towards Larix, though, exhibiting a kind of deference to
+		 him as he spoke to it in a language I did not understand.
+		-This chaos had caught the attention of a couple of guards, who were running towards the
+		 monster (and visibly pissing it off).
+		-I rushed to intervene, shouting, "Guards! These men have been smuggling monsters into the
+		 city, aboard their hired ship! My friend has control over it for the moment, but you must
+		 apprehend them!"
+		-They seemed to buy it, and Larix tried to convince them to back off, that he had it under
+		 control, but they instead shouted something about putting it out to sea, and tried to undo
+		 the ramp (that I sabotaged).
+		-That pissed the spider-thing right off, though, them approaching. Larix tried to calm it,
+		 but to no avail, and it grabbed the guards with it's tendrils, and shook them to death.
+		-It then looked over back at Larix, like a dog proud of the bird it caught as the limp
+		 guards dangled from it's tendrils.
+		-Larix asked that I help him get one of the ship's boats overboard. I lowerd it with it's
+		 winch, and then he coaxed the beast overboard, and into it, rowing out into the bay.
+			-While doing it, I asked him where Varani was, and he said he saw her breath her last.
+		-Meanwhile, we saw some further off guards aprehend Soller, at least, and a few of his men.
+		 With the boat in the water, I went over to tell our story.
+			-As I approached, Soller was receiving some rough treatment. It seems he was known to
+			 them, as one said to another, "This thug has been evading us for a long time. He's off
+			 to the dungeons."
+				-Another also mentioned something about having aprehended about half of the men they
+				 saw fleeing.
+			-I volunteered that we were here as agents of the ships owner, having heard unsavory
+			 things about what was going on aboard. We were here to investigate, having boarded the
+			 ship only to hear shouting and chaos from below, apparently their smuggled monster
+			 getting loose.
+				-They were willing to accept that, and to let us take control of the ship. I didn't
+				 mention the owners name, but the guards did ask _my_ name. To proud to do otherwise,
+				 I told them Fredrick had this under control, and that I'd let the ships owner know
+				 her property had been secured.
+		-A short while later Larix returned, wounded, but saying the monster was now free and outside
+		 of the city.
+		-I let him know we'd met with great success. He agreed, stating he had the ring and a pouch
+		 of coin too. The ring had a strange note tucked inside it.
+		- searched the ship while he kept watch.
+		-I then went in search of a runner, and paid him to go fetch Lady Lavinia.
+		-A short while later, she indeed arrived, at the center of a party of hired guards.
+			-One of those guards stood out, with spiked hair and wearing flowing robes.
+				-We later learned his name was Forcas (Lesley's new character).
+			-I called down to her, saying that we'd recovered the ring, fee, and boat all!
+			-She was elated, though I also had to add that it was not without cost, as Varani did
+			 not make it.
+				-"We'll of course need to take her share to her family," I bluffed, to which the
+				 lady agreed.
+	-She had her guards take control of the ship, and asked us to join her in her hired carriage, 
+	 where she spoke of further work, on retainer.
+	-First, though, she wished us to come with her to her family's vault, in the city's fortress,
+	 which the signet ring is key to.
+		-To collect our pay, she said, though she also mentioned the vaults had some kind of
+		 security, and that she'd like "seasoned adventurers" with her.
+	-We traveled a mile or so across the city, and then took a ferry to the fortress's island.
+		-It was a looming, forboding thing.
+		-We unlocked her family vault, and it would see her fears were not unwarranted as some kind
+		 of metallic cobra slithered out from the shadows within.
+		-Forcas quickly lept at it, pummeling it with his fists and elbows.
+		-I, meanwhile, stepped back, in front of the lady, and manifested my Force Screen.
+		-We then took turns failing to harm it, while Larix summoned a wolf.
+		-Larix eventually noticed it was lunging at everyone _but_ Lavinia. He pointed out as much,
+		 suggesting it was another thing keyed to the ring.
+		-She brandished the ring, and it soon backed off, slithering into some kind of hole.
+		-Venturing into the next room, it was covered in various panels depicting different monsters
+		 in threatening poses.
+			-None matching the ones on the note, though. Hmm. . .
+			-In the center, a piller stood, with a star emblem around it's top with one marked spike.
+			 It was possible to rotate it, pointing the marked spike at the different images.
+			-They _did_ each have a different number of eyes, though, I noticed. Once I pointed that
+			 out, we turned the pillar to point to one eye, two eyes, etc., until, with the last,
+			 the panels opened, revealing a vault behind each.
+			-Most were empty of all but a few scattered coppers on the floor, but one contained
+			 several still-full chests, and a bunch of paperwork.
+			-We were paid out from that.
+				-500 gp. to Larix and I (two shares each, due to Varani's share and Forcas's asceticism).
+
+
 TODO:
+	-(DONE) Level up to 2!
+	-Write up the loot in some fashion.
+		-Figure out the Fantasy Grounds party sheet inventory?
+			-Varani's loot is in there.
+		-Or just do another spreadsheet?
+			-Yeah, we decided to just to that, as only the DM seems to be able to do much with the
+			 Party Sheet thing.
+			-You and Joe recorded all cash already, but sort out:			
+				3    Elixer of Swimming
+				3    Leather Armor
+				3    Buckler
+				3    Rapier
+				3    Light Crossbow
+				12    Trail Rations
+				Varani's stuff (see party sheet, gold there already split)
+		-You probably want to use some of that gear too.
+			-Buckler?
+			-Consumables?
+			
+
+
+TODO:
+	-More dance numbers.
 	-Once you get Leadership, what cohort should you get?
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
@@ -107,6 +265,20 @@ TODO:
 				-Intelligence also:
 					-Helps with alchemy.
 				-Variant Illusionist wizards are interesting: http://www.d20srd.org/srd/variant/classes/specialistWizardVariants.htm#chainsofDisbelief
+					-Chains of Disbelief is super cool, but maybe actually a downside when working
+					 with a ship's crew.
+					-Shadow Shaper might be worth the hefty price, given how it dovetails with what
+					 you do.
+					-Focused Specialist might be worth it: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#focused-specialist
+					-Gnome Illusionist also looks interesting, especially the first two levels:https://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist
+				-Sorcerers have their own variants:
+					-This list is super useful: https://srd.dndtools.org/srd/variant/variantList.html
+					-Illusion Sphere might be worth it: https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#socerer-spheres
+					-If religious, there's some fun divine variants:
+						https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#divine-companion
+						https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#domain-access
+				-Ah, wizards having Scribe Scroll goes well with your UMD score.
+			-Cat familiar's +3 to Move Silently helps someone who casts invisibility, and fits a ship.
 			-Interesting applications with ships, especially flying ones.
 				-How big can you make illusions? Big enough to hide a ship in a cloud?
 					-1st level spell Silent Image is plenty big, with a duration of Concentration!

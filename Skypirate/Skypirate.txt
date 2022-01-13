@@ -8,7 +8,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 3	Rogue 2			+1		12				Mobility
 4	Rogue 3			+2		12
 5	Rogue 4			+3		12														First level Dread Pirate is possible, due to skills.
-6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse. Take it sooner?
+6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse. Take it sooner? Maybe 4, or 5 if sneak attacks are really paying off?
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
 8	Dread Pirate 2
 9	Dread Pirate 3							Combat Reflexes
@@ -24,7 +24,42 @@ Flaws (compensating for +2 LA):
 	-Test Subject: http://eberronunlimited.wikidot.com/flaw:test-subject
 		-A psionic version, chosing Metacreativity, Pyschometabolism, and Telepathy.
 		-The process by which you were created left. . . hooks that other psionic creatures can
-		 exploit
+		 exploit.
+
+
+Flavor:
+	-Creche raised.
+		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
+		 levels, among other things). Those peers all abandoned you, though, and their old selves,
+		 by means of the elan transcendence that is denied to you.
+		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
+			-You're not too fond of it, as a result.
+			-Sometimes "Fred the Red".
+	-Took to air shortly after leaving his home, The Nested Domains of the Enlightened Edric,
+	 seeking freedom, and distance from the portal he'd emerged from.
+		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
+		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
+			-Yep. Varani is in The Brotherhood's service as well. You met in The Nested Domains, and
+			 it was his tales of The Material Plane's vast, liberating vistas that pushed you out of
+			 the nest (lol).
+		-Since it sounds like our ship is provided by The Brotherhood, how did that go down for you?
+			-You described it in game as "like the Prisoner opening sequence": https://discord.com/channels/560915739796570113/560915739796570119/925920343271559259
+
+
+Advancement:
+	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html
+		-RHETORICAL FLOURISH can help speed Diplomacy!
+		-There's a variety of others that are almost as useful.
+	-Skills required for prestige classes:
+		-Dread Pirate:
+			Appraise 8 ranks
+			Profession (Sailor) 8 ranks
+			Swim 4 ranks (Climb is an acceptable substitute for airships.)
+			Use Rope 4 ranks
+		-Shadowdancer:
+			Move Silently 8 ranks
+			Hide 10 ranks
+			Perform (dance) 5 ranks.
 
 
 Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention,
@@ -45,23 +80,6 @@ Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on cl
 	1	Waterskin
 	1	Traveler's Outfit
 	3 gp. remaining
-
-
-Flavor:
-	-Creche raised.
-		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
-		 levels, among other things). Those peers all abandoned you, though, and their old selves,
-		 by means of the elan transcendence that is denied to you.
-		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
-			-You're not too fond of it, as a result.
-			-Sometimes "Fred the Red".
-	-Took to air shortly after leaving his home, The Nested Domains of the Enlightened Edric,
-	 seeking freedom, and distance from the portal he'd emerged from.
-		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
-		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
-			-Yep. Varani is in The Brotherhood's service as well. You met in The Nested Domains, and
-			 it was his tales of The Material Plane's vast, liberating vistas that pushed you out of
-			 the nest (lol).
 
 
 Character Design Notes:

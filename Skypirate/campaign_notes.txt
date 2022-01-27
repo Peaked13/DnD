@@ -124,7 +124,7 @@
 		-Things went pretty far South. After another vain fog-stabbing, and a legit me-stabbing, I
 		 ran the fuck away, back onto the dock and ducking behind a crate..
 		-These aren't good odds. I figured I might be able to buy some time, though, and set about
-		 sabatoging the ramp running from ship to dock, wedging a stake found into the dock into the
+		 sabatoging the ramp running from ship to dock, wedging a stake found on the dock into the
 		 rotating mechanism it was locked into. Now, as the ship moved with the waves, it squeals,
 		 and probably won't be easily undone.
 		-I then made my way towards the seaward end of the ship, where the anchor chain and the
@@ -159,32 +159,32 @@
 		 control, but they instead shouted something about putting it out to sea, and tried to undo
 		 the ramp (that I sabotaged).
 		-That pissed the spider-thing right off, though, them approaching. Larix tried to calm it,
-		 but to no avail, and it grabbed the guards with it's tendrils, and shook them to death.
+		 but to no avail, and it grabbed the guards with it's tendrils, shaking them to death.
 		-It then looked over back at Larix, like a dog proud of the bird it caught as the limp
 		 guards dangled from it's tendrils.
 		-Larix asked that I help him get one of the ship's boats overboard. I lowerd it with it's
 		 winch, and then he coaxed the beast overboard, and into it, rowing out into the bay.
 			-While doing it, I asked him where Varani was, and he said he saw her breath her last.
-		-Meanwhile, we saw some further off guards aprehend Soller, at least, and a few of his men.
+		-Meanwhile, we saw some further off guards apprehend Soller, at least, and a few of his men.
 		 With the boat in the water, I went over to tell our story.
 			-As I approached, Soller was receiving some rough treatment. It seems he was known to
 			 them, as one said to another, "This thug has been evading us for a long time. He's off
 			 to the dungeons."
 				-Another also mentioned something about having aprehended about half of the men they
 				 saw fleeing.
-			-I volunteered that we were here as agents of the ships owner, having heard unsavory
+			-I volunteered that we were here as agents of the ship's owner, having heard unsavory
 			 things about what was going on aboard. We were here to investigate, having boarded the
 			 ship only to hear shouting and chaos from below, apparently their smuggled monster
 			 getting loose.
 				-They were willing to accept that, and to let us take control of the ship. I didn't
-				 mention the owners name, but the guards did ask _my_ name. To proud to do otherwise,
+				 mention the owners name, but the guards did ask _my_ name. Too proud to do otherwise,
 				 I told them Fredrick had this under control, and that I'd let the ships owner know
 				 her property had been secured.
 		-A short while later Larix returned, wounded, but saying the monster was now free and outside
 		 of the city.
 		-I let him know we'd met with great success. He agreed, stating he had the ring and a pouch
 		 of coin too. The ring had a strange note tucked inside it.
-		- searched the ship while he kept watch.
+		-With the ship secured, I searched it further, while he kept watch.
 		-I then went in search of a runner, and paid him to go fetch Lady Lavinia.
 		-A short while later, she indeed arrived, at the center of a party of hired guards.
 			-One of those guards stood out, with spiked hair and wearing flowing robes.
@@ -229,25 +229,166 @@ TODO:
 	-Write up the loot in some fashion.
 		-Figure out the Fantasy Grounds party sheet inventory?
 			-Varani's loot is in there.
-		-Or just do another spreadsheet?
+		-(DONE) Or just do another spreadsheet?
 			-Yeah, we decided to just to that, as only the DM seems to be able to do much with the
 			 Party Sheet thing.
-			-You and Joe recorded all cash already, but sort out:			
-				3    Elixer of Swimming
-				3    Leather Armor
-				3    Buckler
-				3    Rapier
-				3    Light Crossbow
-				12    Trail Rations
-				Varani's stuff (see party sheet, gold there already split)
-		-You probably want to use some of that gear too.
+			-You and Joe recorded all cash already.
+			-You created the spreadsheet and posted it. 
+		-(DONE) You probably want to use some of that gear too.
 			-Buckler?
 			-Consumables?
-			
+			-Yep, both of the above. You put your name on stuff in the sheet, now update Roll20.
+
+
+1/26/22:
+	-As we left the vaults, Lavinia asked the clerk if anyone else had recently been in her family's
+	 vault.
+		-After checking his records, the clerk responded that one Vanthus Vanderborn had been inside
+		 less than a month ago.
+		-Lavinia reacted with surprise, saying, "My brother? He's been missing! He was her? Where did
+		 he go?"
+		 "We do not keep records of where our visitors go from here."
+		-I started to ask about her brother but Lavinia said, "Not here. It's a long story, and
+		 painful. . . Return with me in the coach, to my mansion, and we will discuss it further."
+	-Back at the mansion, her gnomish servant greeted the lot of us, and also informed the lady that
+	 she had a visitor, one Jade Shadowfeather (Shroud's artificer).
+		-We each grabbed a drink, and then went to a sitting room, where Jade waited.
+		-There, she told us the story of her brother.
+			-Once extremely close, her brother has been missing for more than a month. Though
+			 apparently he was close enough to empty the vaults. . .
+			-The two of them had been separated for 5 years, after some youthful trouble, her sent
+			 to a finishing school, and him to the family's country house.
+			-Upon their return to the city, their rapport was gone, and he was behaving strangely.
+				-He spent his days shut up in his room, only leaving at night, to go out into the
+				 city, bringing back. . . disreputable men.
+				-Eventually, he struck out on his own, leaving the family's home.
+				-Some time after that, their parents' accident occurred. He returned for a bit, then,
+				 but behaved worse and worse, eventually striking his sister, after which she cast
+				 him out of the house.
+	-She then raised the prospect of that further work: finding her brother, and bringing him back
+	 to the mansion, to talk some sense into him.
+		-Asking her what she knew of his whereabouts, she said he'd not been seen in the Noble
+		 or Champion districts, where they have many friends, but that she'd heard he may have been
+		 involved with a woman in the Azure district.
+		-We agreed to aid her in this, and she, drinking heavily through the whole story, was soon
+		 off to bed while we made our introductions to Jade.
+	-I proposed we start with the mansion's servants. She'd said it they'd mentioned strange behavior
+	 on his part, and maybe there's more to that then they wanted to tell his sister, the lady of the
+	 house.
+		-Talking with them, the reinforced the lady's narrative, and also mentioned many of his
+		 companions sharing an odd tattoo, a hooded snake, though they didn't see the whole thing
+		 on any of them, as it was invariably covered partly by clothes.
+	-Larix then raised the matter of the hastily bandaged lacerations, and we asked after rooms in
+	 the mansion for him to rest.
+		-Jade remained with hime, while Forcas and I set out into the Azure district, to see what
+		 the word on the street was, if anyone was talking about the snake-tattoo folks, or a noble
+		 slumming it.
+		-After a short bar crawl, we ran into a couple of folks who seemed to recognize our
+		 description of Vanthus.
+			-They all mentioned he'd been seen with Brisa Santos, a notorious pick pocket turned
+			 artist. Neither had been seen in the district in most of a month, though.
+			-We asked if they knew where she stayed, and one said, "Probably in those froofy artist
+			 lofts that are popping up all over The Shadow Shore since the area started cleaning up."
+		-So, that's the direction we headed.
+			-There, Forcas spotted a couple of folks with the snake tattoos.
+			-We saw one leaving a bar, and stepped inside, to ask about the man who wore it.
+			-We learned from the bartender that the man, name unknown to him, was a regular, and
+			 pissed that one Penkus, also a regular, owed him money, and hadn't been seen in some
+			 time.
+		-After I finished a strong ale, we headed back to the ferry, to worry about the rest of this
+		 with the others in tow.
+	-I took a moment after waking to talk Forcas into schlepping my junk about for me ("You look
+	 strong. It's kind of even an act of charity!").
+		-Good bye, encumbrance!
+	-We headed back to The Shadow Shore the next morning, in search of Penkus, or at least someone
+	 who knows who he owed money to.
+		-We ran into a friend of Penkus in a restaurant nearby. He mentioned that he'd last seen
+		 Penkus on a boat, a pleasure craft named It Still Floats, owned by a pessimistic dwarf
+		 named Panchi. Penkus and Panchi had been arguing about something when this guy left for
+		 the shore.
+		-We stopped by Panchi's shop.
+			-Apparently Penkus had rented It Still Floats, loaded it with lamp oil, lanterns, and
+			 rope and then headed West.
+			-Further, he was not alone, and had some "long haired, goateed noble" with him. . .
+			-He requested that, if we see his ship, we send it his way, or at least salvage it's
+			 enchanted propulsion.
+	-We decided to take our ship to find that ship.
+		-But first, we opted to stop by the Merchant district, to pick up some supplies for Jade to
+		 craft me a rapier.
+		-While in line at a stall, though, we noticed someone with a snake tattoo behind us in line.
+			-I walked right up to him, asking him where he got the fancy tattoo, claiming I was, 
+			 "Thinking of getting one myself, after seeing one on someone next to me in a Shadow
+			 Shore bar."
+			-Looking at it closer as I approached, though, it seemed. . . unfinished, or maybe fake.
+			-He dodged that question, and instead launched into a pitch for some kind of party, if
+			 we'd pay him the entrance fee.
+				-Some kind of island art gallery experience shit, though, he eventually also
+				 mentioned something about, "Smuggling the art back into the city. You'll be rich!"
+				-What piqued my interest was his mention of the artist, Vanthus.
+				-He also introduced himself as Chefton.
+				-Well, I guess we're playing along with this harebrained scheme.
+	-We boarded _his_ ship instead, and we sailed to a nearby island.
+		-It had high cliffs surrounding it, save for a narrow beach.
+		-After beaching the ship, he led us to a door in the cliff face, indicating that the
+		 "exhibit" was inside.
+		-He was reluctant to go in himself, but Forcas beat me to insisting, and he eventually
+		 complied and led us inside.
+		-Inside only a short while, though, the door was slammed behind us, with clearly-Vanthus
+		 laughing and shouting from outside, "You actually fell for it?!? Did my sister send you?"
+		-It was followed by the sound of rocks falling outside the door, which no longer budged.
+		-Chefton, meanwhile, was shouting back, "You bastard! You trapped me in here with them!"
+		-After some nicer-than-I-would have been questions from Forcas, Chefton said something
+		 about these being old smuggling tunnels.
+		-Well, fuck it, lets see where these go.
+		-To half-flooded tunnels full of zombies, it turns out!
+		-That. . . went poorly, and now Larix is dead from a thorough zombie gnawing.
+		-Forcas was down too, but the bleeding had stopp, so Jade wracked her brain for stuff she
+		 could throw together to heal him.
+			-It took a couple of minutes and lots of improvising, but she managed to put together an
+			 enchanted trinket that healed a few of his bites, getting him back on his feat.
+		-I'd seen a fair amount of the tunnels, as I boldly scouted ahead for an escape route during
+		 the fight. During that, we spotted a body in a pool of water.
+			-We debated fishing it out, and it did have a fancy looking dagger strapped to it's belt.
+			-There were some fierce looking crabs in the water, though, so we figured it would be
+			 best to rest a bit before we risk provoking them.
+			-Before resting, though, Jade wanted to try another healing trinket. However, as she was
+			 assembling it and mumbling incantations, it exploded on her, and she went down, bleeding.
+			-Well, shit. Forcas and I frantically tried to staunch the bleeding, and he was eventually
+			 successful.
+			-We dragged her back to the entry room, to hole up with Chefton while we rested a bit.
+			-He was a despondent mess, unresponsive as Forcas called him over to help drag Jade, but
+			 Forcas slapped him around until he helped.
+			-We rested a while, and Jade eventually woke up.
+			-I also eventually noticed a change in the sound of the lapping water, and I suspected
+			 that low tide may have arrived, perhaps aiding in our escape from this place.
+
+
+TODO:
+	-Write down Larix's gear on the loot spreadsheet.
+	-Come back to that floating corpse.
+	-Get Jade to craft at least a masterwork rapier for you.
+	-Chat up Chefton, to Diplomacy-adjust his attitude towards us.
 
 
 TODO:
 	-More dance numbers.
+	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
+		-We talked about it here:
+			DMJake — Today at 12:46 PM
+			Can you give me a few things for Edric over the past 1000 years 
+			1. Goals for Material Plane 
+			2. Goals for your Plane
+				-Heavily urbanized, and a homeland for psionic weirdos.
+			3. Goals for your relationship to the Brotherhood of Xul Jarak
+			Peaked — Today at 1:07 PM
+			OK! I'll think that over.
+			Are you in any particular rush? Needing to get this by next session or the like?
+			1000 years is longer than I had been imagining, and I'm going to have fun with that if I've got the time.
+			DMJake — Today at 1:12 PM
+			not in a rush, and I have a system for resolving the timeline 
+			I've broken it down into periods of around 3 to 4 hundred years
+			Peaked — Today at 1:16 PM
+			Since Edric's creation powers work in volumes, I wonder if I can figure out a way to compare that to real figures. Something like, with Edric dedicating X% of his time and Y power points per day, he will have personally replicated Z years of the modern US's industrial output over that millennia. I'm going to have fun with this. . .
 	-Once you get Leadership, what cohort should you get?
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
@@ -287,4 +428,4 @@ TODO:
 			-Illusionist is a great fit for social rogue.
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
-				-Eventual Simulacrums are an amazing effect form a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
+				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm

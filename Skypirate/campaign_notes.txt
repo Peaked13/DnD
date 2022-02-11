@@ -364,21 +364,102 @@ TODO:
 
 
 TODO:
-	-Write down Larix's gear on the loot spreadsheet.
 	-Come back to that floating corpse.
-	-Get Jade to craft at least a masterwork rapier for you.
 	-Chat up Chefton, to Diplomacy-adjust his attitude towards us.
 
 
+2/10/22:
+	-As I did more looking into our predicament, examining the shaft by which we entered this place,
+	 I felt a familiar presence, watching me. . .
+	-I returned to the room where the rest of us rested, to alert the others to this, only for my
+	 report to be interrupted by the miraculous appearance of a priest.
+	-He introduced himself as Isaias, a follower of Shawn. Sounds like The Brotherhood thought we
+	 needed rescuing.
+		-I asked him if he could teleport us out of here, but he said no, it was a one-way trip.
+		-I also said it sounds like someone doesn't like him, being teleported here just to be
+		 trapped same as us, but he said it was his "chance to prove myself."
+			-Me: "Tests, eh? I know all about tests. . ."
+	-With him now with us, we returned to the room we fought those zombies in, to check on the water
+	 there (and check the pockets of that floating corpse).
+		-The water level had indeed dropped with the tide, but not so far as to leave any unflooded
+		 opening.
+			-Jade was weirdly willing to blindly swim an underwater tunnel, but I wisely suggested
+			 we look through the rest of the place first.
+		-I walked over to the pool, hoping I could snag the corpse with my bowstave, but a monstrous
+		 crab emerged from the pool snapping at me, soon joined by several more.
+		-I and the wounded Forcas got the hell out of there, retreating to the back of the room, but
+		 the priest proved a real fanatic, and ran at them brandishing his weapon.
+			-He soon had crabs hanging off him.
+		-Crabs are apparently not confused by summersaults, but I can at least out run them. I tried
+		 to kite one of the crabs, with mixed success.
+		-In less than a minute, though, all the crabs were seafood, and none of us were pinched to
+		 death!
+	-Afterwards, Forcas immolated the human bodies in the room, "To give them a dignified end."
+		-I asked if it was sacrilegious to also "immolate" the crab remains!
+		-Turns out not, so we spent the next hour or so on a crab feast.
+		-I even called Clifton over, and offered him some.
+			-Chatting with him for a bit, he seemed to be warming up to us, but still despondent
+			 about how he ended up down here, and not very hopeful about escape.
+		-During this time, though, the pool of water began to rise again.
+	-Following the feast, we examined the door to the West (shit, should have chosen the rhyming
+	 East!).
+		-Neither I nor the cleric of apparently unusual abilities noticed any traps, but he did
+		 did say he heard through it the moaning of the damned-and-undead.
+		-Well, despite our previous zombie disaster, with a priest by our side we felt a bit more
+		 confident, and I boldy let Isaias go first.
+		-That confidence in Isaias seemed well placed, as the zombies fled before the holy symbol
+		 he brandished.
+		-The passage they fled down was flooded not far pass the door, though. It wasn't deep, but
+		 it _was_ pulsing with the waves, and slippery, so it proved slow and treacherous going.
+		-Too treacherous for Forcas, as it turned out. His repeated failures led to him nearly
+		 drowning in a foot or two of water, with Jade and I stuck behind his flailing form in the
+		 narrow corridor.
+		-Yep, whole thing was a disaster. All of us fell a time or two, and are now resolved to
+		 avoid that damned place until low tide again.
+		-At least we managed to kill the zombies one by one, as they made their own way back out of
+		 the surf towards us.
+	-We opted to rest again, owing to the bruises all over Forcas and Isaias.
+	-Eight or so hours later, we ventured out of our barricaded corridor.
+	-It seemed now to be low tide, so we again braved the flooded corridor.
+	-This time, it was a breeze, being mostly dry.
+	-At the end of it, we found a room with the corpse of one Penkus, as identified by a vengeful
+	 note clutched in his hand.
+		-Apparently, Vanthus betrayed him too, trapping him here where he died a slow death from an
+		 infected zombie bite.
+		-It even told us where he makes his home, "in the lap o' th'Lotus, below th'Taxidermist's
+		 Hall.
+			-Penkus had a tatoo with a dragon twining around a flower, and the note seemed to
+			 suggest that "the Lotus" is some kind of gang.
+			-It also made reference to "the Lady of the Lotus" and Vanthus's "designs" on her.
+		-Forcas even found a secret room, filled with genuine pirate treasure!
+			-Various potions and other arcana, along with enough coins that we had to drag a sea
+			 chest full of them with us.
+	-Returning to the crab chamber, we check the rest of it's doors.
+		-Two led to closets, one of which had some useful scrolls at the bottom of some moldy old
+		 supplies.
+		-The third, though, was the series of rooms I'd previously run through, which we followed to
+		 another door, leading away, rather than back to the entrance.
+			-This one had the sound of more zombie groans coming from it, so we paused to prepare
+			 (and for the end of the session.)
+
+
 TODO:
+	-Write down Larix's gear on the loot spreadsheet.
+
+
+TODO:
+	-Get Jade to craft at least a masterwork rapier for you.
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:
 			DMJake — Today at 12:46 PM
 			Can you give me a few things for Edric over the past 1000 years 
 			1. Goals for Material Plane 
+				-Crystal epic spell.
 			2. Goals for your Plane
 				-Heavily urbanized, and a homeland for psionic weirdos.
+					-More psionic folks + Bestow Power is also a big deal for Edric, and maybe even
+					 an economy.
 			3. Goals for your relationship to the Brotherhood of Xul Jarak
 			Peaked — Today at 1:07 PM
 			OK! I'll think that over.

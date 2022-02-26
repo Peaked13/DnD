@@ -409,7 +409,7 @@ TODO:
 		 confident, and I boldy let Isaias go first.
 		-That confidence in Isaias seemed well placed, as the zombies fled before the holy symbol
 		 he brandished.
-		-The passage they fled down was flooded not far pass the door, though. It wasn't deep, but
+		-The passage they fled down was flooded not far past the door, though. It wasn't deep, but
 		 it _was_ pulsing with the waves, and slippery, so it proved slow and treacherous going.
 		-Too treacherous for Forcas, as it turned out. His repeated failures led to him nearly
 		 drowning in a foot or two of water, with Jade and I stuck behind his flailing form in the
@@ -429,12 +429,13 @@ TODO:
 		-It even told us where he makes his home, "in the lap o' th'Lotus, below th'Taxidermist's
 		 Hall.
 			-Penkus had a tatoo with a dragon twining around a flower, and the note seemed to
+
 			 suggest that "the Lotus" is some kind of gang.
 			-It also made reference to "the Lady of the Lotus" and Vanthus's "designs" on her.
 		-Forcas even found a secret room, filled with genuine pirate treasure!
 			-Various potions and other arcana, along with enough coins that we had to drag a sea
 			 chest full of them with us.
-	-Returning to the crab chamber, we check the rest of it's doors.
+	-Returning to the crab chamber, we checked the rest of it's doors.
 		-Two led to closets, one of which had some useful scrolls at the bottom of some moldy old
 		 supplies.
 		-The third, though, was the series of rooms I'd previously run through, which we followed to
@@ -443,8 +444,78 @@ TODO:
 			 (and for the end of the session.)
 
 
-TODO:
-	-Write down Larix's gear on the loot spreadsheet.
+2/25/22:
+	-We pawed through some of of loot, distributing useful items, before opening the door.
+	-Suitably attired, we kicked in the door, revealing two zombies and some armored undead figure
+	 who could manage complete sentences.
+	-Isaias ran in, brandishing his holy symbol, but his god seems to have failed him as the zombies
+	 were undeterred.
+	-I had unwisely followed him down the hall, lunging at one of the zombies, only to miss.
+	-When the zombie retaliated, swiping at me with his arm, I decided to make a strategic retreat.
+	-Isaias was thankfully better with a dagger than a prayer, and between him and Forcas, one of the
+	 zombies was soon looking rough (well, rough_er_).
+	-It soon fell apart, and we moved onto the other undead creature, apparently a cleric from what
+	 he was casting on his fellows in between harranguing us about "embracing death".
+	-This one Isaias _did_ convince to flee with his holy symbol, prompting me to attempt to embed a
+	 dagger in his back, but I missed as Forcas stuck a foot out and the cleric-creature went
+	 sprawling.
+	-Jade then finished him off with a crossbow.
+	-Examining the cleric's holy symbol, Isaias deemed him a cleric of Olidammara.
+		-I examined the symbol too, deeming it worth about 50 gp., for the weight of the gold.
+	-The hallway ended in another pool of water, one Forcas was bold enough to wade into, looking
+	 for another way out, and he emerged with some kind of shining orb!
+		-Seems like it's somehow magical and, even better, likely valuable!
+		-Isaias thought it might be tied to The Brotherhood.
+		-Jade confirmed that, saying it's various divets were related to the keys to the various
+		 planes of The Brotherhood.
+	-A door off the halway led to a vile smelling room, containing a defiled alter.
+		-Once dedicated to Olidammara, it was draped in dismembered corpses, perhaps a stage in the
+		 cleric-zombie's conversion. . .
+	-With that, we'd checked everywhere down here, and the flooded tunnel seemed our only bet for a
+	 way out.
+	-Well, I'm no swimmer, but _did_ have that Elixer of Swimming, so I chugged it while Forcas was
+	 saying something about a rope.
+		-After drinking it, I moved about in the water a bit, and seeing how I glided through it, I
+		 volunteered to swim the tunnel trailing a rope in my hand, to aid the less elixed.
+		-I got to the mouth of the tunnel, but caught myself on the spine of something in the coral
+		 at the mouth. I could suddenly feel all that crab meat sitting poorly in my stomach, but
+		 pushed through it, swimming up and breaching the surface of the water.
+		-Around me, to my surprise, was Sasserine, I having emerged in one of it's rivers. An old
+		 smuggling tunnel, perhaps.
+		-I gave a tug on the rope, signalling the rest of the party to give it a shot, and Jade soon
+		 emerged from the water too.
+		-After that, though, the strands of red began to drift through the water. . .
+		-I dove in, soon followed by Jade, to help what turned out to be a strugling Chefton,
+		 bleeding from the coral.
+			-We tried, along with some help from Isaias who followed Chefton down the tunnel, but
+			 we were unable to drag him from the water.
+			-Forcas eventually pushed him from the tunnel and swam up with him, but we were unable
+			 to revive the poor bastard.
+	-We were back in town at least. Probably don't want Vanthus or any of his gang realizing that,
+	 though.
+		-As such, we asked Isaias, who'd not been here when we left town, to go fetch some cloaks
+		 to conceal us, and to find the nearest in.
+			-Jade chimed in with a recommendation for the latter, saying there was actually one on
+			 the nearby bridge.
+		-We spent the meantime hiding beneath the bridge, hoping to stay out of sight.
+		-While wringing out my bedroll though, I turned my back on Forcas and, when I turned back
+		 around, he was gone.
+			-Jade and I spotted him down the street, handing out coins to beggers. Fuck.
+			-Well, _I'm_ staying out of sight, at least.
+		-Isaias eventually returned with a set of too-nice-for-our-purposes cloaks.
+			-He also came back with tales of the elven clothier offering some kind of "better
+			 mithril", a kind of woven metal, that they were offering.
+				-Light armor made from it would cost 1,500 gp. more than usual.
+		-With his return, I _strongly_ suggested to Forcas that he perhaps sleep out on the street,
+		 as he'd suggested instead of the inn, after all. People are bound to be following him after
+		 that display. . .
+			-He assented, arranging a time to meet us outside the inn.
+		-Isaias then got he, Jade, and I rooms at the inn, which we entered cloaked.
+	-After resting, we discussed our next course of action.
+		-The three of us agreed that, well, Lavinia was paying us (some? all?), and had asked us to
+		 report to her when her brother was found. Might as well do as she asked.
+		-The estate was likely watched, though, so we again made Isaias our messenger (and ended the
+		 session there).
 
 
 TODO:

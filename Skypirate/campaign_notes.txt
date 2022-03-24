@@ -553,7 +553,7 @@ TODO:
 		 pocket, though we caught the messenger.
 		-No Lotus Dragon member, Kiani and Forcas gave him some gold in response to his sob story,
 		 and also in exchange for information about where the message came from, describing a man
-		 named Namien at the taxidermist's guild.
+		 named Nemien at the taxidermist's guild.
 		-As we approached the docks, we found them unusually empty, with almost no one out on the
 		 street and the sounds of battle coming from somewhere above, amidst the airship docks.
 		-It also sounded awfully windy up there, despite the day being otherwise calm.
@@ -589,7 +589,108 @@ TODO:
 		 their comrades had gone in search of someone sneaking around the docks. He figured they'd
 		 be back soon, though.
 		-We set ourselves up in various locations, as an ambush.
-			-We indeed managed to get the jump on them, 
+			-We indeed managed to get the jump on them, routed them, and then picked them off as they
+			 fled, to limit reporting back.
+
+
+3/23/22:
+	-We rested without any further gang members showing up.
+	-The following morning, we debated how best to approach the gang's hideout.
+	-With the tide lower this morning, we opted for the back door, and sent Isaias and Kiani to rent
+	 a boat, their faces still being unknown to the gang.
+	-They eventually returned to pick us up in a rented skiff.
+	-There seemed to be lots of boats out on the water, and Kiani mentioned that some local fishing
+	 contest was today.
+		-Convenient, for our purposes. A good reason to be out on the water.
+	-Rowing it over to the pier on which the taxidermy guildhall, we could see an iron gate closing
+	 off a sea cave beneath it.
+		-There was no mechanism for opening the gate from outside of it, though.
+		-The bars are wide enough for someone to swim through, but that seemed like a bad idea even
+		 before I spotted something shark-like swimming in the water on the other side of the gate.
+		-Searching a while longer _did_ turn up some kind of keyhole in the gate, near the water
+		 level, but fooling with it attracted the attention of one of the things swimming behind
+		 the gate, which thrust a snapping maw up to the gate as I quickly pulled back my hand.
+		-With it mere feet away on the othe side of the barrier, now, we figured we ought to take
+		 some pot shots, though none hit.
+		-That scared this one off, but several others rose, angry, in the water behind the gate,
+		 chattering in some language unknown to us.
+		-Uh oh. That might be the end of our surprise.
+		-Jade named them Ixitxachitl, whatever the fuck that means.
+	-Well, that door seems closed to us. Lets try the front.
+		-We applied a few spells, and then strolled in the front door.
+		-A man in the entryroom greeted us, introducing himself as Nemien.
+		-I, in response, announced that we were famous hunters, in the area to do some hunting, and
+		 looking to tour the facilities and see examples of the guild's work, to know who to bring
+		 our business back to.
+		-He agreed to the tour, and began leading us through the this reception area's interior door.
+		-Stepping inside there, though, we heard another voice call out, from behind a door in the
+		 next room, asking Nemien to come and speak with them, prompting Nemien to say the tour was
+		 canceled after all, asking us to leave as he turned to go.
+		-Forcas, with a frustrated expression on his face, announced that, "The time for talking is
+		 over," and attempted to punch Nemien in the back of the head.
+		-He stumbled while doing so, though, and the punch went wide.
+		-Nemien, in response, cast a spell and disappeared, followd shortly by the door leading
+		 further in opening and closing.
+		-We rushed after him, and, as Forcas and Isaias burst through the door he'd passed through,
+		 he revealed himself by casting another spell, to unknown effect.
+		-Forcas, though, suddenly announced that, "What we're doing here is wrong." He then turned
+		 to leave, pushing past us down the hall. . .
+		-The rest of us were not so soft-hearted, though. I was still around the corner in the hall,
+		 but I heard the thwang of Isaias's crossbow, and Nemien slumping to the floor.
+		-I stepped past him as Isaias rifled through his pockets, but Forcas pushed him aside and
+		 tried to staunch the flow of blood from Nemien's wound.
+			-He seemed less like he's enscrolled, now, though, and more like he's being his self-
+			 righteous self.
+			-His medical skills weren't up to snuff, but he eventually resorted to pouring a potion
+			 down Nemien's throat.
+			-What followed, though, was reason enough to not consider Forcas _soft-hearted_ by any
+			 means. Nemien woke up after the potion, but Forcas beat him halfway back to
+			 unconsciousness while interrogating him.
+			-He eventually revealed that there was a secret door in the hallway, leading to the 
+			 gang's hideout.
+			-Using a key on the ring Isaias took from Nemien, we got the door open while Forcas
+			 slammed Nemien's head against a wall until he was unconscious.
+	-Passing through the secret door and down a flight of stairs, we found ourselves in a dank
+	 cave beneath the structure.
+		-Some sentries greeted us through the first door with poisoned crossbow bolts, but we made
+		 short work of them.
+		-Moving past their corpses, we found ourselves in a maze of tunnels.
+		-As we passed one door, we heard a gutteral voice within, complaining of lack of sleep.
+			-Turning Isaias and Kiani, I asked, "Count of 3?" and then slowly pushed the door open.
+			-Isaias and I each let fly with an arrow, while Kiani cartwheeled in between us, to stab
+			 at the wolf-like beast within.
+			-It was indeed the source of the voice. It grumbled more about just wanting a nap as it
+			 snapped at Kiani's legs.
+			-In short order, though, the beast lay bleeding out, with none of us having sustained
+			 serious injuries.
+		-From there, we followed the tunnels' various twists and turns, fighting the occasional
+		 gangers, until we found the kitchen, where a cowering kobold cook pointed us in the
+		 direction of Vanthus's room.
+		-It proved well locked with a stout door, though, so we turned back to exploring the rest
+		 of the tunnels.
+		-We rescued a victim of torture, but Forcas was a jerk about the guy being reluctant to
+		 discuss his undoubtedly shady business that ended up getting him extorted and eventually
+		 tortured by the gang.
+			-He shoved Kiani and we ended up beating him unconscious.
+			-Forcas wouldn't let the matter of his line of work rest, though, and Kiani was now
+			 pissed too.
+			-They proceeded to torture the man, effectively waterboarding him.
+			-In the course of that, he admitted he was actually a member of this gang, pretending
+			 to be one of their victims. He was, in fact, the master of this torture chamber.
+			-Well now I'm pissed at him too, since he's not an innocent smuggler or the like, but
+			 rather one of the pricks that trapped us in that hole.
+			-Forcas wanted to leave him unconscious but alive, to face eventual justice. However,
+			 Isaias settled the argument by caving 
+		-We never turned up the key to what's supposed to be Vanthus's room, so Isaias and I settled
+		 in to very carefully attempt the lock we'd previously failed to pick.
+			-Meanwhile, the others went off to examine a pool of water we previously passed by, and
+			 returned a few minutes later with tales of a chained up crocodile.
+			-Some 20 minutes later, Isaias and I finally got the lock open, and we entered the
+			 room. . .
+
+
+TODO:
+	-Level up to 3.
 
 
 TODO:

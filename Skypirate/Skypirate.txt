@@ -63,7 +63,7 @@ Advancement:
 
 
 Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention,
-	  and 2 more on and extra dagger and set of arrow.
+	  and 2 more on and extra dagger an set of arrows.
 	20	Rapier
 	2	Dagger
 	30	Shortbow

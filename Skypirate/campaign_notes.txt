@@ -695,6 +695,7 @@ TODO:
 
 TODO:
 	-Get Jade to craft at least a masterwork rapier for you.
+		-She now even has Craft Wonderous.
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:

@@ -48,8 +48,15 @@ Flavor:
 
 Advancement:
 	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html
+		-They cost two skill points each.
 		-RHETORICAL FLOURISH can help speed Diplomacy!
 		-There's a variety of others that are almost as useful.
+		-Get:
+			Lvl.	Name
+			-------------
+			5		RHETORICAL FLOURISH (Diplomacy 8)
+			9		BACK ON YOUR FEET (Tumble 12)
+			9		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
 	-Skills required for prestige classes:
 		-Dread Pirate:
 			Appraise 8 ranks

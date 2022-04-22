@@ -544,7 +544,7 @@ TODO:
 			-In fact, Isaias also reported that law and order in the city appeared to be generally
 			 breaking down, with criminal activity soaring.
 	-Well, I, at least, am rather fond of that ship, and said as much. All agreed we should head
-	 there quickly, though Isais warned we should also come prepared, so we opted to unload our loot
+	 there quickly, though Isaias warned we should also come prepared, so we opted to unload our loot
 	 and do some shopping.
 		-At "The Tinker's Toolchest" we unloaded that junk, and perused some more, though nothing
 		 really caught my eye.
@@ -583,7 +583,7 @@ TODO:
 		 door open.
 	-We opted to return the ship, rest, and wait until the printed business hours.
 		-During the night, though, we were woken by Forcas.
-		-Apparently a relief party had arrived for the gang members we fought, and a disguised Isais
+		-Apparently a relief party had arrived for the gang members we fought, and a disguised Isaias
 		 had gone out to talk with them.
 		-Isaias joined us a few moments later, saying he'd bought some time by telling them that
 		 their comrades had gone in search of someone sneaking around the docks. He figured they'd
@@ -629,7 +629,7 @@ TODO:
 		-Forcas, with a frustrated expression on his face, announced that, "The time for talking is
 		 over," and attempted to punch Nemien in the back of the head.
 		-He stumbled while doing so, though, and the punch went wide.
-		-Nemien, in response, cast a spell and disappeared, followd shortly by the door leading
+		-Nemien, in response, cast a spell and disappeared, followed shortly by the door leading
 		 further in opening and closing.
 		-We rushed after him, and, as Forcas and Isaias burst through the door he'd passed through,
 		 he revealed himself by casting another spell, to unknown effect.
@@ -680,7 +680,7 @@ TODO:
 			-Well now I'm pissed at him too, since he's not an innocent smuggler or the like, but
 			 rather one of the pricks that trapped us in that hole.
 			-Forcas wanted to leave him unconscious but alive, to face eventual justice. However,
-			 Isaias settled the argument by caving 
+			 Isaias settled the argument by caving in his skull.
 		-We never turned up the key to what's supposed to be Vanthus's room, so Isaias and I settled
 		 in to very carefully attempt the lock we'd previously failed to pick.
 			-Meanwhile, the others went off to examine a pool of water we previously passed by, and
@@ -690,7 +690,131 @@ TODO:
 
 
 TODO:
-	-Level up to 3.
+	-(DONE!) Level up to 3.
+
+
+4/20/22:
+	-Over the course of opening the lock, we could hear. . . skittering, on the other side of the
+	 door.
+	-When the we got the lock open, I counted to three, threw the door open and ducked behind the
+	 cover of the doorjamb and adjoining wall.
+	-Forcas and Jade shot at something within as Isaias rushed forward, mace raised.
+	-I drew my own bow and peeked around the doorway, seeing an enormous spider-thing, of the same
+	 species those thugs on Lady Vanderborn's ship had been smuggling.
+		-Not hesitating, I shot it right in one of its all too many eyes.
+	-Another mace blow from Isaias and crossbow bolt from Jade solved the problem.
+	-Isaias then rushed past it's still twitching corpse, chasing after some footsteps in the hall
+	 beyond it.
+	-I followed, finding Isaias battling a hulking goblinoid zombie. My arrow, though, shot over
+	 Isaias's shoulder, didn't so much as slow it down.
+	-While we fought the zombie, we heard a rasping voice shout. . . something, from behind a nearby
+	 door. 
+		-"We". I volunteered to "watch the rear".
+	-The door then opened, revealing a reptilian humanoid who leaned forward and swiped at the zombie
+	 with a clawed hand.
+	-Soon, the zombie was down, and Isaias and Kiani were chatting with the creature.
+		-"It wants to parley," Kiani reported.
+		-"Does the wyrmtongue work?" I asked the creature.
+		 "Yes. I can speak that too, but saw the elves among you."
+	-The creature led us through a few more rooms and halls, to a meeting room in which stood a red
+	 haired, jade eyed woman.
+		-As we filtered into the room, she addressed us, saying, "Ah, _you're_ Lavinia's flunkies.
+		 I'm Rowyn."
+		-I responded first, saying, "I'm Fred, called The Red." The others followed with similar.
+		-"What brings you to my aboad?"
+		 "Well," I said, "You know our employer. Surely you know her brother?"
+		 "Yes. . . he's a firebrand."
+		-That elicited a snort from me.
+		-"You've done some impressive work," she continued. "Work for me instead. With my connections
+		 and your brass, we can take the whole city for ourselves."
+		 "What of Vanthus?" I asked, "Won't he be jealous?"
+		 "Jealous, yes. But he'll work with us nonetheless."
+		 "Why would you work with someone like him?" Isaias asked.
+		 "Isn't it obvious? He provides us with money, of course."
+		-She then engaged in an increasingly shouty (on Forcas's part) moral debate with our monk.
+			-She argued that obeying an unjust law was no crime, but he was characteristically
+			 inflexible.
+		-She quickly grew visibly tired of that and, eventually, interrupted Forcas saying, "Clearly
+		 you don't know what's good for you. Gut Tugger? Get them!"
+	-At that, the reptile thing promptly bit Jade's arm, while Rowyn broke into a song about a lucky
+	 outlaw that they both seemed to enjoy.
+		-I tried to shut her up, but my arrow struck the wall to her left.
+		-Soon, the small chamber was filled with a wild melee.
+		-Kiani seemed to recognize what this lizard thing is, and tried speaking further to it in
+		 Elvish.
+			-Not sure what she said, but it _did_ seem suddenly unsure of itself, taking a step back
+			 from the fight.
+		-Seeing that, Rowyn's singing faltered, and she instead grabbed a vial from her pocket,
+		 downed it, and dissolved into a cloud of green smoke that began to drift towards the hall
+		 we came through, moving towards a closed door next to Jade.
+		-Forcas blasted her still gaseous self with a burst of luminous energy, also setting the door
+		 behind her on fire.
+		-That didn't stop her from slipping beneath it, though.
+		-Meanwhile, Kiani, and now Isaias too, continued to talk with the lizard in elvish. It seemed
+		 agitated, but was at least no longer trying to bite us.
+		-Eventually, it handed Kiani a key, taking it from a cord around it's neck.
+		-Forcas, Jade, and I raced after the gaseous Rowyn. Jade followed her to a door that turned
+		 out to contain a bathchamber, but she'd apparently escaped through an air vent.
+		-Returning to the meeting chamber, Gut Tugger was now rather cooperative, and had offered to
+		 lead us to the gang's vault, which the aforementioned key opens.
+		-He led us a bedroom, and showed us a keyhole concealed at the base of one of the walls.
+			-While he was doing that, Kiani and I also rifled through the bedroom (Rowyn's?) fancy
+			 perfumes, many of which were quite valueable.
+			-We also found a journal, that seemed to belong to Vanthus Vanderborn. Reading through
+			 it, he admitted to the murder of his parents, and discussed plans to commit a more ship
+			 arson soon, which may be a clue to his whereabouts.
+		-Kiani and Gut Tugger then got the hidden door open, though Gut Tugger held her back when
+		 she tried to step inside, warning of a trap in the floor. He rushed in to open an empty
+		 chest, saying it would disable the mechanism in the floor.
+		-There were two more chests in the vault, which Gut Tugger said he did not have the keys to
+		 them.
+			-After the floor trap, we wanted to be cautious, and Isaias and I both carefully checked
+			 the chests for more traps.
+			-He claimed them clean, but I pointed out the trigger mechanism for a dart trap on each.
+			-A comedy of errors then ensued, in which we both disabled a trap the hard way.
+				-I was more confident of my skills and tried to disable the first one, only to get
+				 a poison dart for my trouble.
+				-Feeling queasy after that, I insisted Isaias take a turn. His luck was no better,
+				 but _his_ dart was curteous enough to skip off his armor.
+			-The traps at least sprung, Isaias and I took our time getting the locks open, but
+			 eventually popped them.
+				-One contained assorted loot, clearly from a variety of sources. Coins from many
+				 nations, some filthy, some pristine.
+				-The other, though, contains gems in bags labeled with the crest of House Vanderborn.
+	-Gut Tugger, at least, we were rather happy with here. It and Kiani had a long conversation in
+	 Elvish, and she reported that she would be arranging for him to take service with her parents.
+	-We opted to rifle through the rest of the guildhall, to make sure we missed nothing more.
+		-With Gut Tugger's help, we made short work of that, but there was little else of interest,
+		 save four more of the spider monsters, in cages.
+		-I thought they might be valuable to the right buyer, but didn't know where to find one and
+		 wasn't about to set them free, so we left them.
+	-Leaving the guildhall, we headed back to Lady Lavinia's estate.
+		-Her housekeeper woke her while we waited.
+		-When she joined us, I warned her she might want to sit down for this one and handed her the
+		 journal.
+		-Jade also brought up the matter of the gems marked with her family crest, eliciting a scowl
+		 from me, and Isaias turned them over to her.
+		-She was understandbly agrieved to learn her brother was responsible for the deaths of her
+		 parents.
+		-Her gnome housekeeper comforted her, while Isaias and Forcas both ranted about "the will of
+		 the gods", the former aiming to comfort, while the latter shouted about their demand for
+		 retribution here, probably canceling out the former.
+		-She eventually thanked us for the return of her family's funds, giving us each a bonus of
+		 a thousand gp. worth of the gems.
+		-She also said that she would inform The Dawn Council about her brother's activities, and
+		 of The Lotus Dragons' disarray.
+		-Then, Lady Lavinia offered up her estate to us, to rest and recover from our wounds. We
+		 spent several days there, recuperating.
+	-Over the course of our rest, the council indeed investigated The Lotus Dragons' hideout, and
+	 cracked down on them heavily.
+	-Jade also took some time to try and track down the kobold that helped us. She thinks she found
+	 work as a cook on a ship, but wasn't able to find her to actually speak with her.
+	-Finally, towards the end of our week of rest, we received an invitation from The Dawn Council,
+	 to a dinner in our honor at Castle T-SOMETHING (where the noble house's vaults are).
+
+
+TODO:
+	-Blank the loot sheet before next session, once everyone has written stuff they claimed down.
 
 
 TODO:

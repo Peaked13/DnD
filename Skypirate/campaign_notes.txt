@@ -810,16 +810,117 @@ TODO:
 	-Jade also took some time to try and track down the kobold that helped us. She thinks she found
 	 work as a cook on a ship, but wasn't able to find her to actually speak with her.
 	-Finally, towards the end of our week of rest, we received an invitation from The Dawn Council,
-	 to a dinner in our honor at Castle T-SOMETHING (where the noble house's vaults are).
+	 to a dinner in our honor at The Scarlet Embassy, and place the council maintains for such
+	 functions.
 
 
 TODO:
-	-Blank the loot sheet before next session, once everyone has written stuff they claimed down.
+	-(DONE!) Blank the loot sheet before next session, once everyone has written stuff they claimed down.
+	-(DONE!) Shopping! You've got a bit over 5k.
+		-4k on Gloves of Dexterity would be a pretty obvious one for you: https://www.dandwiki.com/wiki/SRD:Gloves_of_Dexterity
+			-Yep, and sounds like they're available at list price.
+			-Added them to your sheet.
+
+
+5/4/22
+	-A bit of poking at your glamoured chain shirt proved it can indeed replicate any non-magical
+	 clothing, including a noble or royal outfit (on your torso, at least). Ready for the ball!
+	-I also got drunk with Kiani's lizard pet.
+		-Apparently he hadn't tasted wine in a century.
+		-Also apparently, he can drink like a champ.
+		-We made a wild night of it, starting at the Vanderborn estate, and continuing on at a
+		 tavern a dwarf with a four color beard recommended. Though I think he was just trying to
+		 get with the bartender, the music was still good.
+			-It's called "The Lusty Leper". Or maybe "The Lusty Leopard"? The dwarf's clarification,
+			 "The one with the spots," didn't help much. . .
+		-We drank with alchemists, Kiani got Gut Tugger a job as the bar's official party lizard,
+		 and I name dropped our way out of guards wanting to shut things down due to a noise complaint.
+	-Forcas, Isaias, and Jade eventually joined us at the bar, with Forcas saying something about
+	 another event that needed livening up.
+		-"Oh? Who died?"
+		 "This dwarf's brother."
+		 ". . . awkward choice of words on my part.
+		-Still, I did my best to liven up a funeral, one which helpfully consisted of throwing the
+		 deceased possessions into the sea (along with whatever else the drunk crowd following me
+		 grabbed along the way).
+		-Much drinking and littering ensued.
+		-By the end of Isaias's sermon, I was getting more maudlin drunk, and announced, "Everyone I
+		 grew up with is gone. . . Not dead, but gone all the same. . ." I followed that by throwing
+		 my now empty road beer bottle into the sea.
+		 "Yeah, didn't you lose the rest of your original party?" Isaias asked.
+		 "Oh yeah, those guys died too. Get me another bottle!"
+	-We eventually returned to the Vanderborn estate, a short while before dawn, and I awoke very
+	 hung over, the following afternoon.
+		-After talking the kitchen into making me a late breakfast of some eggs, Lady Vanderborn
+		 also walked us through the expectations and protocols of The Dawn Council ceremony this
+		 evening. It earned us each a free rank in Knowledge (Nobility & Royalty).
+			-"There are _drinks_ at the party, right?"
+			 "Of course," Lady Vanderborn replied, "Though there'll be more of that in afterparties
+			 at the estates of various nobles. None here, likely, though, given the impact of
+			 Vanthus's
+		-The servents at the estate also bathed a reluctant Forcas at our urging. He cleans up OK,
+		 but looked distinctly unhappy about the whole affair.
+	-That evening, we all loaded into Lady Vanderborn's carriage, and headed to the party in our
+	 honor.
+		-It took us a bit to reach the front of a line of carriages winding through The Noble
+		 District, but, once at the event, the guards ushered us inside.
+		-Just inside the door, we were met by a man in garments emblazoned with a sunburst.
+		-He introduced himself as Xavius, the leader of The Dawn Council, and we each introduced
+		 ourselves to him in turn.
+		-We were then introduced to a variety of wealthy and powerful folks, their faces and names
+		 soon a blur.
+			-Among them were:
+			 Quim - Wine, Thoreous - Waste disposal,  Otso - Woodworker's Guild, Nizol - Fishmonger,
+			 Dranthus - Miner's Guild
+		-I eventually made a very successful speech, during which Isaias took the opportunity of the
+		 distraction to cast some kind of spell (he'd requested a distraction from me).
+		-In small chit chat thereafter, I did hear rumors of possible work.
+			-One man mention that the Miner's Guild was always looking for muscle, and another, one
+			 of the nobility, even mentioned he'd love to hire me as the family's envoy.
+			-"Well, I am a hit at parties!"
+		-Forcas seemed to get angrier and angrier throughout the party, and eventually began
+		 scornfully ranting about "the decadence of these so-called nobles."
+			-Several of us bluffed our way through calming that situation:
+			 "Forcas, your impression is dead on! Isn't he a hoot?"
+			-Situation defused.
+		-We also met one Maya Dracus, who seemed quite fascinated by us.
+			-She was a scion of one of the city's noble houses.
+			-House Dracus was an old one, but one which had recently required some ill repute.
+			-Oddly, she also asked us about The Mortician's Guild.
+				-Ugh. Not a crowd I want anything to do with.
+		-A priest of Tyr also really wanted us to come to a service.
+			-Pass.
+			-He and Forcas started arguing theology.
+		-Finally, it was time for the ceremony itself and, after some speechifying by Xavius, we
+		 were given medals marked with the spire of Sasserine, designating us honorary delegates of
+		 The Dawn Council.
+			-It gives +2 circumstance to Diplomacy and Gather Information in Sasserine, but that
+			 overlaps with me Marshal bonus, so only really useful for the others, and only when I'm
+			 not around.
+	-Afterwards, it was afterparty time!
+		-After some amount of badgering from me, we led a trail of minor nobility and assorted
+		 hangers-on back to Lady Lavinia's estate.
+		-Partying ensued.
+		-I danced with Lady Lavinia.
+		-We also heard more from Maya Dracus, who had followed us to the after party.
+			-She wanted to talk more about The Mortician's Guild, claiming there'd been all too few
+			 funerals lately. She believed that the bodies were instead being used in dark rituals
+			 of some form.
+			-She also mentioned that there was a brisk trade in dragon bones lately, which she
+			 thought may be ending up in similar rituals.
+			-Finally, and the carrot to all this, she thinks they might have had dealings with The
+			 Lotus Dragons, and that Vanthus could be hiding with them.
+				-_That_ caught my attention. Still want to stab that prick.
+	-We were amenable to Maya's deal, her assistance in finding Vanthus in exchange for ours in
+	 finding out what's going on with The Guild.
+		-We'll start that investigation next session.
 
 
 TODO:
-	-Get Jade to craft at least a masterwork rapier for you.
-		-She now even has Craft Wonderous.
+	-Items:
+		-Get Jade to craft at least a masterwork rapier for you.
+			-She now even has Craft Wonderous.
+		-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:
@@ -841,6 +942,19 @@ TODO:
 			I've broken it down into periods of around 3 to 4 hundred years
 			Peaked — Today at 1:16 PM
 			Since Edric's creation powers work in volumes, I wonder if I can figure out a way to compare that to real figures. Something like, with Edric dedicating X% of his time and Y power points per day, he will have personally replicated Z years of the modern US's industrial output over that millennia. I'm going to have fun with this. . .
+		-Productive output:
+			-TEU's seem like a promising unit to look for, for volumes of trade: https://www.statista.com/statistics/1105244/monthly-retail-import-volume-us/
+				-Formal definition: https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit
+				-From that, it suggests one TEU = 1,172 cu ft.
+			-With infinite power points, you can manage to Greater Fabricate:
+				100*25/10 = 250 cu ft. / round organic, or (24-8)*60*10*250 = 2,400,000 cu ft. / day
+			-So, 2,400,000/1,172 = 2047 TEU / day, or 747,155 TEU / year
+				-Small relative to global throughput: https://www.statista.com/statistics/913398/container-throughput-worldwide/#:~:text=In%202021%2C%20global%20container%20throughput,compared%20with%20the%20previous%20year.
+				-A mere 1.5% of the throughput of Shanghai's port, though that's the busiest in the world: https://www.statista.com/statistics/264171/turnover-volume-of-the-largest-container-ports-worldwide/
+				-Still, the above wiki page suggests that's 747,155/11000 = 67.92 huge container ships.
+			-Divide by 10 for inorganic.
+			-Divine Earth Mastery, though, produces effectively undefined quantities of precious metals
+			 in a mere round.
 	-Once you get Leadership, what cohort should you get?
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
@@ -881,3 +995,4 @@ TODO:
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
 				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
+					

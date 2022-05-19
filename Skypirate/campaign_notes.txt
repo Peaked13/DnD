@@ -839,7 +839,7 @@ TODO:
 	 another event that needed livening up.
 		-"Oh? Who died?"
 		 "This dwarf's brother."
-		 ". . . awkward choice of words on my part.
+		 ". . . awkward choice of words on my part."
 		-Still, I did my best to liven up a funeral, one which helpfully consisted of throwing the
 		 deceased possessions into the sea (along with whatever else the drunk crowd following me
 		 grabbed along the way).
@@ -857,7 +857,7 @@ TODO:
 			-"There are _drinks_ at the party, right?"
 			 "Of course," Lady Vanderborn replied, "Though there'll be more of that in afterparties
 			 at the estates of various nobles. None here, likely, though, given the impact of
-			 Vanthus's
+			 Vanthus's actions on our family's reputation."
 		-The servents at the estate also bathed a reluctant Forcas at our urging. He cleans up OK,
 		 but looked distinctly unhappy about the whole affair.
 	-That evening, we all loaded into Lady Vanderborn's carriage, and headed to the party in our
@@ -872,12 +872,12 @@ TODO:
 			-Among them were:
 			 Quim - Wine, Thoreous - Waste disposal,  Otso - Woodworker's Guild, Nizol - Fishmonger,
 			 Dranthus - Miner's Guild
-		-I eventually made a very successful speech, during which Isaias took the opportunity of the
-		 distraction to cast some kind of spell (he'd requested a distraction from me).
+		-I eventually made a very successful speech, during which Isaias took the opportunity of to
+		 cast some kind of spell (he'd requested a distraction from me).
 		-In small chit chat thereafter, I did hear rumors of possible work.
 			-One man mention that the Miner's Guild was always looking for muscle, and another, one
 			 of the nobility, even mentioned he'd love to hire me as the family's envoy.
-			-"Well, I am a hit at parties!"
+				-"Well, I am a hit at parties!"
 		-Forcas seemed to get angrier and angrier throughout the party, and eventually began
 		 scornfully ranting about "the decadence of these so-called nobles."
 			-Several of us bluffed our way through calming that situation:
@@ -914,6 +914,129 @@ TODO:
 	-We were amenable to Maya's deal, her assistance in finding Vanthus in exchange for ours in
 	 finding out what's going on with The Guild.
 		-We'll start that investigation next session.
+
+
+5/18/22:
+	-We debated how to go about investigating these corrupt cadaver cosmeticians.
+		-My idea to drink until someone passes out, and then pass them off as a corpse yielded
+		 stares, rather than the expected standing ovation.
+		-Maya wasn't willing to disclose her source for these rumors of corruption, but says she
+		 trusts them.
+			-"Hush-hush then. I see."
+	-We decided to disguise Jade as a corpse.
+		-I wasn't too sure of the plan here, but it seemed like fun, and Jade was willing. Why
+		 the hell not?
+		-Did the make up, and did a pretty decent job of it, if I do say so myself.
+		-To complete the job, we went to see an alchemist.
+			-"Say there, shopkeep, got a potion with which I could fake my own death?"
+			 "Why would you want that?"
+			 ". . . a surprise party."
+			 "That'll be quite the suprise. . ."
+			 "Yeah. I can't wait to see the look on Mom's face."
+		-We got something that should convincingly paralyze Jade for an hour, an inky black potion.
+	-In the course of that, I got a message from Forcas, who'd been watching outside The Mortician's
+	 Guild.
+		-Apparently people just deliver notes to the guild, indicating where the body is to be found.
+		-However, no one seems to leave the guild, not while Forcas was there, and not in days, from
+		 what the people he asked said.
+		-In return for the delivered message, I bought the urchin that brought it lunch in the nearest
+		 tavern.
+		-I spent the next three hours there, eating and drinking, but eventually went to find Forcas.
+	-On the way to see Forcas, we spotted a 3 ft. long rat in an alley we passed, though it skittered
+	 off when we saw it looking at us.
+		-Maya said such things aren't exactly indigenous to the city, but that a gang known as The
+		 Shapers is rumored to have were rats among them.
+	-When we got to The Mortician's Guild, Forcas was nowhere to be seen.
+		-We asked some likely looking homeless men (his crowd) if they'd seen him, and we were told
+		 that he had descended into some kind of catacombs.
+		-Waiting around an hour or so, Forcas and the man who apparently led him down there, one
+		 Josias, came walking back over.
+		-Forcas sent Josias off, and then bade us follow him.
+			-He asked me for some booze as he went. I shrugged and handed him my half drank road beer.
+		-As we walked, Forcas talked.
+			-Josias was a apparently once a member of the guild, but it had turned dark after some
+			 kind of scaled humanoids started hanging around. An ogre corpse was stolen, and many
+			 members were driven off.
+				-Their scales apparently came in varied colors, red, white or black. That, to Maya,
+				 perhaps said Tiamat and her cult, a god the Bahamut-following noblewoman was none
+				 too fond of.
+			-Josias also told him how the guild moves around: through the city's catacombs.
+				-Apparently there's a locked iron grate leading to the guild down there.
+			-While walking, Jade also thought she saw something. . . whiskered, watching us from a
+			 rooftop above.
+				-She called our attention to it, and Forcas flared bright, but there was nothing up
+				 there when we all looked.
+		-Forcas led us into the catacombs through a nearby tunnel entrance, it's door wrenched open
+		 long ago.
+			-Inside, a short distance from the entrance, was the door Forcas had described.
+			-I got out my lock picks, but Maya pulled me back, saying she saw a magical aura on the
+			 door.
+			-After examining it, Jade said it looked like a casting of Arcane Lock.
+			-Best we could come up with was buying a scroll of Knock, which Isais and I went off in
+			 search of while the others opted to loiter in a catacomb.
+			-With this damned rat-thing lurking about, we opted to move quietly.
+			-It was late, but a creepy novelty shop was still opened, and a man with obviously fake
+			 vampire teeth got us sorted.
+			-Returning in a similarly stealthy fashion, we came upon a melee back at the catacomb
+			 entrance.
+				-The others were fighting a pair of were-rats and a were-tiger!
+				-They were faring poorly, wounds dripping blood, though the tiger was wounded as
+				 well.
+				-Isaias and I each took careful aim and shot at the tiger, but the arrows soon
+				 embedded in him barely seemed to slow him, though it got one of his rat buddies
+				 shooting me as I ducked behind a barrel.
+				-Two more swipes from the tiger and suddenly Forcas and Maya were on the ground and
+				 out of my sight.
+				-I tried to kill the were-tiger with my brain and met with some success, but he
+				 proved hard headed, and was soon running my way.
+				-He managed to catch me, leaping down from a rooftop to give me a nasty scratch,
+				 one the soon had me feeling queasy.
+				-Fortunately, Forcas began bellowing insults at the beast and I summersaulted back,
+				 ducking, turned a corner down an alley, and hid again behind a barrel.
+					-Someone must have gotten him back on his feet, and not a moment too soon!
+				-The tiger-man ran down the alley past me, thankfully not noticing me (and I was not
+				 keen to remind him with an attack of opportunity), and engaged Forcas in melee.
+				-I ducked from cover to cover, loosing arrows at the beast, while others joined
+				 Forcas in the fray.
+				-Sadly, though, Forcas soon lay unmoving at the monster's feet, after a particular
+				 grevious swipe nearly severed his arm at the shoulder.
+				-Someone out of my sight threw a dagger at the tiger's face and it staggered away
+				 from the melee, trying to pull the dagger from it's eye while I loosed another
+				 arrow at it and Isaias gave chase.
+				-Isaias chased it down a cross street, and I then heard a great thud.
+				-I cautiously crept forward, and, rounding the corner, was disappointed to see a 
+				 bare-chested _man_ in the torn pants that once wrapped the tiger-beast.
+					-Aww. I was was hoping for a rug. . .
+				-Oh! I then ran over to check on Forcas, as Isaias called after me, saying, "I saw
+				 the light leave his eyes, Fred. . ."
+					-As I pulled my hands from Forcas's pockets, I said to our sad and wounded
+					 group, ". . . I think I'll miss Forcas most of all, out of my various lost
+					 comrades. *sniff* The other's left me so much more to remember them by. . .
+					 Well! At least he'll aid us once more even in death: we now have a good reason
+					 to talk to The Mortician's Guild."
+
+
+TODO:
+	-I, and a couple of others, may be cursed. We should probably look into that.
+		-Or just embrace being a weretiger?
+			-https://www.d20srd.org/srd/monsters/lycanthrope.htm
+			-Shit. It would be a sudden and very different direction for the character, but not that
+			 bad. . .
+				-+3 LA and 6 racial HD, but the latter are much better than usual due to Phrenic.
+					-Reducing LA wouldn't come into play until you're level 18: http://www.d20srd.org/srd/variant/races/reducingLevelAdjustments.htm
+					-What are the racial HD?
+						-Animal? https://www.d20srd.org/srd/typesSubtypes.htm#animalType
+							-Yeah, "Lycanthropes As Characters" seems to suggest as much.
+				-Would probably mean no Dread Pirate, but Shadowdancer could be your next class level.
+			-Would have a weird impact on the game, since you'd suddenly have 9 HD, as well as a +3 LA.
+			-It actually makes a lot of flavor-sense. Fred's bitterness over not getting to be an
+			 Elan, his conviction he's already a better-than-normal freak, etc.
+	-Forcas's body?
+		-Forment a riot against the Shaper gang that killed him?
+			-Real Mark Antony vibes. . .
+			-Make a martyred saint of him. They actually attacked him _while he prayed_.
+		-Use it for Mortician's Guild shenanigans?
+		-Both?
 
 
 TODO:

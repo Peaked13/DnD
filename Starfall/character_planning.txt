@@ -8,7 +8,12 @@
 			-The Arcane Strike feat makes it _really_ useful: https://dndtools.net/feats/complete-warrior--61/arcane-strike--103/
 		-Spells without somatic components?
 			-PHB spells: https://forums.giantitp.com/showsinglepost.php?p=2917014&postcount=4
-			-A list of more: https://forums.giantitp.com/showsinglepost.php?p=23697779&postcount=10
+				-Some solid stuff there.
+				-Dimension Door and Teleport being there suggest you'll be a hyper mobile fighter.
+					-A _terror_ to other casters. . .
+			-A more comprehensive list: https://forums.giantitp.com/showsinglepost.php?p=23697779&postcount=10
+				-This is kind of terrifying in general, though starting at 10 here may limit it's
+				 use: http://dnd.arkalseif.info/spells/races-of-the-dragon--83/power-word-pain--3090/index.html
 		-Casting spells before armoring up?
 		-Reserve feats are a good fit too, and are supernatural abilities (no somatic, no AoO, no
 		 Concentration).

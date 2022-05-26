@@ -89,8 +89,27 @@ Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on cl
 	3 gp. remaining
 
 
+Advancement Planning:
+	-Even more classes?
+		-Guild Thief would be amazing, but is 3.0: http://dnd.arkalseif.info/classes/guild-thief/index.html
+			-Found some kind of pirate guild to qualify?
+		-Spymaster could be good for a dip, or maybe even more:
+			http://dnd.arkalseif.info/classes/spymaster/index.html
+	-Possible feats:
+		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
+		 https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
+			-Or the ranged version of that? How do ranged sneak attacks work?
+				-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
+			-Both would benefit from improving Concentrations, otherwise being one per encounter.
+		-Craven is _really_ a solid sneak attack feat, especially since it's based on level:
+		 http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
+		-Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
+		-Shot on the Run: https://dndtools.net/feats/players-handbook-v35--6/shot-on-the-run--2618/
+			-This then adds a damage bonus to that if you use crossbows: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
+
+
 Character Design Notes:
-	-Phrenic Bard, with a one level dip into Marshall?
+	-Phrenic Bard, with a one level dip into Marshal?
 		-Good option for a social focus, and the +4 Cha mostly negates the level adjustment if
 		 skills is what you really care about.
 		-Level adjustement buy off could make this even more attractive.
@@ -114,22 +133,9 @@ Character Design Notes:
 				-Hard call if it's worth spending the feats at all, and unfortunately need to do so
 				 early-ish.
 				-You _do_ really want to hide from getting hit, though.
-		-Spymaster could be good for a dip, or maybe even more:
-			http://dnd.arkalseif.info/classes/spymaster/index.html
-		-Guild Thief would be amazing, but is 3.0:
-			http://dnd.arkalseif.info/classes/guild-thief/index.html
-		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
-			https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
-		-Or the ranged version of that? How do ranged sneak attacks work?
-			-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
-		-Craven is a solid sneak attack feat:
-			http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
 		-Ranged?
 			-The Hide skill's description is generally interesting, but the language of the sniping
 			 bit is problematic. Not clear that moving from where you are avoids the -20.
-			-Hand crossbow might be cool: https://www.dandwiki.com/wiki/SRD:Hand_Crossbow
-				-Essential feat if so: http://therafimrpg.wikidot.com/hand-crossbow-focus
-				-Interesting supplement: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
 		-Thug varient fighter lets you maintain skills easier, at cost of first bonus feat.
 			-http://dnd.arkalseif.info/classes/thug/index.html
 			-Makes it more useful as a BAB dip, though second level bonus feat is still there.

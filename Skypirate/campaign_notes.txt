@@ -1022,15 +1022,32 @@ TODO:
 			-https://www.d20srd.org/srd/monsters/lycanthrope.htm
 			-Shit. It would be a sudden and very different direction for the character, but not that
 			 bad. . .
-				-+3 LA and 6 racial HD, but the latter are much better than usual due to Phrenic.
-					-Reducing LA wouldn't come into play until you're level 18: http://www.d20srd.org/srd/variant/races/reducingLevelAdjustments.htm
+				-+2 LA and 6 racial HD, but the latter are much better than usual due to Phrenic.
+					-Reducing LA would come into play when you're level 12: http://www.d20srd.org/srd/variant/races/reducingLevelAdjustments.htm
 					-What are the racial HD?
 						-Animal? https://www.d20srd.org/srd/typesSubtypes.htm#animalType
-							-Yeah, "Lycanthropes As Characters" seems to suggest as much.
+							-Yeah, "Lycanthropes As Characters" confirms as much.
+						-Skills:
+							-Skill points: 6*(2+3+1) = 36
+							-Class skills: Balance, Hide, Listen, Move Silently, Spot, Swim
+								-+6 Hide, +6 Move Silently, +2 (4 pts.) Perform (dance), Social?
+							-That is pretty crippling, unless you want to just go into being a melee
+							 rogue.
 				-Would probably mean no Dread Pirate, but Shadowdancer could be your next class level.
-			-Would have a weird impact on the game, since you'd suddenly have 9 HD, as well as a +3 LA.
+					-Next levels:
+						10	Shadowdancer 1
+						11	Shadowdancer 2
+						12	Rogue 3
+					-Still, you'd have an underpowered sneak attack and only 3 attacks in a charge,
+					 since Rake kicks in the _next_ turn (4 claws on that following turn).
+				-Would mean no leadership until late, due to 6 _class_ levels required, and a poor
+				 cohort when you get it.
+				-Ah, no pounce, grab, or rake in hybrid form.
+					-Maybe not a good idea, unless you can be a talking tiger.
+			-Would have a weird impact on the game, since you'd suddenly have 9 HD, as well as a +2 LA.
 			-It actually makes a lot of flavor-sense. Fred's bitterness over not getting to be an
 			 Elan, his conviction he's already a better-than-normal freak, etc.
+			-Hmm. . . can always become a tiger _later_. . .
 	-Forcas's body?
 		-Forment a riot against the Shaper gang that killed him?
 			-Real Mark Antony vibes. . .
@@ -1041,9 +1058,11 @@ TODO:
 
 TODO:
 	-Items:
+		-Upgrade to a longbow. Marshal gave you the proficiency.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
 		-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
+		-Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:
@@ -1118,4 +1137,7 @@ TODO:
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
 				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
-					
+	-What about followers?
+		-Dread Pirate will double them at it's 10th level.
+		-You'll have eight level ones if you take it right at 6th level, even without Charisma buffs.
+	-Tiger time? See TODOs before 6/1/22.

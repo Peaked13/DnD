@@ -945,7 +945,7 @@ TODO:
 	-On the way to see Forcas, we spotted a 3 ft. long rat in an alley we passed, though it skittered
 	 off when we saw it looking at us.
 		-Maya said such things aren't exactly indigenous to the city, but that a gang known as The
-		 Shapers is rumored to have were rats among them.
+		 Shapers is rumored to have were-rats among them.
 	-When we got to The Mortician's Guild, Forcas was nowhere to be seen.
 		-We asked some likely looking homeless men (his crowd) if they'd seen him, and we were told
 		 that he had descended into some kind of catacombs.
@@ -1013,7 +1013,7 @@ TODO:
 					 group, ". . . I think I'll miss Forcas most of all, out of my various lost
 					 comrades. *sniff* The other's left me so much more to remember them by. . .
 					 Well! At least he'll aid us once more even in death: we now have a good reason
-					 to talk to The Mortician's Guild."
+					 to talk to The Mortician's Guild!"
 
 
 TODO:
@@ -1054,6 +1054,124 @@ TODO:
 			-Make a martyred saint of him. They actually attacked him _while he prayed_.
 		-Use it for Mortician's Guild shenanigans?
 		-Both?
+
+
+6/1/22:
+	-Isaias is apparently well versed in medicine, and explain to us what those of us feeling
+	 feverish likely caught: lycanthropy.
+		-He explained that the easiest way to deal with it will likely to very quickly obtain some
+		 wolfsbane.
+		-Maya knew an apothecary that could likely help, The Wildwood Apothecary, over by the arena.
+	-There was also the matter of Forcas's body. . .
+		-I've got plans for it. . . funeral plans, so we need to hang onto that.
+		-Maya mentioned a temple to Wee Jas that the moritician's guild had supplanted, and I also
+		 threw out the idea of paying some of the street people to hide it for us.
+	-Maya went to go arrange passage on boat, recognizing the house symbol marking one nearby.
+		-She made some kind of arrangement with them, trading our eventual help with some problem
+		 impacting the harbor.
+	-With that set, we then took Forcas to his nearby soup kitchen.
+		-They were a bit skeptical of hosting the body in an eatery, but we convinced them.
+		-They were suitably agrieved by his loss.
+	-That matter settled, we boarded the boat, and made our way towards the arena district.
+	-There was some trouble with an overly officious guard at the gate of the district, but Maya
+	 sorted that with in typical noble fashion, something that boiled down to, "Do you know who I
+	 am?"
+	-We found the apothecary and, with both some coin and help looking, we eventually found some
+	 wolf's bane in the proprietor's overcrowded storeroom.
+		-She also questioned us about why we needed such a thing and we recounted our run in with
+		 the Shaper gang.
+		-She was familiar with them, and even lamented their take over of some scrublands near the
+		 old observatory. She used to gather herbs there, but they now let no one near.
+	-We then debated what to do about the late Forcas.
+		-Maya thought that, in light of Forcas (and several of the rest of us) having been recently
+		 named a "Hero of the City", she could persuade the city's government to facilitate a grand
+		 funeral.
+	-We were pretty beat up, though, from the tiger fight, and opted to find rest first.
+		-We returned to the Vanderborn estate, to rest there.
+		-Lady Vanderborn was suitable aggrieved to learn of Forcas's death, and seemed to be
+		 developing some doubts about this whole adventurers enterprise, but she also furnish us
+		 with some healing potions, to see to our wounds.
+	-We returned the following day to the soup kitchen, to see to Forcas's body.
+		-It was crowded, and several of my companions stepped in to help distribute food.
+		-Standing over the body, though, was a strange looking figure. Emaciated, and dressed in
+		 rustic clothing, we asked him if he knew Forcas.
+		-"As an easy meal, no more. He was a good person, though, and could have helped the city
+		 much."
+		-He introduced himself as "Nkondi the Hunter", and he seemed to know much about The
+		 Mortician's Guild, saying they had "abandoned the teachings of the founder" and that "they
+		 collect the dead for no holy purpose, but for their own purposes".
+		-He also had a disturbing habit of talking to his "ancestors".
+		-Isaias asked him if he was a follower of Nkisi, a name Nkondi seemed to know. He responded
+		 that he was indeed "named for one of the ancestors".
+		-There was then a commotion at the door. Robed figures had entered, announcing, "We have
+		 come for the body."
+		-Maya told them off, but they said they'd return soon.
+			-Nkondi claimed they would come with reinforcements.
+		-We decided to get Forcas out of there.
+	-At Isaias's prompting, we took him to a temple of Shawn, near the arena.
+		-We hired a chatty coachman, Havy, who thankfully bought the story that Forcas was drunk.
+		-As we pulled up outside the cathedral, I stared a bit at the carvings on the outside while
+		 Maya paid the coachman.
+			-"Isaias, who did you say this was a temple to again?"
+			 "To Shawn, of The Brotherhood."
+			 "Ahhh. Um, I might sit this next bit out, go see what's going on at the arena. Meet me
+			  over there?"
+			 "Uh, sure?"
+			 "Great! I'll save you all some seats!"
+	-I wandered over to the arena, grabbed a beer, and found a seat in the stands.
+		-The weather was good, the beer cheap, and the fights, if a bit uninventive, were decent 
+		 entertainment.
+		-As a watched, I caught a strange looking stranger eying me.
+			-He had a green-ish cast to his skin, and fingers far longer than most humanoids.
+		-Being a friendly sort, I raised my mug to him, in toast.
+		-In response, he said, "Your mind. . . it is not normal, is it?"
+		 "Eh, what's normal? I do like to think of myself as rather sharp, though."
+		 "I mean that you have the mark of oppression on you. I have felt similar, for my people
+		  were once enslaved by the mindflayers."
+		 "Ah, I know what you mean. The one who. . . made me even has friends in this city. It's
+		  why I'm here, avoiding them."
+		 "I'm here because I would see these barbaric fights stopped. They remind me all too much
+		  of the. . . entertainments that my people were once forced to participate in."
+		 "I see, I see. Well, best of luck to you in that endeavor!"
+		 "And to you in yours. I am called Gith. What is your name?"
+		 "Fredrick, called Fred the Red."
+		 "Well met, Fred. I will leave you to the. . . games."
+	-I was eventually collected by the rest of the party, and we discussed what to do next.
+		-They're amenable to my goal of riling up the people against the Shaper Gang, so we went
+		 with Maya to talk with the city's government about a state funeral.
+		-Lady Vanderborn's letters had already kicked off the process of gathering a quorum of The
+		 Dawn Council, and they'd nearly all gathered already by the time that we arrived.
+		-They were amenable to providing Forcas a hero's funeral, one lasting from dawn to dusk as
+		 is the custom.
+		-I asked if there would be an opportunity for me to speak, a eulogy, and they said I could
+		 do so in the evening, in front of the court house.
+	-We then retired to the Vanderborn estate, all save Nkondi, who stood watch over Forcas's body
+	 at the temple.
+		-Before we made it to bed, though, a cleric of Shawn arrived at the estate, out of breath,
+		 reporting another attempt by The Mortician's Guild to claim the body, though they were
+		 still dissuaded with words alone.
+		-We returned with him to the temple, and opted to sleep there that night, in case they
+		 return.
+		-The next morning, I went out for both some breakfast and some rumors, curious about what
+		 The Mortician's Guild might attempt.
+			-Jade joined me in that, and we came back with reports of one of their robed figures
+			 lugging around a large sack, from which emerged a wing (?).
+			-Maya _had_ said something about suspecting the guid of trying to raise undead dragons. . .
+		-When we came back with that, Maya suggested a potential shield, human and reputational.
+		-We arranged a short notice wake/party before the temple, gather all we could with free
+		 food and booze plus Maya's connections among the nobles.
+			-Quite a crowd gathered and we regaled them with mostly true stories of Forcas's life.
+			-It was quite the party, but it did not dissuade those killjoys in The Mortician's Guild.
+			-The first sign of that was Jade shouting, "Look!" and pointing at the sky.
+			-Cicling above, there was indeed a winged shape that, as is swooped down, resolved into
+			 a large, undead dragon. What scales it retained were white.
+			-We did fierce battle with the creature. It could have gone either way but, after a few
+			 moments, a cleric ran out of the nearby temple shouting that help was one the way.
+			-The beast then lept into the air, and fled.
+
+
+TODO:
+	-Level up!
 
 
 TODO:

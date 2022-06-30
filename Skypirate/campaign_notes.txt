@@ -886,7 +886,7 @@ TODO:
 		-We also met one Maya Dracus, who seemed quite fascinated by us.
 			-She was a scion of one of the city's noble houses.
 			-House Dracus was an old one, but one which had recently required some ill repute.
-			-Oddly, she also asked us about The Mortician's Guild.
+			-Oddly, she also asked us about The Morticians' Guild.
 				-Ugh. Not a crowd I want anything to do with.
 		-A priest of Tyr also really wanted us to come to a service.
 			-Pass.
@@ -903,7 +903,7 @@ TODO:
 		-Partying ensued.
 		-I danced with Lady Lavinia.
 		-We also heard more from Maya Dracus, who had followed us to the after party.
-			-She wanted to talk more about The Mortician's Guild, claiming there'd been all too few
+			-She wanted to talk more about The Morticians' Guild, claiming there'd been all too few
 			 funerals lately. She believed that the bodies were instead being used in dark rituals
 			 of some form.
 			-She also mentioned that there was a brisk trade in dragon bones lately, which she
@@ -934,7 +934,7 @@ TODO:
 			 "That'll be quite the suprise. . ."
 			 "Yeah. I can't wait to see the look on Mom's face."
 		-We got something that should convincingly paralyze Jade for an hour, an inky black potion.
-	-In the course of that, I got a message from Forcas, who'd been watching outside The Mortician's
+	-In the course of that, I got a message from Forcas, who'd been watching outside The Morticians'
 	 Guild.
 		-Apparently people just deliver notes to the guild, indicating where the body is to be found.
 		-However, no one seems to leave the guild, not while Forcas was there, and not in days, from
@@ -946,7 +946,7 @@ TODO:
 	 off when we saw it looking at us.
 		-Maya said such things aren't exactly indigenous to the city, but that a gang known as The
 		 Shapers is rumored to have were-rats among them.
-	-When we got to The Mortician's Guild, Forcas was nowhere to be seen.
+	-When we got to The Morticians' Guild, Forcas was nowhere to be seen.
 		-We asked some likely looking homeless men (his crowd) if they'd seen him, and we were told
 		 that he had descended into some kind of catacombs.
 		-Waiting around an hour or so, Forcas and the man who apparently led him down there, one
@@ -972,7 +972,7 @@ TODO:
 			-I got out my lock picks, but Maya pulled me back, saying she saw a magical aura on the
 			 door.
 			-After examining it, Jade said it looked like a casting of Arcane Lock.
-			-Best we could come up with was buying a scroll of Knock, which Isais and I went off in
+			-Best we could come up with was buying a scroll of Knock, which Isaias and I went off in
 			 search of while the others opted to loiter in a catacomb.
 			-With this damned rat-thing lurking about, we opted to move quietly.
 			-It was late, but a creepy novelty shop was still opened, and a man with obviously fake
@@ -1013,7 +1013,7 @@ TODO:
 					 group, ". . . I think I'll miss Forcas most of all, out of my various lost
 					 comrades. *sniff* The other's left me so much more to remember them by. . .
 					 Well! At least he'll aid us once more even in death: we now have a good reason
-					 to talk to The Mortician's Guild!"
+					 to talk to The Morticians' Guild!"
 
 
 TODO:
@@ -1052,7 +1052,7 @@ TODO:
 		-Forment a riot against the Shaper gang that killed him?
 			-Real Mark Antony vibes. . .
 			-Make a martyred saint of him. They actually attacked him _while he prayed_.
-		-Use it for Mortician's Guild shenanigans?
+		-Use it for Morticians' Guild shenanigans?
 		-Both?
 
 
@@ -1063,7 +1063,7 @@ TODO:
 		 wolfsbane.
 		-Maya knew an apothecary that could likely help, The Wildwood Apothecary, over by the arena.
 	-There was also the matter of Forcas's body. . .
-		-I've got plans for it. . . funeral plans, so we need to hang onto that.
+		-I've got plans for it. . . funeral plans. So we need to hang onto that.
 		-Maya mentioned a temple to Wee Jas that the moritician's guild had supplanted, and I also
 		 threw out the idea of paying some of the street people to hide it for us.
 	-Maya went to go arrange passage on boat, recognizing the house symbol marking one nearby.
@@ -1098,7 +1098,7 @@ TODO:
 		-"As an easy meal, no more. He was a good person, though, and could have helped the city
 		 much."
 		-He introduced himself as "Nkondi the Hunter", and he seemed to know much about The
-		 Mortician's Guild, saying they had "abandoned the teachings of the founder" and that "they
+		 Morticians' Guild, saying they had "abandoned the teachings of the founder" and that "they
 		 collect the dead for no holy purpose, but for their own purposes".
 		-He also had a disturbing habit of talking to his "ancestors".
 		-Isaias asked him if he was a follower of Nkisi, a name Nkondi seemed to know. He responded
@@ -1148,12 +1148,12 @@ TODO:
 	-We then retired to the Vanderborn estate, all save Nkondi, who stood watch over Forcas's body
 	 at the temple.
 		-Before we made it to bed, though, a cleric of Shawn arrived at the estate, out of breath,
-		 reporting another attempt by The Mortician's Guild to claim the body, though they were
+		 reporting another attempt by The Morticians' Guild to claim the body, though they were
 		 still dissuaded with words alone.
 		-We returned with him to the temple, and opted to sleep there that night, in case they
 		 return.
 		-The next morning, I went out for both some breakfast and some rumors, curious about what
-		 The Mortician's Guild might attempt.
+		 The Morticians' Guild might attempt.
 			-Jade joined me in that, and we came back with reports of one of their robed figures
 			 lugging around a large sack, from which emerged a wing (?).
 			-Maya _had_ said something about suspecting the guid of trying to raise undead dragons. . .
@@ -1161,9 +1161,9 @@ TODO:
 		-We arranged a short notice wake/party before the temple, gather all we could with free
 		 food and booze plus Maya's connections among the nobles.
 			-Quite a crowd gathered and we regaled them with mostly true stories of Forcas's life.
-			-It was quite the party, but it did not dissuade those killjoys in The Mortician's Guild.
+			-It was quite the party, but it did not dissuade those killjoys in The Morticians' Guild.
 			-The first sign of that was Jade shouting, "Look!" and pointing at the sky.
-			-Cicling above, there was indeed a winged shape that, as is swooped down, resolved into
+			-Circling above, there was indeed a winged shape that, as is swooped down, resolved into
 			 a large, undead dragon. What scales it retained were white.
 			-We did fierce battle with the creature. It could have gone either way but, after a few
 			 moments, a cleric ran out of the nearby temple shouting that help was one the way.
@@ -1171,16 +1171,153 @@ TODO:
 
 
 TODO:
-	-Level up!
+	-(Done!) Level up!
+
+
+6/29/22:
+	-The beast driven off, the clerics of the temple rushed over to us, tending to our wounds.
+	-They asked us if we knew who had attacked the wake, and I leveled the charge at The Morticians'
+	 Guild, based on the rumored sack of winged thing Jade and I had heard they were hauling around
+	 the streets earlier.
+	-We still had three hours still until the official funeral was scheduled, so I figured I'd do
+	 what I could to encourage people to return to the wake, and eventually join us for the procession.
+		-I reassured those still hiding in the area that the dragon was gone, and encouraged them to
+		 return, "To show those corpse-humping necromancers that you're not afraid!"
+		-I then turned to the nearby taverns, to rally still more.
+	-Eventually, it came time for the processional. A wagon drawn by fine white horses and bedecked
+	 in flowers in the shape of an angel came to collect Forcas's body.
+	-We and the crowd at the wake followed it, in a raucous mob, gathering still more people as we
+	 walked.
+	-Eventually, we arrived at the formal headquarters of The Dawn Council and the funeral began,
+	 with Forcas lying in state.
+		-It opened with a lengthy set of speeches by The Dawn Council's various politicians and
+		 noteables, each transparently seeking to use Forcas to promote their own various agendas.
+		-Nkondi and I spend much of that time riling up whatever portion of the crowd was in earshot
+		 of us, calling for action and disparaging the timid investigations and panels a few of the
+		 speaking council members made.
+		-Finally, it came time for my speech.
+			-I first spoke of Forcas's love for the city and it's people, saying how much it would
+			 have meant to have this crowd here, and exhorting them to drag to the funeral any who
+			 aren't already.
+			-I then spoke of how Forcas died. How, while serving the people of this city, while
+			 kneeling in _prayer_ on Sasserine's streets, he was cut down by a monstrous beast
+			 dwelling among them. "Will you let this stand?" I asked.
+			-At this point, a member of the council started trying to stop me, calling for the
+			 guards to get me out of there, and saying it was time for his speech.
+				-Isaias intervened, though, standing between us and talking to him, buying me time.
+			-While that was going on, I stared at something in my hands for a moment, eventually
+			 lifting it to show the crowd the bloody rag Forcas had been wearing when he was cut
+			 down.
+				-"This rag is what Forcas wore when the beast slew him! How," I shouted, throwing
+				 the bloody rag into the crown, "Are you going to answer the spilled blood of a
+				 saint?!?"
+				-The crowd drew back as it fell, then rushed forward, staring reverently at it on
+				 the ground.
+				-Nkondi eventually collected it, affixing it to a pole as a makeshift standard.
+			-I then began rallying them against The Shapers and The Morticians' Guild, speaking of
+			 "the vile, twisted beasts, this Shaper gang, living among you" and "the foul corruption
+			 of their corpse-stealing allies in The Morticians' Guild". As more and more improvised
+			 clubs and torches began to appear, I told them, "We need to drive out this corruption,
+			 with Forcas's holy, cleansing light!"
+	-We then set the cart bearing Forcas's body alight ("They won't get _this_ body!") and,
+	 with it in tow and Nkondi holding our bloody standard aloft, we lead the crowd towards
+	 the nearest Morticians' guildhouse.
+		-The door was elaborately locked, but that's no barrier to a mob. "Find a ram!" I called out.
+		-Nkondi guided a group to a nearby statue that was toppled to serve the purpose.
+		-As the were bringing it up, though, the zombie dragon returned, alighting on the roof of
+		 The Morticians' Guild and roaring, scattering much of the crowd.
+		-The beast wasted no time spraying my fellows with it's freezing breath, but I was
+		 fortunately quicker, and already hiding behind a statue after taking a running pot shot at
+		 it with my wand.
+		-I continued sniping the beast while my comrades engaged in melee.
+		-It knocked Isaias to the ground where he lay unmoving, but a blow from Jade felled the
+		 creature.
+	-While Jade saw to Isaias's wounds, getting him back on his feet, I ran off in search of the
+	 scattered crowd.
+		-"The dragon is gone!" I told them. "Can there be any doubt now that it was The Morticians
+		 who attacked Forcas's wake?!? The very same beast guards their guildhouse! Show them
+		 Forcas's light! Bring those torches!"
+	-By the time I returned with a mob at my back, Isaias was back up, blade in hand, and the door to
+	 the guildhouse was open. Jade was talking with someone in the darkness within.
+	-She turned and began to say something to the rest of the party, but I was busy shouting
+	 incitements at the mob.
+	-The crowd was soon surging forward, setting the outside of the building alight as they threw
+	 rocks and jars of lamp oil through the building's windows.
+	-The guildhouse was soon a towering inferno, and the mob was looking for more targets.
+	-Nkondi raised the matter of the catacombs, the ones we'd been investigating when Forcas died,
+	 and we led the mob, bearing the statue-ram, to that door.
+		-The door was fortified with spells, and the ram did no real damage to it, but we still had
+		 the Knock scroll we'd purchased for just this.
+		-I encouraged the crowd to step back and called Jade forward. "How are you with scrolls? I
+		 can't read this shit but can probably make this work. Seems more like your kind of thing,
+		 though."
+		-She was confident of her skills, took the scroll, and soon had the door open.
+		-We and the mob then streamed inside, with me shouting, "Come! Bring the light of Forcas to
+		 these tunnels, and drive these necromancers from their holes!"
+		-We found ourselves in a series of catacombs, as expected, with many of the tombs apparently
+		 having been ransacked.
+		-Surging forward with the crowd, we were met in an interior chamber by a booming voice, an
+		 ogre shouting, "Come at me!"
+		-Rather than oblige him, I stared him down, _really_ hard, manifesting Mind Thrust, and he
+		 reeled, clutching his head. I immediately ducked behind some handy cover, hiding in the
+		 shadows there.
+		-Isaias rushed forward to engage the ogre, as some robed figures rushed up to it's aid, from
+		 behind the creature, casting spells upon it.
+		-Jade joined in the attack as well, with her bow, while Nkondi cast spells.
+		-I leaned out of my cover, taking careful aim with my bow, and shot one of the robed
+		 necromancers _right in her fucking face_.
+		-Unfortunately the ogre evened the score by smashing Isaias into the ground with it's club,
+		 leaving him an unmoving tangle of broken limbs.
+		-Compounding matters, one of the necromancers began chanting and waving, and I soon felt a
+		 great weariness coming over me. I powered through it by force of (psionically enhanced)
+		 will, but Jade fell to the ground beside me, snoring.
+		-The mob, at Nkondi's urging, began to pelt the ogre with improvised incendiaries. Soon, it
+		 and it's immediate surroundings were aflame, and the flames rapidly spreading to the
+		 surrounding dry debris.
+		-The ogre ran, screaming, deeper into the catacombs, and the necromancers followed him in a
+		 somewhat more organized retreat.
+		-"Nkondi!" I shouted, "Check on Isaias!" Meanwhile, I shook Jade awake.
+		-Nkondi looked grim, and began to mutter, saying, "Well, at least they won't have this
+		 body. . ."
+		-He began to pour lamp oil over Isaias, but I shouted at him, saying, "Stop! Just drag him
+		 out of here! There may be something we can still do. . . or something to remember him by."
+		-He indeed began to drag, and I soon joined him in a macabre race, dragging the necromancer
+		 I downed out of the tunnels too (for clues and profit both!).
+		-Once outside the smoke-spewing door of the catacombs, we checked on Isaias, and found he
+		 was indeed beyond help.
+		-So, we rifled through pockets.
+			-The necromancer had unsurprising equipment, the most interesting of which were some
+			 scrolls, and also 75 gold. The gold was actually the strangest thing, as the coins were
+			 all stamped with the emblem of The Morticians' Guild. . .
+			-Digging through Isaias's gear, The Orb of the Brotherhood fell out of a pocket on his
+			 backpack, along with a strange iron fork that looks like it would fit in one of
+			 the orb's slots.
+				-The fork was new to us, and I asked Jade if she knew what it was for.
+				-She said she thought it might be a key to one of The Brotherhood's planes, which
+				 quickly had me backing away, but she boldly slotted it into the orb.
+				-Handling it a moment more, she said she thought that had unlocked some divine
+				 power for use by the bearer, but I told her, "You're welcome to keep it, so long
+				 as you keep it the hell away from me. . ."
+			-Isais also strangely had two holy symbols, both of which I recognized. One was the
+			 symbol of the god he professed to follow, Shawn of the Brotherhood, but the other bore
+			 the symbol of Enilias, another, sneakier member of The Brotherhood.
+
+
+TODO:
+	-Copy Isaias's gear to the loot sheet: https://discord.com/channels/@me/560920165383143425/991901654679048282 
 
 
 TODO:
 	-Items:
 		-Upgrade to a longbow. Marshal gave you the proficiency.
+		-Maybe get some arrows of other materials?
+			-Definitely silver, given the Shapers.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
 		-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
 		-Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
+		-Something to deal with undead?
+			-Maybe a specific wand?
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:

@@ -1184,6 +1184,8 @@ TODO:
 		-I reassured those still hiding in the area that the dragon was gone, and encouraged them to
 		 return, "To show those corpse-humping necromancers that you're not afraid!"
 		-I then turned to the nearby taverns, to rally still more.
+		-When I had returned to the temple-front wake, I found that Maya was gone. The others said
+		 she'd been called away by a messenger from her family.
 	-Eventually, it came time for the processional. A wagon drawn by fine white horses and bedecked
 	 in flowers in the shape of an angel came to collect Forcas's body.
 	-We and the crowd at the wake followed it, in a raucous mob, gathering still more people as we
@@ -1304,7 +1306,8 @@ TODO:
 
 
 TODO:
-	-Copy Isaias's gear to the loot sheet: https://discord.com/channels/@me/560920165383143425/991901654679048282 
+	-(DONE) Copy Isaias's gear to the loot sheet: https://discord.com/channels/@me/560920165383143425/991901654679048282 
+	-Sell loot!
 
 
 TODO:
@@ -1318,6 +1321,7 @@ TODO:
 		-Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
 		-Something to deal with undead?
 			-Maybe a specific wand?
+		-Healing Belt?
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:
@@ -1352,6 +1356,44 @@ TODO:
 			-Divide by 10 for inorganic.
 			-Divine Earth Mastery, though, produces effectively undefined quantities of precious metals
 			 in a mere round.
+		-Layers (Outer to inner):
+			-The Borderlands:
+				-Studded with portals, leading to a variety of destinations.
+				-Flat and desert-like.
+				-Tribes of Thri-kreen loyal to Edric are the main inhabitants.
+				-It's also spanned by a network of canals, used for freight.
+			-About 92 layers of air beneath it, each 280' with 280' of earth and stone between each.
+				-How many is partly a function of time passed since planar creation.
+					-Growth over time defined here: https://www.d20srd.org/srd/psionic/powers/genesis.htm
+					-So, 180' radius in 180 days, than 1' more per week since.
+					-Jake previously mentioned it had been something like 1000 years.
+					-So, 180+(365-180)/7+999*365/7 = 52,297'
+						-Or, the plane is 9.9 miles in radius. Way more than I thought.
+				-How far between each layer?
+					-Google says a story is about 14'.
+					-Lets say 10 stories of building room on either side, for 20 stories between
+					 layers, or 280 ft.
+					-Hmm. . . Even with the each layer being that thick itself, that's a _ton_ of
+					 layers. 52,297/(280*2) = 93, to be exact.
+						-What kind of surface area is that?
+							-The Borderlands are 1231 square miles. Bigger than Rhode Island's 1,034,
+							 but well under Delaware's (next smallest) 1,955.
+							-Total: 4pi*r^2 + 4pi*(r-280)^2 + 4pi*(r-280*2)^2 + . . 
+								Sum from 0 to Z of 4pi*(r-280x)^2
+								where Z = 52,297/2 (plus or minus one or two)
+								In Wolfram: https://www.wolframalpha.com/input?i=sum+4pi*%2852297-280k%29%5E2+from+k+%3D+1+to+52%2C297%2F2
+							-So, 2.06128301 × 10^11 square miles
+								-Surface area of the Earth is 196,900,000 sq. miles.
+								-So, that's 1000x the surface of the Earth. . .
+			-Edric's Sanctum:
+				-TODO: I think you described this in the write up for Ed's ascension.
+		-Inputs (what he trades for or otherwise consumes):
+			-
+		-Outputs (what he produces, for himself and others):
+			-
+		-Where "he", in the above stuff, refers to not just Edric, but his plane, his worshippers
+		 (and more tightly-bound "believers", from thrallherd), and the whole society of people on
+		 the plane and linked to it. Edric thinks of all of this as "himself".
 	-Once you get Leadership, what cohort should you get?
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.

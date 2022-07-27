@@ -1356,6 +1356,24 @@ TODO:
 			-Divide by 10 for inorganic.
 			-Divine Earth Mastery, though, produces effectively undefined quantities of precious metals
 			 in a mere round.
+		-Edric's plane:
+			-Description from the end of the Xûl-Jarak game:
+				-Edric first sought out his kin, the other elans, and the means to make them. Soon he
+				 was populating his plane with his immortal kindred, uplifting promising mortals minds.
+				-Beneath it's barren outer layer of gates, Edric's nested paradise of the mind urbanized
+				 heavily, it's population mostly elans and others naturally psionic. Others found the
+				 plane both strange and harsh, with weird customs and expensive imported food.
+				-Soon, from his plane, strange crystals grew (a creation of Edric's next epic spell),
+				 spreading outward from it's gates, and covering seemingly most surfaces within. It was
+				 rumored that Edric could reach anywhere the crystals did (or even that he _was_ the
+				 crystals), and also that his power grew as it did.
+				-Rovert, his cohort, did not ascend to divinity, as many of the others did. A man well
+				 into his middle years by the time he joined his will to Edric's, his body began failing
+				 soon into Edric's divine reign. Not entirely human, Edric feared the potential
+				 consequnces of attemping to make Rovert an elan, but feared losing his right hand even
+				 more, and Rovert was all too willing. The massive slimemold-like creature that grew
+				 from his body, with it's alien intelligence, is now the story commonly cited to
+				 illustrate the danger of such things.
 		-Layers (Outer to inner):
 			-The Borderlands:
 				-Studded with portals, leading to a variety of destinations.
@@ -1385,12 +1403,19 @@ TODO:
 							-So, 2.06128301 × 10^11 square miles
 								-Surface area of the Earth is 196,900,000 sq. miles.
 								-So, that's 1000x the surface of the Earth. . .
+								-A thousand Earths, with no point much more than 20 miles away from
+								 any other.
 			-Edric's Sanctum:
-				-TODO: I think you described this in the write up for Ed's ascension.
+				-This, the site of Edric's ascension, remains a small spherical cavity pierced
+				 through innumerable times by enormous crystals. Edric spends most of his here,
+				 meditating in the center with the crystals intersecting his form.
 		-Inputs (what he trades for or otherwise consumes):
-			-
+			-Magic, souls, and organics.
 		-Outputs (what he produces, for himself and others):
-			-
+			-Finished goods of extremely high quality.
+				-Structures included.
+			-All sorts of earths and metals, adamantine in particular.
+			-Minds. Often strange, often immortal.
 		-Where "he", in the above stuff, refers to not just Edric, but his plane, his worshippers
 		 (and more tightly-bound "believers", from thrallherd), and the whole society of people on
 		 the plane and linked to it. Edric thinks of all of this as "himself".

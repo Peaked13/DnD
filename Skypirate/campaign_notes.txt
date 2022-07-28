@@ -1308,6 +1308,285 @@ TODO:
 TODO:
 	-(DONE) Copy Isaias's gear to the loot sheet: https://discord.com/channels/@me/560920165383143425/991901654679048282 
 	-Sell loot!
+	-Buy stuff too:
+		-Haversack!
+		-Buy silver arrows, or have Jade craft them.
+		-Composite long bow.
+
+
+7/27/22: A man, a warforged, and a dragonborn walk into a bar. . .
+	-That night, the city burned.
+		-The guards mostly kept matters under control, and the fires gradually began to gutter out.
+		-The rioting too slowly calmed, the obvious targets already having been burned and looted. 
+		-I eventually got separated from the others, strolling through the streets with a bottle in
+		 one hand and an unsheathed rapier in the other.
+		-As I walked through Sasserine's streets, I came upon a(nother) shouting crowd.
+		-I elbowed my way to the front of the scrum, I saw a group of city guards, beating a well-
+		 rusted warforged with cudgels, as he struggled on the ground.
+			-Arguing with the guards was a humanoid with golden scales, and the features of a lizard.
+			-"What offense did this man commit?" he was asking the guards.
+			 "Yeah! What'd he dooo?" I shouted over from the crowd, slurring slightly.
+			-"He's not a man," the guard responded to the lizard, practically spitting.
+			 "Neither am I. . ." the draconic figure said threateningly.
+			 "Well, I suppose that's so. . . But this thing protected a bunch of anarchists. . ."
+			 "I think he's had enough," the scaled humanoid said, practically growling now.
+			-The guards were starting to look nervous, and the one speaking to the reptilian figure
+			 turned to his compatriots and shouted, "OK! Pack it in! We're leaving."
+			-They left behind the warforged, battered despite heavy armor that was nearly as worn as
+			 it's wearer.
+			-Curious, I approached the scaled figure and asked him, "Are you related to the party
+			 lizard?"
+			-He chuckled and said, "I've heard stories, but alas no."
+			-After my interruption, he continued to fiddle with his belt, and then reaching out at
+			 the warforged, a flash of light suggested it bore some magic property, and, indeed, the
+			 warforged was soon clambering back up onto his feet, some what less worse for the wear.
+			-"You must be friends," it said, "To have healed me. I am E3-SOMETHING, but my friends
+			 call me 'Rusty'."
+				-"I'm Fred!" I said. "Fred the Red!"
+				-"What was this all about?" the warforged's draconic savior asked.
+				 "They were teenagers. The guards would have harmed them. Better me."
+				-The warforged looked around itself and then said, "We should seek shelter."
+				 "I think there's a bar a block over there?" I responded. "If not, the one after!"
+		-As we made our way that direction, the lizard spoke up, introducing himself as "Sarge".
+			-"Military?" the warforged asked.
+			 "Yeah," Sarge replied, and they fell to reminiscing.
+			 ". . . the battalion was all wiped out," Sarge finished.
+			 "Between jobs now, huh?" I asked him. "There are a lot of party lizard jobs in this
+			  city."
+			 "I have. . . a more specialized set of skills," was his reply.
+			 "I haven't had a decent job since the war. . ." Rusty mumbled, diconsolately, and
+			 recounted the loss of _his_ entire battalion.
+			-Looking at back at me, Sarge then said, "I saw your speech."
+		     "Yeah, lost a friend too," I said. "He's a hero now! Gotta do what you can to remember
+			  your friends. . ."
+		-When we got to the bar, we found the word "closed" hastily painted across it's door.
+			-None the less, I pulled out a gold piece and began to clink it against the door, slowly
+			 and rythmically.
+			-Eventually, a voice called out from inside, shouting, "Go away! We're closed!"
+			 "We just want a drink!" I replied. "Open up! Things are calming down and people are
+			  going to have a thirst!"
+			 "How do I know you're not ruffians?" the voice inside responded.
+			 "Would ruffians pay the cover?" I shouted, sliding three gold beneath the bar's door.
+			-Soon, I could hear someone tugging at the bar behind the door, and it was opened.
+			-"Sorry," the apparent proprietor said. "We had some trouble in here earlier and, well,
+			 with the state of the city tonight, we figured we'd better lock up for the evening.
+			 "Oh, it's no problem!" I replied. "And just perfect for me! I was looking for a quiet
+			  conversation with my new friends andyways!"
+			-He ushered quickly inside, barring the door behind us, and I then handed him several
+			 more gold for a round for all of us.asked us.
+				-Sarge ordered some kind of devil gin the barkeep talked up.
+				-I, meanwhile, asked for a cup of red wine. Turning to my new friends, and gesturing
+				 at my red doublet, I said, "It doesn't show if I get it one the attire!"
+					-Blatently ignoring the various reddish stains that already dotted it after this
+					 evening. . .
+				-"Do you have any grease?" Rusty asked the barkeep, avoiding any awkward silence
+				 there.
+				 "Good for the joints, eh? It's the hells getting old!" I commented.
+				 "After the first millennia, things get rough. . ."
+			 -Once served, Sarge raised his glass in toast, saying, "Thanks, Fred!"
+			  "To new friends and old, silver and gold," I toasted.
+			  "And rusted," Rusty flatly responded.
+			 -"What brings you to the city?" Sarge asked me, as we drank.
+			  "I'm seeking news of the world, and trade opportunities. A patron wants to know. What
+			   about you? What brings you to Sasserine?" I deflected.
+			  "I'm looking for work. My battalion, we flew aboard airships, but I'd now take
+			   whatever work presents itself for a warrior."
+			  "Airships, huh?" I asked, perking back up. "That's music to my ears! I myself fly on,
+			   lets say, a _very_ light frigate!"
+			  "Ah," Sarge responded. "I would very much like to return to the air. It speaks to the
+			   souls of the dragonborn, this connection to our forebearers."
+			  "Few warforged served aboard airships," Rusty broke in. "Too heavy, to have a whole
+			   unit of us. Plus, they worried we might share. . . a certain solidarity, with the
+			   bound air elementals that power them."
+			 -Rusty then broke into an extended anecdote about the depressing history of his kind.
+			  ". . . that slept then lasted centuries. It was not our will, but part of a treaty,
+			   and it brought peace."
+			 -"Just once," he continued, "I would like to fight for a cause I believe in. And I
+			   would like to fly in your ship."
+			  "Well. . . welcome aboard, I guess! Stick close to me big targ. . . guy, and we'll go
+			   far!"
+			 -Rusty then made a suggestion, saying "I am in poor shape for a fight right now, but
+			  I do have a stash of healing potions and other equipment not far from here, if you
+			  wish to accompany me and retrieve it."
+			  "Might want to wait until the sun comes up," I protested. "Things are calming down,
+			   but they'll be a lot calmer once it's brighter."
+			 -It was still the early hours of the morning, so we settled in at the bar, having
+			  another couple rounds and some food.
+				-"I do not require rest," Rusty volunteered. "I can stand guard, though, if you wish
+				  to."
+				-Letting out a yawn, I said, "Yeah, I could use some shut-eye. . . maybe nap in this
+				 booth for a bit. . ."
+				-Rusty got up, marched stiff-backed to the door, back to the table, and then
+				 repeated that, at least through when I nodded off.
+		-When next I opened my eyes, it was to Nkondi walking into the bar.
+			-"Hey! Nkondi!" I cried out. "How's it going! Have a drink! I still have half a wine
+			  here somewhere. . ."
+			-He sat with us, and drew forth his own bottle of rum from his pack.
+			-We did a round of introductions, and Nkondi asked after the sorry state of Rusty.
+			-"He needs repairs," I responded. "But he said he had a stash of stuff for it nearby."
+			-"Speaking of which," I continued, "How's the city, Nkondi?"
+			-He claimed there was still a fair amount of chaos, roving mobs and looters.
+			-"Ah, OK! We were thinking we'd relax here for a bit, while things calm down, and then,
+			  picking up Rusty's shit."
+			-The barkeeper pestered Nkondi a bit, but Nkondi threw some coins to him.
+			-Nkondi then began talking to something that was not there, and he and Rusty got into a
+			 conversation about spirits, leading eventually to Sarge chiming in as Rusty began to
+			 reminisce about ancient history. Rusty apparently wants to find the ghost of a dead
+			 friend, but I soon lost interest in the whole thing, paying more attention to swirling
+			 my wine.
+		-We eventually bedded back down, and awoke with the sky light, the streets coming back to
+		 normal life, though there were still more guards than usual walking the streets, and often
+		 jeers or stones thrown their way, from the populace.
+			-Nkondi did a lot of staring at the construct, while I announced, "I'm going to go find
+			 the barkeep, and see if he can scare us up some breakfast."
+			-Soon, we were eating, and discussing going to find Rusty's stash as our next order of
+			 business.
+	-Walking out onto the street, the city was indeed tense.
+		-As we walked, we saw some of the guards pasting up posters. Approaching one such, we found
+		 it showed a terrible likiness of _me_, along with the words, "Wanted for disturbing the
+		 peace. Reward is 100 gold."
+		-Well, this city is burned. Where to next, I guess?
+		-Rounding a corner, we saw a wizard watched over by a couple of guards, magically creating
+		 a larger image of some (mostly) bullshit stuff I _supposedly_ did at the funeral.
+		-Nkondi wasted no time in hurling the coffee in his hand at the wizard, scoring a hit and
+		 provoking some sputtering rage.
+		-The guards began to cast their eyes about for who threw it, and Nkondi (probably unwisely)
+		 began shouting, saying, "They're despoiling the memory of our heros, with their lies!"
+		-"Yeah, listen to him!" I joined in. "These guys are shit!"
+		-Soon, the nearby citizens were shouting and throwing refuse at the guards.
+		-Nkondi then (actually wisely) turned and ran. I was quick in following him and, after a
+		 glance between them, Sarge and Rusty were following too.
+		-Rounding a corner, we paused to gather our breath (those of us that needed it), and to
+		 disguise ourselves, Nkondi with a spell and I by turning my coat inside out and mussing my
+		 hair.
+	-Rusty then led us to where his stash was, in a sewer.
+		-On the way there, he warned us of some "guardian", that would need a password.
+		-"Sure, sure, Rustbucket," I said. "You've got that right?"
+		-He just turned and walked on.
+		-Arriving at the mouth of a sewer, where it emptied into the ocean, Rusty stopped us short,
+		 and, from the pool beneath it, rose a hulking, headless figure, it's face emerging straight
+		 from it's shoulders.
+		-The creature blocked our way, standing there blankly, while Rusty almost stammered, ". . . 
+		 I knew this. . . what was the word. . . let me search my memory banks. Does anyone know
+		 the tongues of the elementals?"
+		-I volunteered some smattering of Auran, to no real avail, while Nkondi chatted with things
+		 I could not see, eventually muttering, "Understanding?"
+			-I voiced the word in Auran, apparently sparking some recollection in Rusty, who uttered
+			 something in one of the other elemental tongues, prompting the creature to sink back
+			 into his pool.
+		-Rusty walked towards the opening, and I steeled myself to follow, but Sarge protested,
+		 saying, "I'm not going in there. I don't do water. I'll guard the entrance."
+		-"Very well," Rusty replied, wading into the sewage.
+		-Fortunately it was not too far inside that Rusty led us, retrieving from an alcove his
+		 "repair kit" and pouring some apparently magical oils over himself.
+		-We emerged, stinking, to some scornful looks from Sarge.
+			-Well, we'll see how good he smells without any baths, if he's really so afraid of water.
+	-"So," Sarge said, turning to me, "You said you had a way out of the city?"
+		-"Yep!" I replied. "We'll have to make our way to docks. I've got some friends that'll be
+		  pretty sore if I leave them behind, though."
+		 "Where are these friends?" Rusty asked.
+		 "One's off with her family. Not sure what happened to Jade. Lost track of her last night."
+		-"Well," I continued, "They know where the ship is. Maybe they'll meet us there!"
+	-On the way to the docks, we also stopped by a likely seeming shop, looking to unload last
+	 night's loot.
+		-Dedicated weapon shops had been closed by order of The Dawn Council, but we found a
+		 somewhat disreputable pawn shop run by a self-described "personal defense enthusiast".
+		-We sold our loot, and I got myself some silver arrows.
+	-We then took our leave and walked on towards the docks.
+		-Ascending to the skydocks, we were stopped at the top of the stair by a group of guards.
+		-They asked us if we'd seen me, pointing at one of the wanted posters one held.
+		-I assured them we'd never associate with such rabble, but Sarge had to open his big lizard
+		 mouth too, and they suspected he was full of shit.
+		-Sarge began to threaten them and, half in support of theat and half to defuse things, I
+ 		 broke in, saying, "Do you know who he _is_? He's the party lizard! A genuine celebrity!"
+		 "Huh! I've heard tales of him," one of the guards responded. "They said he could drink a
+		  whole cask."
+		 "Two," Sarge growled in response.
+		 "Well, the party lizard knew Fredrick! We better take this lot in for questioning!"
+			-Shit.
+		-"Look, you don't want to do that!" I began. "You'd be messing with a _celebrity_. It'll be
+		  a whole thing!"
+		 "Tell us where he is, then, and maybe we can be done with this."
+		 "OK, look, we were supposed to be here for the party lizard's big return. We were going
+		  to see Fredrick at the bar where it all started," I said. "You know the. . ."
+		 "Lusty Leopard?" one of the guards volunteered.
+		 "Yeah, the Lusty Leper! Though why anyone would want to drink in a place like that. . ."
+		 "No, _Leopard_," the guard clarified. "The owner couldn't spell, and the 'D' fell off. . ."
+		 "Ugh! His 'D' fell off?!?" I went on.
+		 At that point the apparent leader of the group broke in, shouting, "Forget it! If Fredrick
+		 is supposed to be there, then we'll take you over there and you can point him out."
+		 "Uh. . . sure," I shrugged.
+	-Somewhere in that exchange, Nkondi apparently slipped off, the spell camouflaging him still
+	 being in effect, so the guards led the three of us they'd seen back down to the streets of the
+	 city.
+		-This could have gone better. . .
+		-They led us to the bar, and questioned the patrons, who all said they'd not seen the person
+		 on the poster, with thankfully none of them pointing at the man standing with the guards. . .
+		-"Well, where is he?" one of the guards asked us.
+		 "Beats me! He was supposed to meet us here. Though the event wasn't supposed to start until
+		  nine. . ."
+		 "We can't wait here for hours!"
+		 "Aw, come on!" I wheedled, "Lets get some food and see if they turn up! This place is great!"
+		 "Well, it is almost lunch time. . ."
+		 "Great! Barkeep! Get us each the lunch special, and a round of those strong ales!"
+		-We sat down to some food, but the guards were distressingly resistant to my efforts to get
+		 them to really drinking.
+		-As they finished off their food, the ales mostly untouched in front of them, one of them
+		 began to stand, saying, "Well, we've waited long enough. Lets take you over to the station."
+		-Sarge then lept to his feet, his chair clattering to the floor behind him, snarling and
+		 flexing his claws. The fight was on.
+		-We made short work of the guards, especially after Sarge set several of them on fire.
+		-Turning to the terrified crowd as I darted towards the door, I shouted, "Our work here is
+		 done! Stick around a bit, and the next rounds on me!"
+		-I tossed a fist full of gold towards the bar and turned to my companions, saying, "Lets get
+		 the fuck out of here guys."
+	-As we left the bar, we ran into a young boy, who had a message for us from Nkondi. It said,
+	 "Guards on ship, look at local billboards. we should leave for a while. meet at the home of the
+	  original Reverie Reptile tomorrow morning."
+		-Well, that plan's shot.
+		-"Want me to take a message back?" the kid asked. "It'll only cost you, uh, a gold?"
+		 "How about this, kid?" I said. "If you know how to find the one who sent this, take _us_
+		  there and you'll get your gold."
+		 "Really?!? Alright! This way!"
+		-The boy led us back toward the docks, pointing out Nkondi lurking in the shadow of a closed
+		 market stall just outside them.
+	-Reunited with Nkondi, we resolved to find the others, and to get the hells out of this city.
+		-We were unsure where to find Jade but, in the course of describing her and her interests,
+		 Sarge volunteered that he knew of a well regarded magical foundry in the city that rented
+		 workspace.
+			-Following him there, and inside, I indeed spotted Jade bent over a workbench in the
+			 back of the large, open building.
+			-I approached and greeted her, and she was full of recriminations about how out of hand
+			 things had gotten last night.
+			-I agreed that things were a mess, and suggested it was time to get the hells out of the
+			 city, before any of the consequnces for that all fell on _our_ heads.
+			-Before we left, I also helped her disguise herself, warning her that the guards seemed
+			 unpleasantly interested in speaking with us, eliciting a sigh in response.
+		-Jade, a local, knew where to find the estate of House Dracus, so she led the way from there.
+			-Suspecting these high-brow folks might not take kindly to strangers on the doorstep, I
+			 concocted a ruse with my medal from The Dawn Council.
+			-Knocking on the door, I told the rather rude servant that answered that, "Lady Maya
+			 left this medal behind where she dined two nights ago. The proprietor asked me to
+			 deliver it to her. Let her know I'm waiting out here, if she feels compelled to offer
+			 a reward. . ."
+			-The butler continued to be a general ass about the whole affair, and there were a few
+			 holes in the plan, I having forgotten Maya hadn't joined us until _after_ we earned
+			 that, and he apparently being well aware of both what it was and that Maya had not
+			 received one.
+			-Nonetheless, after impressing on him that it's _clearly_ valuable, and something she'd
+			 not want to lose if she _did_ leave it there, the prick eventually took it to her, and
+			 she emerged from the estate a short while later."
+			-I explained our trouble, and our planned departure from the city aboard the airship.
+			-She seemed tempted to go with us, but also reluctant to abandon her family in an
+			 apparent hour of need.
+				-They'd been tasked with tracking down an influx of counterfit currency, and Maya
+				 felt she was unable to leave them until the matter was resolved.
+				-Instead, she gave me a coin bearing the emblem of her house, saying that she would
+				 be able to Teleport to it once she was free.
+				 "Well, if you've got the cash for something like that, that works!" I said. "See
+				  you in a bit!"
+				-Turning to the rest of the group, I said, "Sounds like it's time to get the back to
+				 the ship and to get the fuck out of here. Back to the docks!"
 
 
 TODO:
@@ -1405,6 +1684,28 @@ TODO:
 								-So, that's 1000x the surface of the Earth. . .
 								-A thousand Earths, with no point much more than 20 miles away from
 								 any other.
+			-Other layers:
+				-Vegetation?
+					-Less food cultivation that one would expect, but 1,000 years is plenty to have
+					 imported and spread all necessary vegetation and animals.
+					-
+				-Water?
+					-Probably no _huge_ bodies of it, due to problems keeping it contained in the
+					 strange gravity. Edric is also an _Earth_ diety, after all.
+					-Instead, the plane's limited water is spread throughout clearly artificial
+					 reservoirs, canals, decorative waterworks, and elaborate plumbing.
+				-Environments for more unusual psionic creatures?
+				-A layer given over to The-Slimemold-That-Was-Rovert.
+					-Formerly an inhabited layer, it was where Rovert's experimental transformation
+					 into (what was supposed to be) an Elan took place. As such, the mass of the
+					 slimemold-analog is draped over abandoned but still pristine (due to largely
+					 being adamantine) buildings.
+					-In fact, it's behavior among the abandoned structures is part of the argument
+					 for it's intelligence. It clearly displayed knowledge or understanding of the
+					 area in prioritizing growth towards food, water, or other resources.
+			-The Basilica:
+				-The several layers nearest Edric's Sanctum.
+				-It's one enormous temple complex, dedicated to Edric.
 			-Edric's Sanctum:
 				-This, the site of Edric's ascension, remains a small spherical cavity pierced
 				 through innumerable times by enormous crystals. Edric spends most of his here,

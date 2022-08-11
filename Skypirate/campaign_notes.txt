@@ -1322,7 +1322,7 @@ TODO:
 		 one hand and an unsheathed rapier in the other.
 		-As I walked through Sasserine's streets, I came upon a(nother) shouting crowd.
 		-I elbowed my way to the front of the scrum, I saw a group of city guards, beating a well-
-		 rusted warforged with cudgels, as he struggled on the ground.
+		 rusted warforged with cudgels as he struggled on the ground.
 			-Arguing with the guards was a humanoid with golden scales, and the features of a lizard.
 			-"What offense did this man commit?" he was asking the guards.
 			 "Yeah! What'd he dooo?" I shouted over from the crowd, slurring slightly.
@@ -1357,8 +1357,8 @@ TODO:
 			 "I haven't had a decent job since the war. . ." Rusty mumbled, diconsolately, and
 			 recounted the loss of _his_ entire battalion.
 			-Looking at back at me, Sarge then said, "I saw your speech."
-		     "Yeah, lost a friend too," I said. "He's a hero now! Gotta do what you can to remember
-			  your friends. . ."
+		     "Yeah, lost a friend too. . ." I said. "He's a hero now! Gotta do what you can to
+			  remember your friends. . ."
 		-When we got to the bar, we found the word "closed" hastily painted across it's door.
 			-None the less, I pulled out a gold piece and began to clink it against the door, slowly
 			 and rythmically.
@@ -1371,12 +1371,12 @@ TODO:
 			-"Sorry," the apparent proprietor said. "We had some trouble in here earlier and, well,
 			 with the state of the city tonight, we figured we'd better lock up for the evening.
 			 "Oh, it's no problem!" I replied. "And just perfect for me! I was looking for a quiet
-			  conversation with my new friends andyways!"
-			-He ushered quickly inside, barring the door behind us, and I then handed him several
-			 more gold for a round for all of us.asked us.
+			  conversation with my new friends anyways!"
+			-He ushered us quickly inside, barring the door behind us, and I then handed him several
+			 more gold for a round for all of us.
 				-Sarge ordered some kind of devil gin the barkeep talked up.
 				-I, meanwhile, asked for a cup of red wine. Turning to my new friends, and gesturing
-				 at my red doublet, I said, "It doesn't show if I get it one the attire!"
+				 at my red doublet, I said, "It doesn't show if I get it on the attire!"
 					-Blatently ignoring the various reddish stains that already dotted it after this
 					 evening. . .
 				-"Do you have any grease?" Rusty asked the barkeep, avoiding any awkward silence
@@ -1399,7 +1399,7 @@ TODO:
 			   unit of us. Plus, they worried we might share. . . a certain solidarity, with the
 			   bound air elementals that power them."
 			 -Rusty then broke into an extended anecdote about the depressing history of his kind.
-			  ". . . that slept then lasted centuries. It was not our will, but part of a treaty,
+			  ". . . that sleep then lasted centuries. It was not our will, but part of a treaty,
 			   and it brought peace."
 			 -"Just once," he continued, "I would like to fight for a cause I believe in. And I
 			   would like to fly in your ship."
@@ -1427,7 +1427,7 @@ TODO:
 			-"Speaking of which," I continued, "How's the city, Nkondi?"
 			-He claimed there was still a fair amount of chaos, roving mobs and looters.
 			-"Ah, OK! We were thinking we'd relax here for a bit, while things calm down, and then,
-			  picking up Rusty's shit."
+			  pick up Rusty's shit."
 			-The barkeeper pestered Nkondi a bit, but Nkondi threw some coins to him.
 			-Nkondi then began talking to something that was not there, and he and Rusty got into a
 			 conversation about spirits, leading eventually to Sarge chiming in as Rusty began to
@@ -1443,7 +1443,7 @@ TODO:
 			 business.
 	-Walking out onto the street, the city was indeed tense.
 		-As we walked, we saw some of the guards pasting up posters. Approaching one such, we found
-		 it showed a terrible likiness of _me_, along with the words, "Wanted for disturbing the
+		 it showed a terrible likeness of _me_, along with the words, "Wanted for disturbing the
 		 peace. Reward is 100 gold."
 		-Well, this city is burned. Where to next, I guess?
 		-Rounding a corner, we saw a wizard watched over by a couple of guards, magically creating
@@ -1537,7 +1537,7 @@ TODO:
 		 flexing his claws. The fight was on.
 		-We made short work of the guards, especially after Sarge set several of them on fire.
 		-Turning to the terrified crowd as I darted towards the door, I shouted, "Our work here is
-		 done! Stick around a bit, and the next rounds on me!"
+		 done! Stick around a bit, and the next round's on me!"
 		-I tossed a fist full of gold towards the bar and turned to my companions, saying, "Lets get
 		 the fuck out of here guys."
 	-As we left the bar, we ran into a young boy, who had a message for us from Nkondi. It said,
@@ -1589,18 +1589,85 @@ TODO:
 				 the ship and to get the fuck out of here. Back to the docks!"
 
 
+8/10/22:
+	-We decided to do some asking around, near the docks, to get some idea of what we're getting into.
+		-In a dockside bar, I met a grizzled dwarf, who complained that, "Since the old dockmaster
+		 died, the place has been a mess!"
+		 "What a shame!" I replied. "What if the city were attacked? Have the defenses been
+		  neglected? Does the city maintain no ships?"
+		 "Maybe some ships," he said, "Though you'd think they would have used them last night during
+		  the riots. They must have _some_ defenses. . ."
+		-Taking our leave of the dwarf, we grabbed a table, and spent some time disguising ourselves.
+		-Our disguises in place, we stepped outside the bar, only to see Maya walking around the
+		 street outside, observing the docks herself.
+		-I got her attention, and let her know it was me beneath the disguise (a thing she _claimed_
+		 she already knew. . .).
+		-We returned to the bar, to catch up with her.
+			-It seemed she was now amenable to leaving, and that her pursuit of the counterfiters
+			 was now going to lead her to a dwarven city, one she'd very much like to visit with us.
+		-So, we discussed the plan. Figuring we'd try talking first, we came up with a ruse to claim
+		 Maya's family had just purchased the impounded ship.
+		-Nkondi was interested in "conferring with the ancestors", and changing his spells, so we
+		 decided to rent some rooms and attempt this tomorrow.
+			-I spent some of the intervening time spreading rumors of the ship purchase, hanging
+			 around bars near the docks, talking about the "sale", and my new life as an airman.
+			-We even encountered some off duty guards at one, and made sure they overheard my
+			 discussion with Maya about the ship's sale.
+			-Eventually, I joined Nkondi at a graveyard, where he was performing his ritual, before
+			 we turned in.
+				-It was quite the show! If Edric's church involved this much rum, drums, and
+				 shouting, I might have been more religious.
+				-Apparently _his_ gods (or ancestors or whatever) demand booze. In particular, he
+				 asked me what I knew about old booze, saying he might appease his patron with such.
+					-Talking about it, elves came up, and he mentioned a "Castle Arakhain", on the
+					 mainland, that might have ancient vintages. Sounds like a good stop to me!
+			-Finally, we found an inn, and got some rest.
+	-The next morning, we got our disguises together, and headed over to the airship docks.
+		-We did have to talk our way onto the docks themselves, due to a heavy guard presence, but
+		 they bought our story about Maya buying a ship.
+		-"Well, Lady Dracus, shall we make our inspection?" I asked and, at her nod, we began
+		 walking towards the ship.
+		-The guards aboard ship bought the story about the sale, and we even convinced them that the
+		 lady would be taking it for a quick cruise, though they insisted on staying aboard.
+		-Taking the ship out over the sea, we consulted with one another, and decided to take the
+		 ship down low and toss the guards into the sea, with a crate to serve as a float.
+			-Eh, whatever soothes the others' consciences. I just want my ship back.
+		-While I was busy with the ships wheel, Nkondi summoned a pair of vultures below deck, used
+		 them to distract the guards, and took Maya "hostage".
+		-Threatening her, he demanded the guards drop their weapons, and, when they complied, Rusty
+		 tied them up.
+		-He then turned Maya over to Jade, who led her below deck.
+		-Nkondi then began to escalate things, muttering prayers to is ancestors over one of the
+		 bound guards and drawing a knife.
+		-His intentions rather clear, the panicked guard slipped his (apparently shoddily tied)
+		 bonds and made a break for it.
+		-While Nkondi was busy with that, Sarge made a "join or die" speech, attempting to press-
+		 gang the others.
+		-The guards were looking fearful after that, but not professing their loyalty or anything
+		 like that.
+		-Nkondi ignored the fleeing guard, stabbing one of those still bound in his throat, while
+		 his summoned birds savaged two more of them.
+		-Soon, it devolved into combat, an admittedly one-sided one, due to the guards having
+		 dropped their weapons already.
+		-By the time Jade and Maya came back up on deck to investigate the noise, Nkondi had
+		 already cut the hearts out of several of the dead guards, and the bodies had all been
+		 thrown overboard from the bloodstained deck.
+	-With some free time now, we consulted a map of the region in (my) cabin: https://discord.com/channels/560915739796570113/560915739796570119/1007116989568925766
+		-Sharaar Kol, the dwarven city Maya wished to visit, was not far, near the shore of Manta
+		 Bay, where Sasserine, and island city, is located.
+		-We set a course for the dwarven city.
+
+
 TODO:
 	-Items:
 		-Upgrade to a longbow. Marshal gave you the proficiency.
-		-Maybe get some arrows of other materials?
-			-Definitely silver, given the Shapers.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
 		-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
 		-Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
 		-Something to deal with undead?
 			-Maybe a specific wand?
-		-Healing Belt?
+		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 	-More dance numbers.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:
@@ -1633,7 +1700,7 @@ TODO:
 				-A mere 1.5% of the throughput of Shanghai's port, though that's the busiest in the world: https://www.statista.com/statistics/264171/turnover-volume-of-the-largest-container-ports-worldwide/
 				-Still, the above wiki page suggests that's 747,155/11000 = 67.92 huge container ships.
 			-Divide by 10 for inorganic.
-			-Divine Earth Mastery, though, produces effectively undefined quantities of precious metals
+			-Divine Earth Mastery, though, produces effectively infinite quantities of precious metals
 			 in a mere round.
 		-Edric's plane:
 			-Description from the end of the Xûl-Jarak game:
@@ -1653,7 +1720,7 @@ TODO:
 				 more, and Rovert was all too willing. The massive slimemold-like creature that grew
 				 from his body, with it's alien intelligence, is now the story commonly cited to
 				 illustrate the danger of such things.
-		-Layers (Outer to inner):
+		-Layers (outer to inner):
 			-The Borderlands:
 				-Studded with portals, leading to a variety of destinations.
 				-Flat and desert-like.
@@ -1720,6 +1787,13 @@ TODO:
 		-Where "he", in the above stuff, refers to not just Edric, but his plane, his worshippers
 		 (and more tightly-bound "believers", from thrallherd), and the whole society of people on
 		 the plane and linked to it. Edric thinks of all of this as "himself".
+	-What do you report, if ever called to do so by those that set you loose with the skyship?
+		-Sasserine:
+			-Turmoil in the church of Nkisi.
+			-Substantial resistance to the current government, and a high degree of corruption.
+				-Perhaps an opening for The Brotherhood?
+			-Low saturation by the fruits of Edric (never saw an adamantine weapon, etc.).
+			-Interesting metal working technology, used to create ultra-light mail.
 	-Once you get Leadership, what cohort should you get?
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
@@ -1763,4 +1837,12 @@ TODO:
 	-What about followers?
 		-Dread Pirate will double them at it's 10th level.
 		-You'll have eight level ones if you take it right at 6th level, even without Charisma buffs.
+
+
+TODONE:
+	-Maybe get some arrows of other materials?
+		-Definitely silver, given the Shapers.
+
+
+TODON'T:
 	-Tiger time? See TODOs before 6/1/22.

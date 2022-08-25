@@ -1639,7 +1639,7 @@ TODO:
 		-He then turned Maya over to Jade, who led her below deck.
 		-Nkondi then began to escalate things, muttering prayers to is ancestors over one of the
 		 bound guards and drawing a knife.
-		-His intentions rather clear, the panicked guard slipped his (apparently shoddily tied)
+		-His intentions rather clear, a panicked guard slipped his (apparently shoddily tied)
 		 bonds and made a break for it.
 		-While Nkondi was busy with that, Sarge made a "join or die" speech, attempting to press-
 		 gang the others.
@@ -1654,8 +1654,212 @@ TODO:
 		 thrown overboard from the bloodstained deck.
 	-With some free time now, we consulted a map of the region in (my) cabin: https://discord.com/channels/560915739796570113/560915739796570119/1007116989568925766
 		-Sharaar Kol, the dwarven city Maya wished to visit, was not far, near the shore of Manta
-		 Bay, where Sasserine, and island city, is located.
+		 Bay, where Sasserine, an island city, is located.
 		-We set a course for the dwarven city.
+
+
+TODO:
+	-Express some remorse over the dead guards.
+		-"Some of them might have been willing to join up!"
+		-But, you were distracted by how good it felt to be at the wheel of your ship again!
+			-Real freedom at last!
+			-Sasserine was getting a bit stifling. You know, being recognized and all.
+
+
+8/24/22:
+	-Inspecting the ship, it looks like they even topped up our air elementals!
+	-After 2 days in the air, we sighted misty mountains ahead, the Greywall range, and soon spotted
+	 the city's air docks.
+		-Flanked by two enormous statues, they were carved into the side of a mountain.
+		-There was very little traffic, but we directed to an empty berth by a sunrod-waving dwarf.
+	-We were met by a dwarf, apparently an employee of the docks.
+		-By the time I'd finished tying the ship up at the berth and ran over, he'd already launched
+		 into the usual questions about cargo declarations and such with the others.
+		-I did some minor schmoozing, but he seemed stubbornly resistant to flattery.
+		-He did inform us that, "The upper city is for traders. Outsiders like you. Lower city is
+		 for dwarves."
+		 "Perfect! Point the way!" I replied.
+		 "It's down the spiral stair, there. About 30 minutes down."
+		-At the thought of that many stairs, I turned to Rusty, saying, ". . . Rusty, have you ever
+		 heard of a 'piggy-back ride'?"
+		 "No?"
+		 "Perfect! We're going to practice a new technique! Here, let me clamber up onto your back.
+		  Huh, look! No hands! I bet I can even use a bow from up here!"
+	-As we walked down, it was indeed an interminable trip down. Soon, everyone, save Rusty and
+	 myself was breathing hard.
+		-While we walked, Maya talked, telling us more about the matter of forged signet rings her
+		 family had tasked her with investigating.
+			-She showed an example, demonstrating how, by some complex mechanism or magic, it could
+			 change from a generic looking symbol to another, matching one of the Sasserine sigils
+			 I remember from a banner when we were declared heroes of Sasserine.
+			-In return for our help with this matter, she said her family could help smooth things
+			 over for us in Sasserine.
+			-"That'd be nice," I said, "But we also need to bring in some coin to keep the ship
+			  flying."
+			 "Well, we'll have to keep an eye out for opportunities to trade along they way, then,"
+			 she replied.
+	-Finally reaching the bottom of the stair, we gazed upon a bustling village within a cavern,
+	 centered around a statue of a dwarf. Small buildings filled the floor of the cavern, with
+	 crystals growing among them.
+	-As we stood about for a bit, I suggested we next find some lodgings, a base of operations,
+	 and perhaps some of the famed dwarven ale. We decided to ask around, for recommendations.
+		-Greeting a dwarf standing idle out in fron of a shop, he suggested "The Crystallized
+		 Pig", a bar and inn.
+		-He also spoke of an "Old Foam Beard", whose capacity for drink was legendary.
+			-I've  got to meet this guy. He sounds like a blast.
+		-In the course of this, Maya referred to me twice as "our captain". A good start on my
+		 future, that.
+	-Following the directions given, we entered The Crystallized Pig, and Maya immediately began
+	 conversing with the innkeep in Dwarvish.
+		-They seemed to get along splendidly, and Maya had soon arranged (and paid for) rooms for
+		 all of us, for four days, and a round of a strong ale that turned out to be _fantastic_.
+		-Drinks in front of us, we then discussed our next move.
+		-Maya intended to visit local craftsmen, and figure out who would be capable of such work.
+		-I agreed that sounded promising, but also said that we had a craftswoman right here,
+		 suggesting that Jade take a look.
+		-Obliging, Jade examined the ring, mentioning that it used an odd flux, something we could
+		 potentially use to identify other works by the same group.
+	-While this went on, May also apparently did some eavesdropping. Leaning in, she gestured to a
+	 nearby table, where three dwarves sat, and said that they'd apprently lost a friend.
+		-Two of the dwarves looked like warriors, while the third was garbed as a cleric.
+		-"Perhaps, she said, "If we help them, they can help us access the lower city? Assisting in
+		  our investigation?"
+		-Agreeing it sounded promising, I volunteered to take point.
+		-I walked up to the bar and asked the innkeep for another four of the "Wicked Trident" that
+		 we'd been drinking, taking them over to the dwarves' table.
+		-"Hi! My friend over there," I said, gesturing to Maya, "She speaks the language, and heard
+		  you lost a friend. Death is hard. . . gone forever. . . Here, I wanted to offer my
+		  condolences, and a round of the reserve."
+		 "Aye? You have our thanks, though maybe he's not lost forever. . ." one of them responded.
+		 "Ah, not the permanent parting, then? Good!"
+		 "Eh, perhaps that would have been easier. . ." he replied.
+		 "How so? Most anything is better than death. . ."
+		 "He went insane. . . We were down in the mines, exploring a collapsed section of cave.
+		  Only he was nimble enough to squeeze through. When he came back, though, he was insisted
+		  we return to the city, and began behaving strangely. . . We had to cut ties with him, and
+		  he's now in prison. . ." he said, trailing off. Taking another drink, he perked up a bit,
+		  saying, "Hey, this is good stuff!"
+		 "Perhaps we can help! There are various magics that can affect the mind. Perhaps he's
+		  been enscrolled," I said. "Several among us are well versed in such things, we could
+		  examine him. Does the prison accept vistors?"
+		 "I'm not sure. No one has ever asked. It wouldn't do for a dwarf to be seen associating
+		  with a lawbreaker."
+		 "Well," I replied, "We could try it. I don't get the impression that the opinion most
+		  here have of outsiders could get much lower. . ."
+		 "Who is your friend?" Maya broke in and asked?
+		 "Codwell. We called him, Cod, or 'Half-Beard'. Shamefully, he was born with a beard
+		  covering only half of his face. A great shame. . . but he worked hard, and earned his
+		  keep."
+		 "We'll see what we can do," Maya replied, "It would help, though, if we could see the
+		  cave where his incident occurred."
+		-They then began discussing directions to a cave with an opening to the surface, some miles
+		 from the city, overland.
+		-Maya and the dwarves continued to socialize while I savored my remaining ale, until their
+		 conversation took a disturbing turn, and caught my attention again.
+			-They were discussing the history of the city, and it's founder, Sharaar Kol, for whom
+			 the city was named. "He dug the city's first mine," the dwarf was saying, "And found a
+			 purple crystal the size of his beard. It entranced a _god_. . ."
+			 "What god?" Maya asked.
+			 "The great creator god," the dwarf replied. "Have you heard of Edric? He saw great
+			  psionic power in the crystal, and made a deal for it, offering the city his
+			  protection."
+			-I began to look distinctly uncomfortable, and the crystals growing around the city
+			 took on a quite sinister aspect for me. . .
+	-Though I'd quite lost my appetite, the others insisted on finishing their lunches, but we soon
+	 headed to the prison.
+		-Walking inside, we could indeed see a dwarf with half a beard in one of the cells.
+		-We were stopped by another, a guard, who asked our business.
+		-"We wanted to speak to one of the prisoners," I said, "He might know about a dangerous
+		  hazard nearby."
+		-He shrugged and asked, "Which one?"
+		 "The one with half a beard," I said.
+		-He led us over to the dwarf's cell.
+		-Looking at the dwarf, I could tell he was clearly enscrolled, and Nkondi agreed. Cod calmly
+		 spoke nonsense, babbling about river monsters, but his eyes looked at us, pleadlingly, with
+		 seemingly no connection to his speech.
+	-Well, we began debating options for breaking the unknown enchantment.
+		-Though Jade looked thoughtful, rummaging through her pack and looking through books she
+		 drew forth from it, none of us came up with an option we could personally manage.
+		-So, we headed back to bar, hoping Cod's priestly friend could dispell the magic affecting
+		 him, or at least know someone who could manage it.
+		-That, though, turned into an acrimonious religious discussion.
+			-The cleric seemed none too fond of his roguish friend Cod.
+			-Meanwhile, Nkondi was doing his very best to antagonize the cleric, questioning both
+			 his motives and his faith, and insulting his god.
+		-Before that got too far out of hand, though, Jade looked up from one of her books and
+		 interrupted, shouting, "Oh! I've got it! I can fix him!"
+	-Taking our leave of Cod's friends, we went back to the prison to see him again.
+		-"We came back to knock some sense into one of your prisoners," I told the guard.
+		-Jade clarified that she had a method that would dispell the magic affecting Cod.
+		-Taking a glove, she smeared it with magical reagents and muttered incantations over it.
+		-Then drawing close to the bars and calling Cod over to her, she slapped him across the face
+		 with it.
+		-Casting his eyes about at his surroundings, and then back to us, Cod asked, "What in the
+		 hells happened?"
+		 "You've been talking crazy," Jade said, "And got locked in prison because of it."
+		 ". . . huh?"
+		 "You were enscrolled, my good dwarf!" I told him. "Something in that cave you squeezed into
+		  seems to have done it. What did you find in there?"
+		 "There was a. . . river of. . . arcane energy. In it, there was a. . . it looked like a
+		  ham. . . some hunk of meat."
+		-Glancing at my fellows, I asked, ". . . Are you sure your glove worked, Jade?"
+		-That elicited awkward laughs from "I've heard of a necromantic ritual," he said, "Preserving
+		 brains in jars. A river of magic could preserve and sustain something similarly. . ."
+		-Nkondi was suddenly very eager to visit this cave, and Sarge was curious too.
+		-"Visiting the local tourist attractions is all well and good, guys, but we did also solve,
+		  well, most of Cod's problems," I said. "Guard! He's in much better shape now. Are you able
+		  to let him out?"
+		 "He hasn't served out his sentence yet," the guard replied.
+		 "What was he sentenced to?" I asked, as Nkondi spoke over me, asking, "What was he sentenced
+		  _for_?"
+		 "A year," the guard replied, "For disturbing the peace."
+		-Nkondi then worked himself up into a good rant, saying the man had received a. . . _vision_
+		 of great danger, and asking how they could imprison this _prophet. "You would imprison
+		 Moradin himself!" he finished.
+		-Somewhat to my surprise, the guard seemed a bit shaken. Perhaps he's a bit more religious
+		 than I, for he turned to the prisoner and asked him a series of questions in dwarvish.
+		-Apparently satisfied with the answers, the guard agreed to let him go, after making him
+		 swear some kind of oath (again in dwarvish). He did turn to us first, though, and asked,
+		 "Can you give him an extra slap to be sure?"
+		 "Doesn't hurt to be sure!" I enthusiastically replied, "Well, doesn't hurt _us_. . ."
+	-Once Cod was free of his cell, I asked him if he was ready to return to his friends.
+		-He actually seemed a bit reluctant, particularly to face the judgy cleric, but he
+		 eventually agreed to walk back with us to the inn.
+		-On the way, I pressed him for more details of what he saw.
+		-Beyond the river meat, he described ornate pillars in the cave, and. . . beasts, that
+		 seemed to be under the meat's control.
+		-"What do you think it wanted, with sending me back to the city?" he also speculated.
+		 "Ha!" I laughed. "Probably to lure more victims back to it. . ."
+		 "You might not be wrong," he said.
+		 "Probably not! It's working, after all," I replied, looking around at my companions.
+	-Walking back into the tavern with him, the cleric looked a bit ashamed at the sight of his
+	 erstwhile companion, while Cod immediately set into berating him.
+		-"You were going to _leave_ me there. A year!"
+		-Nkondi happily egged him on to, and joined in berating the cleric, saying, "I don't know
+		 where Moradin was too useless or you to cowardly to help. . ."
+		-Much shouting amongst the dwarves ensued, with Nkondi trying to start a fight while Maya
+		 tried to calm them down, and me leaning up against the bar, new drink in hand, watching
+		 the show.
+		-Maya got the better of that, and soon the two dwarves were hugging, to my slight
+		 disappointment.
+		-Nkondi even procured some kind of shot from the bartender, and approached the cleric with
+		 it, apparently as some kind of peace offering.
+			-The cleric sniffed it, then poured half of it into an empty glass and shoving it toward
+			 Nkondi.
+			-They each downed their respective portions. The cleric then immediately vomited
+			 violently onto the table between them, followed by Nkondi doing the same seconds later.
+			-The bartender began yelling at them to get the hells out. Nkondi slipped him a gold
+			 coin and adjourned to his room, while the cleric walked out the door, shaking his head.
+		-The rest of the evening proceeded apace, with Jade also drinking heavily (I'd never seen
+		 her drink at all), then vomitting in a corner and being helped up to her room by Maya.
+		-Sarge and I paced ourselves a bit better, and sat in the common room a while longer,
+		 listening to the towns rumors and news.
+			-Apparently the mayor has a new limp he's not saying anything about.
+			-Sarge was quite the hit, with several people stopping by, asking him about his origins
+			 and if he knew of any dragons around the area.
+				-No dragons near that he knows, and he's from Stormreach, a militiaman tranformed
+				 to what he is in the name of war. Previously, he'd been some kind of catman.
+		-Eventually, even we turned in for the night, resting before we travel to the cave tomorrow.
 
 
 TODO:
@@ -1669,6 +1873,12 @@ TODO:
 			-Maybe a specific wand?
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 	-More dance numbers.
+	-Recruit more!
+		-The air elemental running your ship?
+			-What _would_ level adjustement for an elemental look like?
+				-None listed, though could perhaps look at HD, if Jake allows it?
+					-Small through Huge air elementals are 2, 4, 8, 16 HD.
+			-I think you do speak Auran, for more or less this reason.
 	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
 		-We talked about it here:
 			DMJake — Today at 12:46 PM

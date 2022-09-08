@@ -7,13 +7,13 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 2	Marshal	1		+0		8														All Knowledge as class skills!
 3	Rogue 2			+1		12				Mobility
 4	Rogue 3			+2		12
-5	Swashbuckler 1	+3		8														Swashbuckler for free Weapon Finesse. First level Dread Pirate is remotely possible, due to skills.
-6	Rogue 4			+4		12				Leadership								
+6	Rogue 4			+3		12														First level Dread Pirate is remotely possible, due to skills.
+5	Swashbuckler 1	+4,		8				Leadership								Swashbuckler for free Weapon Finesse.
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
 8	Dread Pirate 2																	Probably choosing "dishonorable"
 9	Dread Pirate 3							Combat Reflexes
 10	Shadowdancer 1																	Could have it as soon as 7, if Leadership is delayed until 9.
-11	
+11	Shadowdancer 2 for Darkvision? Or back to Dread Pirate?
 12											1
 
 
@@ -27,25 +27,6 @@ Flaws (compensating for +2 LA):
 		 exploit.
 
 
-Flavor:
-	-Creche raised.
-		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
-		 levels, among other things). Those peers all abandoned you, though, and their old selves,
-		 by means of the elan transcendence that is denied to you.
-		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
-			-You're not too fond of it, as a result.
-			-Sometimes "Fred the Red".
-	-Took to air shortly after leaving his home, The Nested Domains of the Enlightened Edric,
-	 seeking freedom, and distance from the portal he'd emerged from.
-		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
-		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
-			-Yep. Varani is in The Brotherhood's service as well. You met in The Nested Domains, and
-			 it was his tales of The Material Plane's vast, liberating vistas that pushed you out of
-			 the nest (lol).
-		-Since it sounds like our ship is provided by The Brotherhood, how did that go down for you?
-			-You described it in game as "like the Prisoner opening sequence": https://discord.com/channels/560915739796570113/560915739796570119/925920343271559259
-
-
 Advancement:
 	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html
 		-They cost two skill points each.
@@ -54,8 +35,8 @@ Advancement:
 		-Get:
 			Lvl.	Name
 			-------------
-			5		RHETORICAL FLOURISH (Diplomacy 8)
-			5		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
+			4		RHETORICAL FLOURISH (Diplomacy 8)
+			4		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
 			9		BACK ON YOUR FEET (Tumble 12)
 	-Skills required for prestige classes:
 		-Dread Pirate:
@@ -67,6 +48,22 @@ Advancement:
 			Move Silently 8 ranks
 			Hide 10 ranks
 			Perform (dance) 5 ranks.
+	-Even more classes?
+		-Guild Thief would be amazing, but is 3.0: http://dnd.arkalseif.info/classes/guild-thief/index.html
+			-Found some kind of pirate guild to qualify?
+		-Spymaster could be good for a dip, or maybe even more:
+			http://dnd.arkalseif.info/classes/spymaster/index.html
+	-Possible feats:
+		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
+		 https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
+			-Or the ranged version of that? How do ranged sneak attacks work?
+				-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
+			-Both would benefit from improving Concentrations, otherwise being one per encounter.
+		-Craven is _really_ a solid sneak attack feat, especially since it's based on level:
+		 http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
+		-Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
+		-Shot on the Run: https://dndtools.net/feats/players-handbook-v35--6/shot-on-the-run--2618/
+			-This then adds a damage bonus to that if you use crossbows: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
 
 
 Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention,
@@ -89,23 +86,23 @@ Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on cl
 	3 gp. remaining
 
 
-Advancement Planning:
-	-Even more classes?
-		-Guild Thief would be amazing, but is 3.0: http://dnd.arkalseif.info/classes/guild-thief/index.html
-			-Found some kind of pirate guild to qualify?
-		-Spymaster could be good for a dip, or maybe even more:
-			http://dnd.arkalseif.info/classes/spymaster/index.html
-	-Possible feats:
-		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
-		 https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
-			-Or the ranged version of that? How do ranged sneak attacks work?
-				-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
-			-Both would benefit from improving Concentrations, otherwise being one per encounter.
-		-Craven is _really_ a solid sneak attack feat, especially since it's based on level:
-		 http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
-		-Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
-		-Shot on the Run: https://dndtools.net/feats/players-handbook-v35--6/shot-on-the-run--2618/
-			-This then adds a damage bonus to that if you use crossbows: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
+Flavor:
+	-Creche raised.
+		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
+		 levels, among other things). Those peers all abandoned you, though, and their old selves,
+		 by means of the elan transcendence that is denied to you.
+		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
+			-You're not too fond of it, as a result.
+			-Sometimes "Fred the Red".
+	-Took to air shortly after leaving his home, The Nested Domains of the Enlightened Edric,
+	 seeking freedom, and distance from the portal he'd emerged from.
+		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
+		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
+			-Yep. Varani is in The Brotherhood's service as well. You met in The Nested Domains, and
+			 it was his tales of The Material Plane's vast, liberating vistas that pushed you out of
+			 the nest (lol).
+		-Since it sounds like our ship is provided by The Brotherhood, how did that go down for you?
+			-You described it in game as "like the Prisoner opening sequence": https://discord.com/channels/560915739796570113/560915739796570119/925920343271559259
 
 
 Character Design Notes:
@@ -170,7 +167,7 @@ Character Design Notes:
 		-Oh, maybe _sky_pirates instead?
 			-From what Jake says, and from Edric's influence in particular, the world, centuries
 			 later, is going to look more like Eberron than Forgotten Realms, with a subtantial
-			 magic-technilogical jump.
+			 magic-technological jump.
 			-Psionic skypirate rogue feels very right. . .
 			-Profession(Sailor) is still the skill of choice: https://discord.com/channels/560915739796570113/560915739796570119/920912643391389708
 			-Jake confirmed Climb can be subbed for Swim for airship versions of nautical prestige

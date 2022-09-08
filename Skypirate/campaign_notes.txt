@@ -1683,10 +1683,10 @@ TODO:
 		-At the thought of that many stairs, I turned to Rusty, saying, ". . . Rusty, have you ever
 		 heard of a 'piggy-back ride'?"
 		 "No?"
-		 "Perfect! We're going to practice a new technique! Here, let me clamber up onto your back.
-		  Huh, look! No hands! I bet I can even use a bow from up here!"
+		 "Perfect! We're going to practice a new technique! Here, let me clamber up onto your
+		  back. . . Huh, look! No hands! . . .I bet I can even use a bow from up here!"
 	-As we walked down, it was indeed an interminable trip down. Soon, everyone, save Rusty and
-	 myself was breathing hard.
+	 myself, was breathing hard.
 		-While we walked, Maya talked, telling us more about the matter of forged signet rings her
 		 family had tasked her with investigating.
 			-She showed an example, demonstrating how, by some complex mechanism or magic, it could
@@ -1706,7 +1706,7 @@ TODO:
 		-Greeting a dwarf standing idle out in fron of a shop, he suggested "The Crystallized
 		 Pig", a bar and inn.
 		-He also spoke of an "Old Foam Beard", whose capacity for drink was legendary.
-			-I've  got to meet this guy. He sounds like a blast.
+			-I've got to meet this guy. He sounds like a blast.
 		-In the course of this, Maya referred to me twice as "our captain". A good start on my
 		 future, that.
 	-Following the directions given, we entered The Crystallized Pig, and Maya immediately began
@@ -1746,7 +1746,7 @@ TODO:
 		  with a lawbreaker."
 		 "Well," I replied, "We could try it. I don't get the impression that the opinion most
 		  here have of outsiders could get much lower. . ."
-		 "Who is your friend?" Maya broke in and asked?
+		 "Who is your friend?" Maya broke in and asked.
 		 "Codwell. We called him, Cod, or 'Half-Beard'. Shamefully, he was born with a beard
 		  covering only half of his face. A great shame. . . but he worked hard, and earned his
 		  keep."
@@ -1792,7 +1792,7 @@ TODO:
 		-"We came back to knock some sense into one of your prisoners," I told the guard.
 		-Jade clarified that she had a method that would dispell the magic affecting Cod.
 		-Taking a glove, she smeared it with magical reagents and muttered incantations over it.
-		-Then drawing close to the bars and calling Cod over to her, she slapped him across the face
+		-Then, drawing close to the bars and calling Cod over to her, she slapped him across the face
 		 with it.
 		-Casting his eyes about at his surroundings, and then back to us, Cod asked, "What in the
 		 hells happened?"
@@ -1803,8 +1803,9 @@ TODO:
 		 "There was a. . . river of. . . arcane energy. In it, there was a. . . it looked like a
 		  ham. . . some hunk of meat."
 		-Glancing at my fellows, I asked, ". . . Are you sure your glove worked, Jade?"
-		-That elicited awkward laughs from "I've heard of a necromantic ritual," he said, "Preserving
-		 brains in jars. A river of magic could preserve and sustain something similarly. . ."
+		-That elicited awkward laughs from all of us, save Nkondi. "I've heard of a necromantic
+		 ritual," he said, "Preserving brains in jars. A river of magic could preserve and sustain
+		 something similarly. . ."
 		-Nkondi was suddenly very eager to visit this cave, and Sarge was curious too.
 		-"Visiting the local tourist attractions is all well and good, guys, but we did also solve,
 		  well, most of Cod's problems," I said. "Guard! He's in much better shape now. Are you able
@@ -1814,7 +1815,7 @@ TODO:
 		  _for_?"
 		 "A year," the guard replied, "For disturbing the peace."
 		-Nkondi then worked himself up into a good rant, saying the man had received a. . . _vision_
-		 of great danger, and asking how they could imprison this _prophet. "You would imprison
+		 of great danger, and asking how they could imprison this _prophet_. "You would imprison
 		 Moradin himself!" he finished.
 		-Somewhat to my surprise, the guard seemed a bit shaken. Perhaps he's a bit more religious
 		 than I, for he turned to the prisoner and asked him a series of questions in dwarvish.
@@ -1836,7 +1837,7 @@ TODO:
 	 erstwhile companion, while Cod immediately set into berating him.
 		-"You were going to _leave_ me there. A year!"
 		-Nkondi happily egged him on to, and joined in berating the cleric, saying, "I don't know
-		 where Moradin was too useless or you to cowardly to help. . ."
+		 whether Moradin was too useless or you to cowardly to help. . ."
 		-Much shouting amongst the dwarves ensued, with Nkondi trying to start a fight while Maya
 		 tried to calm them down, and me leaning up against the bar, new drink in hand, watching
 		 the show.
@@ -1863,15 +1864,81 @@ TODO:
 
 
 TODO:
+	-Shopping before setting out? You've got a number of items of interest below.
+		-MW Composite longbow and the haversack?
+		-_Probably_ not enough time for Jade to craft something, before visiting the cave?
+		-You have a small bit of loot from the guards to sell too.
+
+
+9/7/22:
+	-The next morning, we all slowly trickled back down to the common room for breakfast, save Jade,
+	 who Maya said was still feeling quite sick.
+	-There, between mouthfuls of excellent bacon (of provenance still unknown to me), we discussed
+	 our next move.
+	-Still intent on seeing what this "river ham" is about, we decided we'd see to provisions (and
+	 arms) for an exepedition.
+		-Maya spoke with the innkeep, asking him for recommendations for armorers and purveyors of
+		 enchantments.
+		-We then took his advice, and sought out the Vault of Miredhel, an arms merchant.
+			-We also had Rusty meet us there with the equipment from the late guards, procuring some
+			 loose change.
+			-As we walked in, there was a jerk-y elf arguing with the dwarven proprietor.
+				-He was complaining he'd been ripped off by the dwarf in question, sold a defective
+				 bow. I could see he was full of shit, though, so I jumped in on the dwarf's side
+				 of things (I _may_ also have had my eye on a discount).
+			-He talked me into a masterwork darkwood bow (530 gp.).
+			-He had a range in back, for me to try it out, and I did some schmoozing as we walked
+			 back there.
+			-Eventually I talked _him_ into a 5% discount.
+			-Maya then inquired after her own purchase, a dwarf-wrought shield, getting a darkwood
+			 piece herself.
+		-Next stop was an alchemist, then, Maya apparently being interested in some healing potions
+		 (prudent!).
+			-Appropriate for a barkeep's recommendation, the shop apparently specialized in hangover
+			 cures, so we made sure to bring a course back for Jade.
+			-Maya got some healing potions and sunrods.
+			-The alchemist also recommended a provisioner.
+		-Rusty still hadn't arrived with the equipment we meant to sell, though, so we figured we
+		 better check on him.
+			-Taking the lift up, we found Rusty arguing with the dwarf manning the top of it.
+			-He was clearly trying to shake Rusty down, demanding 100 gp. to go down it with his
+			 "freight".
+			-Maya, Nkondi, and I began to tear into him.
+				-Aghast, Maya asked the dwarf, "You don't want people below to know what you're
+				 doing up here, taking advantage of travelers. . ."
+				-"Ever seen the inside of a dwarven prison? I have. . ." I chimed in.
+				-Pretty quickly he was sputtering, and agreed to wave the fee for us, if we would
+				 just keep our mouths shut.
+				-Not content, I continued pressuring the dwarf, saying, "That's not good enough. We
+				 need some recompense for our time, here. Do you know the value of the business deal
+				 you've risked by hassling our courier?"
+				-"50 gold pieces," Nkondi finished for me, "And a finger for each gold you're short."
+				-He gave in pretty quickly, tossing us his purse, which Nkondi carefully counted.
+					-He also agreed to free lift rides, and gave us his name (at knife point),
+					 Imundos.
+		-Back down the lift, then, and off to the provisioner.
+			-Walking inside the marked shop, we were greeted by the aroma of various cured meats.
+			-Nkondi purchased a _huge_ amount of "Pemmican", having most of it delivered to the ship,
+			 to serve as rations.
+			-Aside from strange, dried meats, they also had the sort of magic bag I was looking for,
+			 and I picked up a Handy Haversack.
+	-(We then paused there, Jake being short on time, post-wedding, and several people having to
+	  bow out. We'll set out for the cave next time.)
+
+
+TODO:
+	-We still need to do XP for last session. Jake said he'd post it in Discord.
+
+
+TODO:
 	-Items:
-		-Upgrade to a longbow. Marshal gave you the proficiency.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
-		-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
 		-Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
 		-Something to deal with undead?
 			-Maybe a specific wand?
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
+		-Dex boosts too, though maybe the runner up behind Charisma.
 	-More dance numbers.
 	-Recruit more!
 		-The air elemental running your ship?
@@ -2004,6 +2071,8 @@ TODO:
 				-Perhaps an opening for The Brotherhood?
 			-Low saturation by the fruits of Edric (never saw an adamantine weapon, etc.).
 			-Interesting metal working technology, used to create ultra-light mail.
+		-Sharaar Kol:
+			-Shit, that river-brain-thing is probably right up Edric's alley.
 	-Once you get Leadership, what cohort should you get?
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
@@ -2024,9 +2093,10 @@ TODO:
 					-Chains of Disbelief is super cool, but maybe actually a downside when working
 					 with a ship's crew.
 					-Shadow Shaper might be worth the hefty price, given how it dovetails with what
-					 you do.
+					 you do. Precludes the next two options, though.
 					-Focused Specialist might be worth it: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#focused-specialist
 					-Gnome Illusionist also looks interesting, especially the first two levels:https://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist
+					-It does seem possible to take both.
 				-Sorcerers have their own variants:
 					-This list is super useful: https://srd.dndtools.org/srd/variant/variantList.html
 					-Illusion Sphere might be worth it: https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#socerer-spheres
@@ -2034,6 +2104,14 @@ TODO:
 						https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#divine-companion
 						https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#domain-access
 				-Ah, wizards having Scribe Scroll goes well with your UMD score.
+				-If a specialist wizard, what two schools do you give up?
+					-Necromancy is almost certainly one, for flavor and usefulness both. "What fun
+					 are the dead? Even the ones that think just keep going, "Flesshh. . ." or "Blud!"
+					-Abjuration is probably the other. Biggest pain is no dispels.
+				-Oh, and Gnome Illusionist, discussed above reduces your caster level by 1 for
+				 another school. It's attractive, so which one?
+					-Divination might be a good fit. Not harmed too much by the level loss, it also
+					 fits the carefree, gnomish attitude I'm imagining here.
 			-Cat familiar's +3 to Move Silently helps someone who casts invisibility, and fits a ship.
 			-Interesting applications with ships, especially flying ones.
 				-How big can you make illusions? Big enough to hide a ship in a cloud?
@@ -2052,6 +2130,9 @@ TODO:
 TODONE:
 	-Maybe get some arrows of other materials?
 		-Definitely silver, given the Shapers.
+	-Upgrade to a longbow. Marshal gave you the proficiency.
+		-Composite Longbow (Str +1) for 200? Or a masterwork one for 500?
+	-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
 
 
 TODON'T:

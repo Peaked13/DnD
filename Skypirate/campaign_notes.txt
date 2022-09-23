@@ -1870,7 +1870,7 @@ TODO:
 		-You have a small bit of loot from the guards to sell too.
 
 
-9/7/22:
+9/7/22: Squeezing Cash from Dwarves
 	-The next morning, we all slowly trickled back down to the common room for breakfast, save Jade,
 	 who Maya said was still feeling quite sick.
 	-There, between mouthfuls of excellent bacon (of provenance still unknown to me), we discussed
@@ -1927,7 +1927,7 @@ TODO:
 
 
 TODO:
-	-We still need to do XP for last session. Jake said he'd post it in Discord.
+	-(DONE!) We still need to do XP for last session. Jake said he'd post it in Discord.
 
 
 TODO:
@@ -1989,7 +1989,7 @@ TODO:
 				-Soon, from his plane, strange crystals grew (a creation of Edric's next epic spell),
 				 spreading outward from it's gates, and covering seemingly most surfaces within. It was
 				 rumored that Edric could reach anywhere the crystals did (or even that he _was_ the
-				 crystals), and also that his power grew as it did.
+				 crystals), and also that his power grew as the crystals did.
 				-Rovert, his cohort, did not ascend to divinity, as many of the others did. A man well
 				 into his middle years by the time he joined his will to Edric's, his body began failing
 				 soon into Edric's divine reign. Not entirely human, Edric feared the potential
@@ -1997,63 +1997,83 @@ TODO:
 				 more, and Rovert was all too willing. The massive slimemold-like creature that grew
 				 from his body, with it's alien intelligence, is now the story commonly cited to
 				 illustrate the danger of such things.
-		-Layers (outer to inner):
-			-The Borderlands:
-				-Studded with portals, leading to a variety of destinations.
-				-Flat and desert-like.
-				-Tribes of Thri-kreen loyal to Edric are the main inhabitants.
-				-It's also spanned by a network of canals, used for freight.
-			-About 92 layers of air beneath it, each 280' with 280' of earth and stone between each.
-				-How many is partly a function of time passed since planar creation.
-					-Growth over time defined here: https://www.d20srd.org/srd/psionic/powers/genesis.htm
-					-So, 180' radius in 180 days, than 1' more per week since.
-					-Jake previously mentioned it had been something like 1000 years.
-					-So, 180+(365-180)/7+999*365/7 = 52,297'
-						-Or, the plane is 9.9 miles in radius. Way more than I thought.
-				-How far between each layer?
-					-Google says a story is about 14'.
-					-Lets say 10 stories of building room on either side, for 20 stories between
-					 layers, or 280 ft.
-					-Hmm. . . Even with the each layer being that thick itself, that's a _ton_ of
-					 layers. 52,297/(280*2) = 93, to be exact.
-						-What kind of surface area is that?
-							-The Borderlands are 1231 square miles. Bigger than Rhode Island's 1,034,
-							 but well under Delaware's (next smallest) 1,955.
-							-Total: 4pi*r^2 + 4pi*(r-280)^2 + 4pi*(r-280*2)^2 + . . 
-								Sum from 0 to Z of 4pi*(r-280x)^2
-								where Z = 52,297/2 (plus or minus one or two)
-								In Wolfram: https://www.wolframalpha.com/input?i=sum+4pi*%2852297-280k%29%5E2+from+k+%3D+1+to+52%2C297%2F2
-							-So, 2.06128301 × 10^11 square miles
-								-Surface area of the Earth is 196,900,000 sq. miles.
-								-So, that's 1000x the surface of the Earth. . .
-								-A thousand Earths, with no point much more than 20 miles away from
-								 any other.
-			-Other layers:
-				-Vegetation?
-					-Less food cultivation that one would expect, but 1,000 years is plenty to have
-					 imported and spread all necessary vegetation and animals.
-					-
-				-Water?
-					-Probably no _huge_ bodies of it, due to problems keeping it contained in the
-					 strange gravity. Edric is also an _Earth_ diety, after all.
-					-Instead, the plane's limited water is spread throughout clearly artificial
-					 reservoirs, canals, decorative waterworks, and elaborate plumbing.
-				-Environments for more unusual psionic creatures?
-				-A layer given over to The-Slimemold-That-Was-Rovert.
-					-Formerly an inhabited layer, it was where Rovert's experimental transformation
-					 into (what was supposed to be) an Elan took place. As such, the mass of the
-					 slimemold-analog is draped over abandoned but still pristine (due to largely
-					 being adamantine) buildings.
-					-In fact, it's behavior among the abandoned structures is part of the argument
-					 for it's intelligence. It clearly displayed knowledge or understanding of the
-					 area in prioritizing growth towards food, water, or other resources.
-			-The Basilica:
-				-The several layers nearest Edric's Sanctum.
-				-It's one enormous temple complex, dedicated to Edric.
-			-Edric's Sanctum:
-				-This, the site of Edric's ascension, remains a small spherical cavity pierced
-				 through innumerable times by enormous crystals. Edric spends most of his here,
-				 meditating in the center with the crystals intersecting his form.
+			-Light in the plane is omnipresent and directionless, seemingly emanating from the air
+			 itself. Closed containers and even whole rooms are dark or fairly dim, but large
+			 volumes of air are steadily brighter, with any space bigger than a small house needing
+			 no further light to read by and the outside spaces of the layers being bright as day,
+			 constantly.
+			-Water?
+				-Probably no _huge_ bodies of it, due to problems keeping it contained in the
+				 strange gravity. Edric is also an _Earth_ diety, after all.
+				-Instead, the plane's limited water is spread throughout clearly artificial
+				 reservoirs, canals, decorative waterworks, and elaborate plumbing.
+			-Vegetation?
+				-Less food cultivation than one would expect, but 1,000 years is plenty to have
+				 imported and spread all necessary vegetation and animals.
+				-What sorts of flora and fauna thrive?
+					-Due to the omnipresent light and warmth of the plane, tropical and polar
+					 species tend to do best. Tropical stuff does well in the constant warmth,
+					 while polar species seem less disrupted than some by the lack of night.
+						-Polar fauna often still hiberanate, but in cycles that tend to drift over
+						 time, sometimes ending up with multiple distinct populations on different
+						 hibernation cycles.
+							-"Snow shrews" are popular pets on the plane, and follow this model,
+							 with different broods on different cycles having distinct (and much
+							 discussed) behaviors and colorations.
+					-City dwellers? Urban species likely do well, but metal buildings and ubiquitous
+					 surveillance probably mean limited pest species like rats.
+			-Layers (outer to inner):
+				-The Borderlands:
+					-Studded with portals, leading to a variety of destinations.
+					-Flat and desert-like.
+					-Tribes of Thri-kreen loyal to Edric are the main inhabitants.
+					-It's also spanned by a network of canals, used for freight.
+				-About 92 layers of air beneath it, each 280' with 280' of earth and stone between each.
+					-How many is partly a function of time passed since planar creation.
+						-Growth over time defined here: https://www.d20srd.org/srd/psionic/powers/genesis.htm
+						-So, 180' radius in 180 days, than 1' more per week since.
+						-Jake previously mentioned it had been something like 1000 years.
+						-So, 180+(365-180)/7+999*365/7 = 52,297'
+							-Or, the plane is 9.9 miles in radius. Way more than I thought.
+					-How far between each layer?
+						-Google says a story is about 14'.
+						-Lets say 10 stories of building room on either side, for 20 stories between
+						 layers, or 280 ft.
+						-Hmm. . . Even with the each layer being that thick itself, that's a _ton_ of
+						 layers. 52,297/(280*2) = 93, to be exact.
+							-What kind of surface area is that?
+								-The Borderlands are 1231 square miles. Bigger than Rhode Island's 1,034,
+								 but well under Delaware's (next smallest) 1,955.
+								-Total: 4pi*r^2 + 4pi*(r-280)^2 + 4pi*(r-280*2)^2 + . . 
+									Sum from 0 to Z of 4pi*(r-280x)^2
+									where Z = 52,297/2 (plus or minus one or two)
+									In Wolfram: https://www.wolframalpha.com/input?i=sum+4pi*%2852297-280k%29%5E2+from+k+%3D+1+to+52%2C297%2F2
+								-So, 2.06128301 × 10^11 square miles
+									-Surface area of the Earth is 196,900,000 sq. miles.
+									-So, that's 1000x the surface of the Earth. . .
+									-A thousand Earths, with no point much more than 20 miles away from
+									 any other.
+				-Other layers:
+					-Environments for more unusual psionic creatures?
+					-A layer given over to The-Slimemold-That-Was-Rovert.
+						-Formerly an inhabited layer, it was where Rovert's experimental transformation
+						 into (what was supposed to be) an Elan took place. As such, the mass of the
+						 slimemold-analog is draped over abandoned but still pristine (due to largely
+						 being adamantine) buildings.
+						-In fact, it's behavior among the abandoned structures is part of the argument
+						 for it's intelligence. It clearly displayed knowledge or understanding of the
+						 area in prioritizing growth towards food, water, or other resources.
+							-Tests of this capability uncovered evidence that it began to seek empty
+							 areas that would be seeded with bait _even before the experiment was
+							 commisioned_, suggesting that it's continued psionic capabilities include
+							 precognition.
+				-The Basilica:
+					-The several layers nearest Edric's Sanctum.
+					-It's one enormous temple complex, dedicated to Edric.
+				-Edric's Sanctum:
+					-This, the site of Edric's ascension, remains a small spherical cavity pierced
+					 through innumerable times by enormous crystals. Edric spends most of his here,
+					 meditating in the center with the crystals intersecting his form.
 		-Inputs (what he trades for or otherwise consumes):
 			-Magic, souls, and organics.
 		-Outputs (what he produces, for himself and others):
@@ -2074,6 +2094,7 @@ TODO:
 		-Sharaar Kol:
 			-Shit, that river-brain-thing is probably right up Edric's alley.
 	-Once you get Leadership, what cohort should you get?
+		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
 				-+1 to Illusion spell DCs.
@@ -2113,6 +2134,8 @@ TODO:
 					-Divination might be a good fit. Not harmed too much by the level loss, it also
 					 fits the carefree, gnomish attitude I'm imagining here.
 			-Cat familiar's +3 to Move Silently helps someone who casts invisibility, and fits a ship.
+				-Oh, this list is amazing: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#variant-familiars
+				-Hummingbird, for +4 Initiative, definitely rivals cat.
 			-Interesting applications with ships, especially flying ones.
 				-How big can you make illusions? Big enough to hide a ship in a cloud?
 					-1st level spell Silent Image is plenty big, with a duration of Concentration!

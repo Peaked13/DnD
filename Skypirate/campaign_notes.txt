@@ -2344,6 +2344,10 @@ TODO:
 			-Interesting metal working technology, used to create ultra-light mail.
 		-Sharaar Kol:
 			-Shit, that river-brain-thing is probably right up Edric's alley.
+            -There were some other mind-control-y shit down there too, like the rats.
+				-Both they and the brain felt like psionics.
+			-A river of magic isn't really his domain, but it _is_ something he'd be plenty happy
+			 to _consume_.
 	-Once you get Leadership, what cohort should you get?
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?
@@ -2407,6 +2411,8 @@ TODONE:
 	-Upgrade to a longbow. Marshal gave you the proficiency.
 		-Composite Longbow (Str +1) for 200? Or a masterwork one for 500?
 	-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
+    -Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
+        -You rolled like shit, but it's at least 20k new, enough to become a Dread Pirate.
 
 
 TODON'T:

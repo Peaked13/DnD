@@ -7,13 +7,13 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 2	Marshal	1		+0		8														All Knowledge as class skills!
 3	Rogue 2			+1		12				Mobility
 4	Rogue 3			+2		12
-6	Rogue 4			+3		12														First level Dread Pirate is remotely possible, due to skills.
-5	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse.
+5	Rogue 4			+3		12														First level Dread Pirate is remotely possible, due to skills.
+6	Swashbuckler 1	+4,		8				Leadership								Swashbuckler for free Weapon Finesse.
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
-8	Dread Pirate 2																	Probably choosing "dishonorable"
+8	Dread Pirate 2																	Probably choosing "honorable", as eventual Fight to the Death is amazing with your Charisma.
 9	Dread Pirate 3							Combat Reflexes
 10	Shadowdancer 1																	Could have it as soon as 7, if Leadership is delayed until 9.
-11	Shadowdancer 2 for Darkvision? Or back to Dread Pirate?
+11	Shadowdancer 2 for Darkvision? Or back to Dread Pirate? Oh, you have Darkvision now already!
 12											1
 
 

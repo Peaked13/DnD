@@ -1579,7 +1579,7 @@ TODO:
 			-I explained our trouble, and our planned departure from the city aboard the airship.
 			-She seemed tempted to go with us, but also reluctant to abandon her family in an
 			 apparent hour of need.
-				-They'd been tasked with tracking down an influx of counterfit currency, and Maya
+				-They'd been tasked with tracking down an influx of counterfeit currency, and Maya
 				 felt she was unable to leave them until the matter was resolved.
 				-Instead, she gave me a coin bearing the emblem of her house, saying that she would
 				 be able to Teleport to it once she was free.
@@ -1603,7 +1603,7 @@ TODO:
 		-I got her attention, and let her know it was me beneath the disguise (a thing she _claimed_
 		 she already knew. . .).
 		-We returned to the bar, to catch up with her.
-			-It seemed she was now amenable to leaving, and that her pursuit of the counterfiters
+			-It seemed she was now amenable to leaving, and that her pursuit of the counterfeiters
 			 was now going to lead her to a dwarven city, one she'd very much like to visit with us.
 		-So, we discussed the plan. Figuring we'd try talking first, we came up with a ruse to claim
 		 Maya's family had just purchased the impounded ship.
@@ -1955,7 +1955,7 @@ TODO:
             -Their veins also pulsed with a greenish light.
         -As they scurried towards us, one of them snapping at Sarge, I stepped behind our scaled
          defender, and loosed an arrow at the scaly thing snapping at him.
-        -The arrow struck home, wounding the dog-sized beast, but the woumd also sprayed something
+        -The arrow struck home, wounding the dog-sized beast, but the wound also sprayed something
          noxious looking, eating into the stone at Sarge's feet, sizzling.
         -Sarge whipped a frosty magical orb at it for it's trouble.
         -As the second one joined the fray, electricity began to arc between the two lizards,
@@ -1996,7 +1996,7 @@ TODO:
          mistake. The others were skeptical, and Nkondi wasn't able to get through after giving it
          a shot.
         -Jade confidently asserted that such construction usually includes escape tunnels and other
-         back up passages, for just such problems, and, tapping away at the filthy flagstone floor,
+         back-up passages, for just such problems, and, tapping away at the filthy flagstone floor,
          she suggested we try digging downward.
         -Maya wasn't too keen on labor, and kept volunteering to "keep watch", but _did_ have a 
          pickaxe and shovel, which the rest of us took turns digging.
@@ -2014,7 +2014,7 @@ TODO:
         -As we walked back through the caverns, a huge insect of some kind sprung up from the loose
          rubble at Sarge's feet, biting down on his arm.
         -Maya blasted it in response, and I stabbed it's brain with my brain.
-        -That last pissed it _right_ off, and, tunnelling into the loose debris of the tunnel floor,
+        -That last pissed it _right_ off, and, tunneling into the loose debris of the tunnel floor,
          it burst up from beneath my feet, crushing me around the waist with one of it's enormous
          claws.
         -While I was shouting curses, my fellows battered away at it (thankfully missing me), and a
@@ -2047,7 +2047,7 @@ TODO:
         -All through that, the rats bit at Jade, beginning to devour the stunned artificer.
         -Mumbling an apology to Jade, Sarge produced a more effective _fan_ of flames, with another
          spell.
-            -_That_ finally wiped out a huge swathe of the rats, though some still remained, and A
+            -_That_ finally wiped out a huge swathe of the rats, though some still remained, and a
              badly burned Jade crumpled.
         -Maya then ran forward, pulling Jade out of the swarm of rats, and towards us.
         -Sarge and Maya then saw to healing Jade, while the rats unfortunately swarmed Maya.
@@ -2067,7 +2067,7 @@ TODO:
              Common.
                 -Maya mentioned something about the logo being associated with a manufacturer of
                  airship weapons.
-            -Maya collected both the torch and the gems.
+            -Maya was surprisingly quick in collecting both the torch and the gems, for a noblewoman.
             -As she did so, she also started. Pawing at the wall, a twist of one stone revealed a
              hidden passage.
     -As the hidden passage opened, a torrent of noise was released, like rushing water.
@@ -2092,8 +2092,9 @@ TODO:
         -Maya then pointed out a glowing glyph on the back wall of the chamber, across the torrent,
          and, shouting that, "We should destroy the glyph!" she rushed to the river's edge, near one
          of the pieces of floating stonework.
-        -Nkondi then cast a spell of his own, and Jade, quick as a striking snake, launched another
-         bolt into the liquid, at where the brain had submerged itself.
+        -Nkondi then cast a spell of his own, and Jade, touched by the magic and suddenly quick as
+		 a striking snake, launched another bolt into the liquid, at where the brain had submerged
+		 itself.
         -Sarge, in front of me, was acting decidedly strange. He kept making as if to move, only the
          jerk back, as if warring with himself.
         -Remember the jailed dwarf's tale, I called out, "Sarge is acting strangely! Remember the
@@ -2110,7 +2111,7 @@ TODO:
             -The world around us. . . shifted, the river and chambers around us replaced with a
              slope covered in immaculately white snow.
                 -Can Sarge even _do_ that? Or does this have something to do with the strangeness
-                 of arcane magic here.
+                 of arcane magic here?
         -Well, the river-ham-brain now being out of sight. . . somewhere, it's river replaced by
          snow-covered stone, I elected to sneak up behind our enscrolled dragon-man, and shove him.
             -I did manage to creep up on him, but shoving with all the force I could muster barely
@@ -2128,7 +2129,7 @@ TODO:
         -I ducked behind one of the pylons, hiding and readying my bow for another shot.
         -Meanwhile, I could see Maya scraping away at the glyph with her sickle, finally earning a
          flash of light, as the glyph dissolved.
-        -Bare moments late, a glowing humanoid appeared, radiant sigils circling her head.
+        -Bare moments later, a glowing humanoid appeared, radiant sigils circling her head.
         -"This area is being quarantined, on behalf of the church of Mystra. Leave at once!" the
          figure intoned.
             -She then began to mumble a bit, saying something about how, "Something must have gone
@@ -2153,7 +2154,7 @@ TODO:
               your notice until Maya scraped that glyph off the wall. . . We've all done a lot of
               good here, and could easily all walk away happy."
              "Fifty thousand gold worth of rubies should do it," Nkondi suggested, finishing the
-             routine.
+              routine.
              "_Fifty thousand_?!?" she sputtered, "That's too much!"
              "Well, you said you followed Mystra?" I asked, looking to compromise. "What of magic?
               Not all rewards gleam, and you follow the goddess of the arcane. . ."
@@ -2170,14 +2171,200 @@ TODO:
              Maya. "Despite being. . . demanding, you've were able to make it here. Our church has
              uses for those with your skills of infiltration. With that marked stone, I can contact
              you again, if we have need of your services. . . Now, please, leave this place."
-             "It's been a pleasure doing business with you!" I replied. "Watch out for floating
-             brains!" I called out over my shoulder, as we turned and walked back out of the
-             passageway.
+             "It's been a pleasure doing business with you!" I replied.
+			-"Watch out for floating brains!" I called out over my shoulder, as we turned and walked
+			 back out of the passageway.
 
 
 TODO:
-    -Darkvision! Record it somewhere, ask about range, whether it's a permanent spell, etc.
+    -(Done!) Darkvision! Record it somewhere, ask about range, whether it's a permanent spell, etc.
         -Probably removes the temptation to take a second level of Shadowdancer.
+
+
+10/5/22:
+	-Whatever happened to import some snow, it also disappeared a good chunk of the caves and earth
+	 around us, leaving the area we were in open to the sky.
+		-Well, time to signal Rusty!
+		-Nkondi magicked up some kind of buzzard, and delivered Rusty a note.
+		-While the Chosen of Mystra examined the area and inscribed various runes on things, Rusty
+		 brought the airship in low and lowered some rope ladders.
+	-Once back aboard the airship, we discussed where we'd go next. Maya still had the business of
+	 the signet rings in Sharaar Kol, so we took the ship back up and headed again in the direction
+	 of the dwarven city.
+	-It was a couple days' flight back, and we arrived at the city's air port mid-morning.
+	-Soon, we were back down to the trade city, shopping and drinking.
+		-First step was to unload these gems. They seemed like they were worth a decent chunk of
+		 change, but probably more for their historical significance, necessitating a particular
+		 buyer.
+		-I wasn't sure where to go, but Maya claimed to know of a local scholar, a student of
+		 history, but one who resides in Sharaar Kol's _lower_ city.
+		-So, we walked up to the passage to the lower city, and asked it's guards.
+		-They told us outsiders could gain access by visiting the customs house, a short walk away.
+		-Thanking them, that's just where we went.
+			-There, to access the lower city, we were made to swear three oaths on various sacred
+			 objects in the office, promising to do no violence but in self-defense, to obey the
+			 king and leave when asked, and to not steal during our visit.
+			-As I swore each oath, I could feel magic washing over me. Clearly there was some. . .
+			 enforcement, behind these oaths.
+			-After swearing, and a lot of paperwork, we were each given a green, glowing badge to
+			 wear, one which we were told would last a week, and need to be renewed thereafter.
+			-Thanking the customs agent, we then headed into the lower city.
+	-The lower city proved to be dominated by a massive, mechanized forge.
+		-Maya, meanwhile, proved to not know where we were going, but at least knew a name.
+		-So, we asked around the lower city, and soon got directions to our scholar.
+		-Entering his shop, we could see we came to the right place. Maya pointed at some diagrams
+		 and a strange, brass device on display, which bore a similar logo to the gem.
+		-The proprietor proved a bit cantankerous, but we were able to talk him into a paying a
+		 premium for the gems, 550 gold apiece.
+		-We did that in part by raising the prospect of future expeditions that he'd be "funding",
+		 potentially uncovering more such, if the matter proved lucrative. . .
+			-He seemed somewhat receptive to the idea.
+		-Maya also took a moment to speak to the man about counterfeiters, seeking a lead on her
+		 rings.
+			-That bore some fruit, with him mentioning a group, the "Quick Hammers", who'd been
+			 accused of. . . mislabeling, in the past.
+		-We also took the opportunity to pawn that everburning torch off on the guy for more than
+		 it's worth, playing up it's "historical significance" as well.
+	-Walking out of the shop, I was in a great mood, running gold through my hands.
+		-"Well, we made out quite well!" I said."Here's your shares folks. . . Wait, where's
+		  Nkondi?"
+		-He was nowhere to be found. Ominously, though, there were a lot of guards moving around
+		 with some haste on the streets.
+		-Uh oh. I questioned whether we should run towards or away from this trouble, but most of
+		 the others didn't want Nkondi out of sight too long.
+		-Asking around didn't reassure me. Apparently some "pale, babbling man" had taken someone
+		 hostage. . .
+		-Hmm. . . now I was definitely leaning towards running in the opposite direction, or at
+		 least exercising some discretion. In fact, we could go hole up in a bar! _Real_ discreet.
+		-Sarge took that and ran with it, saying, "Yeah. . . we could find a cop bar, see if we
+		 hear anything about what's going on. . ."
+		 "Uh, yeah! Exactly what I was getting at. . ."
+		-I then sought out a relatively idle guard, asking him for a bar recommendation, whatever
+		 _he_ likes. . .
+		-The guard steered us to a place called "The Plane Tankard", apparently specializing in
+		 exotic ales.
+		-Thanking him and heading there, my ruse paid off: the place was indeed full of off-duty
+		 guards.
+		-I asked the barkeep there for a recommendation, winding up with a round of some vile
+		 Abyssal ale, albeit one that turned our eyes a pleasing shade of fiery red.
+		-I set into drinking, and Maya got herself set up to perform in the tavern, talking with
+		 the barkeep, and then telling a story, with accompaniment, for the tavern's patrons.
+			-Some historical tale, touching on Sharaar Kol, it seemed to get a welcome reception.
+			-Afterwards, she'd won several dwarven admirers. She spent some time talkind with them,
+			 then came back with news.
+			-She'd learned that there were rumors among the guards that these Quick Hammers had
+			 bribed guard captain, which is why they remain in operation.
+			-Perhaps we could look into this, discover some proof, and rob the miscreants of their
+			 patronage and protection.
+			-She'd also heard that the king can free us from the oaths required to get us to the
+			 lower city, if he could be convinced to support the investigation.
+		-Before we could take that idea much further, though, a guard rushed in, calling up the
+		 off-duty guards, for some emergency. "He cut off his ear!" the frantic guard shouted.
+			-Ed's crystal cock, this was turning into a mess. I wanted out of the splash zone.
+		-Well, we (unwisely) followed the guards, who rushed to a scrum of their fellows gathered
+		 in the temple district.
+			-From their shouted orders, translated and summarized Maya and Jade, Nkondi had taken
+			 a high priest of Moradin hostage, demanding the priest's weight in platinum in return,
+			 because. . . the city is corrupt or something?
+			-Yep, sounds like Nkondi.
+		-My companions thought they could perhaps resolve this peacefully (I had my doubts), and
+		 so we sought out where the kidnapping was said to have taken place, hoping to track down
+		 Nkondi (his ransom demands coming via notes discovered only after he'd gone).
+			-Soon, we were following foot prints that suddenly ended, and looking about at nearby
+			 magical auras.
+			-Jade pronounced that there was a faint necromantic aura in the area, something she
+			 claimed was residue from the "Sunstroke" spell. From her description of how it
+			 "dehydrates" it's victims, that does sound like Nkondi.
+			-"And a transmutation one!" Maya chimed in. "Traces of something related to
+			  concealment. . ."
+			-Following some traces of the latter, we wound up a tunnel into the rock of the
+			 mountain, apparently a circuitous route up towards the airship docks. . .
+			-Shit. Pale motherfucker better not steal my boat. . .
+		-Rushing up to the airship docks, we found several guards strewn about, passed out, and
+		 I began to run for my ship.
+			-I did a quick look around the ship, though, didn't turn up Nkondi. "What about those
+			 of you who can see magic?" I asked. "Anything?"
+			-Maya and Jade just continued carefully inspecting the ship and it's contents.
+			-Eventually, Maya called my name, across the deck from me.
+			 "Yes? Find something?"
+			 "I found Nkondi."
+			 "What?!? Where?"
+			-Nkondi then stood up from a barrel near Maya, saying, "Good. You're hear. Tell me, how
+			  much do you think _this_ one is worth?" as he gestured to Maya.
+			-. . . about 1,000 platinum, if I had to guess. . . I looked rather thoughtful. Still,
+			 I said, "It was rather bad form pulling something like this. . . without talking to the
+			  Captain."
+			 "If I'd asked, you would have said no. Now, you're already accomplishes, and _have_ to
+			  join me in this."
+			-I didn't respond. . . verbally. Instead, an audible hum began to grow around me, but
+			 Nkondi appeared to shake off my attempt to crush his mind. "I've had _enough_ of being
+			  told what to do!" I shouted.
+			-My other companions quickly joined me in the attack.
+			-Nkondi, for his part, tried to grab at Maya's sickle, but she shoved him and he went
+			 sprawling.
+			-I loosed shots at Nkondi as I dove for cover. Taking a quick breather behind it,
+			 though, I noticed I could hear an irregular. . . clicking, coming from below decks.
+			-The source was quickly revealed as a 7' tall knife-weilding insect lept out from the
+			 deck's hatch, and began to furiously slash Nkondi to pieces.
+				-Well, huh.
+			-I was still hidden, and figured I'd give some thought to the situation while I could.
+			-Peeking out, the insect stood there, chittering arythmically, in what might be a
+			 language. In a moment, though, it began to dig through the Nkondi chunks, shaking them
+			 free from Nkondi's clothes and other belongings.
+			-It then looked up at those visible, and divied those belongings up into five piles.
+			-Seeing those signs of commerce, I emerged from hiding and strolled towards the
+			 creature. Looks like I can work with this. . .
+			-As I approached, though, the bug whirled to face me and rushed over. . . sniffing at
+			 me?
+			-"Well, hello! Thanks for the help, there! Now, what are you and what are you doing on
+			  my ship?"
+			 "You queen?" the thing responded.
+			 "Ah, well, I do like to think that I've got a rather regal bearing, yes. But, no one
+			  has ever named me 'queen'."
+			 "This is your hive?"
+			 "Oh! I think I see what you mean. Yeah, this is my ship."
+			 "You are queen. I join you?"
+			 "Well, you _did_ just create an opening _and_ prove your worth while doing it. I
+			  wouldn't mind having something like yourself between me and the enemy. . ."
+			 "Yes. Protect queen."
+			 "OK, yeah, I can work with this. . ."
+			 "To-Cao", it said, pointing to itself.
+			 "Fred the Red!" I said, bowing. "A pleasure!"
+			-While I was having the hear to heart, though, dwarven guards were rushing across the
+			 docks, towards are ship.
+				-Running up the gangplank, they took in the sight of Sarge, who had walked over to
+				 the priest and was tending to his injuries, while I pointed at the pile of Nkondi-
+				 chunks, saying, "There's your perpetrator. . ."
+				-They of course had questions for us.
+					-We explained that, hearing of the kidnapping and the description of it's
+					 culprit, we suspected our "deckhand", and, fearing it's theft, rushed to our
+					 ship.
+				-They were pretty willing to accept our answers, and we soon saw why, as they
+				 ushered forward another priest, to question Nkondi's corpse, via a spell.
+					-His answers, truth likely compelled of his spirit, quite nicely exonerated us.
+				-Still, they insisted we come back to their guardpost, to answer a few more
+				 questions, eliciting mostly compliant shrugs from the lot of us.
+				-"Is the, uh, big cricket with you?" one of the guards asked.
+				 "He's a. . . new acquaintance," I said, "But he witnessed the end of things. Bring
+				  him along."
+					-If To-Cao is as good as his word, good to have him watching my back, there.
+			-Following them back to their guard post, where they had us swear yet another oath, this
+			 time one to speak truly.
+				-We agreed, but what followed was a series of careful evasions, mostly on Maya's and
+				 my parts, in which we successfully cast Nkondi as a barely known deckhand, and
+				 ourselves as upstanding traders who had _nothing_ to do with the recent troubles in
+				 our last port of Sasserine.
+	-Walking out of the guard post, I turned to the others and said, "Well! That went about as well
+	  as could be expect! As our next order of business, I guess we have more loot to attend to!
+	  Then, some spending money in hand, well. . . I'm not sure, is a funeral or celebration to
+	  called for?"
+		-I imagine the answering silence was them stunned by my brilliant leadership in these trying
+		 times.
+
+
+TODO:
+	-Do some shopping during downtime!
+		-Get the buckler.
 
 
 TODO:
@@ -2344,10 +2531,13 @@ TODO:
 			-Interesting metal working technology, used to create ultra-light mail.
 		-Sharaar Kol:
 			-Shit, that river-brain-thing is probably right up Edric's alley.
+				-We think we left it encased in rock, where the magic river used to be before that
+				 wild magic planar swap happened.
             -There were some other mind-control-y shit down there too, like the rats.
 				-Both they and the brain felt like psionics.
 			-A river of magic isn't really his domain, but it _is_ something he'd be plenty happy
-			 to _consume_.
+			 to _consume_. If that can be worked into items. . .
+				-It might now be on the plane of Celestia.
 	-Once you get Leadership, what cohort should you get?
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?
@@ -2396,6 +2586,8 @@ TODO:
 					-1st level spell Silent Image is plenty big, with a duration of Concentration!
 					-Ah, but can an illusion _follow_ a ship? Silent Image seems to have a static
 					 location. _Maybe_ tortured logic would consider a ship a location. . .
+						-Seems like it's not a settled question: https://rpg.stackexchange.com/questions/195428/can-the-permanent-image-spell-move-with-the-caster
+						-Thus, probably a DM call.
 			-Illusionist is a great fit for social rogue.
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
@@ -2403,6 +2595,10 @@ TODO:
 	-What about followers?
 		-Dread Pirate will double them at it's 10th level.
 		-You'll have eight level ones if you take it right at 6th level, even without Charisma buffs.
+		-See "Recruit more" for notes about air elemental followers.
+		-Some kind of "air bike" concept seems attractive, small 1 or 2 man airships.
+			-Perhaps alchemically armed? A swarm of these things hurling alchemist fire seems like
+			 a major threat to airships.
 
 
 TODONE:

@@ -27,6 +27,10 @@ Flaws (compensating for +2 LA):
 		 exploit.
 
 
+Active Permanent Spells:
+	Darkvision 60': https://www.d20srd.org/srd/spells/darkvision.htm
+
+
 Advancement:
 	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html
 		-They cost two skill points each.
@@ -53,12 +57,15 @@ Advancement:
 			-Found some kind of pirate guild to qualify?
 		-Spymaster could be good for a dip, or maybe even more:
 			http://dnd.arkalseif.info/classes/spymaster/index.html
+		-The way a bard's Inspire courage stacks with Dread Pirate's Rally the Crew could make a one
+		 level dip into bard worth it to get a further +1 to attack and damage for that ability.
 	-Possible feats:
 		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
 		 https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
 			-Or the ranged version of that? How do ranged sneak attacks work?
 				-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
-			-Both would benefit from improving Concentrations, otherwise being one per encounter.
+			-Both would benefit from improving Concentration, otherwise being one per encounter.
+				-Items are an option for that.
 		-Craven is _really_ a solid sneak attack feat, especially since it's based on level:
 		 http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
 		-Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/

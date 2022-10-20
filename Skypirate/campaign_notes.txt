@@ -2226,7 +2226,7 @@ TODO:
 		-We also took the opportunity to pawn that everburning torch off on the guy for more than
 		 it's worth, playing up it's "historical significance" as well.
 	-Walking out of the shop, I was in a great mood, running gold through my hands.
-		-"Well, we made out quite well!" I said."Here's your shares folks. . . Wait, where's
+		-"Well, we made out quite well!" I said. "Here's your shares folks. . . Wait, where's
 		  Nkondi?"
 		-He was nowhere to be found. Ominously, though, there were a lot of guards moving around
 		 with some haste on the streets.
@@ -2250,25 +2250,24 @@ TODO:
 		-I set into drinking, and Maya got herself set up to perform in the tavern, talking with
 		 the barkeep, and then telling a story, with accompaniment, for the tavern's patrons.
 			-Some historical tale, touching on Sharaar Kol, it seemed to get a welcome reception.
-			-Afterwards, she'd won several dwarven admirers. She spent some time talkind with them,
+			-Afterwards, she'd won several dwarven admirers. She spent some time talking with them,
 			 then came back with news.
 			-She'd learned that there were rumors among the guards that these Quick Hammers had
-			 bribed guard captain, which is why they remain in operation.
+			 bribed the guard captain, which is why they remain in operation.
 			-Perhaps we could look into this, discover some proof, and rob the miscreants of their
 			 patronage and protection.
 			-She'd also heard that the king can free us from the oaths required to get us to the
 			 lower city, if he could be convinced to support the investigation.
 		-Before we could take that idea much further, though, a guard rushed in, calling up the
 		 off-duty guards, for some emergency. "He cut off his ear!" the frantic guard shouted.
-			-Ed's crystal cock, this was turning into a mess. I wanted out of the splash zone.
+			-'Dric's crystal cock! This was turning into a mess. I wanted out of the splash zone.
 		-Well, we (unwisely) followed the guards, who rushed to a scrum of their fellows gathered
 		 in the temple district.
 			-From their shouted orders, translated and summarized Maya and Jade, Nkondi had taken
 			 a high priest of Moradin hostage, demanding the priest's weight in platinum in return,
 			 because. . . the city is corrupt or something?
 			-Yep, sounds like Nkondi.
-		-My companions thought they could perhaps resolve this peacefully (I had my doubts), and
-		 so we sought out where the kidnapping was said to have taken place, hoping to track down
+		-So we sought out where the kidnapping was said to have taken place, hoping to track down
 		 Nkondi (his ransom demands coming via notes discovered only after he'd gone).
 			-Soon, we were following foot prints that suddenly ended, and looking about at nearby
 			 magical auras.
@@ -2289,12 +2288,12 @@ TODO:
 			 "Yes? Find something?"
 			 "I found Nkondi."
 			 "What?!? Where?"
-			-Nkondi then stood up from a barrel near Maya, saying, "Good. You're hear. Tell me, how
+			-Nkondi then stood up from a barrel near Maya, saying, "Good. You're here. Tell me, how
 			  much do you think _this_ one is worth?" as he gestured to Maya.
-			-. . . about 1,000 platinum, if I had to guess. . . I looked rather thoughtful. Still,
+			-". . . about 1,000 platinum, if I had to guess. . ." I looked rather thoughtful. Still,
 			 I said, "It was rather bad form pulling something like this. . . without talking to the
 			  Captain."
-			 "If I'd asked, you would have said no. Now, you're already accomplishes, and _have_ to
+			 "If I'd asked, you would have said no. Now, you're already accomplices, and _have_ to
 			  join me in this."
 			-I didn't respond. . . verbally. Instead, an audible hum began to grow around me, but
 			 Nkondi appeared to shake off my attempt to crush his mind. "I've had _enough_ of being
@@ -2355,7 +2354,7 @@ TODO:
 				 ourselves as upstanding traders who had _nothing_ to do with the recent troubles in
 				 our last port of Sasserine.
 	-Walking out of the guard post, I turned to the others and said, "Well! That went about as well
-	  as could be expect! As our next order of business, I guess we have more loot to attend to!
+	  as could be expected! As our next order of business, I guess we have more loot to attend to!
 	  Then, some spending money in hand, well. . . I'm not sure, is a funeral or celebration to
 	  called for?"
 		-I imagine the answering silence was them stunned by my brilliant leadership in these trying
@@ -2364,7 +2363,187 @@ TODO:
 
 TODO:
 	-Do some shopping during downtime!
-		-Get the buckler.
+		-(DONE!) Get the buckler.
+			-Got a _+1_ buckler approved. Spend the gold and apply it!
+
+
+10/19/22:
+	-We decided to spend a few days hanging around town.
+		-Maya also suggested some relaxation might be prudent. . . spacing out our exploits a bit,
+		 lest we get run out of _another_ city.
+		-Jade wanted to do some magic crafting, and requested some inpiration and oversight from
+		 the captain, charming muse that I am.
+			-To-Cao and I accompanied Jade on a supply run, to pick up more magic reagents.
+			-While we were out, Jade suddenly paused in a square, staring off into space.
+			-She's _normally_ pretty spacey, but this was a bit much, even for her.
+			-"Jade? What's going on?" I asked.
+			 "Someone is. . . sending me a message," she responded.
+			 "Huh? Oh, some kind of magic?"
+			 She nodded, and said, "I'm not sure who's sending it, though."
+			 "Well, can't you see magic? With that monocole or something?"
+			 "Oh! Yeah, here. . ."
+			-She then set about looking around with her monocole, eventually pointing down one of
+			 the streets.
+			 "Lead the way, Jade!" I said.
+			-Following her, she led us to a stone apartment building. Trying it, though, the door
+			 was locked.
+			-"I can help with this," To-Cao volunteered. "I will grab you two and jump up."
+			 "Uh. . ." Jade responded, "Do you maybe have some rope or something like that instead?"
+			-To-Cao nodded curtly, and drew out a coil from his pack. Stepping back a bit, he took
+			 a running leap up onto the side of the building, hanging from a window ledge with his
+			 claws.
+			-That was rapidly beginning to attract some attention from passerby, though, so I
+			 stepped in. Addressing those who'd stopped and begun to whisper, I said, "Hi folks!
+			 Nothing to worry about here! This is the trial run of our window cleaning service!"
+			-I sold it pretty well, and soon they were nodding and murmering about how, "Oh! Yeah,
+			 the windows down here _do_ get filthy. All that gray soot from the forge! How much are
+			 you guys charging?"
+			-Soon, the onlookers were wandering off, with a few agreeing to leave word at the inn
+			 we'd stayed at, to hire us once we're fully open for business. . .
+			-As that calmed down, I turned to Jade and asked, "So, where _exactly_ was that magic
+			 coming from again.
+			-She pointed to a window on the fifth floor, and I relayed to same to our resident
+			 mantis man, saying, "To-Cao! That's the customer's window over there!"
+			-To-Cao attempted to leap from his perch to that window, but missed, and fell to the
+			 cobbles below.
+			-I and several onlookers rushed over to him, and I reassured them that we had healing
+			 magic for just such accidents. Soon, with my healing belt, I had him back on his. . .
+			 legs, I guess?
+			-He then made several more attempts, each similarly unsuccessful despite his nimbleness,
+			 though thankfully less injurious. Inscrutable though the insect is, it was still quite
+			 clear that he was growing _very_ frustrated.
+			-While that was all going on, _I_ began to hear. . . whispers. Presumably whatever
+			 spell Jade had heard. We had a conversation: https://discord.com/channels/@me/560920165383143425/1032450956966764586
+				DMJake — Today at 7:31 PM
+				Your friend doesn't listen very well
+				maybe you will be more reasonable
+				I've seen evidence that your group can do things, maybe messy, but useful
+				Peaked — Today at 7:36 PM
+				We're indeed quite capable. New business, though, goes through me. What have you got in mind?
+				DMJake — Today at 7:37 PM
+				Your friend makes me magic items, I pay him. Maybe I make friends with some politicians in Sasserine?
+				It would be a shame if something were to happen to that ship of yours
+				I don't want that to happen
+				Peaked — Today at 7:39 PM
+				(No further response from me, I think.)
+			-While I grappled with that, someone had shut from within the window To-Cao had been
+			 aiming for.
+			-He wasn't going to let that stop him and, finally making his second jump successfully,
+			 he crashed through the glass, to the sound of shouting from inside the window.
+			-That shouting quickly escalated to a dwarf leaning out the window, yelling "Guards!
+			 Guards!"
+			-A group of heavily armored guards was soon shoving it's way through the crowd and
+			 towards the building, while I and Jade sauntered off, in the other direction, whistling.
+			-To-Cao soon emerged from the buidings door, where he was apprehended by the guards.
+			-After a brief discussion, they led him away, down the street and towards both us and
+			 a nearby guard post.
+			-As they walked past us, To-Cao locked eyes with me, and began to chitter.
+			-Seeing this, the guards all turned to look at me as well. . .
+			-Well, so much for evading notice. "Oh! Are you taking him to the hospital?" I asked them.
+			 "Queen?" asked me.
+			 "Are you who he's talking about?" a guard then asked too.
+			 "Yeah, yeah, he works for me. We were rushing to get him some help! After the accident!"
+			 "The accident? This creature was caught breaking into a home!" the guard said.
+			 "Oh! No, this is all a big misunderstanding," I bluffed. "We're _window washers_. He
+			  was setting up our rigging when he slipped, and crashed through the window! We ran
+			  off in search of a priest! Though, To-Cao, looking at you, you're in pretty good shape
+			  for all that glass! Some perks to that carapace, huh?"
+			-The guard then interrupted my rambling, saying, "Well, whatever you were doing here,
+			 he's going to have to come to the station. We'll discuss the matter further, there. . ."
+			 "Sure, sure," I said. "I'll come with. Jade, go let the rest of. . . the company know
+			  what happened."
+			 She nodded in response, and left.
+			-They led us over to a guard post, where the ranking officer on duty recognized us,
+			 saying, "Wait, that's the creature the was involved in the high priest's kidnapping!"
+			 "The creature that _saved_ the high priest," I clarified.
+			 "Well, hmph, I guess we'll see about that, now that he's breaking into buildings!"
+			 "Breaking in?!?" I protested. "We were washing windows! I was helping to set him up
+			  with gainful employment, utilizing his. . . unique talents. There was an accident,
+			  though. . ."
+			-I argued a while further with the guards, who wanted us to remain here while they
+			 fetched the building's owner and got statemens, insisting also that To-Cao stay in one
+			 of the cells.
+			-While I waited there, pondering my next move, I began to receive some more magic
+			 messages: https://discord.com/channels/@me/560920165383143425/1032458001254195261
+				DMJake — Today at 7:59 PM
+				You get a new whisper in your head, you know the guard captain is a friend
+				Peaked — Today at 8:06 PM
+				I do like working with friends! You've rather started things off on the wrong foot, though, making threats. Fortunately, here's your opportunity for a showing of good faith. . .
+				DMJake — Today at 8:08 PM
+				I don't like to make threats, but you got so aggressive. How do I know you'll keep your end of the bargain?
+				Peaked — Today at 8:10 PM
+				You don't, and can't. Hence the need for "good faith". Business requires a degree of trust, after all. (Diplomacy check?)
+				DMJake — Today at 8:10 PM
+				yup
+				Peaked — Today at 8:10 PM
+				33
+				DMJake — Today at 8:11 PM
+				Fair enough, your friend will be free within the hour
+			-The voice in my head was a good as it's word, and the guards soon released To-Cao from
+			 his cell and us from the station, after collecting a fee for the damages.
+				-"You're going to be paying _at least_ half of this," I grumbled to To-Cao.
+			-The rest of the crew met us outside the guard post, having apparently come to offer us
+			 aid.
+			-"The matter is resolved for now," I said, "But Jade never did get her materials. How
+			  about you two, Maya and Sarge, accompany her to the store, while I take To-Cao back
+			  to the ship. . . check in on Rusty and all. . ."
+			 "Uh, sure, we can do that," Maya replied, "But there was another matter we wanted to
+			  talk to you about, Fred. I was hoping you could help me in looking further into this
+			  'Quick Hammers' matter, to find where they meet."
+			 "I've got some thoughts on that, actually. We can talk more back on the ship."
+	-Back at the ship, we discussed the matter of the "Quick Hammers", and I revealed to the
+	 rest that they'd contact _me_ after Jade.
+		-They were up for at least attending the meeting, and as sure as I was that our mystery
+		 messenger was associated with the gang.
+		-We then fell to discussing the plan, but unfortunately didn't come up with anything
+		 revelatory, ultimately deciding we make the meeting and figure it out from there.
+	-Roughly three hours later, we were again winding our way back down the stair that led to the
+	 lower city, to meet our mystery contact.
+		-Passing through the city, we were definitely getting glances from the guards now.
+		-Eventually, we reached the meeting point, though, a largely deserted side street.
+		-We were soon greeted by two armed and armored dwarves, one of whom called out to us saying,
+		 "Here to do business?"
+		 "We're always interested in new business, my crew and I," I replied.
+		-We engaged in some banter about trust, business, and friendship, and Maya eventually asked
+		 of them an introduction, since they clearly knew us.
+		 "This is Volkan Mornhammer," replied the dwarf that had been speaking, "And I am Dandruk
+		  Quickhammer."
+		-We then discussed the business at hand. 
+			-Dandruk spoke of how much he valued. . . freedom. Freedom from regulations, and from
+			 the cut that those in power demand.
+			-He also spoke of craftsmanship, and wanted some proof of Jade's. I offered up my
+			 inherited healing belt for inspection, pointing out the fine filigree of it's buckle,
+			 but he had something more specific in mind. He suggested a trial, an enchanted silver
+			 raven figurine he wanted Jade to make.
+			-I handled negotiations (flawlessly, of course), and got the money and soul-stuff
+			 required for the item up front, plus an additional 10% gold, "for the lady's time."
+			-He agreed rather easily, suggesting both that I'm great at this and that they're very
+			 interested in whatever they ultimately want from Jade.
+		-I then raised the matter of reaching back out to them, and how we should go about it.
+			-He replied that we could meet back here, and asked Jade how long the crafting would
+			 take. She said it would be six days, so in six days he said we could meet again.
+		-They then turned to leave, and so did we.
+	-Back at the ship again, we discussed how that went, and our next move.
+		-Seemed pretty good to me, and we now had _lots_ more time to figure out our next move
+		 with these folks. Continued business with them also means more opportunities to learn
+		 more, and more trust.
+	-Jade needed my help and coaching to make the items, so, while she worked on that, Maya
+	 went out into the city, to further investigate the Quickhammers, now that we had some names.
+		-Coming back to the ship after the first day of that, she told us of what she'd learned.
+		-Rumor was, the group was looking to expand to Sasserine, to fill the vacuum left after
+		 the Lotus Dragons stopped operating. In service of that, they were stockpiling weapons,
+		 particularly silver, and money, as well has hiring people for the expansion.
+		-Currently, she got the impression that their numbers in Sharaar Kol were roughly fifteen.
+		-Maya also raised another thing she'd like to accomplish while Jade worked: getting a
+		 message to her family about what she'd learned thus far.
+			-Well, Jade can work on a moving ship, and we have just a bit more time than we'd need
+			 to get to Sasserine and back.
+			-I wasn't sure that any of the rest of us would be welcome in the city, though, but
+			 Maya said we could simply put her in a jolly boat some distance outside the city,
+			 and let her row ashore.
+				-Sarge also may be able to accompany her, as he rightly claimed he wasn't involved
+				 in the famous funeral riot.
+				-He and Maya were going to discuss the plan as we traveled to the city.
 
 
 TODO:
@@ -2377,6 +2556,9 @@ TODO:
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 		-Dex boosts too, though maybe the runner up behind Charisma.
         -Jade also maxes Concentration, so can craft you an item boosting it.
+			-Custom cost:
+				Skill bonus (competence):	Bonus squared × 100 gp
+				No space limitation:		Multiply entire cost by 2
 	-More dance numbers.
 	-Recruit more!
 		-The air elemental running your ship?

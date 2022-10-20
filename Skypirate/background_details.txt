@@ -1,0 +1,161 @@
+-Fred's name and speaking patterns:
+	-Oh, shit, I forgot I'd written this in my notes:
+	 "'Dric's crystal cock! This was turning into a mess. I wanted out of the splash zone."
+	-"'Dric" being him slurring the name "Edric". I need to do more of this, coming up with slang
+	 from Edric's plane, where Fredrick comes from. . .
+	-See what I did there, with his name? Fred grew up with tons of Cedricks, Edwards, Teds, other
+	 Freds, etc.)
+-Edric's sense of. . . family:
+	DMJake — Today at 1:23 PM
+	A mix between a family business and a cult
+
+	Fredrick (Andy) — Today at 1:30 PM
+	Edric likes to think of all of it as all just. . . Edric.
+	Fred's got some problems with that view, and with authority, as a result. And with the fact that Edric mucked about in his genome.
+-The lack of strictness in Fred's upbringing:
+	Jade Shadowfeather/shroud — Today at 1:41 PM
+	I imagine the lawkeepers in Edric's realm Fred him the riot act a lot
+
+	Fredrick (Andy) — Today at 1:42 PM
+	lol
+	I actually think they were rather lenient with Fred, contributing to his somewhat brash and selfish nature to this day.
+	Fred, like other bred-by-Edric phrenics, is one of god's R&D projects. You're not going to risk interfering with that just because of some drunk and disorderly conduct. . .
+	Plus, in my background stuff I've been putting together for Ed and Fred, phrenic humans can't become elans (the rules sort of imply that, but that's mostly me making shit up). Ed tried it with his old cohort, who is now a slimemold-like growth covering several city blocks and displaying disturbing signs of precognition. That's a big chunk of why Fred is pissed at Ed, since he's been effectively denied immortality, and why the forces of Edric's order go easy on him: "Eh, the problem will solve itself in only a century or so. We can wait. . ."
+-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
+	-We talked about it here:
+		DMJake — Today at 12:46 PM
+		Can you give me a few things for Edric over the past 1000 years 
+		1. Goals for Material Plane 
+			-Crystal epic spell.
+		2. Goals for your Plane
+			-Heavily urbanized, and a homeland for psionic weirdos.
+				-More psionic folks + Bestow Power is also a big deal for Edric, and maybe even
+				 an economy.
+		3. Goals for your relationship to the Brotherhood of Xul Jarak
+		Peaked — Today at 1:07 PM
+		OK! I'll think that over.
+		Are you in any particular rush? Needing to get this by next session or the like?
+		1000 years is longer than I had been imagining, and I'm going to have fun with that if I've got the time.
+		DMJake — Today at 1:12 PM
+		not in a rush, and I have a system for resolving the timeline 
+		I've broken it down into periods of around 3 to 4 hundred years
+		Peaked — Today at 1:16 PM
+		Since Edric's creation powers work in volumes, I wonder if I can figure out a way to compare that to real figures. Something like, with Edric dedicating X% of his time and Y power points per day, he will have personally replicated Z years of the modern US's industrial output over that millennia. I'm going to have fun with this. . .
+	-Productive output:
+		-TEU's seem like a promising unit to look for, for volumes of trade: https://www.statista.com/statistics/1105244/monthly-retail-import-volume-us/
+			-Formal definition: https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit
+			-From that, it suggests one TEU = 1,172 cu ft.
+		-With infinite power points, you can manage to Greater Fabricate:
+			100*25/10 = 250 cu ft. / round organic, or (24-8)*60*10*250 = 2,400,000 cu ft. / day
+		-So, 2,400,000/1,172 = 2047 TEU / day, or 747,155 TEU / year
+			-Small relative to global throughput: https://www.statista.com/statistics/913398/container-throughput-worldwide/#:~:text=In%202021%2C%20global%20container%20throughput,compared%20with%20the%20previous%20year.
+			-A mere 1.5% of the throughput of Shanghai's port, though that's the busiest in the world: https://www.statista.com/statistics/264171/turnover-volume-of-the-largest-container-ports-worldwide/
+			-Still, the above wiki page suggests that's 747,155/11000 = 67.92 huge container ships.
+		-Divide by 10 for inorganic.
+		-Divine Earth Mastery, though, produces effectively infinite quantities of precious metals
+		 in a mere round.
+	-Edric's plane:
+		-Description from the end of the Xûl-Jarak game:
+			-Edric first sought out his kin, the other elans, and the means to make them. Soon he
+			 was populating his plane with his immortal kindred, uplifting promising mortals minds.
+			-Beneath it's barren outer layer of gates, Edric's nested paradise of the mind urbanized
+			 heavily, it's population mostly elans and others naturally psionic. Others found the
+			 plane both strange and harsh, with weird customs and expensive imported food.
+			-Soon, from his plane, strange crystals grew (a creation of Edric's next epic spell),
+			 spreading outward from it's gates, and covering seemingly most surfaces within. It was
+			 rumored that Edric could reach anywhere the crystals did (or even that he _was_ the
+			 crystals), and also that his power grew as the crystals did.
+			-Rovert, his cohort, did not ascend to divinity, as many of the others did. A man well
+			 into his middle years by the time he joined his will to Edric's, his body began failing
+			 soon into Edric's divine reign. Not entirely human, Edric feared the potential
+			 consequnces of attemping to make Rovert an elan, but feared losing his right hand even
+			 more, and Rovert was all too willing. The massive slimemold-like creature that grew
+			 from his body, with it's alien intelligence, is now the story commonly cited to
+			 illustrate the danger of such things.
+		-Light in the plane is omnipresent and directionless, seemingly emanating from the air
+		 itself. Closed containers and even whole rooms are dark or fairly dim, but large
+		 volumes of air are steadily brighter, with any space bigger than a small house needing
+		 no further light to read by and the outside spaces of the layers being bright as day,
+		 constantly.
+		-Water?
+			-Probably no _huge_ bodies of it, due to problems keeping it contained in the
+			 strange gravity. Edric is also an _Earth_ diety, after all.
+			-Instead, the plane's limited water is spread throughout clearly artificial
+			 reservoirs, canals, decorative waterworks, and elaborate plumbing.
+		-Vegetation?
+			-Less food cultivation than one would expect, but 1,000 years is plenty to have
+			 imported and spread all necessary vegetation and animals.
+			-What sorts of flora and fauna thrive?
+				-Due to the omnipresent light and warmth of the plane, tropical and polar
+				 species tend to do best. Tropical stuff does well in the constant warmth,
+				 while polar species seem less disrupted than some by the lack of night.
+					-Polar fauna often still hiberanate, but in cycles that tend to drift over
+					 time, sometimes ending up with multiple distinct populations on different
+					 hibernation cycles.
+						-"Snow shrews" are popular pets on the plane, and follow this model,
+						 with different broods on different cycles having distinct (and much
+						 discussed) behaviors and colorations.
+				-City dwellers? Urban species likely do well, but metal buildings and ubiquitous
+				 surveillance probably mean limited pest species like rats.
+		-Layers (outer to inner):
+			-The Borderlands:
+				-Studded with portals, leading to a variety of destinations.
+				-Flat and desert-like.
+				-Tribes of Thri-kreen loyal to Edric are the main inhabitants.
+				-It's also spanned by a network of canals, used for freight.
+			-About 92 layers of air beneath it, each 280' with 280' of earth and stone between each.
+				-How many is partly a function of time passed since planar creation.
+					-Growth over time defined here: https://www.d20srd.org/srd/psionic/powers/genesis.htm
+					-So, 180' radius in 180 days, than 1' more per week since.
+					-Jake previously mentioned it had been something like 1000 years.
+					-So, 180+(365-180)/7+999*365/7 = 52,297'
+						-Or, the plane is 9.9 miles in radius. Way more than I thought.
+				-How far between each layer?
+					-Google says a story is about 14'.
+					-Lets say 10 stories of building room on either side, for 20 stories between
+					 layers, or 280 ft.
+					-Hmm. . . Even with the each layer being that thick itself, that's a _ton_ of
+					 layers. 52,297/(280*2) = 93, to be exact.
+						-What kind of surface area is that?
+							-The Borderlands are 1231 square miles. Bigger than Rhode Island's 1,034,
+							 but well under Delaware's (next smallest) 1,955.
+							-Total: 4pi*r^2 + 4pi*(r-280)^2 + 4pi*(r-280*2)^2 + . . 
+								Sum from 0 to Z of 4pi*(r-280x)^2
+								where Z = 52,297/2 (plus or minus one or two)
+								In Wolfram: https://www.wolframalpha.com/input?i=sum+4pi*%2852297-280k%29%5E2+from+k+%3D+1+to+52%2C297%2F2
+							-So, 2.06128301 × 10^11 square miles
+								-Surface area of the Earth is 196,900,000 sq. miles.
+								-So, that's 1000x the surface of the Earth. . .
+								-A thousand Earths, with no point much more than 20 miles away from
+								 any other.
+			-Other layers:
+				-Environments for more unusual psionic creatures?
+				-A layer given over to The-Slimemold-That-Was-Rovert.
+					-Formerly an inhabited layer, it was where Rovert's experimental transformation
+					 into (what was supposed to be) an Elan took place. As such, the mass of the
+					 slimemold-analog is draped over abandoned but still pristine (due to largely
+					 being adamantine) buildings.
+					-In fact, it's behavior among the abandoned structures is part of the argument
+					 for it's intelligence. It clearly displayed knowledge or understanding of the
+					 area in prioritizing growth towards food, water, or other resources.
+						-Tests of this capability uncovered evidence that it began to seek empty
+						 areas that would be seeded with bait _even before the experiment was
+						 commisioned_, suggesting that it's continued psionic capabilities include
+						 precognition.
+			-The Basilica:
+				-The several layers nearest Edric's Sanctum.
+				-It's one enormous temple complex, dedicated to Edric.
+			-Edric's Sanctum:
+				-This, the site of Edric's ascension, remains a small spherical cavity pierced
+				 through innumerable times by enormous crystals. Edric spends most of his here,
+				 meditating in the center with the crystals intersecting his form.
+	-Inputs (what he trades for or otherwise consumes):
+		-Magic, souls, and organics.
+	-Outputs (what he produces, for himself and others):
+		-Finished goods of extremely high quality.
+			-Structures included.
+		-All sorts of earths and metals, adamantine in particular.
+		-Minds. Often strange, often immortal.
+	-Where "he", in the above stuff, refers to not just Edric, but his plane, his worshippers
+	 (and more tightly-bound "believers", from thrallherd), and the whole society of people on
+	 the plane and linked to it. Edric thinks of all of this as "himself".

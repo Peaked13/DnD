@@ -2380,7 +2380,7 @@ TODO:
 			 "Someone is. . . sending me a message," she responded.
 			 "Huh? Oh, some kind of magic?"
 			 She nodded, and said, "I'm not sure who's sending it, though."
-			 "Well, can't you see magic? With that monocole or something?"
+			 "Well, can't you see magic? With that monocle or something?"
 			 "Oh! Yeah, here. . ."
 			-She then set about looking around with her monocole, eventually pointing down one of
 			 the streets.
@@ -2432,7 +2432,7 @@ TODO:
 			 he crashed through the glass, to the sound of shouting from inside the window.
 			-That shouting quickly escalated to a dwarf leaning out the window, yelling "Guards!
 			 Guards!"
-			-A group of heavily armored guards was soon shoving it's way through the crowd and
+			-A group of heavily armored guards was soon shoving its way through the crowd and
 			 towards the building, while I and Jade sauntered off, in the other direction, whistling.
 			-To-Cao soon emerged from the buidings door, where he was apprehended by the guards.
 			-After a brief discussion, they led him away, down the street and towards both us and
@@ -2440,7 +2440,7 @@ TODO:
 			-As they walked past us, To-Cao locked eyes with me, and began to chitter.
 			-Seeing this, the guards all turned to look at me as well. . .
 			-Well, so much for evading notice. "Oh! Are you taking him to the hospital?" I asked them.
-			 "Queen?" asked me.
+			 "Queen?" To-Cao asked me.
 			 "Are you who he's talking about?" a guard then asked too.
 			 "Yeah, yeah, he works for me. We were rushing to get him some help! After the accident!"
 			 "The accident? This creature was caught breaking into a home!" the guard said.
@@ -2454,7 +2454,7 @@ TODO:
 			  what happened."
 			 She nodded in response, and left.
 			-They led us over to a guard post, where the ranking officer on duty recognized us,
-			 saying, "Wait, that's the creature the was involved in the high priest's kidnapping!"
+			 saying, "Wait, that's the creature that was involved in the high priest's kidnapping!"
 			 "The creature that _saved_ the high priest," I clarified.
 			 "Well, hmph, I guess we'll see about that, now that he's breaking into buildings!"
 			 "Breaking in?!?" I protested. "We were washing windows! I was helping to set him up
@@ -2492,7 +2492,7 @@ TODO:
 			  'Quick Hammers' matter, to find where they meet."
 			 "I've got some thoughts on that, actually. We can talk more back on the ship."
 	-Back at the ship, we discussed the matter of the "Quick Hammers", and I revealed to the
-	 rest that they'd contact _me_ after Jade.
+	 rest that they'd contacted _me_ after Jade.
 		-They were up for at least attending the meeting, and as sure as I was that our mystery
 		 messenger was associated with the gang.
 		-We then fell to discussing the plan, but unfortunately didn't come up with anything
@@ -2532,8 +2532,9 @@ TODO:
 		-Coming back to the ship after the first day of that, she told us of what she'd learned.
 		-Rumor was, the group was looking to expand to Sasserine, to fill the vacuum left after
 		 the Lotus Dragons stopped operating. In service of that, they were stockpiling weapons,
-		 particularly silver, and money, as well has hiring people for the expansion.
-		-Currently, she got the impression that their numbers in Sharaar Kol were roughly fifteen.
+		 particularly silver, and money, as well as hiring people for the expansion.
+		-She also got the impression that their numbers in Sharaar Kol were roughly fifteen,
+		 currently.
 		-Maya also raised another thing she'd like to accomplish while Jade worked: getting a
 		 message to her family about what she'd learned thus far.
 			-Well, Jade can work on a moving ship, and we have just a bit more time than we'd need
@@ -2546,9 +2547,159 @@ TODO:
 				-He and Maya were going to discuss the plan as we traveled to the city.
 
 
+11/2/22:
+	-The night we reach Sasserine, we paused well outside of the city's lagoon, and lowered a jolly
+	 boat from the airship, containing Maya and Sarge.
+	-Meanwhile, I spent the next day or so heckling Jade as she worked, drinking steadily as I did
+	 so.
+	-So it was with a hangover I awoke the next morning, with strange voices coming from on deck.
+		-Climbing a ladder, I emerged into the sun, blinking, to see Maya, Sarge, and two elves
+		 unknown to me.
+		-Seeing me, Maya greeted me and introduced me to her lord father and a wizard in service
+		 to her house.
+		-They were obviously very concerned with Maya's safety, but she was also obviously sticking
+		 with us. Her father gave me the 3rd degree, asking about the ship's history, and. . .
+		 losses the crew had endured.
+			-I hemmed and hawed my way around that last, pointing out that, "No blood has ever been
+			 shed aboard this ship, save for that incident with Nkondi. . ."
+		-The wizard had questions about the ship, which I took as an excuse for a tour, where I
+		 talked his pointy ears off, about the conjured materials and the excellent workmanship
+		 characteristic of the products of Edric's domains.
+			-The mention of Ed caught his attention. "Oh?" he asked, "You're backed by The
+			  Brotherhood?"
+			 "You might call them the ship's patrons. . ."
+			 "Ah. That'd explain the necromancy, then, if you're tied to the church of Nkisi."
+			 "Yeah," I confessed, "It's not totally foriegn to me, but something seems rotton in
+			  th church of Nkisi lately. . ."
+		-He'd obviously heard something about the mess with Nkondi, and it soon became obvious that
+		 Maya had put much of the blame for the Sasserine mess on him. The lord even mentioned
+		 she'd claimed he'd enscrolled us, causing much of the trouble.
+		-Eventually (more or less) satisfied with his daughter's safety and my "no more necromancers"
+		 policy, he drew forth from his pocket a small journal, handing it to me, saying, "This
+		  journal is linked to one in my possession. What you write here will be shown to me, across
+		  any distance. Keep me aprised as to my daughter's whereabouts."
+		 "Oh! A handy thing!" I said. "Maya, I imagined you'd like to keep this in your possession?"
+		-That evoked a cold stare from Lord Dracus, and Maya said, "I believe he does indeed mean
+		 for _you_ to have it."
+		 "Oh. Well, OK!"
+		-He then asked that we continue to help with the gang situation, in Sasserine and with the
+		 Quickhammers.
+			-"We're already in contact with Quickhammers!" I volunteered. "But, what _does_ your
+			  house want to do with them?"
+			 "Take down their base of operations," he said, "I do not know that _death_ is
+			  appropriate. . ."
+			 "They've already threatened us with violence," I responded. "I wouldn't imagine this
+			  can resolved _without_ further blood. . ."
+			-He looked grim, but did not respond to that.
+			-"Father," Maya broke in, "Further service should come with some pay. . ."
+			 "Of course," he replied, and they fell to discussing what would be customary.
+			-After a quick moment, he accepted Maya's suggestion and offered us 10,000 platinum in
+			 exchange for our help, a deal I happily accepted.
+			-He took a moment to emphasize again that this is a grave matter, and alluded also to a
+			 vision Maya had, of some impending doom.
+				-"Maya? This is the first I've heard of this?" I asked.
+				 "It was last night. We'll talk later."
+				 "Very well. . ."
+		-After goodbye to his daughter, he and the wizard teleported away.
+	-After their departure, Maya filled me in on further details.
+		-Beyond the job, Maya had asked her father to help clear our name, laying all the blame for
+		 the funeral and on at the feet of Nkondi and "his enchantments."
+		-She also filled us in on the vision, which featured tentacles emerging from the water to
+		 destroy Sasserine, a great black dragon, and demons.
+			-Yep, that's an apocalypse vision alright. . .
+		-Finally, Maya updated us on the state of Sasserine, saying that the battle for control of
+		 the city's underworld continued and that there was fighting every night in the city.
+	-With The Quickhammers our target, we brought the ship about and headed back to Sharaar Kol,
+	 discussing during the trip our plan.
+		-Maya pointed out that we do have a meeting scheduled, one at which we could perhaps ask to
+		 meet with the leaders?
+		-"Stand on principle, eh?" I said. "Insist we want to meet who we're doing business with?
+		  Not a bad idea. . . We could also play along until hopefully invited to do the same, or
+		  offer the ship's service carrying cargo and count on that meaning we need to pick it up
+		  from some substantial site under their control?"
+		-That all elicited a fair amount of nodding, so I continued, saying, "Well, that's at least
+		  several options. We can meet with them and then see what we can make work. Anything else
+		  anyone would like to prep for that?"
+		 "I would also like talk with high priest we saved," Maya said. "Check on how he's doing
+		  after the ordeal, and maybe enlist his aid in our quest."
+		 "Good idea!" I replied, "The Quickhammers have a guard captain on their side. Some official
+		  backing of our own might stave off some future trouble."
+	-On the way back, though, a day or so into the journey, the wind began to pick up.
+		-Shouting orders from the ships wheel, we reefed the ships sails.
+			-We struggled with one rope in the process, but To-Cao was able to add his formidable
+			 strength to that or Rusty and they pulled it taught and brought the sail in.
+		-We'd barely breathed sighs of relief when a shout of alarm went up from Rusty.
+		-Off the ship's rail, a short distance from him, was a small whirlwind diving seemingly
+		 purposefully at the nearby crew.
+		-Recognizing something was amiss, I engaged my precognitive insight, which was quickly
+		 justified as the whirlwind swept Sarge off the deck and over the side.
+			-As it did so, it shouted in Auran, "Free the little ones!"
+			-Well, I'm not doing _that_. . .
+		-Fortunately, it chose the only one of us with wings, and he was able to glide back over
+		 the deck, coming in for an only slightly rough landing.
+		-Maya and To-Cao took their revenge on the thing, though, Maya blasting it with fiery energy
+		 that set it alight and To-Cao rushing to the rail and hurling something at it.
+		-Jade followed that with an arrow. It was less than clear if anything but the fire had
+		 harmed it but I shrugged and added and arrow of my own. Amazing as I am, that ended the
+		 silly wind, the whirl dissipating and the debris caught in it dropping from the sky.
+		-Jade asked why such a thing would attack us. I danced around the issue a bit, but Jade
+		 pushed, and I admitted, "Well, you do know this ship runs on bound air elementals, right?"
+		 "Oh. Well, yeah, that makes sense."
+	-Arriving back at Sharaar Kol, we made our way down to the lower city.
+		-We were hassled a bit by the guard, given recent events, but he let _most_ of us down.
+			-To-Cao he refused, pointing to the bug's badge, glowing red. "He broke his oath," the
+			 guard said, "And won't be allowed to return."
+			 "Ah, very well," I said. "To-Cao, you're on duty guarding the ship."
+			 His response was some very dejected clicking, but he complied.
+		-Once within, we headed straight to the temple, easily identified by it's enormous statue
+		 of Moradin.
+			-We were stopped by guards at it's doors, saying, "Halt! We've had to increase security,
+			  after the recent. . . incident."
+			 "Oh, we understand!" I said. "That's actually why we're here. We bore witness to a part
+			  of the priest's ordeal, and brought an end to it. We wanted to check in on him, and
+			  offer our sympathies!"
+			 "Hmph. Well, let me check with the priests. . ."
+			-The guard returned a moment later, and admitted us.
+			-Within, we met with the priest, who admitted no harm from the ordeal, his faith in
+			 Moradin's plan for him being apparently unshakeable.
+			-I offered him our sympathies nonetheless.
+			-He did ask after To-Cao, "the one who saved me". Maya explained that he'd, "in the
+			 course of helping you", broken one of the vows he'd made to enter the city. "Would
+			  you be able to help him with that?" she asked the priest.
+			 "I suppose I could put in a good word for him. . . if an appropriate donation were
+			  made."
+			 "Alas," I broke in, "Though To-Cao's people are formidable, they are not wealthy.
+			  Perhaps he could atone. . . through service?"
+			 "Service? Well. . . yes, that would be. . . appropriate. There is a crew of miners,
+			  looking to venture deep into a dangerous section of the mines. They could use
+			  guards. . ."
+			 "Ah!" I said, "That's definitely within To-Cao's skills, as you've seen."
+			 "They mean to leave three days from now. I will make the arrangements, and you shall
+			  meet them at first light at the entrance to the mines. Beware, for the drow are 
+			  known to haunt that area. . ."
+			 "Great!"
+			-Maya also took the opportunity to ask him of The Quickhammers.
+				-The church apparently looks down on their shoddy workmanship as much as the rest
+				 of the city, but added that, "It's not exactly a _crime_. Though, if the rumors
+				  are true, there's more to them then just that. . . But, the guards seem to look
+				  the other way and the king is pulled in so many directions at once. . ."
+				 "Oh!" Maya said suddenly. "Would it be possible to get an audience with the king?
+				  I am a scion of House Dracus of Sasserine, here representing my house. . ."
+				 "Oh? Before my ordeal, I would have said it was impossible. . . But, since, I seem
+				  to have the king's ear whenever I want it."
+				 "Would you be able to help me, then?" Maya asked.
+				 "Well, the king is in the mines at the moment, surveying the works, but, when he
+				  returns this evening, I suppose I could let him know you're here."
+				 "That would be great!" I broke in. "You have our thanks!"
+				 "And you the blessing of Moradin, my son."
+			-We then took our leave of the priest and his temple.
+		-Next, Maya wished to pursue some research concerning her vision, and to visit the scholar
+		 of her acquaintance, here in the lower city.
+			-While she busied herself with that, I busied myself at the bar.
+
+
 TODO:
 	-Items:
-        -Get a masterwork buckler, to eliminate it's skill penalty.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
 		-Something to deal with undead?
@@ -2559,6 +2710,11 @@ TODO:
 			-Custom cost:
 				Skill bonus (competence):	Bonus squared × 100 gp
 				No space limitation:		Multiply entire cost by 2
+			-You'd be crafting it too, so you pay half that in gold, and 25th in XP:
+				+2: 400 gp., 32 XP
+				+3: 900 gp., 72 XP
+				+4: 1600 gp., 128 XP
+				+5: 2500 gp., 200 XP
 	-More dance numbers.
 	-Recruit more!
 		-The air elemental running your ship?
@@ -2566,144 +2722,6 @@ TODO:
 				-None listed, though could perhaps look at HD, if Jake allows it?
 					-Small through Huge air elementals are 2, 4, 8, 16 HD.
 			-I think you do speak Auran, for more or less this reason.
-	-Help Jake figure out what Edric has been up to: https://discord.com/channels/@me/560920165383143425/934519433462939659
-		-We talked about it here:
-			DMJake — Today at 12:46 PM
-			Can you give me a few things for Edric over the past 1000 years 
-			1. Goals for Material Plane 
-				-Crystal epic spell.
-			2. Goals for your Plane
-				-Heavily urbanized, and a homeland for psionic weirdos.
-					-More psionic folks + Bestow Power is also a big deal for Edric, and maybe even
-					 an economy.
-			3. Goals for your relationship to the Brotherhood of Xul Jarak
-			Peaked — Today at 1:07 PM
-			OK! I'll think that over.
-			Are you in any particular rush? Needing to get this by next session or the like?
-			1000 years is longer than I had been imagining, and I'm going to have fun with that if I've got the time.
-			DMJake — Today at 1:12 PM
-			not in a rush, and I have a system for resolving the timeline 
-			I've broken it down into periods of around 3 to 4 hundred years
-			Peaked — Today at 1:16 PM
-			Since Edric's creation powers work in volumes, I wonder if I can figure out a way to compare that to real figures. Something like, with Edric dedicating X% of his time and Y power points per day, he will have personally replicated Z years of the modern US's industrial output over that millennia. I'm going to have fun with this. . .
-		-Productive output:
-			-TEU's seem like a promising unit to look for, for volumes of trade: https://www.statista.com/statistics/1105244/monthly-retail-import-volume-us/
-				-Formal definition: https://en.wikipedia.org/wiki/Twenty-foot_equivalent_unit
-				-From that, it suggests one TEU = 1,172 cu ft.
-			-With infinite power points, you can manage to Greater Fabricate:
-				100*25/10 = 250 cu ft. / round organic, or (24-8)*60*10*250 = 2,400,000 cu ft. / day
-			-So, 2,400,000/1,172 = 2047 TEU / day, or 747,155 TEU / year
-				-Small relative to global throughput: https://www.statista.com/statistics/913398/container-throughput-worldwide/#:~:text=In%202021%2C%20global%20container%20throughput,compared%20with%20the%20previous%20year.
-				-A mere 1.5% of the throughput of Shanghai's port, though that's the busiest in the world: https://www.statista.com/statistics/264171/turnover-volume-of-the-largest-container-ports-worldwide/
-				-Still, the above wiki page suggests that's 747,155/11000 = 67.92 huge container ships.
-			-Divide by 10 for inorganic.
-			-Divine Earth Mastery, though, produces effectively infinite quantities of precious metals
-			 in a mere round.
-		-Edric's plane:
-			-Description from the end of the Xûl-Jarak game:
-				-Edric first sought out his kin, the other elans, and the means to make them. Soon he
-				 was populating his plane with his immortal kindred, uplifting promising mortals minds.
-				-Beneath it's barren outer layer of gates, Edric's nested paradise of the mind urbanized
-				 heavily, it's population mostly elans and others naturally psionic. Others found the
-				 plane both strange and harsh, with weird customs and expensive imported food.
-				-Soon, from his plane, strange crystals grew (a creation of Edric's next epic spell),
-				 spreading outward from it's gates, and covering seemingly most surfaces within. It was
-				 rumored that Edric could reach anywhere the crystals did (or even that he _was_ the
-				 crystals), and also that his power grew as the crystals did.
-				-Rovert, his cohort, did not ascend to divinity, as many of the others did. A man well
-				 into his middle years by the time he joined his will to Edric's, his body began failing
-				 soon into Edric's divine reign. Not entirely human, Edric feared the potential
-				 consequnces of attemping to make Rovert an elan, but feared losing his right hand even
-				 more, and Rovert was all too willing. The massive slimemold-like creature that grew
-				 from his body, with it's alien intelligence, is now the story commonly cited to
-				 illustrate the danger of such things.
-			-Light in the plane is omnipresent and directionless, seemingly emanating from the air
-			 itself. Closed containers and even whole rooms are dark or fairly dim, but large
-			 volumes of air are steadily brighter, with any space bigger than a small house needing
-			 no further light to read by and the outside spaces of the layers being bright as day,
-			 constantly.
-			-Water?
-				-Probably no _huge_ bodies of it, due to problems keeping it contained in the
-				 strange gravity. Edric is also an _Earth_ diety, after all.
-				-Instead, the plane's limited water is spread throughout clearly artificial
-				 reservoirs, canals, decorative waterworks, and elaborate plumbing.
-			-Vegetation?
-				-Less food cultivation than one would expect, but 1,000 years is plenty to have
-				 imported and spread all necessary vegetation and animals.
-				-What sorts of flora and fauna thrive?
-					-Due to the omnipresent light and warmth of the plane, tropical and polar
-					 species tend to do best. Tropical stuff does well in the constant warmth,
-					 while polar species seem less disrupted than some by the lack of night.
-						-Polar fauna often still hiberanate, but in cycles that tend to drift over
-						 time, sometimes ending up with multiple distinct populations on different
-						 hibernation cycles.
-							-"Snow shrews" are popular pets on the plane, and follow this model,
-							 with different broods on different cycles having distinct (and much
-							 discussed) behaviors and colorations.
-					-City dwellers? Urban species likely do well, but metal buildings and ubiquitous
-					 surveillance probably mean limited pest species like rats.
-			-Layers (outer to inner):
-				-The Borderlands:
-					-Studded with portals, leading to a variety of destinations.
-					-Flat and desert-like.
-					-Tribes of Thri-kreen loyal to Edric are the main inhabitants.
-					-It's also spanned by a network of canals, used for freight.
-				-About 92 layers of air beneath it, each 280' with 280' of earth and stone between each.
-					-How many is partly a function of time passed since planar creation.
-						-Growth over time defined here: https://www.d20srd.org/srd/psionic/powers/genesis.htm
-						-So, 180' radius in 180 days, than 1' more per week since.
-						-Jake previously mentioned it had been something like 1000 years.
-						-So, 180+(365-180)/7+999*365/7 = 52,297'
-							-Or, the plane is 9.9 miles in radius. Way more than I thought.
-					-How far between each layer?
-						-Google says a story is about 14'.
-						-Lets say 10 stories of building room on either side, for 20 stories between
-						 layers, or 280 ft.
-						-Hmm. . . Even with the each layer being that thick itself, that's a _ton_ of
-						 layers. 52,297/(280*2) = 93, to be exact.
-							-What kind of surface area is that?
-								-The Borderlands are 1231 square miles. Bigger than Rhode Island's 1,034,
-								 but well under Delaware's (next smallest) 1,955.
-								-Total: 4pi*r^2 + 4pi*(r-280)^2 + 4pi*(r-280*2)^2 + . . 
-									Sum from 0 to Z of 4pi*(r-280x)^2
-									where Z = 52,297/2 (plus or minus one or two)
-									In Wolfram: https://www.wolframalpha.com/input?i=sum+4pi*%2852297-280k%29%5E2+from+k+%3D+1+to+52%2C297%2F2
-								-So, 2.06128301 × 10^11 square miles
-									-Surface area of the Earth is 196,900,000 sq. miles.
-									-So, that's 1000x the surface of the Earth. . .
-									-A thousand Earths, with no point much more than 20 miles away from
-									 any other.
-				-Other layers:
-					-Environments for more unusual psionic creatures?
-					-A layer given over to The-Slimemold-That-Was-Rovert.
-						-Formerly an inhabited layer, it was where Rovert's experimental transformation
-						 into (what was supposed to be) an Elan took place. As such, the mass of the
-						 slimemold-analog is draped over abandoned but still pristine (due to largely
-						 being adamantine) buildings.
-						-In fact, it's behavior among the abandoned structures is part of the argument
-						 for it's intelligence. It clearly displayed knowledge or understanding of the
-						 area in prioritizing growth towards food, water, or other resources.
-							-Tests of this capability uncovered evidence that it began to seek empty
-							 areas that would be seeded with bait _even before the experiment was
-							 commisioned_, suggesting that it's continued psionic capabilities include
-							 precognition.
-				-The Basilica:
-					-The several layers nearest Edric's Sanctum.
-					-It's one enormous temple complex, dedicated to Edric.
-				-Edric's Sanctum:
-					-This, the site of Edric's ascension, remains a small spherical cavity pierced
-					 through innumerable times by enormous crystals. Edric spends most of his here,
-					 meditating in the center with the crystals intersecting his form.
-		-Inputs (what he trades for or otherwise consumes):
-			-Magic, souls, and organics.
-		-Outputs (what he produces, for himself and others):
-			-Finished goods of extremely high quality.
-				-Structures included.
-			-All sorts of earths and metals, adamantine in particular.
-			-Minds. Often strange, often immortal.
-		-Where "he", in the above stuff, refers to not just Edric, but his plane, his worshippers
-		 (and more tightly-bound "believers", from thrallherd), and the whole society of people on
-		 the plane and linked to it. Edric thinks of all of this as "himself".
 	-What do you report, if ever called to do so by those that set you loose with the skyship?
 		-Sasserine:
 			-Turmoil in the church of Nkisi.
@@ -2711,6 +2729,7 @@ TODO:
 				-Perhaps an opening for The Brotherhood?
 			-Low saturation by the fruits of Edric (never saw an adamantine weapon, etc.).
 			-Interesting metal working technology, used to create ultra-light mail.
+			-Evidence of a follower of Enilias operating, masquerading as a follower of Shawn.
 		-Sharaar Kol:
 			-Shit, that river-brain-thing is probably right up Edric's alley.
 				-We think we left it encased in rock, where the magic river used to be before that
@@ -2720,6 +2739,10 @@ TODO:
 			-A river of magic isn't really his domain, but it _is_ something he'd be plenty happy
 			 to _consume_. If that can be worked into items. . .
 				-It might now be on the plane of Celestia.
+			-The Quickhammer organization:
+				-Seems to indicate a demand for fake or shoddy good exists. Potentially something
+				 exports from Edric's domain could take advantage of (being a source of cheap goods)
+				 or preempt (being capable of extraordinary workmanship or materials).
 	-Once you get Leadership, what cohort should you get?
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?
@@ -2791,6 +2814,7 @@ TODONE:
 	-You pretty desperately need a Handy Haversack: https://www.dandwiki.com/wiki/SRD:Handy_Haversack
     -Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
         -You rolled like shit, but it's at least 20k new, enough to become a Dread Pirate.
+	-Get a masterwork buckler, to eliminate it's skill penalty.
 
 
 TODON'T:

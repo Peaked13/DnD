@@ -2548,11 +2548,11 @@ TODO:
 
 
 11/2/22:
-	-The night we reach Sasserine, we paused well outside of the city's lagoon, and lowered a jolly
-	 boat from the airship, containing Maya and Sarge.
+	-The night we reached Sasserine, we stopped well outside of the city's lagoon, and lowered a
+	 jolly boat from the airship, containing Maya and Sarge.
 	-Meanwhile, I spent the next day or so heckling Jade as she worked, drinking steadily as I did
 	 so.
-	-So it was with a hangover I awoke the next morning, with strange voices coming from on deck.
+	-So it was with a hangover I awoke the next morning, to strange voices coming from on deck.
 		-Climbing a ladder, I emerged into the sun, blinking, to see Maya, Sarge, and two elves
 		 unknown to me.
 		-Seeing me, Maya greeted me and introduced me to her lord father and a wizard in service
@@ -2577,7 +2577,7 @@ TODO:
 		-Eventually (more or less) satisfied with his daughter's safety and my "no more necromancers"
 		 policy, he drew forth from his pocket a small journal, handing it to me, saying, "This
 		  journal is linked to one in my possession. What you write here will be shown to me, across
-		  any distance. Keep me aprised as to my daughter's whereabouts."
+		  any distance. Keep me apprised as to my daughter's whereabouts."
 		 "Oh! A handy thing!" I said. "Maya, I imagined you'd like to keep this in your possession?"
 		-That evoked a cold stare from Lord Dracus, and Maya said, "I believe he does indeed mean
 		 for _you_ to have it."
@@ -2625,9 +2625,9 @@ TODO:
 		 "Good idea!" I replied, "The Quickhammers have a guard captain on their side. Some official
 		  backing of our own might stave off some future trouble."
 	-On the way back, though, a day or so into the journey, the wind began to pick up.
-		-Shouting orders from the ships wheel, we reefed the ships sails.
+		-Shouting orders from the ships wheel, we reefed the ship's sails.
 			-We struggled with one rope in the process, but To-Cao was able to add his formidable
-			 strength to that or Rusty and they pulled it taught and brought the sail in.
+			 strength to that of Rusty and they pulled it taught and brought the sail in.
 		-We'd barely breathed sighs of relief when a shout of alarm went up from Rusty.
 		-Off the ship's rail, a short distance from him, was a small whirlwind diving seemingly
 		 purposefully at the nearby crew.
@@ -2640,7 +2640,7 @@ TODO:
 		-Maya and To-Cao took their revenge on the thing, though, Maya blasting it with fiery energy
 		 that set it alight and To-Cao rushing to the rail and hurling something at it.
 		-Jade followed that with an arrow. It was less than clear if anything but the fire had
-		 harmed it but I shrugged and added and arrow of my own. Amazing as I am, that ended the
+		 harmed it but I shrugged and added an arrow of my own. Amazing as I am, that ended the
 		 silly wind, the whirl dissipating and the debris caught in it dropping from the sky.
 		-Jade asked why such a thing would attack us. I danced around the issue a bit, but Jade
 		 pushed, and I admitted, "Well, you do know this ship runs on bound air elementals, right?"
@@ -2698,6 +2698,189 @@ TODO:
 			-While she busied herself with that, I busied myself at the bar.
 
 
+11/30/22:
+	-At the bar, I tried to learn a dwarven dance routine, but I wasn't feeling it, probably due to
+	 not understanding a word of what they were chanting (in Dwarvish).
+		-It entailed sliding your feet along the floor, boots never leaving it.
+		-"Do you, uh, grease your shoes for that?"
+		 "Ha! No lad! It's about _feeling_ your connection to the earth. Comes natural to us dwarves."
+	-I did make friend, though, sitting down to some whiskey with the dwarf who was coaching me
+	 through the dance, who turned out to be a miner (what a surprise, for a dwarf. . .).
+		-He asked me what I was in town for, and I told him about the job the high priest had
+		 arranged for us.
+		-"In fact," I added, "What sort of dangers are there, down in the mines?"
+		 "Well, certainly have to keep an ear out for cave-ins, like anywhere else under the earth.
+		  Beyond that, though, miners have come back. . . wrong."
+		 "Oh! Yeah, we know a thing or two about that. Dealt with some kind of river brain. Or was
+		  it a river ham? Eh, whatever. You see some kind of meat rising from a river, you run."
+		 "Oh, aye?" the dwarf replied. "I'll have to keep that in mind. . . Well, other than that,
+		  there are of course the drow, in the deep mines."
+		 "Yeah, we heard something about that. . . Elves above and elves below, huh?"
+		 "Aye, aye. I prefer the ones above, though, what little that's worth."
+		 "Yeah. Their booze is better. Or at least not poisoned."
+	-After that chat, he convinced me to give the dance another shot.
+		-No shoe grease, but I myself was a bit better lubricated, and made a good showing of it.
+		-Finally learning the routine, it's got a practical application: I can now make a DC 25
+		 Perform(Dance) check to negate 10 ft. of rough terrain underground.
+	-Eventually, Maya and Sarge joined us at the bar.
+		-Maya, having evidently overheard our conversation about elves, began stroking an invisible
+		 beard and talking to the dwarf in his native tongue.
+		-She even challenged the dwarf to arm wrestling, a narrow contest in which she eventually
+		 prevailed.
+		-She also took a turn at dancing, picking up the routine too, and performing it almost as
+		 well as me.
+			-Surely thanks to my shouted encouragement!
+	-As she sat back down, I asked Maya how her research went.
+	 "Well, I read a book and it cursed me. I got better, though."
+	 "Huh. See! That's what reading too much gets you. . ."
+	-After "lunch" at the bar, I was feeling rather tired, so we headed back to the ship.
+		-I don't think the pemmican ever tasted quite so good, and I downed quite a bit of it while
+		 a relieved-to-see-me To-Cao picked bits of debris out of my hair, and sooned turned in.
+	-We spent the next several days bumming around town, sampling the entertainments of the dwarves.
+		-In the course of that, we heard rumor of another stranger in town, an oddly dressed human
+		 who would neither confirm nor deny that he was a wizard, but who kept asking odd questions
+		 of the city's scholars. Questions that sounded oddly similar to Maya's research. . .
+	-When it came time, we met the crew of dwarven miners at the entrance to the mines.
+		-Or, at least most of us did. Jade remained back at the ship to continue her work for the
+		 Quickhammers.
+		-There were six of them, led by a foreman named Grognok.
+		-Following their instructions, we descended into the mines.
+	-Worked stone and arched supports soon gave way to rough hewn walls and natural caves.
+	-Emerging into one such cave, we were suddenly swarmed by enormous bats.
+		-Near the size of ponies, one swooped at me. I took a shot at it as it did, but the shot
+		 went wide and it sank it's fangs into my shoulder.
+		-An enraged To-Cao lept at it, slashing frantically with at it with his kukris, while I
+		 wisely fell back to employ my healing belt.
+		-Sarge roasted the winged bastard with a gout of flame from his claws, finishing it off and
+		 scorching several of it's fellows in the process.
+		-Maya joined in with that, projecting crackling blasts of her own eldritch energies at the
+		 bats while To-Cao lept at another one.
+		-The battle continued for some time, with the bats dropping like flies. Well, pony-sized,
+		 leather-winged flies.
+			-Many of them on fire too, with Sarge adding some alchemist's fire to his spells too.
+				-"I didn't know you had hot sauce, Sarge!" I shouted. "You've been holding out on
+				  me! These trail rations are dry as fuck!"
+		-One of them bit To-Cao, though, shaking him until he fell to the ground, and Maya rushed
+		 in heroically, dragging him out of the fray.
+		-That gave Sarge a clear shot, and he torched the remaining bats with more conjured flames.
+	-All of us spent some time (and potions) healing, and soon To-Cao was back on his feet and we
+	 were ready to move on.
+	-A short while later, we crossed a crevasse, with the aid of a board the dwarves had brought,
+	 and entered a cave.
+		-Grognok turned to us and issued a warning, saying, "This cave. . . it's where the last
+		  round of attacks occurred. . ."
+		-Meeting each other's eyes, still-bleeding-a-bit To-Cao was the first to speak, "Rest here?"
+		-That met with some cautious nods of assent, so To-Cao scurried off into a suitable niche
+		 in the cave's wall, while Maya and Sarge ranged a bit forward, to peer at the rest of the
+		 cave.
+		-Sarge was the first to call our attention over, whispering, "Hey. I think I saw some
+		  movement, up the slope there."
+		 "Yeah," Maya agreed, "Some kind of quadruped, about the size of a gnome."
+		-I couldn't see them from where I was at, but Maya and Sarge were speculating:
+		 "Something from the Elemental Plane of Earth perhaps?"
+		 "Yeah, they seem to be _eating_ the rock. . ."
+		-That last caught the dwarves' attention.
+			-"Wait! What if they eat the ore?!? This could all be a waste!"
+			 "Well," Maya broke in, "We were asked to _guard_ you on your way here. They don't seem
+			  much interested in _harming_ any of us, whatever they are. . ."
+			 "But the ore!"
+			 "Perhaps we can make an additional deal, then," she continued. "Say, 10% of the take
+			  here, for the next two years."
+			 "Two _years_! That's absurd!"
+			 "Fine. One year."
+			 "I have to eat! There's no way. . ."
+			 "Six months?"
+			 ". . . Here, we can scrape up _something_, and when we get back, we'll tell the king
+			  you did a great job, killed tons of drow. He'll take care of rewarding you."
+			 Turning to me, Maya asked, "Fred?"
+			 "Well, we _do_ want to get in the king's good graces. . ."
+			 "OK, Grognok. Deal."
+		-With negotiations settled, To-Cao downed another healing potion, and we all began to creep
+		 forward, Sarge and Maya taking the lead while I took a sniper's position, in cover behind
+		 a bit of cavern wall, and To-Cao guarding me.
+		-Suddenly, Sarge called out, yelling, "Drow!"
+		-He unleashed some spells, towards something I couldn't see past a narrow spot in the cave,
+		 and took a crossbow bolt in the course of it.
+		-I called out to him, yelling, "Fall back! We can hold the chokepoint!"
+		-He did just that and, under a hail of projectiles from our party (magical and otherwise) a
+		 single drow warrior was slain.
+		-No more were forthcoming so, after a few moments, we again cautiously advanced, Sarge in
+		 the lead.
+		-We found no more drow, but Sarge reported that he heard noises coming from a dark pit just
+		 past the chokepoint.
+		-To-Cao and I evidentally had the same idea, as he tossed Sarge a bottle of lamp oil and
+		 stated simply, "Flame."
+			-"Yeah," I added. "Got any more of that hot sauce?"
+		-He reacted with a smile, and began to pour the lamp oil down the hole.
+			-Up from the pit, though, came a grumbling voice, saying, in broken, halting Common,
+			 "Friend? No fight?"
+			 ". . . Yeah, we can talk," Sarge shouted back down.
+			-Cautiously, one of the small quadrupeds from earlier crept up from the pit.
+			-It and Sarge began a halting negotiation.
+				-It introduced itself as a "Xorn", something Maya said was a kind of earth elemental.
+				-It seems they're enemies of the drow too, and the one talking slowly made us
+				 understand that the drow had taken their leader captive.
+				-They wanted our aid with the matter, and, though the dwarves worried for their
+				 profit margins and considered the mineral-eating Xorns pests, I was able to
+				 convince them it's better to split the ore with the Xorns than to lose it all to
+				 the drow.
+				-With a deal struck, the Xorn offered us a "shortcut". It wasn't able to articulate
+				 in Common how far away the rest of the drow were, but it suggested it could tunnel
+				 through the rock for us.
+				-Shrugging, I encouraged the dwarves to follow us, and in turn, we followed the Xorn.
+	-The Xorn tunneled quickly through the rock of the cavern, the stone seemingly melting at its
+	 touch, and we followed it.
+		-It led us to another cavern in which, some distance away, we could see a series of circles
+		 and diagrams inscribed on the ground.
+		-Maya stared at it a moment, pronouncing it work of abjuration and illusion.
+		-"I may be able to disrupte it," she said, and then blasted away at the outer circle of the
+		 diagram.
+		-That circle disrupted, the illusion fell away, revealing a larger Xorn, chained and bound
+		 in the center of the inner circle.
+		-With that, a voice called out, and a human in wizard's robes emerged from behind a pillar.
+		-"Intruding on my work? Perhaps we can come to some resolution, avoiding disruption."
+		 "Huh, maybe that's so," I responded. "We came expecting drow, but perhaps theres some deal
+		  we can make. Come from Sharaar Kol too, huh? We heard you were poking about. . ."
+		 "The drow. . . they were useful, after a fashion. I needed to find some privacy for my
+		  work."
+		 "Well," I began, "Negotiations require some attempt to satisfy both parties desires, and
+		  we know nothing of yours. Tell me, what exactly _is_ your work?"
+		 "You misunderstand," the wizard replied. "Negotiations require two _equal_ parties. I have
+		  no equals here. . ."
+		-Well, that was essentially tailored to trigger my mix of daddy issues and "I hate god"
+		 issues, so I was going to be crushing that man's mind even had he not then proceeded to
+		 take a knee, place a piece of paper on the ground, and call forth a huge, clawed demon.
+		-To-Cao was quickest to react, leaping at the wizard and slashing him again and again.
+		-As wounds opened, what turned out to be the _illusion_ of a wizard fell away, revealing
+		 some horror that had the body of a woman from the waist up, emerging from the body of a
+		 lion below, and which was brandishing a black scythe.
+			-In fact, come to think of it, I'm pretty sure that clawed demon isn't real either. . .
+		-Well, my plan was the same, so I stared at it and tried to break it's brain.
+		-It appeared unphased, but Sarge and Maya blasting away at it _was_ a bit more phase-y,
+		 and it _certainly_ didn't like To-Cao continuing to slash away at it.
+		-Eventually, it was begging for mercy, mercy To-Cao did not grant as he slashed the
+		 creature's throat and let it bleed out.
+		-To-Cao then fell to disemboweling the thing and eating pieces, offering me it's heart.
+			-"Neat! A souvenir!" I said, taking the heart in hand.
+		-Meanwhile, Maya saw to scratching away the diagram powering the abjuration effect.
+			-I eventually joined her, once she gave the all clear, grabbing a key from the
+			 lion-woman's belt and using it to unlock and remove the chains _also_ binding the
+			 captive Xorn.
+		-That done, I called over our Xorn guide, and the dwarves we were here to guard.
+		-The two Xorn's had a happy reunion in their rumbling language.
+		-Afterwards, I assisted the dwarves and Xorns in coming to an amicable arrangement, and
+		 they began to (very quickly, due to the assitance of the Xorns) mine the cavern systems's
+		 precious metals.
+		-Under our watchful eyes, it was done without further trouble, and soon we were on our way
+		 back to the city, our shares in hand.
+
+
+TODO:
+	-Mention the awful creature the wizard turned out to be (maybe some kind of demon?) to the high
+	 priest.
+	-Also make sure the miners hold to their end of the deal, and talk us up to the king.
+
+
 TODO:
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
@@ -2715,6 +2898,7 @@ TODO:
 				+3: 900 gp., 72 XP
 				+4: 1600 gp., 128 XP
 				+5: 2500 gp., 200 XP
+				+6: 7200 gp., 288 XP
 	-More dance numbers.
 	-Recruit more!
 		-The air elemental running your ship?

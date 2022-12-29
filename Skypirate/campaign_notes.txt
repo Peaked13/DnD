@@ -2704,7 +2704,7 @@ TODO:
 		-It entailed sliding your feet along the floor, boots never leaving it.
 		-"Do you, uh, grease your shoes for that?"
 		 "Ha! No lad! It's about _feeling_ your connection to the earth. Comes natural to us dwarves."
-	-I did make friend, though, sitting down to some whiskey with the dwarf who was coaching me
+	-I did make a friend, though, sitting down to some whiskey with the dwarf who was coaching me
 	 through the dance, who turned out to be a miner (what a surprise, for a dwarf. . .).
 		-He asked me what I was in town for, and I told him about the job the high priest had
 		 arranged for us.
@@ -2769,7 +2769,7 @@ TODO:
 	 and entered a cave.
 		-Grognok turned to us and issued a warning, saying, "This cave. . . it's where the last
 		  round of attacks occurred. . ."
-		-Meeting each other's eyes, still-bleeding-a-bit To-Cao was the first to speak, "Rest here?"
+		-Meeting each others' eyes, still-bleeding-a-bit To-Cao was the first to speak, "Rest here?"
 		-That met with some cautious nods of assent, so To-Cao scurried off into a suitable niche
 		 in the cave's wall, while Maya and Sarge ranged a bit forward, to peer at the rest of the
 		 cave.
@@ -2833,17 +2833,17 @@ TODO:
 		-It led us to another cavern in which, some distance away, we could see a series of circles
 		 and diagrams inscribed on the ground.
 		-Maya stared at it a moment, pronouncing it work of abjuration and illusion.
-		-"I may be able to disrupte it," she said, and then blasted away at the outer circle of the
+		-"I may be able to disrupt it," she said, and then blasted away at the outer circle of the
 		 diagram.
 		-That circle disrupted, the illusion fell away, revealing a larger Xorn, chained and bound
 		 in the center of the inner circle.
 		-With that, a voice called out, and a human in wizard's robes emerged from behind a pillar.
 		-"Intruding on my work? Perhaps we can come to some resolution, avoiding disruption."
-		 "Huh, maybe that's so," I responded. "We came expecting drow, but perhaps theres some deal
+		 "Huh, maybe that's so," I responded. "We came expecting drow, but perhaps there's some deal
 		  we can make. Come from Sharaar Kol too, huh? We heard you were poking about. . ."
 		 "The drow. . . they were useful, after a fashion. I needed to find some privacy for my
 		  work."
-		 "Well," I began, "Negotiations require some attempt to satisfy both parties desires, and
+		 "Well," I began, "Negotiations require some attempt to satisfy both parties' desires, and
 		  we know nothing of yours. Tell me, what exactly _is_ your work?"
 		 "You misunderstand," the wizard replied. "Negotiations require two _equal_ parties. I have
 		  no equals here. . ."

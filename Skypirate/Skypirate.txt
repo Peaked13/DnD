@@ -26,10 +26,11 @@ Flaws (compensating for +2 LA):
 		-The process by which you were created left. . . hooks that other psionic creatures can
 		 exploit.
 
-
 Active Permanent Spells:
 	Darkvision 60': https://www.d20srd.org/srd/spells/darkvision.htm
 
+Skill Tricks Known:
+	Dwarven Dance: DC 25 Perform(Dance) check to negate 10 ft. of rough terrain underground.
 
 Advancement:
 	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html

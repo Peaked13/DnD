@@ -2735,7 +2735,7 @@ TODO:
 	 "Huh. See! That's what reading too much gets you. . ."
 	-After "lunch" at the bar, I was feeling rather tired, so we headed back to the ship.
 		-I don't think the pemmican ever tasted quite so good, and I downed quite a bit of it while
-		 a relieved-to-see-me To-Cao picked bits of debris out of my hair, and sooned turned in.
+		 a relieved-to-see-me To-Cao picked bits of debris out of my hair, and soon turned in.
 	-We spent the next several days bumming around town, sampling the entertainments of the dwarves.
 		-In the course of that, we heard rumor of another stranger in town, an oddly dressed human
 		 who would neither confirm nor deny that he was a wizard, but who kept asking odd questions
@@ -2869,7 +2869,7 @@ TODO:
 		-That done, I called over our Xorn guide, and the dwarves we were here to guard.
 		-The two Xorn's had a happy reunion in their rumbling language.
 		-Afterwards, I assisted the dwarves and Xorns in coming to an amicable arrangement, and
-		 they began to (very quickly, due to the assitance of the Xorns) mine the cavern systems's
+		 they began to (very quickly, due to the assitance of the Xorns) mine the cavern system's
 		 precious metals.
 		-Under our watchful eyes, it was done without further trouble, and soon we were on our way
 		 back to the city, our shares in hand.
@@ -2881,6 +2881,217 @@ TODO:
 	-Also make sure the miners hold to their end of the deal, and talk us up to the king.
 
 
+1/11/23:
+	-Returning from the mines, collecting Jade, and heading to the temple, we found it crowded, with
+	 some kind of ceremony or celebration underway.
+		-I asked one of the guards outside the temple what the occasion was and he said it was a
+		 celebration in honor of the return of the high priest to his full duties.
+		-He'd apparently emerged from his seclusion, triggered by his captivity at Nkondi's hands,
+		 boasting of new revelations recieved from Moradin.
+		-"Oh? What revelations are these?" I asked.
+		 "Why not go in, and listen?"
+		 "Well, sure, I suppose we shall. . . Come on folks, lets get good seats."
+		-Jade and Maya both volunteered to translate for the rest of us.
+	-Walking into the temple, we found ourselves seats on one of the benches, and watched the show.
+		-Up at the altar, the high priest was recounting his visions, his voice full of excitement
+		 and holy fervor. He said that Moradin had revealed to him that, "A ring of light has opened,
+		  at the bottom of our mines! We should not fear it, or what lies inside! I am calling for a
+		  militia, a crusade to seize and conquer what lies beyond it, for our people's glory and
+		  profit!"
+		 "To do so," he continued, "We must seize the Tome of Storms from within. If it is not taken
+		  in time, we will be cut off from the rest of the world. . ."
+		-The crowd was boistrous, and clearly receptive to the priest's message.
+		-We could see, though, the king, in the front row, looking a bit unhappy about the whole
+		 affair.
+		-The priest, however, called him up to the altar, saying, "Our king must lead us in this!
+		  Come up here your majesty!"
+		-The king slowly obliged, seeming reluctant, but his hands were apparently forced. As he
+		 approached the altar, the crowd quieted, and he spoke of calling for a council to organize
+		 an expedition to the portal.
+			-Not exactly rushing into it, but sounds like he's somewhat reluctantly going along
+			 with it.
+	-Watching this, Maya raised the matter of the demon in the mines, and the suspicious timing of
+	 the two events.
+		-"A demon?!? What demon?" Jade exclaimed, to some amount of shushing from the dwarves
+		 around us.
+		 "I think it was a demon?" Maya replied. "A lamia, I believe?"
+		-I began digging in my pack, pulling out a lump wrapped in bloody cloth. "Want to poke a
+		  demon heart?" I asked Jade. "We brought you a souvenir. . ."
+		-Jade recoiled, blurting, ". . . No."
+		 "No? Well, I guess I'll keep it, then. I wonder if you can stuff and mount a heart. . ."
+	-The ceremony soon devolved into various patriotic songs, and soon the king was gathering his
+	 entourage and making his way out of the building.
+		-Maya, with impetuous confidence no doubt born of her own high birth, called out, waving,
+		 and gained the attention of the kings entourage.
+		-"You there!" one heavily armored dwarf called out, "What do you want with the king?"
+		 "We have information concerning the high priest's revelations," Maya replied. "There was
+		  a demon, in the mines. . ."
+		-That apparently piqued the king's interest as he waved us over, and granted us a walking
+		 audience as he made his way back to his throne room.
+		-Maya introduced herself as "Maya Dracus, a noble of Sasserine", and shared with the king
+		 that her father had tasked us with doing something about the Quickhammers, who were
+		 expanding into Sasserine.
+		-She also showed him the forged signet ring we were given, causing the king to call for one
+		 of his entourage to fetch "Douley, that idiot."
+		-By the time we reached the throne room, the dwarf Douley was waiting for us there.
+			-She was apparently a noblewoman, whose finger bore the mark of a missing ring.
+			-Handing our ring to her, she placed it on her finger, and the mark indeed matched our
+			 ring.
+			-The dwarves told us it was clearly the one recently stolen from her, though modified.
+			-"Tell us again," the king commanded, "How was it stolen?"
+			 "I. . . well, I fell asleep at a party. Rats took it. . ."
+				-Rats? The lady seemed a few coppers short of a gold. . .
+		-Before we could probe the lady's story much, the king turned to us, saying, "You will swear
+		  us an oath, superseding those which granted you access to the lower city. Here, take this
+		  scroll. . ."
+			-The king then led us through an oath swearing that we would, "Do whatever it takes to
+			  stop the Quickhammers, in the name of the king."
+			-"_Anything?_" Sarge clarified.
+			 ". . . Violence is sometimes regrettably necessary."
+				-That elicited a nod from Sarge.
+			-Maya looked at the scroll, pronouncing it a "writ of inquisition", announcing our right
+			 to investigate on behalf of the king.
+			-Maya also requested the return of the ring, as we might need it in our investigation.
+				-The king assented, but insisted we return it to Douley restored to it's original
+				 state when we were done, giving us 100 gp. to take care of the repairs.
+		-Tasked a second time to address these Quickhammers, we were soon dismissed by the king to
+		 see to it.
+	-Leaving the palace, we debated our next steps on the street outside. I pushed for returning to
+	 the temple, to at least learn more of what the priest experienced, and this portal.
+	-The rest of the crew was amenable to that, so we were soon on our way to the temple, to speak
+	 again with the priest.
+		-The crowds now gone, we were quickly ushered into an inner chamber of the temple, where the
+		 high priest greeted us warmly.
+		-Getting down to business, I reported the success of the expedition, but also the disturbing
+		 presence of the demon.
+			-"What did you call it, Maya? A 'lami'?"
+			 "A lami_a_, Fred."
+		-The priest seemed concerned, and said then, "Hmm. . . there was a portion of my vision I
+		  did not earlier understand. It seemed a lion _chair_, but. . . hmm. . ."
+		-Maya, though, broke in, seeking to dissuade the priest from his crusade, "With demons about,
+		  known for their lies, can you _really_ be sure of this vision?"
+		-That unsurprisingly offended the priest. "Are you questioning my wisdom in this? It was a
+		 vision from Moradin! What do you know of matters of religion?
+		-"We're not doubting you," I broke in, "But warning that these creatures are lurking about.
+		  After all, if this portal is all you promise, that alone might be reason for the beasts
+		  to take an interest, and, where demons walk, there's sure to be danger."
+		 "You. . . are not wrong," the priest replied. "What did this demon look like?"
+		-I described the lamia to the priest, and also volunteered that, "We have it's heart too. I
+		  suppose a priest might be able to do something with that?"
+		 ". . . you have it's heart? That's. . . not exactly enough to interrogate. But that's also
+		  rather odd, for several reasons. Demons usually disappear upon their death. . ."
+		 "Hmm. . . that is so. . ." Maya confirmed. "It _summoned_ another demon, though."
+		 "I'm not sure that thing was real, Maya," I clarified. "Our hands, and blades, passed
+		  right thought it."
+		 "An illusion?" the priest asked. "Did you see how this was accomplished?"
+		 "We did! Here. . ." I replied, as I began to dig in my pack.
+		-Finding the Deck of Illusions, I pulled it out and showed it to the priest, saying, "It
+		  used these. Not exactly scrolls, but something along those lines. . ."
+		-Examining the deck, the priest mumbled, ". . . This. . . it casts some doubt on my vision."
+		 "Before we struck the lamia, or whatever it was," I added, "the creature disguised itself
+		  as a human wizard. A wizard that was seen around Sharaar Kol before we encountered it in
+		  the mines. . ."
+		 "Oh, if only you had brought this to me sooner," the priest lamented, "But now, after the
+		  speech. . . Well, you've seen how the people of the city feel about the matter. . ."
+		 "Perhaps we can at least proceed more cautiously, though," Maya proposed.
+		 "Yes. . . with demons and drow both about, perhaps sending paladins to examine and guard
+		  the portal. . ." the priest replied.
+		 "It would certainly make the king happy," Maya agreed, "To slow things down a bit. As to
+		  the people, there could perhaps be a party, a celebration and send off for the scouts. . ."
+		 "I like the way you think, Maya!" I chimed in. "Get some strong drink. . ."
+		-We'd certainly given the priest something to think about, and, thanking us for the news,
+		 he asked that we leave him to seeing to the arrangements.
+	-From there, we returned to our favorite shop in town, The Vault of Miredhel, to unload the
+	 enchanted scythe and cards from the mines.
+		-It's proprietor was indeed buying, and we walked out each about 900 gold richer (save Jade
+		 who didn't join us in the mines).
+	-With that settled, we didn't have anything else we wanted to address until our meeting with the
+	 Quickhammers.
+		-We discussed some potential conversational gambits, but then I adjourned to a nearby bar,
+		 to entertain myself until the day arrived.
+	-When the appointed day came, we made our way to the alley we'd last met the Quickhammers in,
+	 where we were soon joined by the same two dwarves.
+		-Greeting them, we made the hand off, and they gave us the agreed upon gold (which came to
+		 456 gp. for each of us).
+		-We also inquired about future work, for the rest of us as well as Jade.
+			-"It's always nice to feel included. . ." I said.
+			-They spoke of. . . opportunities for us to remind people of their obligations. "You
+			  know, debts and such."
+			-"What about Jade, then?" I asked.
+				-"Well," the dwarf asked, "What are your specialties? Can you make things that help
+				  with stealth? Perhaps to make someone invisible?"
+				 ". . . I can manage that," Jade replied.
+				-"She might need a better place to work," Sarge broke in.
+				 "Yeah," I added, "An artificer is only as good as her tools, and the current
+				  situation is less than ideal. She's working out of a boat."
+				 "Sure, sure. We can help with that. There's a back room at an alchemist shop in
+				  town, Sappha's Mystical Tinctures. She's a friend. You can work there."
+				-"As for the order," he continued, "Make us five potions of invisibility and five
+ 				  elixirs of swimming."
+		-Maya pressed them on what they can do for _us_, what makes them worth helping.
+			-The dwarf hemmed and hawwed, asking if paying work was not enough, but Maya pressed.
+			-First they volunteered their services getting us in and out of Sasserine, as well as
+			 "safe" places to rest in the city, despite our currently wanted status.
+			-Pressed a bit further as to _how_ they could get us into the city, the dwarf eventually
+			 relented and admitted that they had "teleportation points", to avoid the "usual risk of
+			 error". He claimed one in nearly every district, and suggested we might enjoy the use
+			 of the one in the noble district.
+			-Seemingly delighting in dribbling out these secrets, he then added, "It's in a noble
+			  family's library. . . Can you guess which one?"
+			-Maya simply glared at him.
+			-"Not a fan of riddles, huh? Well, it's House Thoreous," he admitted. "They run dredging
+			  and waste disposal in the city."
+		-"So, about that debt. . ." our Quickhammer representative continued. "The man is a guard,
+		 and gambler. You can have 30% of the debt as your fee."
+			-"And if they won't pay? Do you want us to make an example of him?" Sarge asked.
+			 "Well, yeah, one certainly must prove they're men of the word. . . If that's necessary,
+			  I'll arrange some fee for you instead."
+		-"So," the dwarf went on, "When do you want to meet our wizard? Tomorrow morning work?"
+		 "First," Maya interjected, "What are your intentions for the city of Sasserine?"
+		 "Well, the city is in chaos, offering us an opportunity, for business, and maybe to take
+		  control. Or, well, to _liberate_ the city."
+		-Changing the subject a bit, the dwarf returned to tommorrow morning, saying, "Does meeting
+		  our wizard the next morning work, then?"
+			-Seeing reluctant nodds and shrugs from us, he continued saying, "OK. He's in room five
+			  at The Broken Hammer inn. He'll be expecting you. As for me, I've other business to
+			  attend to. We'll get in contact with you when the deed is done."
+		-As they departed, Sarge spoke up, saying, "Shall we find some place we can chat?"
+		 "Perhaps back at the ship?" I suggested.
+			-That met with nods, so that's where we headed.
+	-Once back, Maya was evidently feeling paranoid, and began looking about for magic auras
+	 indicating scrying.
+		-Jade joined in too, and they claimed to have indeed found some aura of divination.
+		-They proceeded to attempt a variety of odd schemes, to learn more.
+		-First separating all of us, they claimed the divination was following _me_.
+			-"Well, I do have many admirers. . ."
+		-I drew the line when they asked me to start disrobing.
+			-Well, removing all of my magic items, they said.
+			-"This is starting to feel like a robbery. . . What exactly are you aiming to do here?"
+			 I asked.
+			 "You don't want all of your magic items to be dispelled," Jade replied.
+			 "Oh! You want to dispell this? Won't that get rid of that Darkvision the mage-priest-
+			  lady granted me? I'm not looking to give that up. . ."
+			-That sent them back to the drawing board, and then eventually to a shop for scrolls.
+				-I shrugged, sat down at the table in the ship's cabin, grabbed a drink, and dug
+				 into some pemmican with To-Cao. "This stuff is really growing on me, bug-boy. . ."
+	-Once they returned with a scroll of Nondetection, it took Jade a couple of tries, but she got
+	 it up and running, and we got to talking.
+		-We debated how far we really want to cooperate with these folks. Most weren't too
+		 enthusiastic about playing legbreakers.
+		-Maya raised the possibility that her father, having tasked us with investigating this,
+		 might be willing to buy the man's debt, allowing us to claim success and giving him some
+		 hold on the man.
+			-The debt is apparently 5,000 gp., which is pricey, but also suggests the man is
+			 probably someone of means (sort of) to have been extended that kind of credit.
+		-I mentioned that we now at least have knowledge of how the Quickhammers move in and out of
+		 Sasserine, along with one of the points at which they do so. We _also_ know they have some
+		 connection to House Thoreous, who do _dredging_, and Maya kept having those visions about
+		 some dreadful magic pearl in the lagoon. . .
+		-Maya also worried that the nobles of House Thoreous and others in Sasserine would recognize
+		 her, but Sarge and I both volunteered our services in creating a mundane disguise.
+			-(The skill is indeed untrained.)
+
+
 TODO:
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
@@ -2889,6 +3100,7 @@ TODO:
 			-Maybe a specific wand?
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 		-Dex boosts too, though maybe the runner up behind Charisma.
+			-I've already got the +2 gloves of Dex.
         -Jade also maxes Concentration, so can craft you an item boosting it.
 			-Custom cost:
 				Skill bonus (competence):	Bonus squared × 100 gp

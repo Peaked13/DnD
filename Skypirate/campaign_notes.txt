@@ -2904,14 +2904,14 @@ TODO:
 		-We could see, though, the king, in the front row, looking a bit unhappy about the whole
 		 affair.
 		-The priest, however, called him up to the altar, saying, "Our king must lead us in this!
-		  Come up here your majesty!"
+		  Come up here, Your Majesty!"
 		-The king slowly obliged, seeming reluctant, but his hands were apparently forced. As he
 		 approached the altar, the crowd quieted, and he spoke of calling for a council to organize
 		 an expedition to the portal.
 			-Not exactly rushing into it, but sounds like he's somewhat reluctantly going along
 			 with it.
-	-Watching this, Maya raised the matter of the demon in the mines, and the suspicious timing of
-	 the two events.
+	-Watching this, Maya, whispering to us, raised the matter of the demon in the mines, and the
+	 suspicious timing of the two events.
 		-"A demon?!? What demon?" Jade exclaimed, to some amount of shushing from the dwarves
 		 around us.
 		 "I think it was a demon?" Maya replied. "A lamia, I believe?"
@@ -3044,8 +3044,8 @@ TODO:
 		-"So, about that debt. . ." our Quickhammer representative continued. "The man is a guard,
 		 and gambler. You can have 30% of the debt as your fee."
 			-"And if they won't pay? Do you want us to make an example of him?" Sarge asked.
-			 "Well, yeah, one certainly must prove they're men of the word. . . If that's necessary,
-			  I'll arrange some fee for you instead."
+			 "Well, yeah, one certainly must prove they're men of their word. . . If that's
+			  necessary, I'll arrange some fee for you instead."
 		-"So," the dwarf went on, "When do you want to meet our wizard? Tomorrow morning work?"
 		 "First," Maya interjected, "What are your intentions for the city of Sasserine?"
 		 "Well, the city is in chaos, offering us an opportunity, for business, and maybe to take
@@ -3092,6 +3092,123 @@ TODO:
 			-(The skill is indeed untrained.)
 
 
+2/1/23:
+	-We spent some time discussing our plans for this debtor.
+		-Apparently, he's a member of Sasserine's city guard.
+		-Maya expressed some interest in assuming the debt _herself_.
+			-Pull with a guard _would_ come in handy with our current goals, investigating the
+			 Quickhammers and all.
+				-In fact, after pulling his iron out of the fire, as it were, he might have useful
+				 information about the Quickhammers' operation in Sasserine already, having racked
+				 up that debt to them. . .
+			-She also seemed to have some charitable feelings where his plight is concerned, hoping
+			 to induce him to quit his gambling.
+		-Maya also threw out the idea of contriving a reason to return to Sharaar Kol via a different
+		 route, to perhaps learn more about routes the Quickhammers have in and out of Sasserine.
+		-We also had been planning on disguises for our trip to Sasserine (on account of Maya's
+		 prominence and my noteriety).
+			-I'd heard a troupe of gnomish entertainers had recently arived in Sharaar Kol.
+			-They seemed like they'd have the supplies we need, so we figured we'd pay them a visit.
+				-Making our way down to the trade city, we headed over to their caravan.
+				-Evidentally, from the their routine in front of it, they're _mimes_.
+				-Well, I just so happen to be fluent in that universal language, dance.
+				-Maya joined me in that dance off, and the gnomes seemed to get the idea, scurrying
+				 off to their cart, and returning with some face paint and a wig that they proceeded
+				 to apply to To-Cao.
+					-Soon, he was wearing a dress, blonde wig, and gloves over his clawed hands.
+					-Well, _he_ didn't really need the disguise, but that'll at least draw some
+					 attention from the ones of us that do!
+				-Following that, they turned their attention to me.
+					-I attempted to again get my attention across via dance. I first struck my
+					 naturally heroic pose. Then, passing a handover my face, I made my expression
+					 flat, and my body small, hunching my shoulders inward. I then danced my way
+					 behind To-Cao, and peer furitively around his thorax.
+					-The gnomes seemed to get my message, and ushered me over to one of their wagons,
+					 where they set about applying makeup, and something that resembled a judge's
+					 starched white wig, though one that, through a work of illusion, soon turned
+					 a garish chartreuse.
+					-They also offered me a checkered play-knight's costume, to which I nodded, held
+					 up a hand, and, uttering a command word, changed my glamered armor to match.
+				-I was soon joined by Maya and Jade too, who received makeovers of their own,
+				 followed by Sarge.
+				-In barely an hour's time, we were soon all garishly disguised. People would
+				 certainly be taking note of us, but we hardly looked like ourselves.
+				-We tipped the gnomes handsomely for their flashy work, and were then ready for our
+				 trip.
+			-To go with the disguises, though, Maya insisted we stop at a candy shop on the way to
+			 see the wizard, buying a gold's worth (tons).
+	-Arriving at the inn, where the Quickhammers' wizard was staying, we attracted quite a few
+	 strange looks as we walked into the crowded common room.
+		-The bartender asked us if we were lost, but I told him we were here to see a friend.
+			-"It's his birthday! He's going to be _so_ suprised! He told us to show up in fancy
+			  dress."
+			 "Oh, aye? How old are they turning?"
+			 "Fucked if I know. He's more of a drinking buddy. . . Mind if we head up to his room?"
+		-Knocking on the wizard's door, he shouted through it, "Go away! We don't want any!"
+		 "Oh, I'm quickly hammmering on your door because I'm _sure_ you do. . ."
+			-That got the door open, and our disguises got a wide eyed look.
+				-"Didn't know we were _that_ desperate for help. . ." the wizard said.
+				 "Sometimes the best place to hide is in plain sight, in the blinding light," I
+				 replied.
+			-He then asked if we were ready to go, warning us it was a one-way trip, but Maya asked
+			 about a way back.
+				-He told us about a vault in Sasserine's central bank, telling us to ask about a
+				 "Q account", and a code, "72 12 8".
+			-That settled, he cast his spell, and soon we stood in a dusty backroom full of damaged
+			 books and binding materials.
+				-Seeing a (mischevious) opportunity, Maya scrawled across a noble emblem, "House
+				  Dracus is better!"
+				-Joining in, I picked a random book, flipped to a random page, an scrawled, "Fred
+				 was here!"
+				-Jade scowled at us, but leafed through a few of the damaged titles.
+		-Slipping out the door of the room we arrived in, there were a few people hunched over books
+		 in the next room, but we were able to creep past them unheard to a door across the room.
+		-That led to a windowless tunnel, the dankness of which suggested we might be undergound.
+		-Maya thought there was something off about one of the walls, and Jade spotted a protruding
+		 bit of brick she pointed out to me.
+			-Not sure what she expected me to do about it, I shrugged and gave it a swift kick.
+			-That caused a section of the wall to move inward slightly, but also prompted some
+			 shouts of "What was that?" from the far end of the hallway we were in.
+			-"Quickly! Inside!" I whispered, pushing the fake wall open further.
+			-We hurried inside, finding ourselves in a ill-maintained corridor slopping upwards.
+			-Picking our way over the rubble strewn floor, Sarge stumbled, and, someone, yelling
+			 about "Damn rats!" cracked the secret door and threw some alchemist's fire within.
+			-Sarge managed to catch it, preventing it from breaking open, but that only elicited a
+			 shout of, "Damn! Must have been a dud. . ."
+			-Sarge tried to scurry forward, but fell again, and, this time, a jar of alchemist's fire
+			 struck him directly.
+			-Rolling to put out the flames, that was thankfully followed by no more, and he more
+			 carefully picked his way over the rubble, in a somewhat damaged costume.
+		-Following that secret passage, we made emerged through another hidden door into a halway,
+		 now above ground as evidenced by the sights outside arrowslits studding the hallway.
+		-Footsteps came from one direction down the hall, so we headed the other way, only to hear
+		 more approaching us, so we slipped through a convenient door.
+			-Inside was a colorfully painted room, with a child playing with some blocks facing away
+			 from us, in between us and a large window.
+			-Maya skipped right up to the kid, whispering, "Hi! I'm your patron fairy! Here, have
+			  some candy!"
+			 "Oh! Wow! Yay!"
+			 "Do you want to play prank?"
+			 "Yeah!"
+			 "See my helpers over there? They need to get out of here without your father seeing
+			  them. . ."
+			 "Why? He doesn't believe in you!"
+			 "They have iron, though. . . We fairies hate iron."
+			 "Oh. . ."
+			-While they were occupied with that, the rest of us made it over to the window, and
+			 started getting it open.
+			-Soon, the kid was shouting, "Dad! Dad! Come meet my fairy friend!" and we were
+			 scurrying out the open door.
+		-The window led to a small yard, and a high fence.
+		-Handing To-Cao a length of rope, though, he quickly lept the fence, and the rest of us
+		 were soon over it using the rope.
+	-Now on the streets of Sasserine's noble district, we went to go see a guard about a debt.
+		-We'd been told the guard was employed directly by The Dawn Council, and his name, so we
+		 started asking around about him.
+		-We heard he gambles at a place called "The Wolf's Den", and were told to knock seven times
+		 at the door to gain entrance.
+
+
 TODO:
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
@@ -3111,6 +3228,8 @@ TODO:
 				+4: 1600 gp., 128 XP
 				+5: 2500 gp., 200 XP
 				+6: 7200 gp., 288 XP
+			-Light reading suggests that Psi-Like abilities are no different then normal manifesting
+			 when it comes to dispensing with displays: https://www.d20srd.org/srd/psionic/psionicPowersOverview.htm
 	-More dance numbers.
 	-Recruit more!
 		-The air elemental running your ship?
@@ -3139,6 +3258,16 @@ TODO:
 				-Seems to indicate a demand for fake or shoddy good exists. Potentially something
 				 exports from Edric's domain could take advantage of (being a source of cheap goods)
 				 or preempt (being capable of extraordinary workmanship or materials).
+			-The king is angry at the high priest of Morradin.
+		-Party Members:
+			-TODO!
+			-To-Cao:
+				-He is an uncommonly capable Thri-Kreen, possessed of combat techniques uniquely
+				 well suited to his species, and you've seen others of his kind around Edric's
+				 plane. His knowledge would likely be useful to his fellows in Edric's orbit.
+			-Maya:
+				-She seems to have some connection to the dragon god Bahamut. Isn't Shawn connected
+				 to him in some fashion too?
 	-Once you get Leadership, what cohort should you get?
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?

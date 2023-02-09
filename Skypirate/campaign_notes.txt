@@ -3119,7 +3119,7 @@ TODO:
 					-Well, _he_ didn't really need the disguise, but that'll at least draw some
 					 attention from the ones of us that do!
 				-Following that, they turned their attention to me.
-					-I attempted to again get my attention across via dance. I first struck my
+					-I attempted to again get my intention across via dance. I first struck my
 					 naturally heroic pose. Then, passing a handover my face, I made my expression
 					 flat, and my body small, hunching my shoulders inward. I then danced my way
 					 behind To-Cao, and peer furitively around his thorax.
@@ -3209,6 +3209,79 @@ TODO:
 		 at the door to gain entrance.
 
 
+2/8/23:
+	-Sasserine was looking pretty sad these days.
+		-Many shops were closed in the middle of the day, and streets that should have been crowded
+		 were instead empty and debris strewn.
+	-We decided to swing by Maya's family estate.
+		-Now inside the city, and not emerging from a possibly illicit teleport mark inside another
+		 family's estate, she felt it wise to change and assume the full authority of her position.
+	-On our way there, though, we heard a commotion coming from a cross street we were passing, and,
+	 being the intrepid souls we are, we opted to run towards trouble.
+		-The shouts and clangs turned out to be a number of the city's guards battling rat people,
+		 more of those jerk shapers!
+		-I warned my fellows that I'm a bit. . . too popular with the city's guards these days, and
+		 was unsure how my disguise would hold up to close inspection, but Maya was full of
+		 righteous fury. She grew some kind of magic wings and (literally) flew into the fray.
+		-I shrugged, and the rest of us followed her into battle.
+		-Maya and Sarge began blasting away at the ratmen, and I shot one so damn well the arrow
+		 passed through it's skull and dropped the bastard behind him too.
+		-I, though, resisted my impulse to crow about that success, and slunk off down the nearby
+		 alley as To-Cao rushed forward and finished off another with a kukri.
+		-The guards swarmed the last of the ratmen, manacling the wounded creature, with several
+		 kicks along the way.
+		-I wasn't about to stick around to speak with the guards, but, as I scurried off, I could
+		 hear Maya chatting with them.
+	-Eventually Maya walked back to the rest of us, I emerged from my alley, and we continued onto
+	 the Dracus estate.
+		-Maya thought she could sneak in through a gap in the estate's walls, something from her
+		 rebellious youth, but it had apparently been sealed (many of the estates we passed in the
+		 noble district seemed to have beefed up security).
+		-She led us to a different option, a secret door, but even inside that, was given pause by
+		 some kind of newly installed magic eye on a door blocking the way further down that hidden
+		 passage, but, reading a nearby inscription (in elvish, and unintelligible to me), she
+		 presented her signet ring and the door opened.
+		-We were then greeted by guards, and Maya had some choice words about the new security
+		 measure, given that we were investigating _fake signet rings_.
+			-In fact, a quick test proved that the one we'd gotten our hands on sufficed to open
+			 the door!
+	-We were led from there to her lord father's study, recently renamed "The War Room".
+		-There, he was pouring over maps depicting the ongoing gang war.
+		-Greetings were exchanged, and apparently the gnomes do good work, as Lord Dracus asked
+		 after my name before I revealed our past acquaintance.
+		-Maya reported what we'd learned about The Quickhammers and their portals.
+		-Lord Dracus doubted that Lord Thoreous would allow The Quickhammers to use his estate, and
+		 presumed he must not know the existance of the beacon there.
+		-That matter done, for now, as we did not wish to crack down on the transit network _just_
+		 yet, Maya then raised the matter of the guard officer's debt.
+		-She was able to talk her father into backing her assumption of the guard's debt, and he
+		 provided her with the necessary funds.
+	-Soon we were on our way back out, but not before grabbing some food (and a drink or three).
+	-The Wolf's Den was located within a ritzy ocean-front tavern. Arriving there, the guards at
+	 the door seemed perfectly happy to let Maya in, but were less fond of our still-ridiculously-
+	 dressed selves, but she insisted we were her "bachelorette party".
+		-Once within, we knocked as instructed, at a cellar door, and were admitted to the gambling
+		 parlor.
+		-Surveying the scene inside, the patrons were many and varied, though, weirdly, the dealers
+		 all looked to be identical, apparently. . . septuplets?
+		-Maya set about asking after a "friend" of hers, our guard Edmund. The employee she spoke
+		 with seemed to know him, and obligingly offered to take a message to the man, who was here
+		 recently and was now somewhere upstairs.
+		-Watching the messenger, we saw him approach someone at a highrollers table in a raised area
+		 above, and Maya swiftly followed, with the rest of us in tow.
+		-He seemed none too receptive to Maya's offer to purchase his debt, saying he was "up a
+		 thousand, and would be paying it off in no time."
+		-She let it be known he didn't have the time, that The Quickhammers had sent _us_ to collect
+		 it.
+		-There was a fair amount of back and forth, with Maya playing the good cop to our bad-clown-
+		 cops. The generosity of Maya's offer, combined with a threat or three from the rest of us,
+		 eventually proved persuasive.
+			-He seemed quite suspicious about what we were getting out of it, but he eventually
+			 came to frame it as a power play by House Dracus, which made sense to him.
+	-With that done, the sun was going down, and we retired to the Dracus estate for the evening,
+	 to enjoy more of their hospitality.
+
+
 TODO:
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
@@ -3231,12 +3304,24 @@ TODO:
 			-Light reading suggests that Psi-Like abilities are no different then normal manifesting
 			 when it comes to dispensing with displays: https://www.d20srd.org/srd/psionic/psionicPowersOverview.htm
 	-More dance numbers.
-	-Recruit more!
+	-Recruiting!
 		-The air elemental running your ship?
 			-What _would_ level adjustement for an elemental look like?
 				-None listed, though could perhaps look at HD, if Jake allows it?
 					-Small through Huge air elementals are 2, 4, 8, 16 HD.
 			-I think you do speak Auran, for more or less this reason.
+		-Those gnome mimes you met Sharaar Kol.
+			-They're a blast! Totally your kind of people.
+			-They'd also provide a possible background for your hypothetical gnome illusionist
+			 cohort.
+		-Your cohort!
+			-Originally, you'd planned on a gnome illusionist, with some vague plan of he being
+			 someone you knew from your childhood on Edric's plane.
+				-Mimes might provide an alternate background for that character.
+			-What, though, does Lesley's absence and To-Cao mean for this?
+				-Would be a bit unwieldy to manage three characters.
+				-To-Cao would be a solid cohort too.
+				-The big question, I guess, is what Lesley's plans are, how much he'll be around, etc.
 	-What do you report, if ever called to do so by those that set you loose with the skyship?
 		-Sasserine:
 			-Turmoil in the church of Nkisi.
@@ -3260,7 +3345,6 @@ TODO:
 				 or preempt (being capable of extraordinary workmanship or materials).
 			-The king is angry at the high priest of Morradin.
 		-Party Members:
-			-TODO!
 			-To-Cao:
 				-He is an uncommonly capable Thri-Kreen, possessed of combat techniques uniquely
 				 well suited to his species, and you've seen others of his kind around Edric's
@@ -3268,6 +3352,11 @@ TODO:
 			-Maya:
 				-She seems to have some connection to the dragon god Bahamut. Isn't Shawn connected
 				 to him in some fashion too?
+			-Sarge:
+				-Sarge apparently wasn't always a dragon-man, but was actually once a cat-man. Such
+				 transformations are kind of Edric's thing.
+			-Jade:
+				-An artificer, the service of which is always of interest to Edric.
 	-Once you get Leadership, what cohort should you get?
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?

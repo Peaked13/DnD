@@ -40,9 +40,12 @@ Advancement:
 		-Get:
 			Lvl.	Name
 			-------------
-			4		RHETORICAL FLOURISH (Diplomacy 8)
+			4		RHETORICAL FLOURISH (Diplomacy 8): Rushed Diplomacy at -5 instead of -10.
 			4		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
 			9		BACK ON YOUR FEET (Tumble 12)
+		-Customize CONCEAL SPELLCASTING???
+			-Psionic version would be very useful, but Sleight of Hand doesn't make much sence for
+			 something with no somatic components. _Bluff_, though. . . and opposed by Sense Motive?
 	-Skills required for prestige classes:
 		-Dread Pirate:
 			Appraise 8 ranks

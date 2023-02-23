@@ -3522,6 +3522,9 @@ TODO:
 			-Maya:
 				-She seems to have some connection to the dragon god Bahamut. Isn't Shawn connected
 				 to him in some fashion too?
+				-Her noble family, headed by her father, are moneychangers in Sasserine, a thing
+				 that may offer a point of leverage to an entity that can crash specie markets more
+				 or less at will.
 			-Sarge:
 				-Sarge apparently wasn't always a dragon-man, but was actually once a cat-man. Such
 				 transformations are kind of Edric's thing.

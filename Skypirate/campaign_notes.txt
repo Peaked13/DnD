@@ -3286,7 +3286,7 @@ TODO:
 2/22/23:
 	-On our way back to the estate, the sun was going down, and the streets were rapidly emptying
 	 as it did.
-	-As we walked, Maya expressed an interest in combatting the cities gangs.
+	-As we walked, Maya expressed an interest in combatting the city's gangs.
 		-"Well, that's the plan, right? With the Quickhammers and all?" I said.
 		 "Yes. I would not mind fighting _any_ of them, though. This is my home."
 	-At an intersection, we heard a commotion, some yelling down the cross street. True to form, we
@@ -3333,7 +3333,7 @@ TODO:
 		 finished off by a goblinbane bolt from Jade.
 		-Through the doors from which he'd emerged, we could see the sands of the arena floor, on
 		 which two humans were taking reluctant swings at one another, surrounded by a crowd of
-		 shouting goblins.
+		 shouting goblins. We ran through them, out onto the sands.
 		-Sarge dropped a goblin that was fumbling at a nearby door, but not before he'd unlocked
 		 and shoved the door open, and ominous stamping and snorting noises began issuing forth
 		 from within it. . .
@@ -3452,6 +3452,159 @@ TODO:
 		  We're familiar with the bank. . . It's no trouble."
 
 
+3/8/23:
+	-We spent some time discussing our next steps, while in Sasserine, and how and when we'd be
+	 taking our leave of the city.
+		-Jade expressed and interest in visiting the orphanage she was raised in, here in the city.
+		-Several of my other companions were every bit as interested as I in collecting our pay.
+		-There's also the matter what to do with our _new_ airship.
+			-I asked Squee where the goblins came to Sasserine from, which he said was somewhere
+			 to the North.
+			-I also mentioned that I'd seen some of their kin on the deserted island South of the
+			 Champions District, thinking it might offer a cost-free mooring option. Squee described
+			 them as "scrappers", though, which had me thinking twice about leaving our boat in
+			 reach of the isle.
+			-In the end, Maya wrote to her father, who arranged a berth for us at the city's airship
+			 docks, covering the cost.
+			-Sarge raised the _other_ costs, of another ship, and suggested it's sale might be wise.
+				-I was resistant, and _certainly_ didn't want to sell it's cannons.
+				-I briefly suggested that one option there might be _recruiting_ elementals, instead
+				 of binding them. I had to admit some sympathy for their state, but figure they
+				 might be amenable to working for _shares_, same as any other crew, if suitably
+				 persuaded.
+		-We also talked of continuing to work against the city's various gangs.
+			-Interfering with the Shapers or The Morticians' Guild would certainly be a thing we
+			 could point at to ingratiate ourselves with a variety of parties: the guards, Maya's
+			 family, and their rivals, The Quickhammers.
+	-Following Lord Dracus's instructions, our goblin deckhands and I got our ship on it's way to
+	 the docks.
+		-Once there, we got the ship moored, and I instructed our goblins to keep watch over the
+		 ship, placing Squee in charge. Maya handed them all handfuls of gnomish candy, and promised
+		 Squee a portion of her loot if they keep the ship safe.
+		-As we walked out onto the docks, Maya approached a guard, greeting him.
+			-She warned him about our goblin deckhands, agreeing with his insistance that they
+			 remain aboard the ship.
+			-Continuing, she then mentioned that she'd been away in Sharaar Kol for some time, and
+			 asked if The Morticians' Guild was still troubling the city.
+				-He told us they were engaging in a kind of insurgency, loosing undead on the city
+ 				 in hit-and-run raids.
+				-He also mentioned a suspected a base in the forest Southwest of the city, and that
+				 their leader had vowed revenge on the city.
+	-Well, that base in the forest seemed a promising lead, so we set about preparing ourselves to
+	 go in search of it.
+		-We discussed how to search and, none of us being especially competent trackers, we opted
+		 to search from the air, and our new ship.
+		-We also, though, stopped by our favorite herbalist, in the Champions District, in search
+		 of relevant supplies.
+		-The proprietor was sympathetic to your cause, and offered a discout, which Maya use to
+		 purchase a potion or two.
+		-After that, we retired to the Dracus estate, for dinner and rest, before the search.
+	-Leaving the estate the next morning, we headed to the airship docks.
+		-Maya had kindly collected a few bottles of wine for our new crew too, though I counciled
+		 her to perhaps hand that over only _after_ the day's business.
+		-Boarding the ship, the goblins were still asleep, but I woke them with a shout, saying,
+		 "Wake up, my bucaneers! Your candy is here! And Lady Maya brought you a treat for
+		  later. . . But, for now, we've got business to attend to! Lets get this ship in the air!"
+	-We took the ship out over the ocean, circling around the city and then flying above the forest
+	 to it's West.
+		-"Keep an eye out!" I shouted to my crew and companions. "First to spot a zombie or the like
+		  wins a prize!"
+		-Some time later, Squee squeed, and called me over to the rail.
+		-He pointed out an unnaturally discolored bit of tree cover that certainly _did_ look odd,
+		 and which Jade confirmed was indeed not natural.
+		-"Good eye, Squee!" I said, flipping him a gold piece, to his visible delight.
+		-I then conferred with our winged (and sometimes winged) companions, and Maya volunteered
+		 to fly down and take a closer look.
+		-Making a pass, she returned to the ship, and indicated that the strange canopy appeared to
+		 be some kind of illusion. Slightly translucent, she could sort of see through it, when up
+		 close, and said there was some kind of building within.
+		-Well, certainly _something_ is down there, so we debated prudently descending somewhere
+		 nearby, or going in hot.
+		-As if there was any doubt, we chose the latter, Maya and Sarge gliding down to secure our
+		 landing site while I tied a rope for our descent.
+		-They waved to us, indicating we were good to come down.
+			-To-Cao was first down the rope, making it easy, but, as I made a slower descent, some
+			 jerk jerked the wheel, causing the rope to swing. I lept free to a nearby tree, failing
+			 gracefully. Jade ran into similar trouble, though, and hit a few branches on her way
+			 down.
+		-Once we were all down, we regrouped, and Maya whispered, "I hear something. . . large,
+		 moving about inside. . ."
+		 "Well," I said, "Time to prepare, then. How do you want to do this?"
+		 "Rushing in blasting worked well at the arena. . ." Maya began.
+		 "Alright, reckless it is!" I finished.
+	-To-Cao took the lead, moving towards the building's entrance through the underbrush, with the
+	 rest of us close behind him.
+		-As he rounded the corner, and moved in sight of the open doorway, we all heard a horrendous
+		 clattering as a ten foot tall lizard skeleton rushed towards To-Cao.
+		-We heard some chanting from within and, as dark energies streamed towards To-Cao, he
+		 dropped his weapons turned to run.
+		-That proved a grave (heh) mistake, as the lizard skeleton slashed at him with it's talons,
+		 and my faithful companion collapsed to the ground, gushing ichor.
+		-Sarge retaliated on his behalf, blasting the skeletal creature with firey ray, and Jade
+		 joining in with her crossbow.
+		-Maya, meanwhile, took again to the air, flying up above the building, and looking into
+		 it's courtyard. She must not have liked what she saw, or the chanting that came from
+		 within, as she was soon racing back out, as fast as her wings could carry her, towards the
+		 ship.
+		-I was wisely concealed in some bushes, so I slunk back, out of the monster's reach, before
+		 popping up and blasting the skeletal beast with my Wand of Magic Missle.
+		-Sarge then barked another firey spell, searing the monster and igniting the dry undergrowth
+		 around him.
+		-Jade hit it with another shot from her crossbow, and I hurled a bottle of holy water at the
+		 horror. The blessed water that drenched it finally caused it to crumble to a heap of bones,
+		 and those of us still here and on our feet dived for new cover.
+		-The wisdom of that was immediately proved, as a hooded acolyte walked out of the entrance,
+		 mumbling a spell, only for Jade and I to pop up and unleash a storm of projectiles her way,
+		 dropping her before she could complete the spell.
+		-Looking to repeat the feat, we all ducked back down into the bushes.
+		-To our horror, though, a new skeletal creature emerged from the building and, bending down,
+		 scooped up To-Cao's prone form, carrying him back into the temple.
+		-My bug buddy was in trouble, so I crept forward, peering around the ornamental stone
+		 railing that flanked the building's stairs.
+		-Inside, I was disgusted, though not especially surprised, to see masked and cloaked figure
+		 chanting over To-Cao's body as the insect warrior's flesh began to stir.
+		-My remaining companions had crept forward to join me, the new skeleton (as big as the last,
+		 though more humanoid) rushed out, swinging at Sarge.
+		-It missed, but Sarge did not, as he reached out with his own claws crackling with energy.
+		-I tried to enact my revenge, and to crush the mind of the bastard desecrating To-Cao's
+		 corpse, but the masked figure was unphased, so I slunk away from the entrance and back into
+		 the undergrowth.
+		-Maya rejoined us in the fight then, blasting the skeletal horror too, and Jade loosed an 
+		 arrow into the building.
+		-The skeleton continued swinging at Sarge, and the masked figure moved up to join him.
+		-Conveniently, that brought him back into my view, and popping up from the undergrowth, I
+		 again directed the full force of my mind at his, this time sending him reeling.
+		-Sarge followed that with a wave of flame, searing the mask jerk and crumbling his skeletal
+		 companion.
+		-Maya then finished of the masked figure with a blast of eldritch energies.
+		-That didn't settle matters, though, and more chanting emerged from the building as Jade
+		 rushed up to the entrance and loosed another crossbow bolt inside.
+		-Meanwhile, from my vantage point, I caught a pair of the necromancers sneaking out the
+		 back entrance of the building. I loosed an arrow in their direction, but the shot went
+		 wide, so I called for my companions attention, alerting them to the encirclement or escape.
+		-Sarge rushed into the building's front door, as Maya joined me in blasting at those
+		 escaping out the back, dropping one of them.
+		-The other kept running, but I pursued him, hitting him with an arrow in the shoulder as he
+		 fled. Maya then finished him too, with another arcane blast.
+		-Things sounding calm, I shouted up to Maya, saying, "Did that guard say something about a
+		  reward?"
+		 "Probably?"
+		 "Eh, good enough for me," I replied, and, approaching one of the two downed while fleeing,
+		 I sawed off his head, stuffed his holy symbol into his mouth, and moved onto the next one.
+	-The battle settled, we settled into searching the building.
+		-We ended up with an assortment of treasures, two suriving captives (one the seeming leader,
+		 the one in the mask, who, after removing his magic mask, appears to have been a troglodyte),
+		 and the heads and holy symbols of the rest.
+		-We dragged the captives and poor To-Cao back up to the ship via rope, and returned to the
+		 city.
+
+
+TODO:
+	-Sort out loot.
+	-Sort out how we handle crew shares.
+	-Cash that check.
+
+
 TODO:
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
@@ -3480,6 +3633,10 @@ TODO:
 				-None listed, though could perhaps look at HD, if Jake allows it?
 					-Small through Huge air elementals are 2, 4, 8, 16 HD.
 			-I think you do speak Auran, for more or less this reason.
+			-Relevant sources we could potentially adapt:
+				https://dndtools.net/feats/planar-handbook--79/planar-familiar--2172/
+				https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions/animal-companion-archetypes/elemental-companion-animal-companion-archetype/
+				Complete Mage pg. 33 has the Elemental Companion alternate class feature for Druids
 		-Those gnome mimes you met Sharaar Kol.
 			-They're a blast! Totally your kind of people.
 			-They'd also provide a possible background for your hypothetical gnome illusionist
@@ -3504,7 +3661,7 @@ TODO:
 			-Shit, that river-brain-thing is probably right up Edric's alley.
 				-We think we left it encased in rock, where the magic river used to be before that
 				 wild magic planar swap happened.
-            -There were some other mind-control-y shit down there too, like the rats.
+            -There was some other mind-control-y shit down there too, like the rats.
 				-Both they and the brain felt like psionics.
 			-A river of magic isn't really his domain, but it _is_ something he'd be plenty happy
 			 to _consume_. If that can be worked into items. . .

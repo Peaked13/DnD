@@ -3497,7 +3497,7 @@ TODO:
 		-We also, though, stopped by our favorite herbalist, in the Champions District, in search
 		 of relevant supplies.
 		-The proprietor was sympathetic to your cause, and offered a discout, which Maya use to
-		 purchase a potion or two.
+		 purchase a potion or two, and some bottles of holy water.
 		-After that, we retired to the Dracus estate, for dinner and rest, before the search.
 	-Leaving the estate the next morning, we headed to the airship docks.
 		-Maya had kindly collected a few bottles of wine for our new crew too, though I counciled
@@ -3523,10 +3523,10 @@ TODO:
 		-As if there was any doubt, we chose the latter, Maya and Sarge gliding down to secure our
 		 landing site while I tied a rope for our descent.
 		-They waved to us, indicating we were good to come down.
-			-To-Cao was first down the rope, making it easy, but, as I made a slower descent, some
-			 jerk jerked the wheel, causing the rope to swing. I lept free to a nearby tree, failing
-			 gracefully. Jade ran into similar trouble, though, and hit a few branches on her way
-			 down.
+			-To-Cao was first down the rope, making it look easy, but, as I made a slower descent,
+			 some jerk jerked the wheel, causing the rope to swing. I lept free to a nearby tree,
+			 failing gracefully. Jade ran into similar trouble, though, and hit a few branches on
+			 her way down.
 		-Once we were all down, we regrouped, and Maya whispered, "I hear something. . . large,
 		 moving about inside. . ."
 		 "Well," I said, "Time to prepare, then. How do you want to do this?"
@@ -3574,8 +3574,8 @@ TODO:
 		-The skeleton continued swinging at Sarge, and the masked figure moved up to join him.
 		-Conveniently, that brought him back into my view, and popping up from the undergrowth, I
 		 again directed the full force of my mind at his, this time sending him reeling.
-		-Sarge followed that with a wave of flame, searing the mask jerk and crumbling his skeletal
-		 companion.
+		-Sarge followed that with a wave of flame, searing the masked jerk and crumbling his
+		 skeletal companion.
 		-Maya then finished of the masked figure with a blast of eldritch energies.
 		-That didn't settle matters, though, and more chanting emerged from the building as Jade
 		 rushed up to the entrance and loosed another crossbow bolt inside.
@@ -3590,7 +3590,7 @@ TODO:
 		  reward?"
 		 "Probably?"
 		 "Eh, good enough for me," I replied, and, approaching one of the two downed while fleeing,
-		 I sawed off his head, stuffed his holy symbol into his mouth, and moved onto the next one.
+		-I sawed off his head, stuffed his holy symbol into his mouth, and moved onto the next one.
 	-The battle settled, we settled into searching the building.
 		-We ended up with an assortment of treasures, two suriving captives (one the seeming leader,
 		 the one in the mask, who, after removing his magic mask, appears to have been a troglodyte),
@@ -3601,8 +3601,15 @@ TODO:
 
 TODO:
 	-Sort out loot.
+		-Finished pricing, and posted some questions about how we allocate some of the items: https://discord.com/channels/560915739796570113/560915739796570119/1084255596372557985
 	-Sort out how we handle crew shares.
+		-Eh, I'm slowly coming around to the idea that salary is best. At this point, the airship
+		 is mostly transit, rather than actively involved in winning rewards. Shares would make
+		 more sense if we're going full pirate and capturing other ships.
 	-Cash that check.
+	-Start chatting up the air elementals.
+		-_You_ weren't the one that bound them, or even renewed their bindings, though you have
+		 benefited them. In fact, you hate one of the god involved in the original ship's creation.
 
 
 TODO:

@@ -3957,6 +3957,8 @@ TODO:
 	-Talk to Jade about a Cloak of Charisma +4. She can manage the higher-than-her-level caster
 	 level requirement.
 		-You posted about it in #crafting-requests: https://discord.com/channels/560915739796570113/1027415547278794782/1093368866886914179
+		-Looks like it's on the docket!
+		-You paid for the 6k worth of materials.
 	-Figure out paying back that 10k.
 
 
@@ -4055,59 +4057,7 @@ TODO:
 			-D'Roc:
 				-
 	-Once you get Leadership, what cohort should you get?
-		-They'll be level 4 to start, if you indeed get Leadership at 6.
-		-CN Gnome Illusionist?
-			-Gnome is definitely solid for an illusionist.
-				-+1 to Illusion spell DCs.
-				-Alchemy bonus is solid for ships too, furnishing novel alchemical weapons and maybe
-				 dovetailing with cannons or more traditional seige weapons.
-				-If any gnome, then forest gnome seems a no-brainer. It seemingly only has upsides
-				 over the default: https://www.dandwiki.com/wiki/SRD:Gnomes,_Forest_(Race)
-				-Considers himself a "pargon of gnomishness".
-			-Sorcerer or wizard?
-				-Still Spell, etc.?
-				-Charisma also:
-					-Is the basis for gnome spell-likes.
-					-Helps Disguise, a big-deal skill for illusions (though _you_ also help that a ton).
-				-Intelligence also:
-					-Helps with alchemy.
-				-Variant Illusionist wizards are interesting: http://www.d20srd.org/srd/variant/classes/specialistWizardVariants.htm#chainsofDisbelief
-					-Chains of Disbelief is super cool, but maybe actually a downside when working
-					 with a ship's crew.
-					-Shadow Shaper might be worth the hefty price, given how it dovetails with what
-					 you do. Precludes the next two options, though.
-					-Focused Specialist might be worth it: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#focused-specialist
-					-Gnome Illusionist also looks interesting, especially the first two levels:https://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist
-					-It does seem possible to take both.
-				-Sorcerers have their own variants:
-					-This list is super useful: https://srd.dndtools.org/srd/variant/variantList.html
-					-Illusion Sphere might be worth it: https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#socerer-spheres
-					-If religious, there's some fun divine variants:
-						https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#divine-companion
-						https://srd.dndtools.org/srd/classes/baseCore/sorcerer.html#domain-access
-				-Ah, wizards having Scribe Scroll goes well with your UMD score.
-				-If a specialist wizard, what two schools do you give up?
-					-Necromancy is almost certainly one, for flavor and usefulness both. "What fun
-					 are the dead? Even the ones that think just keep going, "Flesshh. . ." or "Blud!"
-					-Abjuration is probably the other. Biggest pain is no dispels.
-				-Oh, and Gnome Illusionist, discussed above reduces your caster level by 1 for
-				 another school. It's attractive, so which one?
-					-Divination might be a good fit. Not harmed too much by the level loss, it also
-					 fits the carefree, gnomish attitude I'm imagining here.
-			-Cat familiar's +3 to Move Silently helps someone who casts invisibility, and fits a ship.
-				-Oh, this list is amazing: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#variant-familiars
-				-Hummingbird, for +4 Initiative, definitely rivals cat.
-			-Interesting applications with ships, especially flying ones.
-				-How big can you make illusions? Big enough to hide a ship in a cloud?
-					-1st level spell Silent Image is plenty big, with a duration of Concentration!
-					-Ah, but can an illusion _follow_ a ship? Silent Image seems to have a static
-					 location. _Maybe_ tortured logic would consider a ship a location. . .
-						-Seems like it's not a settled question: https://rpg.stackexchange.com/questions/195428/can-the-permanent-image-spell-move-with-the-caster
-						-Thus, probably a DM call.
-			-Illusionist is a great fit for social rogue.
-				-Lies + illusions = profit.
-				-Invisibility + rogues = death.
-				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
+		-Moved discussion of this into Skypirate.txt
 	-What about followers?
 		-Dread Pirate will double them at it's 10th level.
 		-You'll have eight level ones if you take it right at 6th level, even without Charisma buffs.

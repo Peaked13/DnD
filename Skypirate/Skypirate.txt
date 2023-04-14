@@ -1,5 +1,5 @@
 Name: Fredrick		Race: Phrenic Human		Alignment: Chaotic Neutral
-Hair: Red	Eyes: Blue		Age: 25		Height: 5'11'	Weight: 138
+Hair: Red	Eyes: Blue		Age: 25		Height: 5' 11"	Weight: 138
 
 Lvl	Class lvl		BAB		Skill Points	Feats									Notes	
 ------------------------------------------------------------------------------------------
@@ -199,9 +199,25 @@ Character Design Notes:
 
 
 Cohort:
+	Name: Grimble Grumble		Race: Forest Gnome		Alignment: Chaotic Neutral
+	Hair: Light Brown	Eyes: Green		Age: 57		Height: 2' 3"	Weight: 44
 	
+	Lvl	Class lvl			BAB		Skill Points	Feats								Spells Learned
+	---------------------------------------------------------------------------------------------
+	1	Gnome Illusionist 1	+0		20				Scribe Scroll, Silent Spell			All 0, 6 level 1
+	2	Wizard 2			+1		5													2 level 1
+	3	Wizard 3			+1		5				Fiery Burst							2 level 2
+	4	Wizard 4			+2		5													2 level 2
+	5	Gnome Illusionist 5	+2		5													2 level 3
 	
-	Cohort Design Notes:
+	-Abilities rolled:
+		15 (Dex)
+		12 (Str, 10 after race)
+		16 (Int)
+		12 (Wis)
+		15 (Con, 17 after race)
+		12 (Cha)
+	-Cohort Design Notes:
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?
 			-Gnome is definitely solid for an illusionist.
@@ -212,7 +228,6 @@ Cohort:
 				 over the default: https://www.dandwiki.com/wiki/SRD:Gnomes,_Forest_(Race)
 				-Considers himself a "paragon of gnomishness".
 			-Sorcerer or wizard?
-				-Still Spell, etc.?
 				-Charisma also:
 					-Is the basis for gnome spell-likes.
 					-Helps Disguise, a big-deal skill for illusions (though _you_ also help that a ton).
@@ -224,7 +239,7 @@ Cohort:
 					-Shadow Shaper might be worth the hefty price, given how it dovetails with what
 					 you do. Precludes the next two options, though.
 					-Focused Specialist might be worth it: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#focused-specialist
-					-Gnome Illusionist also looks interesting, especially the first two levels:https://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist
+					-Gnome Illusionist also looks interesting, especially the first two levels: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#gnome-illusionist
 					-It does seem possible to take both.
 				-Sorcerers have their own variants:
 					-This list is super useful: https://srd.dndtools.org/srd/variant/variantList.html
@@ -237,13 +252,21 @@ Cohort:
 					-Necromancy is almost certainly one, for flavor and usefulness both. "What fun
 					 are the dead? Even the ones that think just keep going, "Flesshh. . ." or "Blud!"
 					-Abjuration is probably the other. Biggest pain is no dispels.
+					-Yep, lets do those two.
 				-Oh, and Gnome Illusionist, discussed above reduces your caster level by 1 for
 				 another school. It's attractive, so which one?
 					-Divination might be a good fit. Not harmed too much by the level loss, it also
 					 fits the carefree, gnomish attitude I'm imagining here.
+						-NOPE! Rereading, it has to be evocation, transmutation, or conjuration.
+					-Lets go with Transmutation, since it'll mostly mean minor duration reductions.
 			-Cat familiar's +3 to Move Silently helps someone who casts invisibility, and fits a ship.
 				-Oh, this list is amazing: https://srd.dndtools.org/srd/classes/baseCore/wizard.html#variant-familiars
 				-Hummingbird, for +4 Initiative, definitely rivals cat.
+					-It's from Dragon Magazine #323, pg. 98 (you have the PDF and physical copy).
+					-Thrush stats are on DMG pg. 203.
+					-Oh! They even live in forests (among other places): https://www.hummingbird-guide.com/hummingbird-habitat.html#:~:text=Hummingbirds%20are%20wild%20birds%20with,country%20and%20in%20the%20cities.
+						-Might mean a Forest Gnome can speak with them. . .
+					-Yeah, lets do a hummingbird.
 			-Interesting applications with ships, especially flying ones.
 				-How big can you make illusions? Big enough to hide a ship in a cloud?
 					-1st level spell Silent Image is plenty big, with a duration of Concentration!
@@ -255,3 +278,58 @@ Cohort:
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
 				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
+			-Feats:
+				-Metamagic:
+					-Still Spell and Silent Spell?
+						-Silent Spell is probably the biggest deal for concealing casting: https://dndtools.net/feats/players-handbook-v35--6/silent-spell--2626/
+						-Still can be obviated by simply hiding, or using cover.
+					-Extend Spell?
+						-Solid, for a support caster and only one spell level.
+						-Mostly obviated by Gnome Illusionist, though.
+				-Reserve feats? Tempting early ones:
+					-Acidic Splatter: https://dndtools.net/feats/complete-mage--58/acidic-splatter--24/
+						-Melf's Acid Arrow obviously satisfies.
+						-Ah, range is _way_ too limiting.
+					-Fiery Burst: https://dndtools.net/feats/complete-mage--58/fiery-burst--1123/
+						-Flaming Sphere or Scorching Ray satisfy, and easy to find higher ones.
+						-This one, if any.
+					-Shadow Veil: https://dndtools.net/feats/complete-mage--58/shadow-veil--2566/
+						-Darkness qualifies, but, eh, only 20% miss chance for a round.
+				-Spell Focus (Illusion)?
+					-DCs aren't as bit of a deal with illusions as other stuff, though maybe still
+					 something to _eventually_ pick up.
+				-Improved Initiative?
+					-Can't get as a bonus feat.
+					-Ah, but you're losing your 5h level bonus to Gnome Illusionist, and probably
+					 the 10 level one too.
+					-Hummingbird will also mean you've already got good initiative.
+			-Gear:
+				-Will start with expected character wealth for level: https://discord.com/channels/560915739796570113/560915739796570119/1095123367343964190
+					-That's 5400 gp.
+					-After that, Fred funds him (or whatever else the party agrees to. . .)
+				-Continual Flame torch or other light source?
+					-Buy it, or get spell and cast yourself for 50 gp.?
+					-Opted for the latter, as it might be useful aboard ship.
+				-Alchemical stuff!
+					-Extensive list of possible options: https://orbitalflower.github.io/rpg/dnd3-extended-alchemy-items-list.html
+					-Only risk losing materials if you fail by 5 or more, so safe to assume anything
+					 where your bonus + 1 is within 4 of DC auto-succeeds.
+						-You have +12 at level 4, or +14 with a lab
+				-Spells:
+					-See "Spells Copied from Another’s Spellbook or a Scroll" here for details of
+					 copying them: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
+						-Weirdly, scrolls are the cheap option for level 1, but the 50 x level
+						 for copying it from others' spellbooks is the better option for higher
+						 levels (and some first level stuff with material components).
+					-Spells purchased:
+						150		Major Image
+						100		Darkvision
+						100		Continual Flame
+					-Runner up spells (you might want later):
+						https://dndtools.net/spells/spell-compendium--86/familiar-pocket--4475/
+						https://www.d20srd.org/srd/spells/disguiseSelf.htm
+						https://www.d20srd.org/srd/spells/expeditiousRetreat.htm
+						https://dnd.arkalseif.info/spells/underdark--34/hail-stone--3487/index.html
+						https://www.d20srd.org/srd/spells/mirrorImage.htm
+						https://www.d20srd.org/srd/spells/bullsStrength.htm
+						https://www.d20srd.org/srd/spells/catsGrace.htm

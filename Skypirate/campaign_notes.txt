@@ -3829,8 +3829,8 @@ TODO:
 			  throw. . ." I protested.
 			 "I would. . . rather not," she replied. "Besides, helping the guards _would_ go a long
 			  ways towards clearing your name. . ."
-			 "Yes, but I'm not sure showing up at a guard with a pair of severed heads is going to
-			  give them the impression I've changed my ways. . ."
+			 "Yes, but I'm not sure showing up at a guard post with a pair of severed heads is
+			  going to give them the impression I've changed my ways. . ."
 			-Fortunately, D'Roc proved less squeamish, and grabbed both the first head from the
 			 pavement and the other I dug out of my pack.
 	-We decided I, and Jade who had a project to work on, would wait for them back at the Dracus
@@ -3856,7 +3856,7 @@ TODO:
 	-By the time we found the other, Sarge was already back, and they were standing around an opening
 	 into the city's catacombs.
 		-I asked what had happened and they told me that Sarge had briefly been snatched by some kind
-		 of skeletal assassin, a S-something (never heard of it), invisible and silent. In fact, only
+		 of skeletal assassin, an S-something (never heard of it), invisible and silent. In fact, only
 		 Sarge actually saw the creature, when he was snatched up by it, and rendered invisible to,
 		 until he managed to fight free of it's grasp.
 		-Maya also claimed that she'd be able to see their magical auras and we resolved to follow
@@ -3898,13 +3898,13 @@ TODO:
 		-Sarge had a more aggressive response, incinerating that pillar too, with a fiery ray,
 		 before ducking into the alcove across from me.
 		-A four-armed skeletal creature then lept out from an alcove behind D'Roc, slashing away
-		 at his back and opening grevious wounds and causing him to collapse to the ground.
+		 at his back, opening grevious wounds and causing him to collapse to the ground.
 		-Maya and Jade then took shots at the three-headed commander. Maya's went wide, but Jade's
 		 bane-charged crossbow bolt blasted shards from it's boney body.
 		-D'Roc was remarkably still moving and, letting out a roar, he swung his great axe at his
 		 attackers boney legs. He sheared off a foot, though the now-lopsided creature caught
-		 itself on newly shorn ankle and remained standing.
-		-I leaned out from cover and shot the commander, lodging an arrow in it's chest, as Sarge
+		 itself on its newly shorn ankle and remained standing.
+		-I leaned out from cover and shot the commander, lodging an arrow in its chest, as Sarge
 		 ran forward and seared it too with another spell.
 		-The shambling zombie creatures finally made it to the fray, entering the main tunnel from
 		 two side tunnels and cutting D'Roc and Sarge off from the rest of us.
@@ -3943,15 +3943,16 @@ TODO:
 	-We then took a well deserved breather, resting at the Dracus estate and healing, before
 	 returning the next day to the temple in the catacombs to search it.
 		-We fortunately ran into no more living (or unliving) things, and found a bit more loot.
-		-We also found a map, featureing arrows pointing to Sasserine's Northernmost bay, and with
+		-We also found a map, featuring arrows pointing to Sasserine's Northernmost bay, and with
 		 ciphered writing.
 
 
 TODO:
-	-Level up to 6!
+	-(Done!) Level up to 6!
 		-It means Leadership!
 		-All done except figuring out a cohort and followers.
 			-Cohort is 4, due to your level-2.
+				-And now done too!
 			-You can have 8 level 1 followers, unless there are some bonuses or penalties affecting
 			 your score, though none listed are _definitely_ applicable.
 	-Talk to Jade about a Cloak of Charisma +4. She can manage the higher-than-her-level caster
@@ -3961,10 +3962,105 @@ TODO:
 		-You paid for the 6k worth of materials.
 		-Pay the 640 XP: https://discord.com/channels/560915739796570113/1027415547278794782/1095143305848836217
 			-Affordable without going down a level, but push for your share of that cursed mace's XP!
-	-Figure out paying back that 10k.
+			-Ah, talking about it, that's covered by the mace XP.
+
+
+4/19/23:
+	-Jade poked around in the bag of holding that our captured necromancer had, the one a ghost had
+	 come out of.
+		-First, she threatened to eat it, should it cross us again, which seemed effective (I
+		 _certainly_ believed she would).
+		-That settled, she opened it up, and. . . found some ghostly furniture? Including a book
+		 that named our ghost, Angmar, and described the sad tale of his banishment to this bag.
+		-My more scholarly companions fell to discussing the matter in depth, but most of it was
+		 over my head (and outside my concern about how much we could sell the thing for).
+	-We also decided to interrogate our captive necromancer.
+		-Maya was reluctant to bring him into her home, so we opted to handle the matter in a
+		 convenient alley.
+		-Still unconscious, we bound his hands.
+			-Though, looking at him closely, he seemed a bit more like a goon than a priest.
+		-I then prceeded to employ my healing belt, closing some of his wounds, and waking him up.
+		-He indeed claimed to just be paid muscle for them, and had a sob story about a dead sister
+		 the moritician's promised they could "get back" for him, but I thought he was full of shit.
+		-Pressing him a bit, he admitted to being a bit more willing of a follower than just an
+		 employee.
+		-Pushing him harder, the most useful thing we got out of him was mention of some kind of
+		 "flying bone fortress" made from an ancient dragon, due perhaps a couple of weeks from now.
+		-There was also some mention of cultists with a "five-headed dragon" emblem, which had both
+		 Sarge and Maya talking about "Tiamat".
+			-Apparently she's some evil dragon goddess.
+		-"I thought these morticians were _Nikisi_ followers, not Tiamat cultists," I muttered.
+		 "They said something about an abandoned god?" our captive replied, "Or a god that abandoned
+		  them? They were always going on about needing a god to find their god. . ."
+		-He then tried to bargain for his freedom, a thing Sarge and Jade seemed in favor of, but
+		 Maya wanted to turn him over to the guards, and I didn't much want to turn my back on him.
+		-The "redeem him through service" faction seemed to win out but, as we began walking, Bram
+		 pointed out he'd slipped his bonds and Maya slapped the _shit_ out of him, knocking him
+		 his feet and causing him to crack his head on the pavement.
+		-I then spoke up and, with new evidence of our captive's perfidy in hand, the "turn him
+		 into the guards" course of action won out.
+		-I also again had to protest against Maya's suggestion that _I_ go with to turn the jerk in,
+		 not being eager for the guards to know I'm back in the city.
+	-I ended up finding myself a drink while I awaited their return.
+		-I ordered some red wine at a nearby bar.
+		-What I was served, though, _started_ red, but then the color began to change, shifting
+		 through the spectrum.
+		-I looked around for the bartender, intending to ask him what vintage this thing was, but
+		 saw instead a group gnomes of at a nearby table, pointing and laughing.
+		-I got up and approached them, asking, "Is this round on you, then?"
+		-As I got close, though, I found I recognized them: it was the troup of entertainers from
+		 Sharaar Kol.
+		-We ordered a round of gnomish whiskey and got to talking.
+			-They _were_ talking now, the miming being just part of the act, and introduced
+			 themselves as Grimble, Thimble, and Dimble.
+			-They were in town for the upcoming festival celebrating Sassarine's founding.
+		-They had some time before that, though, and requested I show them around the city for a
+		 bit.
+		-I agreed, but said that first we'd need to collect some friends of mine.
+	-I led the gnomes over to the nearby guard post, and waited for the rest of the party to emerge.
+		-It was only a few moments before the emerged and a made some introductions to the gmomes,
+		 who were currently forming a human (well, gnomish) pyramid.
+		-They repeated to the others that they were in town for the coming festival.
+		-"Well," I then said, "Want to get into some trouble in the meantime?"
+		-Two of the gnomes replied that they needed to practice their routine, but Grimble was quite
+		 confident, and demonstrated with some quick illusions. He opted to hang out with us a bit
+		 while his companions returned to their wagon.
+		-That left us to discuss what _our_ next move was, then.
+			-Maya suggested an interesting idea: making me a masked hero, so I could lay claim to
+			 my heroic deeds without getting arrested, and perform an eventual dramatic reveal.
+			-I thought that sounded like a great plan, and the first step then was a costume.
+			-We looked at each other and then, as one, all rushed to catch up with other gnomes,
+			 yelling for their attention.
+	-Joining the gnomes on their way back to their wagon, we set about doing some tailoring once we
+	 got back there.
+		-After some discussion, we settled on a persona: The Crimson Crusader, and his Crimson Crew!
+		-They put together a wonderful crimson costume, with gold highlights, and matching outfits
+		 for my crew.
+			- +2 to Performance while wearing the outfits.
+	-From there, we headed back to Maya's estate, for a late dinner and some rest.
+		-There, we ate, drank, and discussed plans.
+		-We need to address the Quickhammers, so we resolved to head back to Sharaar Kol, via the
+		 teleport route, the next morning.
+		-First, though, we wanted to addres our necromancer loot too.
+		-Then, we could take our airship back to Sassarine, giving Jade some crafting time.
+		-There's also the matter of diamonds to resolve, but it occurred to us that Sharaar Kol
+		 might be the perfect place to resolve that.
+			-We have some miners we helped, or could, after dealing with the Quickhammers, request
+			 payment from the king in diamonds.
+	-Waking the next morning, we found everyone around the estate in unusually fine dress.
+		-Asking some questions, we heard that Maya's father was holding some meetings that day,
+		 with his fellow nobles, looking to do some. . . reorganization of the council.
+		-Jade spoke of past votes of no confidence, in the Dawn Council, throughout the city's
+		 history.
+	-From the Dracus estate, we headed to the market, to unload our necromancer loot.
+	-After that, it was on to The Bank of Sasserine.
+		-As we approached, though, we ominously sighted a flying creature, circling the bank.
+		-Swooping down and perching on the bank, it revealed itself to be a huge black dragon, one
+		 that announced, "The bank is closed! We have. . . business here."
 
 
 TODO:
+	-Figure out paying back that 10k in diamonds.
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
@@ -4000,15 +4096,11 @@ TODO:
 			-They're a blast! Totally your kind of people.
 			-They'd also provide a possible background for your hypothetical gnome illusionist
 			 cohort.
-		-Your cohort!
-			-Originally, you'd planned on a gnome illusionist, with some vague plan of he being
-			 someone you knew from your childhood on Edric's plane.
-				-Mimes might provide an alternate background for that character.
-			-What, though, does Lesley's absence and To-Cao mean for this?
-				-Would be a bit unwieldy to manage three characters.
-				-To-Cao would be a solid cohort too.
-				-The big question, I guess, is what Lesley's plans are, how much he'll be around, etc.
+				-Yep, Grimble, your cohort, was one of them.
+			-Others as followers?
 		-Fey? You met some in a well behind Jade's orphanage. Could be a blast. . .
+		-Squee and the other two goblins as followers?
+		-Rusty as a follower?
 	-What do you report, if ever called to do so by those that set you loose with the skyship?
 		-Sasserine:
 			-Turmoil in the church of Nkisi.
@@ -4078,6 +4170,14 @@ TODONE:
     -Appraise "your" airship. You need something worth at least 10,000 gp. for Dread Pirate.
         -You rolled like shit, but it's at least 20k new, enough to become a Dread Pirate.
 	-Get a masterwork buckler, to eliminate it's skill penalty.
+	-Your cohort!
+		-Originally, you'd planned on a gnome illusionist, with some vague plan of he being
+		 someone you knew from your childhood on Edric's plane.
+			-Mimes might provide an alternate background for that character.
+		-What, though, does Lesley's absence and To-Cao mean for this?
+			-Would be a bit unwieldy to manage three characters.
+			-To-Cao would be a solid cohort too.
+			-The big question, I guess, is what Lesley's plans are, how much he'll be around, etc.
 
 
 TODON'T:

@@ -266,6 +266,7 @@ Cohort:
 					-Thrush stats are on DMG pg. 203.
 					-Oh! They even live in forests (among other places): https://www.hummingbird-guide.com/hummingbird-habitat.html#:~:text=Hummingbirds%20are%20wild%20birds%20with,country%20and%20in%20the%20cities.
 						-Might mean a Forest Gnome can speak with them. . .
+							-Yep: https://discord.com/channels/@me/560920165383143425/1097237933662158948
 					-Yeah, lets do a hummingbird.
 			-Interesting applications with ships, especially flying ones.
 				-How big can you make illusions? Big enough to hide a ship in a cloud?
@@ -274,6 +275,7 @@ Cohort:
 					 location. _Maybe_ tortured logic would consider a ship a location. . .
 						-Seems like it's not a settled question: https://rpg.stackexchange.com/questions/195428/can-the-permanent-image-spell-move-with-the-caster
 						-Thus, probably a DM call.
+						-Jake said they can: https://discord.com/channels/@me/560920165383143425/1097238122460368990
 			-Illusionist is a great fit for social rogue.
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.

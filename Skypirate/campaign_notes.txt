@@ -2506,7 +2506,7 @@ TODO:
 		 "We're always interested in new business, my crew and I," I replied.
 		-We engaged in some banter about trust, business, and friendship, and Maya eventually asked
 		 of them an introduction, since they clearly knew us.
-		 "This is Volkan Mornhammer," replied the dwarf that had been speaking, "And I am Dandruk
+		 "This is Vulkan Mornhammer," replied the dwarf that had been speaking, "And I am Dandruk
 		  Quickhammer."
 		-We then discussed the business at hand. 
 			-Dandruk spoke of how much he valued. . . freedom. Freedom from regulations, and from
@@ -3870,7 +3870,7 @@ TODO:
 		 studded liberally with small holes. D'Roc poked at one of them, and pronounced it boneless.
 		-"Well, I guess we know what these skeleton things were made from," I said, pointing out the
 		 obvious.
-		-The scene seemed to trigger a memory for Maya, who described an old legend of Sassarine,
+		-The scene seemed to trigger a memory for Maya, who described an old legend of Sasserine,
 		 concerning an ancient temple in the city's catacombs, and horrible creatures that once
 		 haunted it. Crucially, she knew where the temple was located, and began to lead us there.
 	-Arriving where Maya said the ancient temple was located, D'Roc called a halt, saying he heard
@@ -3996,7 +3996,7 @@ TODO:
 		 Maya wanted to turn him over to the guards, and I didn't much want to turn my back on him.
 		-The "redeem him through service" faction seemed to win out but, as we began walking, Bram
 		 pointed out he'd slipped his bonds and Maya slapped the _shit_ out of him, knocking him
-		 his feet and causing him to crack his head on the pavement.
+		 off his feet and causing him to crack his head on the pavement.
 		-I then spoke up and, with new evidence of our captive's perfidy in hand, the "turn him
 		 into the guards" course of action won out.
 		-I also again had to protest against Maya's suggestion that _I_ go with to turn the jerk in,
@@ -4013,7 +4013,7 @@ TODO:
 		-We ordered a round of gnomish whiskey and got to talking.
 			-They _were_ talking now, the miming being just part of the act, and introduced
 			 themselves as Grimble, Thimble, and Dimble.
-			-They were in town for the upcoming festival celebrating Sassarine's founding.
+			-They were in town for the upcoming festival celebrating Sasserine's founding.
 		-They had some time before that, though, and requested I show them around the city for a
 		 bit.
 		-I agreed, but said that first we'd need to collect some friends of mine.
@@ -4041,8 +4041,8 @@ TODO:
 		-There, we ate, drank, and discussed plans.
 		-We need to address the Quickhammers, so we resolved to head back to Sharaar Kol, via the
 		 teleport route, the next morning.
-		-First, though, we wanted to addres our necromancer loot too.
-		-Then, we could take our airship back to Sassarine, giving Jade some crafting time.
+		-First, though, we wanted to addres our necromancer loot.
+		-Then, we could take our airship back to Sasserine, giving Jade some crafting time.
 		-There's also the matter of diamonds to resolve, but it occurred to us that Sharaar Kol
 		 might be the perfect place to resolve that.
 			-We have some miners we helped, or could, after dealing with the Quickhammers, request
@@ -4055,8 +4055,258 @@ TODO:
 	-From the Dracus estate, we headed to the market, to unload our necromancer loot.
 	-After that, it was on to The Bank of Sasserine.
 		-As we approached, though, we ominously sighted a flying creature, circling the bank.
-		-Swooping down and perching on the bank, it revealed itself to be a huge black dragon, one
+		-Swooping down and perching on the bank, it revealed itself to be a large black dragon, one
 		 that announced, "The bank is closed! We have. . . business here."
+
+
+5/3/23:
+	-Joining the dragon perched atop the bank, a group of six dragonborn also approached the
+	 building and took up position around it.
+		-They all wore uniforms, which Maya claimed belonged to a group from the war, The 5th Arcane.
+		-The city guard fell back, but an official from the bank emerged, shouting, "What is the
+		 meaning of this?!?"
+		-The dragon then swooped down and, facing the man, pronounced, "You have taken what is ours.
+		 You have distributed what was not yours. Return it!"
+			-I got the sense, though, that the dragon wasn't looking for a fight, but to accomplish
+			 it's goal.
+		-Conferring further with the official, the dragon demanded to see the bank's ledge, and
+		 began pressing the official with questions concerning funds and particular accounts.
+		-Sarge then walked up to the other dragonborn, the rest of us trailing behind him.
+			-"Halt," one of them said. "I don't recognize you brother. . ."
+			 "Yeah, it's been a while," Sarge replied. "What brings you here?"
+			 "Our unit has been restored," the other dragonborn replied.
+			 "You know these guys?" Bram asked Sarge.
+			 "Not personally," Sarge said. "I was a member of the 6th."
+			-Sarge and his kin then spoke about what they were doing there. His counterpart said
+			 that, unlike what some of their fellows had chosen, there could be no peace until they
+			 were victorious, and that their captain, gesturing towards the dragon, had something
+			 taken from his hoard.
+				-He referred to the dragon as "Fury Claw".
+			-I gradually got an impression of "bank run" as the uniformed dragonborn we spoke with
+			 said something about wanting _depositors_ to return funds to the bank, so that they
+			 can have what's theirs.
+			-I used that as an excuse, saying, "Huh. . . this is starting to sound like a bank run,
+			 making it all the more urgent we look in on the vault _we_ came here to see. . ."
+			-With Maya chiming in, we convinced the dragonborn to let us go into the bank, with him
+			 shrugging, saying, "Well, the master can discuss the matter with you. . ."
+		-We walked into the entrance of the bank, but the dragon landed behind us.
+			-"The bank is closed," the creature pronounced, flapping his wing.
+			-Maya, though responded in kind, flapping wings of her own.
+			-The dragon stepped back, asking Maya, "The platinum one sent you?"
+			-They fell to a discussion, one in which the dragon seemed willing to treat Maya as a
+			 representative of Bahamut, a thing Maya played up with references to her "father" and
+			 his authority, especially with her preference for discussion over violence. They
+			 debated claims of territory, but the dragon eventually resorted to threats of violence,
+			 spraying a gout of acid into the air.
+			-Maya redirected that to a duel, mentioning the arena, and the dragon indeed challenged
+			 her. Seizing on the _dragon_ issuing the challenge, Maya claimed her choice of weapons.
+			-The dragon assented, and Maya chose. . . diplomacy. That prompted claims of cowardice,
+			 cowardice he also accused Bahamut of (perhaps backing up her claimed backing). The
+			 dragon, however, assented.
+			-The fell to discussing exact terms, settling on _here_ as the venue and that, if Maya
+			 won, he'd grant the bank leniency and time, though he'd not forego his claim to the
+			 wealth he'd come for.
+			-Maya then looked to me, asking, "Should we go forward with this?
+			-I agreed, so she then asked, "You or me?
+			-Taking her meaning, I agreed to serve as her champion in this.
+		-The dragon and I then both saw to preparations.
+			-The dragon had one of his dragon born bring forth a wand and, waving it in the air,
+			 dusted his scales with sparkles.
+				-Gimble whispered to me that he'd cast Glibness.
+			-I then asked Grimble to round up an audience and, in an aside to the dragon, said I
+			 needed to make preparations of my own. I looked for a handy office and did a wardrobe
+			 change, into my Crimson Crusader outfit.
+			-As I made ready to make my entrance, Maya hyped me up with a story of the exploits of
+			 the Crimson Crusader, illustrated by (unfortunately somewhat awkward) illusions from
+			 Grimble.
+			-One of the dragonborn then served the same role for the true dragon, giving a speech
+			 about how the people were not their enemy.
+				-In response, D'Roc called out from the crowd, yelling, "Who is?"
+				 "Those who have stolen ou land," the draconic soldier replied. "I think called
+				  they're called The Sun Council?"
+			-We then made our entrances, the dragon swooping dramatically into the open space before
+			 the bank.
+			-For mine, I called out to Grimble, yelling, "Lights!" Then, accompanied by a swirl of
+			 dancing lights, I strode forth and struck a heroic pose in my Crimson Crusader outfit.
+			-"Does he mean the 'stolen' land on which your homes sit?!?" I opened.
+			 "Dragons will protect you, and your homes! Far better than this bumbling council. . ."
+			  the dragon rejoined, his scales glittering.
+			-The crowd dismayingly seemed to buy that, so I pointed out that, "Things were going
+			 just fine until dragons got involved! Remember the necromancers? You saw their dragon!"
+				-"They're followers of Tiamat!" May called out from the crowd. "_I_ saw their white
+				  dragon, Tiamat's child!"
+			-"Dragons will _protect_ the people, and put an end to this chaos!" the dragon reiterated.
+			 "You could have stepped in at any time. . ." I replied. "You claim the council steals,
+			  but _you_ are the one that comes here only now, blocking access to the bank and
+			  demanding it's wealth!
+			-One of the dragon's followers then brought forth ancient, runic document. "This is the
+			 evidence of my claim!" the dragon called out, brandishing it. "You speak of a
+			 founder's day, but _this_ is the true deed of the city!"
+			-Maya and Jade rushed forward to inspect it, but I said, "I don't speak such ancient
+			 gibberish. What _I_ know is the good people of this city, standing here before me!"
+				-They whispered to me, saying that's no deed.
+			-"Ha! My experts, natives of this fair city tell me he lies! That is not what he claims
+			  it is! The thief here is _this_ beast!"
+			-Seeing the crowd turn on him, the dragon unleashed a burst of acid into the air above
+			 us in frustration. He and his dragonborn then took wing. As he did so, he shouted,
+			 "Might will eventually settle this!
+			-I was busy, though, basking in the adulation of the crowd, shouting for more.
+			-After a moment, though, I turned to my fellows, saying, "Time, I think, for our
+			 dramatic exit. Always leave the crowd wanting more. . ."
+			-We made our way back into the bank, and, with the help of a clerk, found our way to
+			 the vault holding our way back to Sharaar Kol.
+				-Employing the combination we were instructed to use, we opened the vault and found
+				 our portal.
+	-Passing through the portal, we found ourselves in a dark warehouse, our Sharaar-Kol-isused
+	 again glowing green.
+		-Which all of us possessed save D'Roc, posing something of an issue, as we peered out the
+		 door revealing we were in the _lower_ city. . .
+		-Grimble volunteered a solution, though, and rendered D'Roc invisible, though he warned it
+		 would only last a few minutes.
+		-We quickly made our way out onto the streets, but found them crowded with many dwarves
+		 going about their business.
+		-Maya tried to make a path for our enormous invisible companion, but he bumped a dwarf
+		 as he was making his way into the elevator.
+		-"Wha. . . what was that?!?" the dwarf exclaimed, groping about. ". . . a ghost?"
+		-At that, the other dwarves about all took battle stances, getting ready for trouble.
+		-Sarge, though, shouted, "Stand back! We've got this. . ."
+		 "Yeah," I chimed in. "We have undead experience. . ."
+		-We ushered the dwarves away from the elevator, and piled into it our selves, engaging the
+		 doors.
+		-The ride up was long, and D'Roc's invisibility expired during it.
+		-"I've got this," Grimble volunteered. "When the elevator stops, just give me a distraction!"
+		-When it did so, I immediately rushed out the opening door, yelling, "Out of my way! Your
+		 dwarven drinks are strong! I need a privy! Give me space!"
+		-All eyes on me, Grimble recast invisibility.
+		-As I ran off to make heaving noises in a nearby alley, the guards turned back to the
+		 elevator, and I heard them ask, "There was word about some kind of ghost?"
+		 "We took care of it," Sarge reassured them.
+	-Getting out of sight before D'Roc reappeared, we then went to find our wizard "friend".
+		-Asking around, we found him selling magical trinkets at a stand in the market.
+		-Approaching him, Maya greeted him and said, "Our work is done?"
+		 "Oh? How did you manage it?"
+		 "We persuaded him to pursue a mutually advantageous course of action," I butted in. "We
+		  should talk with our mutual friends. . ."
+		 "Ah. Something truely horrible, eh? Well, they'll be at the pub across the street in an
+		  hour."
+	-We took our leave and had some fun in the pub in the meantime, Maya doing some dwarven dancing,
+	 until some familiar faces arrived, sitting down at another table.
+		-Shortly thereafter, I heard a familiar voice in my head, and, given the start most of the
+		 others gave, they clearly heard the same. Another messaging spell. . .
+		-"Who's this?" the voice asked, presumably referring to our enormous horned companion.
+		 "Muscle," Maya replied.
+		 "Ah. Always handy. . . Is the business done, then?"
+		 "Yes, the matter is resolved," I informed our discrete associates.
+		 "Good, good. Tip your bartender well. . . Don't worry. He's on the payroll."
+		-Maya did so, eliciting a smile and nod from a barkeep.
+		-"With that settled," the voice continued, "We have more business for you. There's a
+		 festival coming up in Sasserine. It's the perfect chance to seize power."
+		 "Ah, the Founder's Day celebration," I responded.
+		 "Yes. And we'll need some people centrally located."
+		-". . . We'll consider that," Maya eventually replied. "But we need to know more. More
+		  about our associates, and what's in it for us."
+		 "Power. You could be staying in the royal apartments at the end of this if you want."
+		-A lot of discussion ensued, with us continually pressing to know our associates better.
+		-Eventually, they relented, and said we should meet them in the alley from before, an hour
+		 from now.
+		-We agreed and they left, and I then suggested we get a room to relax. . . and discuss
+		 future business.
+	-We decided to goback to the first hotel we stayed at in Sharaar Kol, it being fancy and,
+	 crucially, less likely to be under the control of our adversaries.
+		-There we discussed a plan to reach the Quickhammer organization's leadership. First
+		 diplomacy, then threats of blackmail with the info we had and the king's interst, then
+		 beat it out of them.
+		-We also discussed magical enhancement. Grimble suggested copying the dragon's appraoch, so
+		 we went to find our wizard associate, who volunteered our requested Scroll of Glibness
+		 free of charge, given our good work together.
+		-As it got near the meeting time, Jade set up some infusions, I cast the scroll, and then
+		 we were ready to go.
+	-As we headed down to the lobby, something on the hotel's wall of hunting trophy's caught
+	 D'Roc's attention: a set of mounted horns. . .
+		-He called Maya over to read the inscription, and she said it came from "The Maze of
+		 Memories", some 300 years ago.
+		-D'Roc reached out to touch it, and seemed lost in thought for a few moments.
+	-We also made a quick detour to a guard post, to get D'Roc a proper badge for the lower city.
+	-Eventually, we went down to the alley, and were there ushered inside a nearby warehouse.
+		-One of the dwarf's from before explained more details of their plan for Sasserine,
+		 describing a "device" they wanted us to bring to the city.
+		-"What's in it for us?" I asked.
+		 "The city's royal apartments and everything in them," he replied. "That's worth more gold
+		  than you'll know what to do with."
+		 "Having gold isn't the same as keeping it," I responded. "We need to know who we're
+		  working with, who we're putting in power, if we hope to do that."
+		 "Very well," he said, and went off through an interior door.
+		-He returned with an older dwarf, expensively dressed, who introduced himself, saying, "I'm
+		  Vulkan, but you know me as Quickhammer."
+		 "A pleasure to make your acquaintance," I replied. "I'm Fred the Red."
+		-"The nobles of Sasserine are greedy," he began. "Their "legal coup", it's nothing. We have
+		  enough of their lot in our pockets to make the difference. Like the dredgers. . . Don't
+		  need folks seeing what's in the canals. . ."
+		 "The Shapers are a mess," he continued, "And the undead too attention-grabbing. They
+		  attract the self-righteous. The city is ripe for our taking."
+		-"What about the new gang?" Maya asked.
+		 "What new gang?" he replied.
+	     "The dragons," I broke in. "One showed up with a bunch of dragonborn just today, demanding
+		  money he was 'owed' a the bank."
+		 "Ah, you lot, eh?" he said, turning to Sarge. "I hear the transformation awakens. . . an
+		  ancient stirring. . ."
+		 "I know just what you mean. . ." Sarge replied.
+		 "Well, it won't matter after this," Vulkan said, gesturing to one of his men.
+		-The dwarf left the room, and then return shortly with a handheld case, glowing brightly
+		 with barely contained evocation magic. He also handed me a wand,
+		-"That's a Wand of Sending", Vulkan explained. "You'll issue the command word to the device
+		  with that. It's. . ." he said, uttering something in dwarvish that I paid little attention
+		 to.
+		 "Set it off in the center of the city," he continued, "During the big speech."
+		-Maya then asked about how we'd returned to the city, and pressed for a list of portals,
+		 getting a location in a betting parlor near the arena and one in a magic shop in the market
+		 district.
+			-"We should see our wizard friend for that, then? I asked.
+			 "Yes," Vulkan simply replied.
+		-Looking to my companions, several of who were poorly hiding their discomfort, I then said,
+		 "We have a deal.
+		-I grabbed the device and turned to my companions, saying, "Lets go folks," and then turned
+		 to leave.
+		-Once we were all out the door, I began whispering, saying, "This is our chance. Grimble,
+		 give me some dwarven guards on the street."
+		-As he began casting an illusion, I tossed the wand to Jade, saying, "Send the king a
+		 message. Have him send the guards."
+		-As the illusionary guards appeared, I ran back into the building, yelling, "The guards are
+		 here! We need another way out!"
+			-It was the performance of my life. (Rolled a 20, for 71 with Glibness!)
+		-The Quickhammers began scrambling, and Maya ran into the building too, _conveniently_
+		 stumbling into Vulkan, knocking them both over and tangling the two of them in her
+		 elaborate gown.
+		-Grimble then rushed in, and past them, shouting, "I'll stop the guards, and grease the door!"
+		-He indeed cast Grease, _conveniently_ including, the tangle of Vulkan and Maya in the area,
+		 along with another dwarf or two.
+		-Sarge then ran in, sliding across the grease and bowling over another two dwarves.
+		-From outside the door, D'Roc began a thoroughly unconvincing fake battle with the fake
+		 guards with some stilted dialogue, but his roar was still enough to send shivers down the
+		 spine and the dwarves scrambling.
+		-Reasonably quickly, and before Vulkan could find his feet, the guards arrived, shouting
+		 into the building that they had the place surrounded.
+		-I rushed out with my hands up, to find Jade already explaining the situation to the guards.
+			-I joined her in that as soon as I was out of sight of the doorway, and I heard Maya
+			 begin to spill the whole story to the first guard through the door, while "surrendering"
+			 herself.
+	-Our party and the dwarves were soon hauled off to jail in chains, though the guards soon
+	 released us once we were out of sight of the gang members.
+		-We were soon joined by King Kumara, to whom we quickly explained that we'd captured a large
+		 share of the Quickhammer organization's leadership, along with a sinister device of their
+		 manufactur, and relayed to him their plot for Sasserine.
+		-We were rewarded fairly well, per captured gangmember, and then rushed off, explaining that
+		 there were several others we could roll up before word spread.
+
+
+TODO:
+	-Harness for cohort.
+	-Cannon refurbishment, given that incoming bone fortress?
+		-Probably retrieving our other airship too.
+	-Roll up more Quickhammers before word spreads too much.
+		-The wizard who teleported us?
+		-The ~25 agents in Sasserine?
+		-The barkeep that took the payment for the gambling debt?
 
 
 TODO:

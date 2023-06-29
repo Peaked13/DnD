@@ -4300,13 +4300,115 @@ TODO:
 
 
 TODO:
-	-Harness for cohort.
-	-Cannon refurbishment, given that incoming bone fortress?
-		-Probably retrieving our other airship too.
 	-Roll up more Quickhammers before word spreads too much.
 		-The wizard who teleported us?
 		-The ~25 agents in Sasserine?
 		-The barkeep that took the payment for the gambling debt?
+
+
+6/28/23:
+	-We took a quick moment to discuss our next move, how we address the remaining Quickhammers we
+	 know about.
+		-We opted to address the barkeeper and wizard first, they being in Sharaar Kol with us.
+		-We also talked with the guard captain, about what we'd need to do to successfuly
+		 incriminate these folks. He indicated they'd need to be caught in the act, confess, or at
+		 least some witnesses (us?) willing to testify under a zone of truth.
+			-We also recalled he was at least somewhat corrupt, and were a bit cagey about who our
+			 targets were.
+			-He was also able to detail some guards to wait for our signal at locations of our
+			 choice, and to provide some arcane marked gold.
+				-That last should help with the barkeep, he being mostly guilty of receiving funds
+				 for the organization.
+			-The wizard did teleportation for the organization, and asking for more of that might
+			 both incriminate him _and_ provide a fast route back to Sasserine.
+		-We decided to split up, Jade, Grimble, and I handling the wizard, and delaying him as long
+		 as possible, for the rest to eventually join us after taking care of the barkeep.
+			-If we could keep the wizard busy long enough, the others would then be able to join
+			 us there for the teleport.
+	-A rough plan in place, we put it into action.
+		-My group went looking for the wizard first at his room in the inn, given the late our,
+		 instructing our delegated guards to outside the inn, and to follow us at a discrete
+		 distance if he led us elsewhere.
+			-Meanwhile, the rest went off to see the barkeep.
+		-Going up into the inn, I banged on the wizard's door several times with no response,
+		 though I could hear snoring coming from within.
+			-Eventually, I resorted to jimmying the lock, and entering.
+			-When I did, though, a blaring alarm went off and I was encased in some kind of magical
+			 sphere.
+				-Grimble and Jade fortunately hopped back and dodge that undignified fate.
+			-That at least woke the damned wizard.
+			-I couldn't hear anything inside my sphere, nor did they appear to be hearing my
+			 profane complaints. I could see Jade and the wizard talking, though, hopefully
+			 negotiating my release.
+				-Jade wandered off, which was distressing, but returned with a goblet of wine in
+				 hand, and turned it over to the wizard.
+				-The wizard chugged it, rubbed his eyes, and finally released me.
+			-After dusting myself off, I launched into my story, telling him that our "quick"
+			 meeting with our "mutual friends" was interrupted by some guards, and that we were
+			 looking for a quick exit once the rest of our friends managed to get here.
+			-He seemed to buy it, but both wanted to come with and didn't want to wait on the rest
+			 of our crew.
+			-We eventually talked him into that last, and he asked us to wait down in the common
+			 room.
+			-We didn't even make it down the stairs, though, when he called for us, yelling, "Shit!
+			 Get back up here!"
+			-Running back up, we saw him holding some kind of crystal, and he said, "I can't
+			 contact the boss!
+			 "Shit," I replied. "Think they grabbed him?"
+			 "Yeah. We need to get our of here. Now. Grab my hand!"
+			-Thinking fast, I said, "Wait one moment more! I can try contacting the rest of my
+			 crew. . ." I then began to manifest a power, in a decidedly exagerated fashion,
+			 holding my fingers to my temples and squinting hard.
+			-The power I manifested, though, was Brain Lock, but it sadly failed, alerting the
+			 wizard to our treachery.
+			-He then began to cast a spell, but I resorted to the simple expedient of stabbing him
+			 with my rapier, which disrupted his spell.
+			-He began another spell then, but I stabbed him again, this time with my brain, and he
+			 went down, bleeding from his nose.
+			-Jade quickly grabbed his magic crystal.
+			-Poking him with the toe of my boot, he still seemed to be _alive_, so Jade began to
+			 heal him with her belt, while I bound and gagged him and Grimble retrieved his spell
+			 component pouch.
+			-His eyes fluttered open, and Jade and I began to threaten him, aided by her cocked
+			 crossbow.
+				-His response was distressed, gagged mumbling, but it seemed like he got the
+				 message.
+			-I then contacted our waiting guards, and Jade began to examine the crystal with her
+			 monacle.
+			-The guards arrived a short while later, and I reported, saying, "We captured him. Not
+			 much luck baiting him into anything, but you've at least got three witnesses here!"
+			-They led him off, and we went down to the bar, to wait for our friend and for some
+			 gnomish whiskey.
+	-Eventually, the others arrived in the inn's common room, before we were too drunk even.
+		-They reported substantial success on their end, and we let them know we got the wizard too,
+		 albeit without managing to wait for a free teleport.
+	-Given no telepor, we opted to head back to Sasserine aboard our original airship.
+		-Maya wondered if there might be something we could do to induce the elementals to help us
+		 travel faster, and Sarge suggested he can cast the Gust of Wind spell, which might help.
+			-Jake said it would increase speed by 50% for an hour per casting.
+		-Along the way back to the ship, we stopped by the palace, to leave word for the king.
+			-Speaking with a seneschal, we let him know we were heading back to Sasserine to
+			 address the Quickhammer agents there, and that we could be reached through Lord Dracus,
+			 should we not be back by the trials of those captured here.
+		-Back aboard the ship, we took flight and, with the assistance of the spells, got to
+		 Sasserine in only a day.
+			-The spells indeed speeded things up dramatically, but the ship also creaked rather
+			 worringly.
+			-We suspected the ship may need some maintenance after this, and Jade said she could
+			 look into that.
+			-Oh! Shit, didn't we sort of steal our ship back when last we had it docked in
+			 Sasserine? We might have some issues at the docks. . .
+				-Though Maya at least reached out to her father ahead of time, via the book, to
+				 hopefully smooth things over.
+
+
+TODO:
+	-Harness for cohort.
+	-Cannon refurbishment, given that incoming bone fortress?
+		-Probably retrieving our other airship too.
+	-Roll up more Quickhammers before word spreads too much.
+		-The ~25 agents in Sasserine.
+			-It's now going to take a bit to get back there, so not too sure how well that
 
 
 TODO:

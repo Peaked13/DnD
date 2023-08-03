@@ -4335,7 +4335,7 @@ TODO:
 			-Eventually, I resorted to jimmying the lock, and entering.
 			-When I did, though, a blaring alarm went off and I was encased in some kind of magical
 			 sphere.
-				-Grimble and Jade fortunately hopped back and dodge that undignified fate.
+				-Grimble and Jade fortunately hopped back and dodged that undignified fate.
 			-That at least woke the damned wizard.
 			-I couldn't hear anything inside my sphere, nor did they appear to be hearing my
 			 profane complaints. I could see Jade and the wizard talking, though, hopefully
@@ -4377,12 +4377,12 @@ TODO:
 			 monacle.
 			-The guards arrived a short while later, and I reported, saying, "We captured him. Not
 			 much luck baiting him into anything, but you've at least got three witnesses here!"
-			-They led him off, and we went down to the bar, to wait for our friend and for some
+			-They led him off, and we went down to the bar, to wait for our friends and for some
 			 gnomish whiskey.
 	-Eventually, the others arrived in the inn's common room, before we were too drunk even.
 		-They reported substantial success on their end, and we let them know we got the wizard too,
 		 albeit without managing to wait for a free teleport.
-	-Given no telepor, we opted to head back to Sasserine aboard our original airship.
+	-Given no teleport, we opted to head back to Sasserine aboard our original airship.
 		-Maya wondered if there might be something we could do to induce the elementals to help us
 		 travel faster, and Sarge suggested he can cast the Gust of Wind spell, which might help.
 			-Jake said it would increase speed by 50% for an hour per casting.
@@ -4402,13 +4402,109 @@ TODO:
 				 hopefully smooth things over.
 
 
+7/12/23:
+	-I missed this session, owing to my honeymoon.
+	-Fred spent the session back at the ship, bottle in hand, chatting with the ship's bound air
+	 elementals.
+		-Some were distinctly resentful of their situation, but others seemed to appreciate the
+		 sense of purpose.
+			-"Purpose is all well and good. . . *burp* . . . but better one you _picked_ than this
+		     shit. . ."
+		-I also noticed Rusty humming a tune.
+			-I commented that I didn't know he was musically inclined, and asked if he knew anything
+			 dancier.
+			-Apparently he knew just the one tune, though, a marching song used by his unit.
+	-The rest of the party ran off into the city, intent on tracking down more Quickhammer agents.
+
+
+8/2/23:
+	-Wandering up on deck with Rusty and Grimble, we spotted the rest of the party on their way
+	 back to the ship.
+		-As they boarded, Jade introduced us to her cohort, Bruce, a vaguely-humanoid albino bat,
+		 who's also a druid.
+		-They'd also apparently addressed some kind of Quickhammer plot in a warehouse in the city,
+		 though they were skeptical that there was any evidence in hand with which to claim a bounty
+		 back in Sharaar Kol. But, at least they're not sabotaging things in Sasserine now.
+			-They mentioned they'd brought back some kind of mirror from that too.
+		-Maya also pointed out a newly arrived ship, a richly decorated elven airship.
+			-She said that it belong to some elven nobles from a distant region.
+			-She said they were somewhat less cosmopolitan than her family, but that she knew a few
+			 from a party hosted by her father many years ago.
+			-She had stopped by the ship briefly and spoken with it's guards.
+		-Maya had also been thinking more about that orb, supposedly sunken in the city's canals.
+			-She had that vision of demon prince, and some connection between the orb and The Abyss,
+			 and had begun to wonder if that demon was influencing the city's gangs, causing some
+			 of the recent chaos and pushing them to recover the orb.
+			-She refused to name the demon prince, though, saying it's name caused madness, and she
+			 even seemed to have some kind of. . . episode, at the mere thought.
+				-She stumbled a bit, grabbing Sarge's shoulder to steady herself, and Bruce, staring
+				 at the side of her head, exclaimed, "What in The Hells, lady?" apparently seeing
+				 something I did not.
+				-In a moment, though, we _all_ noticed something wrong, as the ship suddenly dropped
+				 60 feet, from where it had been hovering alongside the dock.
+				-We all grabbed for the rails and hung on, save Sarge who took wing, until the drop
+				 stopped as suddenly as it had started.
+				-Sarge glided down to the deck, and commented that he'd also noticed some of his
+				 enchanted items briefly stop working. He speculated that there may have been a
+				 brief antimagic field in effect.
+				-The more arcane educated among us began debating what happened, eventually arriving
+				 at the conclusion that Maya mangled a truename, resulting in some kind of wild magic.
+				-Investigating further, the antimagic field still seemed to be in effect, above us
+				 in the berth the ship had been docked in.
+				-"Uh," I said, "Some one less. . . _popular_, with the guards, than me should
+				 probably warn folks about that, or there might be some accidents. . ."
+				-Jade suggested a dockside merchants' alliance that could probably handle that,
+				 without asking as many. . . pointed questions as the city guard would.
+				-We also needed to see about arranging a new berth, and, looking around, the docks
+				 were awfully full.
+				-We brought the ship up above a different section of the docks and lowered Jade,
+				 via a rope, while Sarge and Maya flew down.
+				-We'd attracted quite a bit of attention, though, and people began shouting up to us,
+				 asking what happened.
+					-"Beats me!" I shouted back down. "What kind of shoddy docks are they running
+					 here?"
+					-That started something of a panic, as the crowd ran about, looking to check
+					 their own ships and asking if theirs were in danger too.
+					-Jade, though, caught their attention and said she thought it might be just the
+					 one ship.
+					-Maya chimed in, too, adding that she thought it might have been those
+					 Quickhammers. "They've been after us for a while. . . though the king of
+					 Sharaar Kol is offering a bounty for their capture."
+					-The crowd then began staring at the lone dwarf there, who, after a moment,
+					 shouted, "Hey! I'm not one of them!"
+				-Jade and Maya then hurried off to speak with that merchant's group.
+				-Shortly thereafter, some dockworkers came out to our former berth and stretched a
+				 yellow rope across it, hanging signs from it that said "Caution".
+				-When they returned, I asked them how it went, and they said well enough.
+					-Bruce, though, slightly admonished me, saying, "You didn't mention you had a
+					 second identity, Mr. Crimson Crusdader. . ."
+					 "Ahhh. . ." I responded, "Yeah, you might not want to mention the name Fred
+					 around town. I'm a bit. . . popular here, especially with the guards. . ."
+	-After that, we had Rusty keep an eye on the ship, hovering near the docks now, while all the
+	 rest of us, save Maya, went with Jade to her orphanage, as she mentioned some business to take
+	 care of there.
+		-Maya had a headache, and needed to rest a bit.
+		-Once back there, Bruce quickly flapped his way inside, greeting the residents.
+		-Bruce and Jade then began discussing the orphans' studies, leading me to grow bored quite
+		 rapidly.
+		-I eventually interjected, saying, "History class bored me back home, and here's no
+		 different. I've got some tailoring to have done. Grimble and I are going to go talk to his
+		 kin about that. Meet you all back at the ship?"
+		-I got some nods, so we headed back out to the street.
+	-So Grimble and I indeed went to visit his kin in their wagon.
+		-After some greetings, Grimble and I laid out our plan: a harness to strap him, while
+		 affected by Reduce Person, to my chest.
+		-They immediately got what I was going for, and we all began riffing on goofy thing it would
+		 let the two of us do.
+		-We ran out to buy materials, and they introduced me to a leatherworker they'd commissioned
+		 some stuff from before, and soon we were putting together the harness, complete with some
+		 red enameled buckles and stitched crimson C's, to complement my Crimson Crusader outfit.
+
+
 TODO:
-	-Harness for cohort.
 	-Cannon refurbishment, given that incoming bone fortress?
 		-Probably retrieving our other airship too.
-	-Roll up more Quickhammers before word spreads too much.
-		-The ~25 agents in Sasserine.
-			-It's now going to take a bit to get back there, so not too sure how well that
+	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
 
 
 TODO:
@@ -4530,6 +4626,9 @@ TODONE:
 			-Would be a bit unwieldy to manage three characters.
 			-To-Cao would be a solid cohort too.
 			-The big question, I guess, is what Lesley's plans are, how much he'll be around, etc.
+	-Roll up more Quickhammers before word spreads too much.
+		-The ~25 agents in Sasserine.
+	-Harness for cohort.
 
 
 TODON'T:

@@ -4501,9 +4501,365 @@ TODO:
 		 red enameled buckles and stitched crimson C's, to complement my Crimson Crusader outfit.
 
 
+8/9/23:
+	-We're now a few days away from the Founder's Day festival.
+		-The guards have been recruiting, and there's quite a bit more of them on the streets then
+		 usual, though many of them look young and green.
+	-D'Roc found me at the festival grounds, hanging around the gnomes' wagon and trying out my new
+	 Grimble harness.
+		-He'd been napping below decks when the ship plummeted (and Bram was busy for the last
+		 session) and, in the chaos surrounding that, we never went to wake him. Evidentally, he's
+		 a heavy sleeper. . .
+		-I demonstrated my new harness, shouting, "Say hello to my little friend!" as I spun to
+		 greet him, showing off the tiny, giggling gnome strapped to my chest.
+		-After laughing at that for a bit, he asked me about the others and I let him know they
+		 were back at Jade's orphanage.
+	-Being all finished adjusting the harness, I agreed with D'Roc when he suggested we find the
+	 others, and we headed back to the orphanage.
+	-We ran into them as they were heading out.
+		-I asked them where they were off to, and Maya said she wanted to look in on the
+		 taxidermist's guild again, it having been some time since we raided the place, to make
+		 sure they're not up to more trouble.
+		-"Oh yeah! They were in bed with the necromancers right? Or was it some other gang?"
+		 "It was the Lotusdr. . ." Maya began.
+		 "Ah! Yeah, that lady's dickhead brother! Right!" I interjected. "Well, I'm up for looking
+		  for more trouble. . . Though, I'd like to look at doing some work on our ships too. Check
+		  up on our goblins, maybe start work repairing those cannons. . . Oh! That reminds me! Know
+		  anywhere that I can get dwarven booze? I forgot to get the goblins a souvenir. . ."
+		 "Well," Maya replied, "I know a bar near the guild _run_ by a dwarf. Maybe he's got some. . ."
+		 "Good enough for me!"
+	-We swung by the taxidermist's guild, where Maya negotiated with a confused clerk to have a bloody
+	 mouse corpse skeletonized and mounted for her.
+		-Seemed a bit outside what they'd normally do, but Maya was paying well, and he agreed.
+	-"Well, how about that bar, then? Which way, May?" I asked.
+	 "Oh! This way! It's the Lusty Leopard. . . You remember it, right?" she said.
+	 "Hmm. . . I remember starting some _trouble_ there. . ." I replied. "You might need to run
+	  inside for me, Maya. I don't need any angry lepers after me. . ."
+	 "Sure!"
+		-Maya and the rest of the party indeed ran inside for me, and came out a short while later
+		 with two casks of ale, carried by D'Roc.
+	-"Well! With that settled, lets go see the goblins!" I said, "Been a while since we checked on
+	  them. . . I think we left their ship anchored above that trash island. . ."
+		-We decided to take our original airship over, as I suggest we might need to transfer those
+		 cannons to it.
+	-As we pulled up to the island, we saw many more goblins than I recall us leaving there.
+		-Our green recruits had been joined by nearly a hundred of their kin on the island below
+		 them.
+		-The new goblins were hurling grappling hooks up to the ship above them and attempting to
+		 climb aboard while our buddies frantically ran around the ship cutting their lines.
+		-Seeing our ship, Squee called out to us, yelling, "You're back!"
+		-Observing the scene, I said, "I. . . don't remember that many goblins. Well, ready for
+		 trouble, folks?"
+		-Grimble nodded in response, and began casting Mage Armor.
+		-I then turned to Sarge and said, "I think we might need to demonstrate some artillery. Care
+		 to do the honors?"
+			-Seeing dragon-man's smile in response was quite the toothy sight.
+		-Maya proceeded to launch into a speech, the crescendo of which Sarge punctuated with a
+		 fireball launched into the massed goblins below.
+		-Many of the goblins went flying, and the rest began to scatter. One that appeared to be
+		 some kind of leader began yelling at the rest, waving a stick that periodically shot a
+		 glowing projectile into the air.
+		-Maya then leaned over the side and, with her Eldritch Blast, shot the stick from the
+		 goblin's hand.
+		-That proved to be the last straw (stick?), and the goblins below fled the island, swimming
+		 off or launching some ramshackle boats.
+	-That settled, we pulled our airship alongsided the other and tossed lines over to pull them
+	 tight.
+		-"Squee!" I called out, as we clambered aboard the other ship. "Looks like we got here just
+		  in time!"
+		 "We. . . we've been fighting them for. . . I don't know," he replied, and I could see that
+		 his eyes were bloodshot and hear the exhaustion in his voice.
+		 "Well. . . better late than never, I guess!" I said.
+		-"I brought you some souvenirs," I continued, gesturing to the casks on the other ships,
+		 "But I guess our arrival at this mess renders that just gravy. . . Well, D'Roc, mind
+		  helping haul the casks aboard anyways?"
+		-We got the casks aboard, but the goblins, for the moment at least, were more excited by
+		 some sleep, and trudged off below decks to get it.
+		-As my next order of business, I led the party down to the gun deck.
+			-"Jade," I began, gesturing to the cannons, "This is what I'd been hoping to talk to
+			  you about. What would we need to do to get these back into service?"
+			-She spent some time looking over them and then reported that, "The cannon balls are
+			 useable, as the rust on them won't harm anything, and there are 46 of them. The powder
+			 is wet and ruined. Half of the cannons would be salvageable."
+				-There's three salvageable cannons, and they're the light bombards from Stormwrack (pg. 103).
+					-In materials, with a discount on the standard "Repairing Items" rules for some
+					 spells from Grimble and Jade, repairing all three will cost 1,050 gp. 
+						-We did some shopping and I deducted that from the ship's account.
+				-The other three are unsalvageable, though it might be possible to sell them for
+				 scrap.
+			-Grimble then chimed in saying, "I can make smokepowder. It retails for 25 gp. per
+			 pound, but I can make it for a third that in materials. Four pounds should suffice to
+			 fire one of these cannons, or an ounce for some kind of handheld weapon. . ."
+			-"Well. . ." I replied, "Sounds like a plan! As a start, lets get the repairable
+			 cannons over to the other ship. . .
+			 I paused, then, to look around and ensure our goblins weren't about, "It's less
+			 ramshackle. . .
+			-D'Roc tried lifting one cannon, but, after getting only one wheel off the ground, he
+			 requested some help. We called Rusty over and, with me lending a hand as well, we
+			 eventually lugged them over.
+			-My ship was already set up for cannons, with two gun ports on either side of the ship,
+			 so we gave her a mean right hook, with two cannons on the right side and one on the
+			 left.
+	-"Given these expenses, some paying work might be nice," Jade commented
+		-"Too bad Sasserine isn't at war," Maya said, "A letter of marque would be nice. Sasserine
+		  is sort of in a state of _civil_ war, but. . ."
+		 "There's an ongoin gwar between Karhoon Tor and Tzarvan Keep," Sarge volunteered. "They're
+		  fighting over the sacred woodlands between them.
+			-Jade knew of the area, and said that there are old shrines in the wood, at which
+			 powerful spirits reside and where treants were made
+			-"Tzarvan Keep recently got a new king," Sarge added, "He promised an end to the war,
+			  but he has thus far failed to deliver."
+			-"How far is this?" I asked. "Leaving Sasserine _too_ long might be risky, with that
+			  bone fortress due a week and a half from now. "
+			 "We could be there in six days, or three with some magical boosting," Sarge replied.
+		-"Well, closer to home," Maya said, "We could hunt Shapers? I'm sure I could find further
+		  bounties. . ."
+		 "Yeah, sounds good to me!" I replied. "If you can't join them, beat them (and no one
+		  wanted to be cat people with me. . .). Plus, I've still got a Forcas-flavored score to
+		  settle with them!"
+
+
+8/23/23:
+	-Maya set about working her connections, to get us some bounties for acting as lycanthrope
+	 exterminators.
+		-She came back with a contract from The Dawn Council, offering 100 gp. per head.
+		-Bit cheap, but I do have a personal grudge anyways.
+		-It also had a clause about proving they were members.
+			-Maya, though, thankfully had heard some things about the gang. Apparently they
+			 generally spread lycanthropy via an injection, one that leaves a distinctive mark.
+			-It's usually done behind one ear.
+			-Well, that certainly offers convenient proof.
+	-In discussing that, we also wound up talking about Lady Lavinia's jackass brother.
+		-Maya had some unusually bloodthirsty feelings towards him.
+		-I pointed out that there's not a price on _his_ head, but Maya retorted that he was
+		 rumored to have run off with the family fortune, so there's might still be some profit in
+		 the endeavor.
+	-We decided to focus on the Shapers for the moment.
+	-The apothecary we'd bought our wolf's bane from had mentioned they'd taken over the grounds of
+	 the old observatory in The Shadow Shore, so we opted to go see her again.
+		-Crossing the city and walking into her shop, we saw her engaged in a discussion with a
+		 very pale elf.
+			-He was wearing expensive clothes, but also a strange cloak over it, one with bones
+			 woven into the fabric.
+		-It seems he was looking to unload some kind of reagent, but she wasn't buying.
+		-He began to storm out, but I stopped him and asked, "What are you selling, friend?
+		  Aphrodesiacs?"
+		-He paused at my question, and turned to show me some salvaged mostly-trash. Didn't look
+		 like much fun, and so I began to wave him off.
+		-He then inquired, though, if we'd be interested in an "air sensor", which certainly piqued
+		 my interest, and mentioned he'd salvaged that from the same ship.
+		-I asked him what he was asking for it, and he replied, not cash, but perhaps some help
+		 getting acclimated to this city, he being a newcomer. He inquired about room and board,
+		 while learning about the city.
+		-I was open to that, and asked him, "What line of work are you in, friend, when not
+		 peddling. . . stuff, to shopkeeps?"
+		 "I am a scholar," he replied.
+		 "Oh! You'll get a long well with Jade and Maya, then! They've got the bulk of our book
+		  learning. I'm more of, well, lets call me an entertainer." Glancing down at my colorful
+		 garb, I added, "Shit, that makes me sound like a pimp or something."
+		  a pimp or something"
+		 "What sort of scholar?" Jade asked.
+		 "Of the only thing the matters," he replied, "The Dream."
+		-That last seemed to catch Jade's attention. "What 'dream' do you mean?" she asked.
+		 "The only dream that matters," he replied. "That of my home, $CITY_OF_DEAD."
+		 ". . . I've been there," Jade replied, "In, well, a dream. . ."
+		 "It is as real in a dream," the elf said, "As when walking it's streets in the flesh. It
+		  is the reward that awaits all of us, in the end."
+		 "What sort of reward?" Sarge broke in.
+		 "The reward at the end of this life of suffering," he replied.
+		 "Ho! You're doing it wrong, then," I said. "I could show you a good time. . . Wait, now I
+		  sound like a pimp again. . ."
+		-Seeming no more than slightly put off at my phrasing, the elf continued, "This life is
+		  suffering, with the spots of happiness in between making it only the more crushing."
+		 "You're definitely doing it wrong," Maya replied.
+		 "Yeah," I said. "I find the hangover is almost always worth the fun."
+		 "Hmph. Well, perhaps you can show me," he said, sounding doubtful. "Here, take this,"
+		 he continued, thrusting his "air sensor" forward to me. "In exchange, give me room and
+		  board, and help me learn about this city."
+		-Turning the thing over in my hands, I briefly examined the strange object, before turning
+		 it over to Jade, saying, "What do you think, Jade? This looks like your kind of thing. . ."
+			-Jade looked over the object, and held it up for the others to examine.
+			-Sarge pointed out that the script on a portion of it was an old elven dialect, the
+			 elves having been responsible for a lot of early airship technology.
+			-Jade pointed it at various objects around the shop, and at us, muttering about varying
+			 "readings" as the dials on the surface of it moved as it did.
+			-She even pulled out the strange orb we'd obtained, the one associated with The
+			 Brotherhood, and pointed the device at it. The dials quickly went crazy, their needles
+			 moving rapidly or pointing to extremes.
+			-_That_ caught the elf's attention, and he asked, "What is that thing?"
+			-Jade was evasive, saying, "Well, we don't _really_ know. . . It's not complete. . .
+			  and I'm trying to learn about how it works. . ."
+			-He narrowed his eyes, but remained silent.
+		-That sorted, we turned to the shop's proprietor and got some wolf's bane for Sarge and
+		 D'Roc.
+			-While they were discussing that, I turned to the elf, saying, "Oh! We never had a
+			 proper introduction! I'm Fred. Shit! Uh, Fed. . . that's what I said. . ."
+			 "Skye," he said, cutting off my fumbling.
+			 "Well, Skye, we should probably get some wolf's bane for you as well," I said. "Unless
+			  you fancy growing some fur. . .
+			-He agreed, and bought some for himself as well.
+		-"Can't be too careful," I said to the proprietor, as we settled the transaction. "Still
+		  have those lycanthropes lurking about."
+		 "Yeah, they're all over," she replied.
+		 "Oh!" I said, not at all forced, "When we were last here, you said something about them
+		  causing you to have trouble gathering herbs? Something about an old observatory?"
+		 "Yeah. I haven't been back since they infested the place. It's part of the reason the
+		  wolf's bane is so expensive."
+		 "If you want, we could play exterminator," I volunteered.
+		 "Oh! Well, I don't have much cash on hand. . . But, perhaps a trade? Some of my stock in
+		  return for clearing the observatory grounds," the shopkeep offered.
+		 "Well, we do take on a lot of these. . . exterminator gigs," I said. "Potions certainly
+		  would be helpful. . ."
+		 "Say 500 gp. worth of stock each?" she said.
+		 "A princely sum. . . Sure, you've got a deal!" I agreed. "We'll be back to let you know
+		  how it turned out. Or, well, if we don't come back, you'll know how it turned out. . ."
+		 "I suppose so. . . If you take that one," she said, gesturing to Skye, "You might come
+		  back without muscles. . ."
+		-That elicited quite the glare from Skye.
+		-"Uh. . . Well, you're certainly welcome along, Skye," I said, "If you don't mind starting
+		  your tour of the city with the seedier bits."
+		 "Anything to get out of this place," he replied, with another glare at the proprietor.
+		 "Well, lets head out, I guess!"
+	-We made our way over to the observatory, a short walk away, and arrived at a rusty,
+	 ivy-covered gate, behind which, on a rocky outcropping, lay a decrepit observatory.
+		-"What is it we've come here for?" Skye asked.
+		 "The grounds are supposed to be full of various lycanthropes," I replied. "That shopkeep
+		  is our source, but she's paying us to get rid of them, so seems confident. Plus, we've
+		  got a bit of a grudge against them, _and_ a contract with the city's council that pays
+		  per head, so it seems like a good opportunity."
+		-He nodded in response, unlimbered his longbow and began to check his arrows.
+		-"Yep, that's the right idea," I said. "We should all make our preparations. Also, a plan
+		  wouldn't be a bad idea. We've run into. . . some issues, in the past, on that front."
+		-Grimble, at least, nodded, and began casting Mage Armor, while I loosened my rapier in
+		 it's scabbard.
+		-Sarge, meanwhile, began to wave his hand wildly, but none of us took his meaning, at least
+		 until the trees inside the gate began to shake, and we saw large (for rats) rat-like shapes
+		 moving among their branches. . .
+			-Maya quickly loosed one of her eldritch blasts, but the shot went wide.
+			-Grimble, though, then stepped forward and conjured a burst of fire in one of the trees,
+			 from which fell a burning, but still moving, rat man, now sprawled on the ground.
+			-It got up and ran back, further into the grounds, but, from other trees, there came a
+			 hail of crossbow bolts, two of which hit Grimble, piercing his magic barrier.
+			-Bruce the bat, then, began to chant strange syllables and, in response, the plants of
+			 the observatory grounds began to stir and move. The rat men were forced to fight
+			 against entangling foliage, with varying degrees of success.
+			-Wasting no further time, D'Roc ran forward, axe over his head, vaulted the wall around
+			 the grounds, and, as he landed, cleaved the singed rat man in two.
+			-I wisely took cover behind the wall and manifested a defensive power, but Sarge was
+			 quick to follow D'Roc, also leaping the wall, though his wings meant coming down was
+			 rather optional. Instead, he annihilated one of the rat-things with a gout of conjured
+			 flame from the air.
+			-Skye too hurled some kind of spell over the wall, and an ominous emanation began
+			 harassing a rat inside the gates.
+			-Grimble, bolts sticking out of his little chest, followed _my_ example, ducking for
+			 cover behind his own section of wall, and using his healing belt to force out the
+			 bolts and mostly close his wounds.
+				-Weirdly, Skye looked at this in horror, clutching his necklace and staring, mouth
+				 agape.
+			-The hail of bolts continued though, without any more hits, but was also joined by
+			 some. . . squealing? Sounded like something bigger than the rats. . .
+			-Skye muttered more arcane syllables, though, and that squealing intensified, taking on
+			 a more frantic tone.
+			-Thing had begun to sound quite chaotic inside the grounds, with shouts, the clash of
+			 weapons, and various other noises of battle now constant. Safe behind my wall, though,
+			 I took my time, carefully aimed at a tree rat who didn't seem to see me, and then gave
+			 him some nice goose feathers.
+			-Grimble continued to play copycat and crept forward, peeked around the wall, and
+			 finshed off my feathered rat with a burst of fire.
+			-The bolts flying were joined by some arrows from the observatory's roof and, peeking
+			 over the top of the wall, I could see another (sleek, gorgeous, and altogether
+			 enviable) weretiger perched up there with a bow.
+			-Maya was quick to remedy that and, in a flash of her arcane energies, the tiger, and
+			 part of the observatory's crumbling roof, were gone.
+			-By that point, the sounds of battle had begun to subside and, with a shout from D'Roc,
+			 things went quiet.
+		-After a moment or two, I forced the gate open, and boldly strode through.
+			-D'Roc was looking around and, seeing none of them moving, he said, "Well, what now?"
+			 "We have that bounty. . ." I said, "So, head collecting?"
+			-He responded by severing the head of the one at his feet, saying, "Got one."
+			 "Well, with that axe, you're probably best suited to handling the rest too," I said.
+			-He nodded, and set about his grim work.
+			-There was the slight issue of one body that had fallen from the nearby seaside cliff,
+			 to the rocks below, but Sarge and Maya's wings proved useful in resolving that.
+			-Bruce fluttered around D'Roc as he worked, and eventually called out as D'Roc stood
+			 over the body of something that appeared to be a were. . . boar?
+			-"This one is still breathing!" he shouted. "Stay your hand young man," he directed to
+			 D'Roc.
+			-He then flapped down to the ground, and began to chant the words of a spell, closing
+			 the creature's wounds.
+			-"What are you doing?!?" Skye interjected.
+			 "Keeping one alive to interrogate," Bruce replied.
+			 "Good thinking!" I said. "Might be more bounties where these came from, with some
+			  leads. . ."
+			 "Very well. But you should give him release when you're done," Skye insisted.
+			 "Eh, I'm amenable to that," I replied.
+			-In short order, the beast man began stirring, and we began interrogating.
+			-It started with Bruce delivering his intro spiel, "I am the terror that flaps in the
+			  night!" and all that.
+			-To which I threateningly added, "You're in deep shit, motherfucker."
+			-Not too be outdone, Skye muttered the ominous words of some spell, and soon after the
+			 were-ganger was terrified and gibbering.
+			-That not being much use, Bruce began to attempt to calm the creature down, and
+			 eventually asked Skye to back off.
+			-Maya then flapped over, and took over, saying, "I'm here from the city. If you
+			 cooperate, I can give you a quick death, or have you turned over to the council's
+			 justice as you prefer.
+			-"Shit. . ." the wereboar began, having regained some composure, "I was part of the
+			 gang. . . It wasn't so bad, at first. But then these people with wings started hanging
+			 around. Looked a lot like you, actually. They were throwing strange names around. . ."
+			 "What kind of names?" Maya asked.
+			 "Uh. . . hard to pronounce ones, like _unintelligible gibberish_. . . After they
+			  showed up, we were. . . more aggressive. Hit harder targets, took more territory. . ."
+			 "What about that building, there?" she continued, gesturing to the ruined observatory.
+			 "What's inside of it? Any defenses?"
+			 ". . . there's some loot we took. . . and poison gas traps, above the doors."
+			 She nodded and continued, saying, "What about other locations? Where else can I find
+			  members of your gang?"
+			 "I don't know! I mostly hung around here. . . Well, there were rumors. . .  about a. . .
+			  wereshark. Something about a diving operation. . ."
+			 "Where? Where was this?"
+			 ". . . I don't know. . . All I heard was this one takes a. . . special type of subject."
+			 "Special how?" Maya asked.
+			 ". . . I don't know," he said, but seemed evasive to my ears.
+			 "What do you mean, 'special'?" I demanded. "I've heard that word in ominous tones
+			  before. . . You know more than you're saying. . ."
+			 "I can't help you if you're not honest with me. . ." Maya chimed in.
+			 "And I can't help what I'll _do_ to you if you're not. . ." I added.
+			 ". . . I know you nobles," the wereboar began. "All pretty until you hear something
+			  you don't like, and then you lash out."
+			 "She's not like that," Jade responded. "She can help you. . ."
+			 "I can. See that fellow with the big axe?" Maya said, gesturing to D'Roc. "He can grant
+			  you a quick death. . . Or, I can turn away, and let these scary people do whatever
+			  they like with you. And, they _are_ scary. I've spent quite a while with them now. . ."
+			 ". . . they need blood that's been by the sea. . . for centuries," he began. "In
+			  Sasserine, that means the nobles. They've been. . . recruiting. . . by the shore in
+			  the noble district. . ."
+			 ". . . I'm not going back in a cage. . ." he continued, "There's just one more thing I
+			  want. . ."
+			 As he spoke, he began to. . . shift, his face forming even more of a snout and his
+			 limbs shortening. ". . . I want to change one last time. . . feel the wild. . ."
+			-That earned a nod from D'Roc, who waited a moment, before lopping the head off the boar
+			 that was now before us.
+		-That settled, we immediately put some of the information to use, looting the observatory's
+		 ruins.
+			-Jade and I debated whether one of us could disable the traps, but neither of us felt
+			 especially confident.
+			-"Well, he said the _doors_ were trapped," I pointed out. "I watched Maya take out that
+			  weretiger, though, and she made a hole in the roof in the process. Between that and
+			  her wings, we've got another option. . ."
+			-We indeed did just that, with Maya soaring up to the observatory's roof and fastening
+			 a rope for us to climb up, and another to climb back down inside.
+			-Once inside, we were able to quickly identify, and avoid, the traps. After some
+			 searching, we then made our way back up with quite the haul.
+
+
 TODO:
-	-Cannon refurbishment, given that incoming bone fortress?
-		-Probably retrieving our other airship too.
+	-Hunt more Shapers, with the information from our interrogation above.
+		-Possibly quickly, given the limited time we have remaining before the festival, and maybe
+		 the bonefortress's arrival.
+	-Collect potions and bounties.
+	-Finish cannon refurbishment, given that incoming bone fortress.
+		-Maybe do something with our other airship too.
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
 
 

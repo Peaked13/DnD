@@ -4632,7 +4632,7 @@ TODO:
 	-In discussing that, we also wound up talking about Lady Lavinia's jackass brother.
 		-Maya had some unusually bloodthirsty feelings towards him.
 		-I pointed out that there's not a price on _his_ head, but Maya retorted that he was
-		 rumored to have run off with the family fortune, so there's might still be some profit in
+		 rumored to have run off with the family fortune, so there might still be some profit in
 		 the endeavor.
 	-We decided to focus on the Shapers for the moment.
 	-The apothecary we'd bought our wolf's bane from had mentioned they'd taken over the grounds of
@@ -4657,11 +4657,10 @@ TODO:
 		 "Oh! You'll get a long well with Jade and Maya, then! They've got the bulk of our book
 		  learning. I'm more of, well, lets call me an entertainer." Glancing down at my colorful
 		 garb, I added, "Shit, that makes me sound like a pimp or something."
-		  a pimp or something"
 		 "What sort of scholar?" Jade asked.
 		 "Of the only thing the matters," he replied, "The Dream."
 		-That last seemed to catch Jade's attention. "What 'dream' do you mean?" she asked.
-		 "The only dream that matters," he replied. "That of my home, $CITY_OF_DEAD."
+		 "The only dream that matters," he replied. "That of my home city, Otrok, the Unchanging."
 		 ". . . I've been there," Jade replied, "In, well, a dream. . ."
 		 "It is as real in a dream," the elf said, "As when walking it's streets in the flesh. It
 		  is the reward that awaits all of us, in the end."
@@ -4740,11 +4739,11 @@ TODO:
 			 from which fell a burning, but still moving, rat man, now sprawled on the ground.
 			-It got up and ran back, further into the grounds, but, from other trees, there came a
 			 hail of crossbow bolts, two of which hit Grimble, piercing his magic barrier.
-			-Bruce the bat, then, began to chant strange syllables and, in response, the plants of
+			-Bruce the bat then began to chant strange syllables and, in response, the plants of
 			 the observatory grounds began to stir and move. The rat men were forced to fight
 			 against entangling foliage, with varying degrees of success.
 			-Wasting no further time, D'Roc ran forward, axe over his head, vaulted the wall around
-			 the grounds, and, as he landed, cleaved the singed rat man in two.
+			 the grounds, and, as he landed, cleaved the singed rat-man in two.
 			-I wisely took cover behind the wall and manifested a defensive power, but Sarge was
 			 quick to follow D'Roc, also leaping the wall, though his wings meant coming down was
 			 rather optional. Instead, he annihilated one of the rat-things with a gout of conjured
@@ -4767,8 +4766,8 @@ TODO:
 			-Grimble continued to play copycat and crept forward, peeked around the wall, and
 			 finshed off my feathered rat with a burst of fire.
 			-The bolts flying were joined by some arrows from the observatory's roof and, peeking
-			 over the top of the wall, I could see another (sleek, gorgeous, and altogether
-			 enviable) weretiger perched up there with a bow.
+			 over the top of the wall, I could see a (sleek, gorgeous, and altogether enviable)
+			 weretiger perched up there with a bow.
 			-Maya was quick to remedy that and, in a flash of her arcane energies, the tiger, and
 			 part of the observatory's crumbling roof, were gone.
 			-By that point, the sounds of battle had begun to subside and, with a shout from D'Roc,
@@ -4838,8 +4837,8 @@ TODO:
 			  want. . ."
 			 As he spoke, he began to. . . shift, his face forming even more of a snout and his
 			 limbs shortening. ". . . I want to change one last time. . . feel the wild. . ."
-			-That earned a nod from D'Roc, who waited a moment, before lopping the head off the boar
-			 that was now before us.
+			-That earned a nod from D'Roc, who waited a moment, before lopping the head off the
+			 now-regular boar that was soon before us.
 		-That settled, we immediately put some of the information to use, looting the observatory's
 		 ruins.
 			-Jade and I debated whether one of us could disable the traps, but neither of us felt
@@ -4853,6 +4852,203 @@ TODO:
 			 searching, we then made our way back up with quite the haul.
 
 
+9/6/23:
+	-Loot and severed heads in hand, we decided we should convert some of that to cold cash.
+		-Being. . . a bit too popular with the guards (a fact I took the opportunity to break to
+		 Skye), I found a nearby alley to change into my Crimson Crusader outfit.
+		-Then, suitably attired, we headed to a nearby guard post.
+		-Knocking at the door, we got the attention of a guard just starting the night shift.
+		-To him, and gesturing to Maya, I announced, "I, The Crimson Crusader, assisting this scion
+		 of your fine city, have vanquished some shapechanging miscreants!"
+		-Not missing his cue, Skye then spilled forth seven severed heads.
+		-On the guard's face, we saw a quick series of dramatic emotions. Eventually regaining his
+		 composure, he stammered out, "Uh. . . let me go fetch my superior."
+		-We eventually sorted the matter out, pointing out the marks from their injections and
+		 showing Maya's bounty hunting contract. Soon we were walking out with sacks of gold, though
+		 also still with the heads.
+			-Skye had asked if he could keep the heads and a guard, a bit alarmed at the question,
+			 eventually marked the heads with some paint and turned them back over to us.
+	-Our next stop, then, was the apothecary who also wanted some lycanthropes dead.
+		-She was happy to hear the lycanthropes had been dealt with, and didn't even want to see
+		 out grisly proof!
+		-We then spent some time oohing and ahing over potions, and all walked off with a varied
+		 selection.
+	-From there, we sought out a place to unload our loot.
+		-Maya fortunately knew of a nearby shop, one popular with gladiators from the nearby arena.
+		-She led us there. It's interior was lined with weapons, and contained it's blonde
+		 proprietor and her two black cats.
+		-Greeting the shopkeep, Maya said that I, The Crimson Crusader, had hard-won loot to sell.
+		-Looking over my costumed self, the woman said, "Well, stuff sells better with a story. . ."
+		-Maya obliged, spinning an exagerated one about the exploits of the Crimson Crusader when
+		 retrieving these arms.
+		-It clearly made an impression, and the shopkeep even asked me to sign one of the weapons.
+		-I obliged her, calling for a quill and signing the greataxe.
+		-"Thanks!" she said. "We'll have it etched in and enchant the axe. Should fetch quite a
+		  premium."
+		-Maya, riffing on the them, even proposed hosting an event.
+		 "Oh, a weapon signing?" the proprietor replied. "I could offer you 25% percent of the
+		  profit."
+		 "Sounds like a good idea to me!" I said.
+		 "Well, I can't do it until after the festival," she said, "But after, lets get something
+		  set up.
+		 "There may be an opportunity for Jade too here too," Maya added.
+		 "Oh yeah!" I chimed in. "She's quite the smith. I've commissioned some works from her
+		  myself."
+		 "Sure, sure. I'd love to see some samples of her work," the proprietor agreed.
+		-We resolved to see her about setting the event up once the festival was over.
+	-That settled and the sun setting, we then headed to The Noble's District, to seek out more
+	 bounties (_beach_ bounties).
+		-We had a fun ferry trip over, the nobles aboard apparently treating it as a pleasure
+		 cruise, though the rest of the passengers were being carefully watched by the couple of
+		 noble-liveried soldiers aboard.
+		-Maya joined her people and ran into a drunk school friend, who she began to regale with
+		 tales of The Crimson Crusader.
+			-He seemed quite impressed with the exagerated adventures, but also seemed to get the
+			 idea that _Sarge_ was The Crimson Crusader.
+			-He stumbled over to offer Sarge some wine, at which point I began to speak up, but then
+			 suddenly held my tongue. It wouldn't be the _worst_ thing in the world if someone else
+			 got the. . . credit. . . for my actions, for a change.
+		-We eventually disembarked in The Noble's District and began to discuss our next steps.
+			-I asked Maya what she knew about the after dark beach scene in her neighborhood and,
+			 between tales of her slightly mispent youth (younger youth?) and what we learned from
+			 our were-boar interrogation, we set up a plan to bait an ambush.
+			-Some of us, particularly Maya who wouldn't have to do terribly much acting, would
+			 pretend to be local nobles, partying on the beach, while the rest of us would conceal
+			 ourselves and wait in ambush.
+			-That set up, Maya wandered off a bit, faking a drunken stumble and ranting about a
+			 boyfriend that had abandoned her.
+			-Soon, she was wandering back our way, keeping the act up and with two shadowy figures
+			 in tow.
+			-They seemed to notice Bruce lurking in a tree but, after a whispered argument, they
+			 crept forward again, towards Maya.
+			-As they passed beneath his tree, Bruce launched into his introductory spiel, but I
+			 only let him get a few words in before I lept up from cover and put an arrow through
+			 the eye of one of the figures.
+			-Maya spun and attempted to blast the other, but the shot went (fotunately) wide as I
+			 began to shout, "Take the other one alive!"
+			-He quickly dropped the sap in his hand and, raising his arms above his head, began to
+			 (unconvincingly) shout, "Whoa! I just wanted to get you safely home!"
+			-Not at all dissuaded, Maya began to shout a mix of threats and questions at him, and
+			 he eventually agreed to lead us to where he'd been taking captured nobles, in return
+			 for vague promises of letting him go.
+				-He also mentioned something about how those he'd been working for, "Seemed like
+				 the same person. Different faces, but. . ."
+		-Our captive led us to a pier near a cemetary, and then down through a sewer grate, into a
+		 cavern.
+			-There, in a flooded tunnel that appeared to lead out to the open sea, swam a large
+			 shark.
+			-D'Roc began to mutter about the fish smelling "unnatural" while our would-be kidnapper
+			 began to explain that this was where he was delivering the nobles, though he didn't
+			 know what for. "Maybe some kind of sacrifice," he speculated. "You know, to the shark."
+			-Skye then turned to the man, and asked, "How much are they paying you to bring them
+			  these people?"
+			 "A thousand gold a head," he replied.
+			 "Shiiit," I said, "They're only paying us a hundred for _your_ head. . ."
+			 "Should have negotiated better," he quipped.
+			 "That's what I've been saying!" I complained.
+			 "How much would it cost for your silence?" Skye then asked, reaching into a pouch and
+			 drawing forth a fistful of gold. "To not tell anyone you led us here?"
+			 His eyes never leaving the gold, the thug said, ". . . 500 gold."
+			-Skye reached forward with his fistful of gold, to meet the man's outstretched hands. As
+			 he began to rain coins into the the kidnapper's hands, though, Skye reached out with his
+			 other hand and grabbed the man's wrist. The thug's face went pale and he screamed as he
+			 fell to his knees. Skye was without mercy, though, and held tight to the man's wrist
+			 until he stopped moving.
+			-That generally met with shrugs from the rest of us, and only a slight justification
+			 from Maya who claimed, "I only promised him I wouldn't tell anyone if he helped us. . "
+			-Skye calmly reclaimed his coins, save two, though I grabbed those as I stripped the
+			 corpse of the rest of its gear too.
+		-Looking around the cavern, Skye pointed out another passage, concealed behind some mossy
+		 vegetation.
+			-We went though the passage, D'Roc with some minor difficulty due to it's narrowness,
+			 and found ourselves in another cavern.
+			-This one had, at the other end, some stacked bodies and cracked jars (and an altogether
+			 unpleasant odor).
+			-Skye went off to investigate the bodies, but jumped back as something oozed out of the
+			 jars and lunged at the pale elf.
+			-As Skye fell back, the ooze emerged fully from the jars and drew up into a mass nearly
+			 as tall as D'Roc.
+			-Grimble promptly tried to set it on fire, loosing a ball of flame at it, burning off
+			 some of its mass.
+			-It surged forward, though, engulfing Sarge and Bruce.
+			-Maya called out for my help rescuing Sarge so, though I fell back from the ooze, I
+			 grabbed Maya's waist. She then reached into the ooze and grabbed Sarge's arm, and it
+			 took both of us pulling as hard as we could to drag him free.
+			-D'Roc took a different approach, running at the ooze and charging through it, dragging
+			 Bruce and some quantity of the jelly out the opposite side of the mass.
+			-Jade and I then loosed projectiles at it, with only slight effect.
+			-Some more flames from Grimble proved a bit more effective, though not so much as the
+			 blast from Maya that followed, finishing it off.
+			-It collapsed to a puddle of viscous goo.
+		-The. . . jello (?) slain, we had the luxury of looking around the cavern more and saw,
+		 deeper in, a white haired elf slumped over a table, with an enormous bite mark on one arm
+		 and some. . . scales (?) around the mark.
+			-Maya rushed towards her and, after briefly taking in the scene, she forced some wolf's
+			 bane from her belt pouch into the woman's mouth.
+			-The pale-haired elf sat up and mumbled something to Maya, but either offended or
+			 alarmed Maya as she blasted her fellow elf with her eldritch energies.
+			-Doesn't seem like Maya was wrong to have done that as. . . shark people, presumably
+			 the were-sharks they'd been making, emerged from the waters pooled around the cavern
+			 while the wounded elf stood and began shouting.
+			-Well. . . maybe she's an elf? Getting a better look at her, she did look quite strange.
+			-I didn't have much time to study the figure, though, as one of the shark monsters lept
+			 at me from from a nearby pool, biting my shoulder horribly.
+			-I summersaulted back, rolled to my feet, and then shouted, "You motherfucker!" as I
+			 crushed his mind with mine, sending him reeling (Ha! Fish joke!) back.
+			-Grimble singed the beast with some conjured flames and then fell back to my side, back
+			 near the passage by which we entered the cavern.
+			-The other end of the cavern was now mostly out of our sight, but we could here the
+			 sounds battle as our friends dealt with shark monsters of their own and the maybe-elf.
+			-The shark-creature we were dealing with lunged at me again, though, brandishing a
+			 trident, leaving me no time to worry about the others.
+			-The trident was cold but somehow still burned, as it's tines found gaps in my chainshirt
+			 and I fell to the cavern floor. . .
+		-The next thing I knew, I woke on the cavern floor, Grimble crouched over me and a charred
+		 elf corpse in place of the shark monster that had savaged me.
+			-The sounds of battle continued, coming from the other end of the cavern, but they soon
+			 died to relative silence as I pulled myself painfully to my feet.
+			-I applied the magic of my healing belt to myself and choked down some wolf's bane, then
+			 stumbled forward with Grimble to join the rest of our companions.
+			-I asked them if they thought there might be more of those nightmares in the water, as
+			 D'Roc was busily severing the heads of the noble scions the sharks turned into after
+			 death.
+			-Fortunately, they assured me that Sarge had delivered some lightning to the water,
+			 likely remedying any such matters.
+		-Well, our immediate safety somewhat assured, we set about looting.
+			-We found some assorted valuable trinkets in nearby crates and a desk.
+			-Interestingly, the desk _also_ contained a variety of notes, written in many different
+			 languages, and stamped with various seals we also found in the desk.
+			-Maya could read all of the languages involved, apparently, and said that these notes
+			 and seals could be my redemption in the eyes of The Dawn Council.
+				-The not-elf, a creature Jade named a "phasm", was a apparently some kind of
+				 shapeshifter and was impersonating various nobles, a thing these notes proved and
+				 a very grave matter, one The Dawn Council would be very glad to have resolved.
+				-Catching on, I proposed going one step further. "Why settle for redemption," I
+				 said, "When you can deflect the blame entirely! _I_ didn't rile up an angry mob at
+				  a funeral. . . It was the shapeshifter! I would _never_ do such a thing. . ."
+				-Jade looked rather aghast at my baldfaced lies.
+				-Maya, though, seemed game, and thought that might work.
+				-Thinking on it a bit further, though, Maya and I suspected that magic like Zone of
+				 Truth might make that a good deal riskier, so redemption might be the safer option.
+			-Ranging a bit further, we also saw an aquarium full of small sharks some distance away,
+			 in another branch of the cavern, and a large treasure chest just beyond it.
+				-More treasure is always exciting to me, but Maya shockingly let loose a blast of
+				 eldritch energy at the chest.
+				-Clearly she'd noticed something I didn't, though, as, in response, it began to move
+				 of it's own accord, opening it's lid to reveal a set of sharp teeth and a lashing
+				 tongue and hopping towards us. Fucking shapeshifters. . .
+				-Well, all of us then began sending various projectiles at the chest hopping towards
+				 us.
+				-It crashed into the aquarium, knocking it over, shattering it, and releasing the
+				 sharks that strangely grew larger, but only flopped helplessly on the dry section
+				 of cavern floor as they suffocated.
+				-The chest-monster soon joined them in their suffering as, bleeding (!) from
+				 numerous wounds, it eventually fell still.
+			-That matter settled and the notes and seals in her hand, Maya then ran off, back the
+			 way we came, shouting over her shoulder, "I need to bring these to my father! He needs
+			 to know about this! Finish up here and come find me!"
+
+
 TODO:
 	-Hunt more Shapers, with the information from our interrogation above.
 		-Possibly quickly, given the limited time we have remaining before the festival, and maybe
@@ -4864,6 +5060,7 @@ TODO:
 
 
 TODO:
+	-Host an event with that arms merchant. Search above for "weapon signing".
 	-Figure out paying back that 10k in diamonds.
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
@@ -4928,7 +5125,7 @@ TODO:
 				 or preempt (being capable of extraordinary workmanship or materials).
 			-The king is angry at the high priest of Morradin.
 		-The Brotherhood:
-			-There's that orb Jade has. More below.
+			-There's that orb Jade has, tied to keys to The Brotherhood's planes. More below.
 			-A fairy within Nkisi's realm traded a key to that realm to another fey (see 3/22/23
 			 notes for more details).
 		-Party Members:
@@ -4953,6 +5150,8 @@ TODO:
 					-One key I'm unsure of.
 					-One tied to Nkisi's realm.
 			-D'Roc:
+				-
+			-Skye Nightwarden:
 				-
 	-Once you get Leadership, what cohort should you get?
 		-Moved discussion of this into Skypirate.txt

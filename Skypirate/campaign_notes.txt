@@ -2303,7 +2303,7 @@ TODO:
 			 sprawling.
 			-I loosed shots at Nkondi as I dove for cover. Taking a quick breather behind it,
 			 though, I noticed I could hear an irregular. . . clicking, coming from below decks.
-			-The source was quickly revealed as a 7' tall knife-weilding insect lept out from the
+			-The source was quickly revealed as a 7' tall knife-wielding insect lept out from the
 			 deck's hatch, and began to furiously slash Nkondi to pieces.
 				-Well, huh.
 			-I was still hidden, and figured I'd give some thought to the situation while I could.
@@ -2329,7 +2329,7 @@ TODO:
 			 "OK, yeah, I can work with this. . ."
 			 "To-Cao", it said, pointing to itself.
 			 "Fred the Red!" I said, bowing. "A pleasure!"
-			-While I was having the hear to heart, though, dwarven guards were rushing across the
+			-While I was having the heart to heart, though, dwarven guards were rushing across the
 			 docks, towards are ship.
 				-Running up the gangplank, they took in the sight of Sarge, who had walked over to
 				 the priest and was tending to his injuries, while I pointed at the pile of Nkondi-
@@ -4870,7 +4870,7 @@ TODO:
 			 eventually marked the heads with some paint and turned them back over to us.
 	-Our next stop, then, was the apothecary who also wanted some lycanthropes dead.
 		-She was happy to hear the lycanthropes had been dealt with, and didn't even want to see
-		 out grisly proof!
+		 our grisly proof!
 		-We then spent some time oohing and ahing over potions, and all walked off with a varied
 		 selection.
 	-From there, we sought out a place to unload our loot.
@@ -4949,11 +4949,11 @@ TODO:
 			 "How much would it cost for your silence?" Skye then asked, reaching into a pouch and
 			 drawing forth a fistful of gold. "To not tell anyone you led us here?"
 			 His eyes never leaving the gold, the thug said, ". . . 500 gold."
-			-Skye reached forward with his fistful of gold, to meet the man's outstretched hands. As
-			 he began to rain coins into the the kidnapper's hands, though, Skye reached out with his
-			 other hand and grabbed the man's wrist. The thug's face went pale and he screamed as he
-			 fell to his knees. Skye was without mercy, though, and held tight to the man's wrist
-			 until he stopped moving.
+			-Skye reached forward with his fistful of gold, to meet the man's outstretched hands.
+			 As he began to rain coins into the the kidnapper's hands, though, Skye reached out with
+			 his other hand, this one bathed in a sickly-looking eldritch light, and grabbed the
+			 man's wrist. The thug's face went pale and he screamed as he fell to his knees. Skye
+			 was without mercy, though, and held tight to the man's wrist until he stopped moving.
 			-That generally met with shrugs from the rest of us, and only a slight justification
 			 from Maya who claimed, "I only promised him I wouldn't tell anyone if he helped us. . "
 			-Skye calmly reclaimed his coins, save two, though I grabbed those as I stripped the
@@ -4980,7 +4980,7 @@ TODO:
 			-Some more flames from Grimble proved a bit more effective, though not so much as the
 			 blast from Maya that followed, finishing it off.
 			-It collapsed to a puddle of viscous goo.
-		-The. . . jello (?) slain, we had the luxury of looking around the cavern more and saw,
+		-The. . . jelly (?) slain, we had the luxury of looking around the cavern more and saw,
 		 deeper in, a white haired elf slumped over a table, with an enormous bite mark on one arm
 		 and some. . . scales (?) around the mark.
 			-Maya rushed towards her and, after briefly taking in the scene, she forced some wolf's
@@ -5049,11 +5049,124 @@ TODO:
 			 to know about this! Finish up here and come find me!"
 
 
+9/27/23:
+	-In my lust for loot, I'd neglected the presence of another tunnel, but, as Maya began to run
+	 off, Bruce called out to her, yelling, "Hey! Wait! There's still another tunnel over here. . ."
+	-Sure enough, tucked in one corner of the cavern, there was an opening, leading to lichen
+	 covered stairs the descended further.
+	-D'Roc, with Bruce on his shoulder, crept over to it, and Bruce reported some sort of flapping
+	 noise coming from below.
+	-We all then proceeded down the stair, cautiously in light of the movement ahead, a gradually
+	 all smelt a foul chemical stink.
+		-Skye pronounced it a preservative of some kind, one commonly used with corpses. . .
+	-Well, that was enough to make us all rather cautious.
+		-I myself manifested Defensive Precognition, and encouraged Grimble to "not get any of that
+		 on his boots" by shrinking and being strapped into his harness on my chest.
+	-We then proceeded on a bit further down the stair before Maya raised a hand and called another
+	 halt.
+		-She muttered something about an arcane script on the wall, mentioning a laboratory and
+		 some demonic agreement.
+		-Well, caution certainly _was_ wise. . .
+	-We didn't let that stop us, though, and, continuing down, could soon here some distant clamor
+	 and the clanking of chains.
+	-Rounding a corner, we bore witness to a series of small, fluttering demons, which Bruce
+	 pronounced "quasits" trying to restrain some kind of giant, be-tentacled mutant ape, chained
+	 to a wall across the room the stairwell opened onto.
+		-Within moment of our coming onto the scene, the ape ripped it's last remaining restraints
+		 free from their moorings on the wall behind the beast and swatted one of quasits from the
+		 air, with it disappearing into a chasm across the room.
+		-Meanwhile, one of the other quasits flapped off down another hallway at great speed.
+		-That left three of the little demons and the immense ape-beast, so, the choice being clear,
+		 I crept forward and loosed an arrow at the ape.
+			-It was an excellent shot, but one of the ape-thing's tentacles swatted at the arrow,
+			 deflecting it into a glancing blow.
+		-Grimble, strapped to my chest, then whispered complaints to me, saying, "You should have
+		  gotten closer! I'm not in range!"
+		 "Fuck," I responded. "Do you see that thing?!? I'm not getting anywhere near it! Just set
+		  it on fire if it gets anywhere close to us. I don't want to wake up on the floor again,
+		  or worse. . ."
+		-Sarge was more foolhardy, though, and darted out into the room and conjured a hail of
+		 stones, battering the ape and quasits both.
+		-The quasits had the right idea after that, and one by one they disappeared from sight in
+		 some arcane shimmer, either gone or invisible.
+		-The combo of D'Roc and Bruce still perched on his shoulder were not not disuaded, though,
+		 and strode into the room.
+		-Bruce muttered some magic syllables, conjuring a dust of twinkling light where one of the
+		 quasits had been, and indeed still was, as it found itself outlined by the light.
+		-D'Roc wasted no time cleaving the demon in twain.
+		-The ape-thing was following the same logic as me, it seemed, as it than rushed towards the
+		 similarly large D'Roc, who thankfully was strong enought to shove back the charging beast.
+		-He could not, though, evade its long, grasping tentacles, which snaked around D'Roc's limbs.
+		-The creature thankfully held D'Roc at some distance, so the rest of us began to pelt it
+		 with various projectiles, magical and mundane both.
+			-Grimble used a now quite tiny crossbow, looking up at me apologetically as the tiny
+			 dart bounced off the thing's hide, and said, "I used the last of the fire conjuring
+			 above. . ."
+		-The ape was now bleeding heavily from a variety of wounds, but our luck didn't hold.
+		 Another of the the damned shark monsters came charging out from the hallway a quasit had
+		 flown off down, smashing into D'Roc and biting away at him.
+		-The now-bleeding and still-grappled D'Roc responded with a great axe blow, wounding the
+		 creature right back, while the rest of my companions continued a hail of projectiles, now
+		 at both beasts.
+		-Seeing another of these shark-beasts, I myself shouted, "Not another of these fucking fish!"
+		-Staring it down, I then attempted to crush it's mind, but, in it's rage, it didn't seem to
+		 even notice, only increasing _my_ rage.
+		-Sarge met with more success with the ape, though, bellowing deafeningly and loosing from
+		 his draconic jaws some air distorting energy, blasting the beast to pieces.
+		-The shark-thing remained though, and, after another eldritch blast from Maya, D'Roc gored
+		 the beast with his horns and then shook it's lifeless, and slowly re-humanoid-ifying, form
+		 free. It slid off the side of the stonework we were perched on, into the chasm below us.
+			-Following it with my eyes, I could see what appeared to be a city below: various large
+			 buildings illuminated by some kind of luminous fungus on the chasm walls below.
+		-"Are those quasits still about?" I asked. "Can anyone. . . detect them?"
+		 "They're gone," Bruce pronounced.
+		 "Well, we should probably go find them, then. Before they find us. . ."
+	-Looking about, there were a pair of bridges, leading off in various directions from where
+	 we were.
+		-We elected to follow the one to the East, where we saw at least _one_ quasit go, and from
+		 which the shark moster came.
+		-It led to a series of chambers, showing some signs of life.
+		-One held a lit campfire, and another a cracked door, from which emerged a bit of light and
+		 the sound of something banging against rock.
+		-We crept towards the door and, when D'Roc shoved it open, he was rewarded with a rock
+		 hurled at him from a purple tentacle within.
+		-We were all bunched up in a narrow hallway, so, though Skye began to cast some spell, the
+		 rest of us waited until D'Roc charged into the room, swinging his axe at the tentacles.
+		-As the minotaur and tentacle monster did battle, the rest of us crept forward, loosing the
+		 occasional projectile at the tentacles, which seemed to just emerge from the ground.
+			-I managed to hit one with an arrow, but it just glanced of the thick hide (?).
+		-D'Roc and Maya were a good deal more effective, though.
+		-However, when one of the tentacles managed to grab D'Roc, he staggered, a sickly expression
+		 on his face, as dark energy emanated from the grasping tentacle.
+			-Well, I don't want to get anywhere near _that_.
+		-Skye responded with one of his freaky, disembodied hands he conjures, and the tentacle
+		 seemed to find that about as unpleasant.
+		-D'Roc then took the opportunity to sever the tentacle grabbing his leg with his axe, along
+		 with several more of them. The whole wriggling mass shriveled and then went limp.
+		-We moved forward into the room, and D'Roc mentioned he saw the quasit, but that it flew
+		 off through the passage to the North.
+		-Near where the tentacles lay limp, there some small eggs, and we could resist poking at
+		 them.
+		-Skye was first to grab one, and he dumped some dark energy into it.
+		-As if in response, it cracked, and a tiny black bird emerged.
+		-Maya, though, promptly blasted it, saying it "looked wrong".
+		-D'Roc then shrugged, and stomped all the rest of the eggs.
+		-The resulting bloody mess. . . stirred, though, slowly combining into one mass.
+		-This fascinated Skye and Maya, though, who began to discuss how it was. . . changing.
+			-Skye scraped up the bird corpse, into a pouch he pulled from his bag.
+			-Maya, meanwhile, uncorked a healing potion and poured it on the quivering mass, which
+			 caused it to change color and then go still.
+			-After staring a while longer, Maya pointed at faint writing around where the egg
+			 remnants lay, saying it was Abyssal, and exhorted the contents of the circle the
+			 writing formed to take on a kind of parody of perfection.
+			-The arcanists among us fell to discussing the matter, mentioning "Demogorgon", an
+			 demon prince, but my attention wandered, and I looked around the room for something of
+			 more tangible value, but found only rocks.
+				-I did catch them discussing a resemblance between Demogorgon and the tentacled ape
+				 monster from the room nearby.
+
+
 TODO:
-	-Hunt more Shapers, with the information from our interrogation above.
-		-Possibly quickly, given the limited time we have remaining before the festival, and maybe
-		 the bonefortress's arrival.
-	-Collect potions and bounties.
 	-Finish cannon refurbishment, given that incoming bone fortress.
 		-Maybe do something with our other airship too.
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
@@ -5184,6 +5297,10 @@ TODONE:
 	-Roll up more Quickhammers before word spreads too much.
 		-The ~25 agents in Sasserine.
 	-Harness for cohort.
+	-Hunt more Shapers, with the information from our interrogation above.
+		-Possibly quickly, given the limited time we have remaining before the festival, and maybe
+		 the bonefortress's arrival.
+	-Collect potions and bounties.
 
 
 TODON'T:

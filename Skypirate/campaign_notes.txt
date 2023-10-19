@@ -5256,7 +5256,7 @@ TODO:
 			 out of.
 				-Importantly, leaving those uncut gems behind.
 			-"Well, we screwed that guy up pretty bad," I commented. "He's going to go back to his
-			  people, talking all crazy. They're going to kill him."
+			  people, talking all crazy. They're going to _kill_ him."
 			 "Or build a statue of him," Sarge replied.
 			 "Either way, those little guys seem like they could use some help. Maya, this shit is
 			  basically under your house, right?"
@@ -5334,10 +5334,95 @@ TODO:
 
 
 TODO:
-	-Buy scrolls for Grimble! Gnome substitution levels means he got no free level 3 spells at all!
+
+
+10/18/23:
+	-I soon found myself leashed to a chair for some reason. The barkeep was still bringing whiskey
+	 by though, so, eh. . .
+		-Suspiciously, Maya had come over to "check" on me just before. . .
+	-Skye headed for the door, and came back a few moments, surrounded by assorted skeletons and
+	 zombies.
+		-That caused some alarm, with the drunk gnomes drawing up into some semblance of battle
+		 order.
+		-Skye calmed them, claiming his. . . new friends were ancestors, returned server, to
+		 protect us.
+			-"Serve?" I said. "Shit, have them bring some more whiskey over here then. I'm tied
+			  to a chair for some reason. . ."
+		-That seemed to mollify them, but not so the bartender, who demanded that Skye, "Get those
+		  things out of here!"
+		 "Would it help if I bought them drinks?" Skye asked.
+		 ". . . Can they drink them?" the bartender responded.
+		 "I can!" I broke in. "You there, skeleton! Bring me more whiskey!"
+		 "What does it matter?" Skye said. "It's still gold in your hand. . ."
+		-The bartender, seemingly resigned to our shit, shrugged and started pouring.
+	-I woke up in a bed, in a rented room above the bar, which was a decided improvement on the
+	 chair I fell asleep tied to.
+		-Walking downstairs, I collected my boots, stared into one of them, and then asked the bar
+		 full of bleery gnomes and other assorted allies, "Why is one of my boots full of spew?
+		  Grimble! Where are you? I need some magic cleaning. . ."
+		-Grimble crawled out from beneath a table and, after some studying of his spellbook, sorted
+		 my boot.
+	-Walking over to where several of the others were talking, Maya claimed to have heard from her
+	 god, who wanted us to go back down to that demon-dungeon again.
+		-I had some reservations about the subject, but Sarge seemed to be on board, wondering if
+		 his increasing power might be the result of growing closer to his dragon side, and hoping
+		 this "test" might continue that.
+		-Maya also believed there might be some connection between. . . whatever that was, down
+		 beneath the district, and that pearl people are always after. She'd had some vision earlier
+		 of it calling some tentacled demon. . .
+		-"Well, the first trip down _was_ profitable," I volunteered, "But also rather dangerous. . .
+		  How do we get gone in a hurry, with any loot, when the walls start shaking again?"
+		-In response, one of Skye's. . . new friends spoke up, saying, "Pook can help!"
+			-Pook, at least, seemed to be a living man, albeit filthy and carved with scars forming
+			 arcane ruins. He was carrying a ragged little doll.
+			-He proceeded to grab a nearby chair, distended his jaw like a snake, and swallowed the
+			 chair.
+			 "Uh. . ." I began, but the bartender interrupted.
+			 "Hey!" he shouted, "You can't go eating the chairs!"
+			-Pook promptly vomited forth the chair, along with several odds and ends, including a
+			 shovel.
+				-The. . . concerned bartender stared a moment at the slobbery chair, then wandered
+				 off muttering.
+			-"Well," I said, "I guess that's volunteering to _carry_ the loot? Still doesn't solve
+			  how we escape in a hurry, though, if the walls start moving again. . ."
+		-We then fell to debating what to do with a demon big enough to _build_ inside of.
+			-We didn't really come to a firm conclusion, though, other than shopping!
+	-So, _something_ at least settled on, we went off in search of various shops, and a guard post
+	 to redeem some bounties.
+		-Maya and the Crimson Crusader had not problem redeeming the bounties, and we even talked
+		 them into something extra for the shapeshifter who was impersonating various nobles.
+		-Then, most of us ran off to the merchant district, though Maya wanted to go see some other
+		 guard, to thank him for some past favor.
+			-D'Roc went with her, to watch her back.
+		-We found an emporium of all things magical, and several of the others got various enchanted
+		 items. Grimble, though, was only able to confirm they could teach him the spells he wanted
+		 to learn, since he told me he'd need at least a day per spell to do the work.
+		-We spent enough time pouring over the shop's magics that Maya and D'Roc eventually found us
+		 there.
+		-Maya was in a hurry to have a chat, so I hurried the others along.
+		-We then swung by a pawnbroker, to unload our loot, and then headed to a bakery for lunch.
+	-At the bakery, over cupcakes, Maya laid out what she learned from her visits to a favorite
+	 guard and then her father.
+		-Her father had informed her that the nobles are at each other's throats due to the
+		 shapeshifter revelations, and that the Dawn Council is slowly dissolving as a result.
+		-Maya also thinks she knows where that pearl is, her father being old enough to have been
+		 around when last it was above the waves.
+			-She described flooded low-lying districts of the city, in the inlet between the
+			 Champion and Noble districts, where last the pearl was seen, but which might also be
+			 home to some aquatic elves who relations have long since deteriorated with.
+			-We then discussed options for accessing such an area.
+				-Jade can help some number of us breath underwater, and water breathing potions
+				 should run aroung 750 gp. and last 5 hours each.
+				-Jade also volunteered that she might be able to manage a Locate Object spell.
 
 
 TODO:
+	-Buy scrolls for Grimble! Gnome substitution levels means he got no free level 3 spells at all!
+		-Shit, they're not only expensive, but crazy time consuming to copy: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
+			-From scrolls:	=-((375+3*100)*5+700+4*100) = -4475
+			-From other spellbook:	=-(3*(50+100)*5+4*(50+100)) = -2850
+		-Also a nasty Spellcraft check, which could rule out learning it until next level.
+		-Confirmed an emporium in Sasserine has everything I want, so now I just need time.
 	-Finish cannon refurbishment, given that incoming bone fortress.
 		-Maybe do something with our other airship too.
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
@@ -5433,9 +5518,10 @@ TODO:
 					-One key I'm unsure of.
 					-One tied to Nkisi's realm.
 			-D'Roc:
-				-
+				-A follower of Dog.
+				-Seems to be half minotaur, a rather interesting bloodline.
 			-Skye Nightwarden:
-				-
+				-A follower of Nkisi.
 	-Once you get Leadership, what cohort should you get?
 		-Moved discussion of this into Skypirate.txt
 	-What about followers?

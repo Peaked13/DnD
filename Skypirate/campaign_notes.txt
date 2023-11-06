@@ -5330,10 +5330,7 @@ TODO:
 			 learned below, and put in a good word for me.
 			-She said we should enjoy the party, but that we should be on watch tonight, and to
 			 expect blood in the streets tomorrow morning.
-			-Grimble continued vomiting.		
-
-
-TODO:
+			-Grimble continued vomiting.
 
 
 10/18/23:
@@ -5344,7 +5341,7 @@ TODO:
 	 zombies.
 		-That caused some alarm, with the drunk gnomes drawing up into some semblance of battle
 		 order.
-		-Skye calmed them, claiming his. . . new friends were ancestors, returned server, to
+		-Skye calmed them, claiming his. . . new friends were ancestors, returned serve, to
 		 protect us.
 			-"Serve?" I said. "Shit, have them bring some more whiskey over here then. I'm tied
 			  to a chair for some reason. . ."
@@ -5412,17 +5409,159 @@ TODO:
 			 home to some aquatic elves who relations have long since deteriorated with.
 			-We then discussed options for accessing such an area.
 				-Jade can help some number of us breath underwater, and water breathing potions
-				 should run aroung 750 gp. and last 5 hours each.
+				 should run aroung 750 gp. and last 10 hours each.
 				-Jade also volunteered that she might be able to manage a Locate Object spell.
+
+
+11/5/23:
+	-The festival in Sasserine is tomorrow.
+		-It'll be a full moon, with some implications for the Shapers.
+		-Maya also inisted there's some connection between the date and the huge demon that's
+		 beneath (?) Sasserine. She believes it might stir, or even wake, and come in search of the
+		 pearl.
+	-Well, what do we do about that pearl?
+		-Jade was not confident her magics could find it by _tomorrow_.
+		-Maya _did_ have some notes seized from that shapechanger, but they are in a cipher.
+		-The others didn't know how to read it, and didn't believe me when I claimed it said, "Get
+		 on your airship and get the hell out of here before a giant demon wakes up!"
+		-Maya opted to call in a favor, requesting help from a scholar she knew in the Noble District.
+		-Calling on him, he was indeed able to make some sense of the cipher, translating them to
+		 some kind coordinates. Coordinates, though, without a map. . .
+		-Since they describe something relative to Sasserine landmarks, though, he suggested that
+		 one of the shipping companies, or perhaps the dredgers, might be able to help us.
+		-We _had_ previously been in the estate of the noble house that ran the dredging.
+			-Maya, her eyes lighting up, asked if anyone had any candy.
+			-At our quizical looks, she elaborated: when last we were there, she'd bribed that kid
+			 with candy to not mention our presence, and he might be amenable to similar deals.
+			-Seemed reasonable(-ish) to me, so I agreed we should go find a candy shop, but also
+			 suggested firey back up plan, asking that we stop again at that magic shop for Grimble
+			 to copy a scroll with the help of that time crystal.
+	-So, some shopping!
+		-First, we went back to that magic shop.
+			-I asked if my good friend Grimble could copy a spell. "He's looking to put on a show
+			 for the festival tomorrow. Something flashy. . . A fireball, should do."
+			-The shopkeep seemed a bit skeptical, suggesting a nice illusion in stead, but, "Where's
+			 the fun in safe?" Fred asked.
+			-The shopkeeper eventually agreed, and so, for the usual fee, less our negotiated
+			 discount he found a spellbook for Grimble to copy from.
+			-He warned us that Grimble had barely enough time to get that done by tomorrow, but I
+			 assured him that magic can solve _many_ problems, as Grimble pulled out that Crystal
+			 of Lost Time.
+			-He concentrated on the crystal, and then things got weird. The gnome strobed in and out
+			 of existence for a bit, coming to after ten minutes, wild-eyed and jabbering.
+				-"I saw some things! Crazy things!"
+				 ". . . But you got the spell copied, right?" Fred asked.
+				 "Sure! But. . ."
+				 "Good, good."
+			-Maya also picked up a Wand of Message.
+			-While there, I also asked about maps, hoping the shop's learned proprietors could point
+			 us at those who might have a collection of antique charts.
+				-One of the wizards there suggested the mercantile guilds might have what we need.
+	-Rather than stop for candy, then, we opted to head to the docks, and meet with representatives
+	 of the merchant's guild that operates the docks.
+		-Striding into their offices, Maya was quick to introduce herself, which also quickly
+		 reminded us of what are previous dealings with these were.
+		-Before anything else, the guildmember wanted to talk to Maya about the berth her father had
+		 rented, saying that no wizard they'd hired has been able to remove that antimagic field.
+		-He was something of a jerk about it, and had no interest in Maya and my attempts to spin it
+		 as a tourist attraction for visiting scholars. Ultimately, though, he just wanted Lord
+		 Dracus to keep paying the rent, a problem I'll leave to Maya.
+		-That settled, he was willing to talk to Maya about maps, for what I insisted was "her
+		 school project".
+		-Some digging around in their dusty backrooms eventually turned up what we needed. An old
+		 map featured some long submerged locks that once existed at the mouth of Sasserine's bay,
+		 at the location our deciphered coordinates described.
+	-Our location known, we fell to discussing how exactly we could get to this submerged ruin we
+	 hoped held the pearl.
+		-There were a lot of different strategies bandied about, and different magics that might
+		 help.
+		-We settled on scrolls of Swim and potions of Waterbreathing, and then making our way to
+		 the older sections of the sewers, which we believed connected to flooded tunnels leading
+		 to the old, submerged locks.
+			-Jade also convinced us to fund the purchase of an Eternal Wand of Swift Haste, which
+			 she says she can use to hasten two of all day long, every day.
+	-Poor Forcas met his end near an entrance to the old sewers, so we returned to the scene of
+	 that crime (I don't think _we_ committed any crimes there. . .).
+		-After our last visit, someone had apparently welded bars over the sewer entrance, so D'Roc
+		 set about trying to rip them off.
+		-At first, the struggled, and the wrenching noises of partial success caught the attention
+		 of a man passing by, but I spun a story about a lost wedding ring and a scary wife, and
+		 soon that man was asking nearby shopkeepers for us if they could lend a pry bar.
+		-Moments later, we were in a filthy sewer.
+		-Soon, we were navigating some rickity scaffolding covered in rats, across a chasm.
+		-As we went, the sewers steadily grew older, with differing styles of stonework increasingly
+		 worn (and slimey).
+		-Eventually, we reached a flooded tunnel, and got to the real fun.
+	-We drank our potions and cast our scrolls, and then dove right in.
+		-We hustled along, hoping to be back above water before any of the relevant magics wore off.
+		-Some distance down the tunnel, though, we found our way blocked by some ghostly figures.
+		-They didn't seem immediately hostile, and spoke to us in a language I didn't recognize.
+		-Grimble and Bruce, though, seemed to at least partly follow them, with Grimble doing some
+		 halting translation.
+			-They were speaking a strange Sylvan dialect, and asking after our intent, our
+			 "connection to the land".
+			-Hearing that from Grimble, I turned to Bruce, saying, "Well, that rather sounds like a
+			 you problem?"
+			-He indeed attempted to converse with them, but so too did Maya, speaking in, I think,
+			 Elvish.
+			-That last really caught their attention, and they swarmed around her as she continued,
+			 eventually. . . singing a song for them?
+			-That did the trick, though, and they let us pass.
+		-Continuing on a while further, we could eventually see a light at the end of the tunnel.
+		-Approaching, that proved to be coming from where the tunnel opened out into the bay.
+		-Below the opening, there were jumbled bits of worked stone and, out in the open water, there
+		 were humanoid (perhaps finned elves?) apparently patroling the water.
+		-Maya lead the way out into the bay, but then stopped, and clutched her head.
+			-Suddenly, we were elsewhere, along with some of those patrolling figures.
+			-No longer underwater, the strangers appeared stricken, gasping for air and lying on
+			 the ground.
+				-Maya rushed to check on them, pouring water over the gills of one of them, but they
+				 _did_ seem to be able to breath, albeit not well. One of the others croaked out a
+				 few Elvish words to her.
+			-Around us was a raging battle, humanoids in a wide variety of armor styles engaged in
+			 a great melee. Maya, looking up at it, utterd, ". . . Ysgard?"
+			 "Ysgard?!?" Jade said. "Why Ysgard?"
+			 "Yeah, how the hell did we get here?" I asked. "Maya clutched her head, then. . . What
+			  happened, Maya?"
+			 "I. . . I don't know. . . I don't feel well. . ."
+			-One of the fighters, a giant, then called out to D'Roc, yelling, "Bullman! Help me! I
+			  served your parents!"
+			 "Uh. . ." he wavered.
+			-Meanwhile Jade, cast her eyes about, taking in the scene around us.
+			-Bruce, though, was first to act, casting some spell on D'Roc, and was soon joined by
+			 Maya doing the same.
+			-Grimble, meanwhile, cast some spell on _himself_, so I followed that by manifesting my
+			 precognition and unlimbering my bow.
+			-After a moment, D'Roc clearly made his decision, charging into the melee, axe held high.
+			-Cleaving through several of the giants golem-like opponents earned a complement from the
+			 giant, and a moment of respite for them both.
+			 "Well done, little one!" the giant said to D'Roc. "You seem. . . strange, though. . .
+			  almost like you're alive?"
+			-They fell do discussing how the giant knew D'Roc's parents, a thing I didn't entirely
+			 follow, filled with references to a maze and places I'd never heard of.
+			-Eventually, though, the giant indeed confirmed we were in Ysgard, and D'Roc asked him
+			 how we get get home, since it was "not our time yet."
+			-"You'll have to cross the bridge," the giant thundered. "Come, little ones. I will take
+			  you."
+			-He led us through the frey to a great castle, with a vivid rainbow leading from it into
+			 the sky.
+				-It was only there that I noticed Pook was not with us, and that I'd not seen him
+				 since the water.
 
 
 TODO:
 	-Buy scrolls for Grimble! Gnome substitution levels means he got no free level 3 spells at all!
 		-Shit, they're not only expensive, but crazy time consuming to copy: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
-			-From scrolls:	=-((375+3*100)*5+700+4*100) = -4475
-			-From other spellbook:	=-(3*(50+100)*5+4*(50+100)) = -2850
 		-Also a nasty Spellcraft check, which could rule out learning it until next level.
 		-Confirmed an emporium in Sasserine has everything I want, so now I just need time.
+		-Hmm. . . Can Grimble borrow that time acceleration item?
+			-The Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
+				-Hmm. . . there's potentially other consequences. Grimble used it for Fireball, had
+				 to make a Will save, and, though he rolled excellently, he still flickered in and
+				 out of existence, saw second long snapshots of other planes. Hate to think what
+				 might have happened had he failed. . .
+		-Also, anything we can do to buff his Spellcraft?
+			-Eh, needing it for 24 hours makes that tough.
 	-Finish cannon refurbishment, given that incoming bone fortress.
 		-Maybe do something with our other airship too.
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.

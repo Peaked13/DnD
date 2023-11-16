@@ -5434,13 +5434,13 @@ TODO:
 			-At our quizical looks, she elaborated: when last we were there, she'd bribed that kid
 			 with candy to not mention our presence, and he might be amenable to similar deals.
 			-Seemed reasonable(-ish) to me, so I agreed we should go find a candy shop, but also
-			 suggested firey back up plan, asking that we stop again at that magic shop for Grimble
-			 to copy a scroll with the help of that time crystal.
+			 suggested we have a firey back up plan, asking that we stop again at that magic shop
+			 for Grimble to copy a scroll with the help of that time crystal.
 	-So, some shopping!
 		-First, we went back to that magic shop.
 			-I asked if my good friend Grimble could copy a spell. "He's looking to put on a show
 			 for the festival tomorrow. Something flashy. . . A fireball, should do."
-			-The shopkeep seemed a bit skeptical, suggesting a nice illusion in stead, but, "Where's
+			-The shopkeep seemed a bit skeptical, suggesting a nice illusion instead, but, "Where's
 			 the fun in safe?" Fred asked.
 			-The shopkeeper eventually agreed, and so, for the usual fee, less our negotiated
 			 discount he found a spellbook for Grimble to copy from.
@@ -5460,7 +5460,7 @@ TODO:
 	-Rather than stop for candy, then, we opted to head to the docks, and meet with representatives
 	 of the merchant's guild that operates the docks.
 		-Striding into their offices, Maya was quick to introduce herself, which also quickly
-		 reminded us of what are previous dealings with these were.
+		 reminded us of what are previous dealings with these folks were. . .
 		-Before anything else, the guildmember wanted to talk to Maya about the berth her father had
 		 rented, saying that no wizard they'd hired has been able to remove that antimagic field.
 		-He was something of a jerk about it, and had no interest in Maya and my attempts to spin it
@@ -5510,7 +5510,7 @@ TODO:
 		-Continuing on a while further, we could eventually see a light at the end of the tunnel.
 		-Approaching, that proved to be coming from where the tunnel opened out into the bay.
 		-Below the opening, there were jumbled bits of worked stone and, out in the open water, there
-		 were humanoid (perhaps finned elves?) apparently patroling the water.
+		 were humanoids (perhaps finned elves?) apparently patroling the water.
 		-Maya lead the way out into the bay, but then stopped, and clutched her head.
 			-Suddenly, we were elsewhere, along with some of those patrolling figures.
 			-No longer underwater, the strangers appeared stricken, gasping for air and lying on
@@ -5527,7 +5527,7 @@ TODO:
 			-One of the fighters, a giant, then called out to D'Roc, yelling, "Bullman! Help me! I
 			  served your parents!"
 			 "Uh. . ." he wavered.
-			-Meanwhile Jade, cast her eyes about, taking in the scene around us.
+			-Meanwhile Jade cast her eyes about, taking in the scene around us.
 			-Bruce, though, was first to act, casting some spell on D'Roc, and was soon joined by
 			 Maya doing the same.
 			-Grimble, meanwhile, cast some spell on _himself_, so I followed that by manifesting my
@@ -5537,7 +5537,7 @@ TODO:
 			 giant, and a moment of respite for them both.
 			 "Well done, little one!" the giant said to D'Roc. "You seem. . . strange, though. . .
 			  almost like you're alive?"
-			-They fell do discussing how the giant knew D'Roc's parents, a thing I didn't entirely
+			-They fell to discussing how the giant knew D'Roc's parents, a thing I didn't entirely
 			 follow, filled with references to a maze and places I'd never heard of.
 			-Eventually, though, the giant indeed confirmed we were in Ysgard, and D'Roc asked him
 			 how we get get home, since it was "not our time yet."
@@ -5547,6 +5547,131 @@ TODO:
 			 the sky.
 				-It was only there that I noticed Pook was not with us, and that I'd not seen him
 				 since the water.
+
+
+11/15/23:
+	-On the walk to that castle, suddenly, _literally_ out of thin air, a backpack dangling from a
+	 rope appeared, the rope leading up to. . . nothing? It just disappeared a few feet up.
+		-". . . I think that may be our way out?" Maya speculated.
+		 "Well, uh, ladies first," I replied, gesturing too it.
+		-When she climbed the rope and disappeared without any screaming or the like, one by one,
+		 the rest of us followed.
+	-Climbing it myself, I suddenly found myself back on the material plane, near where we'd left
+	 it, with Sarge and Skye there waiting for us.
+		-"So, was this your doing?" I asked them.
+		 "The rope, yeah, but not the orb," Sarge replied.
+		 "The orb?" I asked. "You found it?"
+		 "No, _that_ orb," Sarge clarified, pointing at a green-ish orb of arcane energies, writhing
+		 in the open water a short distance away where, I think, we'd been swimming when we suddenly
+		 found ourselves in Ysgard.
+		-In fact, as we watched, the orb slowly faded away, revealing several of the finned elves,
+		 apparently the ones I'd last seen flopping about on dried land, now stirring listlessly in
+		 the water, seemingly in a bad way.
+		-"They need our help!" Jade called out, swimming forward while drawing a wand from her pack.
+		-A noble intention, but I also had some worries about what happened to us, and if it would
+		 happen again. . .
+			-Fortunately, Maya seemed to have some idea, mumbling things about some "demonic
+			 influence" in her head and "wards forcing it away".
+			-That did give Jade pause, and she stopped well short of the stricken elves. ". . . So
+			 it might recur? I might be able to help with that. . ." she said.
+			-Returning to us, she quickly rummaged in her bag, drew forth some parchment, and began
+			 scratching at it as best she could underwater. "Here," she said, handing it to Maya.
+			 "This scroll might help."
+			-Maya nodded, and, taking it began to intone arcane syllables she read from it.
+			-Jade, meanwhile, swam forward, touching each of the strange elves with her want in turn,
+			 after which each righted itself and began to look at us warily.
+		-Now healed, they swam over to one another and began to. . . sign to each other?
+			-Maya, Bruce, and Jade then set about trying different languages they knew, attempting
+			 to communicate with the creatures.
+			-Eventually, Maya seemed to have the greatest success, copying some of their signs and
+			 receiving some back.
+			-"They said. . . something about a cave below, and an elder?" she translated.
+			 "Well, take us to their leader, I guess!" I replied.
+	-Swimming down to the floor of the bay, there was indeed a tunnel mouth, into which we swam.
+		-A short distance inside, the water began to. . . change, swirling and moving of it's own
+		 accord, eventually forming a huge humanoid form: a water elemental.
+		-Bruce proceeded to converse with the creature in Aquan, translating for us as Maya and Jade
+		 asked him to relay our interest in the pearl.
+		-The elemental, from Bruce's translation, was wary, warning of the corrupting power of the
+		 pearl, eventually demanding some kind of "test" of us.
+		-Bruce initially translated it as a test of strength, which had D'Roc stepping up, but he
+		 clarified that it didn't mean exactly _physical_.
+		-Well, it seemed like the elemental seemed ready to _get_ physical, as it drew up to it's
+		 full side and lunged towards us.
+		-As a battle began, Bruce called out, "Water. . . it values tenacity! Not exactly force. . ."
+		-If he was going to clarify any further, I didn't hear it, as the elemental reached forward,
+		 forming a vortex that swept up much of the party, though I was able to quickly swim aside.
+		-That was followed by a wave of dark energy emanating from the vortex. . . which fucking
+		 hurt.
+			-Where did _that_ come from?
+		-Skye's skeletons seemed to enjoy it, if anything, and swarmed forward at the elemental,
+		 blocking it's vortex.
+		-But revealing Grimble's limp form. . .
+		-I swam over to him and healed him with several charges from my magic belt. Then, grabbing
+		 him, I dragged him upward in the water, getting some distance between us and this disaster.
+		-A few moments later, though, the rest of the party seemed to have sorted the matter. Sarge
+		 waved his hands, there was a flash of light, and the elemental was surrendering, handing
+		 over a tiny, black pearl from which shadows seemed to emanate.
+	-After some debate over who should dare touch that thing, we settled on following Bruce's advice
+	 that Jade is probably responsible enough for it.
+		-She grabbed it and, examining it, muttered that, ". . . It causes tsunamis. _Global_
+		 tsunamis. . . "
+		-Well, neat!
+		-Maya suggested that Jade might be able to reuse it's energies, as she had with lesser magic
+		 items, but Jade warned that would require _lots_ of research, lest it release the pearl'sabatoge
+		 tsunamis.
+	-We also did a lot yelling at Skye.
+		-Apparently that dark energy that nearly killed Grimble was _him_.
+		-He again tried to sell us on how wonderful death is, but we decided he could put that into
+		 practice by walking in front of D'Roc from now on.
+	-We then proceeded to retrace our steps, heading back up to the city.
+		-As we went back, Maya asked for my help "uniting the city's nobles."
+		 "Uh, my track record on that score hasn't been great thus far. . ."
+		-Despite my protests, she was quite insistent that it was time for the triumphant public
+		 return of Fred the Red to the city of Sasserine and, well, being icognito _had_ become
+		 rather boring. . .
+	-We made our way back to the Dracus estate, where Maya greeted a guard with a code word of some
+	 kind.
+		-The outside of the estate bore signs of conflict, scorch marks and blood, that are new
+		 since even last we were here. Clearly the city is still a mess (without me!).
+		-We were led inside to a kind of chapel, built around the statue of a dragon, which a
+		 cheery Maya was happy to inform us was said to be one of her ancestors.
+			-We rather befouled the place, dripping sewer water all over.
+		-Eventually, were were joined by Maya's father.
+		-Maya greeted him with a weird anecdote about her childhood, something about pink buckets
+		 in the sand of a beach.
+		-He corrected her, saying the buckets had been green, earning a hug from her. A doppleganger
+		 test, I guess. . .
+		-She then informed him that we'd retrieved the pearl, and they began to discuss calling for
+		 some kind of emergency convocation of the nobility.
+		-She initially pushed for this as a route to peace, but he had his doubts, warning that
+		 their fellows are likely to take the alarm as an excuse for _more_ violence.
+		-So, she proposed a slightly different plan, going to _the people_, pushing for _more_
+		 violence, to eliminate the nobility save for their house.
+			-Why Maya, I didn't think you had it in you. . .
+		-Though impressed by her ambition, he asked if she really thought such a thing could be
+		 accomplished, but I happily chimed in that I was able to set the city aflame with a single
+		 funeral speech already, and this time the coals still smoldered. . .
+		-After a moment's thought, he nodded, fetched some papers from a secret compartment in the
+		 chapel, and they began to discuss the specifics.
+		-They also discussed if the shadow pearl could be destroyed.
+			-Apparently her father had some history with it.
+			-Wizards and priests had already examined it, though, and were unable to find a way.
+			-He did speak of one scholar who might know more, an alienist (?), though someone he'd
+			 not seen for centuries. . .
+				-His name is apparently Zyrastra.
+			-He did suggest seeking him out, to which Maya responded, "We'd need to do so in
+			 _hours_."
+			-After some elvish that was almost certainly expletives by the tone, he fetched
+			 something else from his secret compartment: a strange looking carved stone.
+			-"This," he said, "Can take you to him. . . whatever plane he may be on. . ."
+			-The danger in that was quite clear, and I asked, "Do we have a way to get _back_, Maya?
+			  Maybe we could talk to Jade?"
+			 "You don't need to come," Maya replied. "Only I'll go, as I need only get a message to
+			  him and have _him_ come back. You should stay here, to defend the city."
+			 ". . . I'm amenable to that," I said, happy to dodge that danger.
+		-With a plan in hand, we took a brief break to clean up for it, scrubbing off the sewer
+		 stink.
 
 
 TODO:

@@ -11,7 +11,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse.
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
 8	Dread Pirate 2	+6		10														Probably choosing "honorable", as eventual Fight to the Death is amazing with your Charisma.
-9	Dread Pirate 3	+7		10				Combat Reflexes?
+9	Dread Pirate 3	+7		10				Combat Reflexes for SD? Or Spring Attack? Something else?
 10	Shadowdancer 1?	+7		10														Could have it as soon as 7, if Leadership is delayed until 9.
 11	Dread Pirate 4	+8		10
 12											1
@@ -44,7 +44,7 @@ Advancement:
 			4		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
 			9		BACK ON YOUR FEET (Tumble 12)
 		-Customize CONCEAL SPELLCASTING???
-			-Psionic version would be very useful, but Sleight of Hand doesn't make much sence for
+			-Psionic version would be very useful, but Sleight of Hand doesn't make much sense for
 			 something with no somatic components. _Bluff_, though. . . and opposed by Sense Motive?
 	-Skills required for prestige classes:
 		-Dread Pirate:

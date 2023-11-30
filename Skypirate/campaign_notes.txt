@@ -5189,6 +5189,7 @@ TODO:
 		 crafting work, it _is_ a day further along. . . I. . ."
 		-She went to move, and then staggered, looking pale. "It. . . may have some downsides. . ."
 			-It's the Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
+				-Ah, I think Jade and Maya later gave it away to Zyrastra (grumble): https://discord.com/channels/560915739796570113/560915739796570119/1179609124766498876
 		 "It does, though," she went on, "Mean I can make you those cloaks _a lot_ quicker."
 		 "OK, that's what I want to hear!" I said. "The benefit to me! Grab it!"
 		-That matter settled, we looked around the rest of the room.
@@ -5578,7 +5579,7 @@ TODO:
 			 scratching at it as best she could underwater. "Here," she said, handing it to Maya.
 			 "This scroll might help."
 			-Maya nodded, and, taking it began to intone arcane syllables she read from it.
-			-Jade, meanwhile, swam forward, touching each of the strange elves with her want in turn,
+			-Jade, meanwhile, swam forward, touching each of the strange elves with her wand in turn,
 			 after which each righted itself and began to look at us warily.
 		-Now healed, they swam over to one another and began to. . . sign to each other?
 			-Maya, Bruce, and Jade then set about trying different languages they knew, attempting
@@ -5597,7 +5598,7 @@ TODO:
 		-Bruce initially translated it as a test of strength, which had D'Roc stepping up, but he
 		 clarified that it didn't mean exactly _physical_.
 		-Well, it seemed like the elemental seemed ready to _get_ physical, as it drew up to it's
-		 full side and lunged towards us.
+		 full size and lunged towards us.
 		-As a battle began, Bruce called out, "Water. . . it values tenacity! Not exactly force. . ."
 		-If he was going to clarify any further, I didn't hear it, as the elemental reached forward,
 		 forming a vortex that swept up much of the party, though I was able to quickly swim aside.
@@ -5618,7 +5619,7 @@ TODO:
 		 tsunamis. . . "
 		-Well, neat!
 		-Maya suggested that Jade might be able to reuse it's energies, as she had with lesser magic
-		 items, but Jade warned that would require _lots_ of research, lest it release the pearl'sabatoge
+		 items, but Jade warned that would require _lots_ of research, lest it release the pearl's
 		 tsunamis.
 	-We also did a lot yelling at Skye.
 		-Apparently that dark energy that nearly killed Grimble was _him_.
@@ -5629,10 +5630,10 @@ TODO:
 		 "Uh, my track record on that score hasn't been great thus far. . ."
 		-Despite my protests, she was quite insistent that it was time for the triumphant public
 		 return of Fred the Red to the city of Sasserine and, well, being icognito _had_ become
-		 rather boring. . .
+		 rather tedious. . .
 	-We made our way back to the Dracus estate, where Maya greeted a guard with a code word of some
 	 kind.
-		-The outside of the estate bore signs of conflict, scorch marks and blood, that are new
+		-The outside of the estate bore signs of conflict, scorch marks and blood, that were new
 		 since even last we were here. Clearly the city is still a mess (without me!).
 		-We were led inside to a kind of chapel, built around the statue of a dragon, which a
 		 cheery Maya was happy to inform us was said to be one of her ancestors.
@@ -5674,6 +5675,60 @@ TODO:
 		 stink.
 
 
+11/29/23:
+	-Once done with our baths, Maya seemed to have had a change of heart about running off to a
+	 random plane, and wanted some company.
+		-We set in to debating who should stay and who should go.
+		-I was none to eager to visit an unkown plane, there being more than a few that I'd. . .
+		 rather not.
+		-Fortunately Maya _also_ had a very special mission for me in particular: to find a fine
+		 wine to send the dwarf who taught she and I that dance.
+			-She'd promised him one from Sasserine and, with the city again in danger of going up
+			 in flames, she was thinking now might be the time.
+			-I enthusiastically accepted that charge.
+		-So, we ultimately decided that Jade, D'Roc, Maya, Pook, and Sarge would go search the
+		 multiverse for the alienist, while Bruce, Skye, Grimble, and I were going to go to a wine
+		 tasting.
+	-After watching the away team disappear in a flash of light, and being _very_ intent on my
+	 mission, I immediately set off in search of the head of House Dracus's kitchens.
+		-I told him that Lady Maya wished to send an especially fine bottle of wine to an
+		 acquaintance and asked if he could recommend a wine seller for us.
+		-He insisted there was nothing finer in Sasserine than the contents of House Dracus's
+		 cellars and led us down to them.
+		-There, we ultimately selected a dusty bottle from a very high shelf, which Bruce flew up
+		 to retrieve.
+		-Brushing the dust away revealed a whole _ecosystem_ in the bottle, with miniature trees and
+		 other plants encircling a lake of what indeed appeared to be wine. Fancy!
+		-The master of the kitchens was even able to arrange a courier to Sharaar Kol for us, so we
+		 gave him the name of our dwarven dance tutor and had him send the bottle to the dwarf care
+		 of the tavern at which we met him.
+	-That matter settled, the others weren't back yet and the city was quietly preparing for
+	 tomorrow's festivals, so those of us in town decided to rest up for the big day.
+		-Bruce opted to return to the orphanage, to keep an eye on things there, while the rest of
+		 us remained at the Dracus estate.
+	-I was rudely awakened in from my wonderful feather-stuffed bed by some clattering and yelling
+	 out in the common room of our suite.
+		-When shouting, "Keep it down out there!" didn't work, I eventually emerged from bed and my
+		 room, yawning and stretching.
+		-I found Grimble up, though still in his gnomish pajamas. He and Skye were staring at an
+		 out of breath Jade while some skeltons looked on impassively.
+		-". . . demons. . . I. . . ran. . ." Jade panted.
+		 "Demons?" I asked. "Here? Or. . ."
+		 ". . . surrounding the. . . ship," she replied.
+		 "Wait. . . _my_ ship?!?"
+		 "Ye. . ."
+		 "Is the ship OK?!?"
+		 ". . . yes. I think so. . ."
+		 "Ah, OK. So, tell me more!"
+		-Further explanations weren't to be had, though, as Maya's father came running down the hall
+		 past our suite, yelling, "Demons are pursuing Maya into the chapel!"
+			-He was naturally followed by several guards, and, after a shrug from Fred, us too.
+		-By the time we got there, though, the demons were just a pile of tiny, winged corpses at
+		 D'Roc's feet (or are there hooves in those boots?).
+		-He was bleeding from many small wounds, though, and also rather singed, so several of us,
+		 my saintly self included, healed him with various magic items.
+	
+
 TODO:
 	-Buy scrolls for Grimble! Gnome substitution levels means he got no free level 3 spells at all!
 		-Shit, they're not only expensive, but crazy time consuming to copy: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
@@ -5685,6 +5740,7 @@ TODO:
 				 to make a Will save, and, though he rolled excellently, he still flickered in and
 				 out of existence, saw second long snapshots of other planes. Hate to think what
 				 might have happened had he failed. . .
+				-Ah, I think Jade and Maya gave it away to Zyrastra (grumble): https://discord.com/channels/560915739796570113/560915739796570119/1179609124766498876
 		-Also, anything we can do to buff his Spellcraft?
 			-Eh, needing it for 24 hours makes that tough.
 	-Finish cannon refurbishment, given that incoming bone fortress.
@@ -5772,6 +5828,7 @@ TODO:
 				-Her noble family, headed by her father, are moneychangers in Sasserine, a thing
 				 that may offer a point of leverage to an entity that can crash specie markets more
 				 or less at will.
+				-She also seems to have designs on becoming queen of Sasserine.
 			-Sarge:
 				-Sarge apparently wasn't always a dragon-man, but was actually once a cat-man. Such
 				 transformations are kind of Edric's thing.

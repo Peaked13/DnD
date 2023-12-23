@@ -3393,7 +3393,7 @@ TODO:
 			 "God said when I die my family would be rich."
 			 "Ha! I always suspected the gods were a bunch of pricks. . . Well, here, want to call a
 			  truce for the moment? Seeing as we can't kill you, just keep torturing you?"
-			  "Yesss! I will grovel with Spike for your life!"
+			 "Yesss! I will grovel with Spike for your life!"
 			-I gave him a few minutes, to fully reform.
 			-Afterwards, he somewhat unsteadily got back onto his (new) feet, and, cringing,
 			 shambled towards me and croaked out, "Friends?!"
@@ -3432,7 +3432,7 @@ TODO:
 			 a start!
 	-The tour concluded, we slid back down the rope to the arena floor, where Sarge had freed a trio
 	 of humans from another cage along the arena wall.
-		-"Is on of you Loras?" I asked.
+		-"Is one of you Loras?" I asked.
 		 "Yes. . .that's me," one of the ragged men replied.
 		 "Great! Your wife is looking for you! She sent us your way. . . She's waiting for you at
 		  an inn; we can give you a ride back.
@@ -5907,6 +5907,15 @@ TODO:
 
 
 TODO:
+	-Send a message to Sasserine about _their_ incoming dragon, and discuss plans.
+	-Temporary, and eventually more permanent, repair of the acid-damaged decking.
+	-Push cannons harder.
+		-Looking at notes above, they're already mounted on the new ship (one on the left, and two
+		 on the right) and in decent shape.
+		-So, we just need smoke powder (which Grimble can make, given enough time) and ammo.
+
+
+TODO:
 	-Buy scrolls for Grimble! Gnome substitution levels means he got no free level 3 spells at all!
 		-Shit, they're not only expensive, but crazy time consuming to copy: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
 		-Also a nasty Spellcraft check, which could rule out learning it until next level.
@@ -5921,6 +5930,7 @@ TODO:
 		-Also, anything we can do to buff his Spellcraft?
 			-Eh, needing it for 24 hours makes that tough.
 	-Finish cannon refurbishment, given that incoming bone fortress.
+		-They'd be great for use with followers!
 		-Maybe do something with our other airship too.
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
 	-Host an event with that arms merchant. Search above for "weapon signing".
@@ -5946,7 +5956,12 @@ TODO:
 			-Light reading suggests that Psi-Like abilities are no different then normal manifesting
 			 when it comes to dispensing with displays: https://www.d20srd.org/srd/psionic/psionicPowersOverview.htm
 	-More dance numbers.
-	-Recruiting!
+	-Recruiting followers!
+		-You're keeping track of them in a Followers tab on the spreadsheet.
+		-Dread Pirate will double them at it's 10th level.
+		-Some kind of "air bike" concept seems attractive, small 1 or 2 man airships.
+			-Perhaps alchemically armed? A swarm of these things hurling alchemist fire seems like
+			 a major threat to airships.
 		-The air elemental running your ship?
 			-What _would_ level adjustement for an elemental look like?
 				-None listed, though could perhaps look at HD, if Jake allows it?
@@ -6020,15 +6035,14 @@ TODO:
 				-Seems to be half minotaur, a rather interesting bloodline.
 			-Skye Nightwarden:
 				-A follower of Nkisi.
-	-Once you get Leadership, what cohort should you get?
-		-Moved discussion of this into Skypirate.txt
-	-What about followers?
-		-Dread Pirate will double them at it's 10th level.
-		-You'll have eight level ones if you take it right at 6th level, even without Charisma buffs.
-		-See "Recruit more" for notes about air elemental followers.
-		-Some kind of "air bike" concept seems attractive, small 1 or 2 man airships.
-			-Perhaps alchemically armed? A swarm of these things hurling alchemist fire seems like
-			 a major threat to airships.
+		-Items:
+			-The Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
+				-Totally Ed's kind of thing, a magic crystal that can be used for efficient production.
+				-Ah, I think Jade and Maya later gave it away to Zyrastra, but Fred doesn't know
+				 that yet.
+				-Still, can it be kept from a _god_? Maya's father also had a magic stone to him to
+				 Zyrastra wherever they were, and could have more. . .
+	-Do we have a treasure map? Search "a treasure map" above!
 
 
 TODONE:
@@ -6055,6 +6069,8 @@ TODONE:
 		-Possibly quickly, given the limited time we have remaining before the festival, and maybe
 		 the bonefortress's arrival.
 	-Collect potions and bounties.
+	-Once you get Leadership, what cohort should you get?
+		-Moved discussion of this into Skypirate.txt
 
 
 TODON'T:

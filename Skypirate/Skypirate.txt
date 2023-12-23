@@ -63,6 +63,9 @@ Advancement:
 			http://dnd.arkalseif.info/classes/spymaster/index.html
 		-The way a bard's Inspire courage stacks with Dread Pirate's Rally the Crew could make a one
 		 level dip into bard worth it to get a further +1 to attack and damage for that ability.
+		-Legendary captain would be fun if we focus heavily on the ship, and even more if we go
+		 beyond letting me take more than a few levls of it: https://dndtools.net/classes/legendary-captain/
+			-Leadership score bonuses and random ship-focused abilities.
 	-Possible feats:
 		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
 		 https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
@@ -105,7 +108,7 @@ Flavor:
 		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
 			-You're not too fond of it, as a result.
 			-Sometimes "Fred the Red".
-	-Took to air shortly after leaving his home, The Nested Domains of the Enlightened Edric,
+	-Took to air shortly as he was leaving his home, The Nested Domains of the Enlightened Edric,
 	 seeking freedom, and distance from the portal he'd emerged from.
 		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
 		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
@@ -305,6 +308,9 @@ Cohort:
 					-Ah, but you're losing your 5h level bonus to Gnome Illusionist, and probably
 					 the 10 level one too.
 					-Hummingbird will also mean you've already got good initiative.
+				-Later levels:
+					-Ship's Mage: http://www.theworldofnocturne.com/dndtools/feats/stormwrack--87/ships-mage--2613/index.html
+						-Neat if we spend tons of time aboard, but not amazing for illusionists.
 			-Gear:
 				-Will start with expected character wealth for level: https://discord.com/channels/560915739796570113/560915739796570119/1095123367343964190
 					-That's 5400 gp.

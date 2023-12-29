@@ -11,7 +11,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse.
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
 8	Dread Pirate 2	+6		10														Probably choosing "honorable", as eventual Fight to the Death is amazing with your Charisma.
-9	Dread Pirate 3	+7		10				Combat Reflexes for SD? Or Spring Attack? Something else?
+9	Dread Pirate 3	+7		10				Combat Reflexes for SD? Or Spring Attack? Work up to Shot On The Run? Something else?
 10	Shadowdancer 1?	+7		10														Could have it as soon as 7, if Leadership is delayed until 9.
 11	Dread Pirate 4	+8		10
 12											1
@@ -212,6 +212,9 @@ Cohort:
 	3	Wizard 3			+1		5				Fiery Burst							2 level 2
 	4	Wizard 4			+2		5													2 level 2
 	5	Gnome Illusionist 5	+2		5													2 level 3
+	6	Wizard 6			+3		5													0
+	7	Wizard 7			+3		5													2 level 3
+	?  Shadowcraft Mage 1
 	
 	-Abilities rolled:
 		15 (Dex)
@@ -221,8 +224,43 @@ Cohort:
 		15 (Con, 17 after race)
 		12 (Cha)
 	-Cohort Design Notes:
+		-Shadowcraft Mage will be amazing once you have a 4th level Shadow Spell: https://dnd.arkalseif.info/classes/shadowcraft-mage/index.html
+			-Possible to take as your 8th level.
+				-Ah, maybe only later, due to skills. Should have focused on this earlier.
+			-Oh, fuck yeah. This is worth sacricifing a lot for, and you mostly just need to spend
+			 skill points on Bluff and Hide (solid skills!) and (mostly) waste the Silent Spell you
+			 already took.
+		-Feats:
+			-Metamagic:
+				-Still Spell and Silent Spell?
+					-Silent Spell is probably the biggest deal for concealing casting: https://dndtools.net/feats/players-handbook-v35--6/silent-spell--2626/
+					-Still can be obviated by simply hiding, or using cover.
+				-Extend Spell?
+					-Solid, for a support caster and only one spell level.
+					-Mostly obviated by Gnome Illusionist, though.
+			-Reserve feats? Tempting early ones:
+				-Acidic Splatter: https://dndtools.net/feats/complete-mage--58/acidic-splatter--24/
+					-Melf's Acid Arrow obviously satisfies.
+					-Ah, range is _way_ too limiting.
+				-Fiery Burst: https://dndtools.net/feats/complete-mage--58/fiery-burst--1123/
+					-Flaming Sphere or Scorching Ray satisfy, and easy to find higher ones.
+					-This one, if any.
+				-Shadow Veil: https://dndtools.net/feats/complete-mage--58/shadow-veil--2566/
+					-Darkness qualifies, but, eh, only 20% miss chance for a round.
+			-Spell Focus (Illusion)?
+				-DCs aren't as big of a deal with illusions as other stuff, though maybe still
+				 something to _eventually_ pick up.
+			-Improved Initiative?
+				-Can't get as a bonus feat.
+				-Ah, but you're losing your 5th level bonus to Gnome Illusionist, and probably
+				 the 10 level one too.
+				-Hummingbird will also mean you've already got good initiative.
+			-Later levels:
+				-Ship's Mage: http://www.theworldofnocturne.com/dndtools/feats/stormwrack--87/ships-mage--2613/index.html
+					-Neat if we spend tons of time aboard, but not amazing for illusionists.
 		-They'll be level 4 to start, if you indeed get Leadership at 6.
 		-CN Gnome Illusionist?
+			-Good article on when you save vs. illusions: https://web.archive.org/web/20090122075217/http://www.wizards.com/default.asp?x=dnd/rg/20060221a
 			-Gnome is definitely solid for an illusionist.
 				-+1 to Illusion spell DCs.
 				-Alchemy bonus is solid for ships too, furnishing novel alchemical weapons and maybe
@@ -283,34 +321,6 @@ Cohort:
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
 				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
-			-Feats:
-				-Metamagic:
-					-Still Spell and Silent Spell?
-						-Silent Spell is probably the biggest deal for concealing casting: https://dndtools.net/feats/players-handbook-v35--6/silent-spell--2626/
-						-Still can be obviated by simply hiding, or using cover.
-					-Extend Spell?
-						-Solid, for a support caster and only one spell level.
-						-Mostly obviated by Gnome Illusionist, though.
-				-Reserve feats? Tempting early ones:
-					-Acidic Splatter: https://dndtools.net/feats/complete-mage--58/acidic-splatter--24/
-						-Melf's Acid Arrow obviously satisfies.
-						-Ah, range is _way_ too limiting.
-					-Fiery Burst: https://dndtools.net/feats/complete-mage--58/fiery-burst--1123/
-						-Flaming Sphere or Scorching Ray satisfy, and easy to find higher ones.
-						-This one, if any.
-					-Shadow Veil: https://dndtools.net/feats/complete-mage--58/shadow-veil--2566/
-						-Darkness qualifies, but, eh, only 20% miss chance for a round.
-				-Spell Focus (Illusion)?
-					-DCs aren't as bit of a deal with illusions as other stuff, though maybe still
-					 something to _eventually_ pick up.
-				-Improved Initiative?
-					-Can't get as a bonus feat.
-					-Ah, but you're losing your 5h level bonus to Gnome Illusionist, and probably
-					 the 10 level one too.
-					-Hummingbird will also mean you've already got good initiative.
-				-Later levels:
-					-Ship's Mage: http://www.theworldofnocturne.com/dndtools/feats/stormwrack--87/ships-mage--2613/index.html
-						-Neat if we spend tons of time aboard, but not amazing for illusionists.
 			-Gear:
 				-Will start with expected character wealth for level: https://discord.com/channels/560915739796570113/560915739796570119/1095123367343964190
 					-That's 5400 gp.

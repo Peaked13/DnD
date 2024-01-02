@@ -6165,14 +6165,48 @@ TODO:
 	-More followers?
 		-I did a bunch of talking with now-displaced people in the city about the wonders of the
 		 air life.
-		-Perhaps elementals now? Building a new ship, I can no longer claim as easily that _I_
-		 didn't have anything to do with binding them to _this_ one.
-		-Asked if the cloak will be completed here: https://discord.com/channels/560915739796570113/1027415547278794782/1189981568626868285
-			-It's finished!
 		-Does my self-promotion during downtime qualify for Leadership bonuses?
 			-"Great renown +2", or even "Special power +1": https://www.dandwiki.com/wiki/SRD:Leadership
 				-"So then I kills the demon. With my brain! His head fuckin' exploded!"
 			-Asked about it here: https://discord.com/channels/560915739796570113/1190044737026134098/1190081918746775652
+				-Yep, I have Great Renown, but not Special Power: https://discord.com/channels/560915739796570113/1190044737026134098/1190806988930678795
+		-Perhaps elementals now? Building a new ship, I can no longer claim as easily that _I_
+		 didn't have anything to do with binding them to _this_ one.
+			-Sent Jake this, discussing flavor stuff and rulings both: https://discord.com/channels/560915739796570113/1190044737026134098/1190548817230184458
+				More follower questions, @.dmjake, for whenever you have a chance!
+				It seems that, with this level and with the destruction of the original ship, it's time for me to figure out air elementals. I figure that Fred keeps telling himself, and starts telling the air elementals, that _he_ wasn't the one who bound this elemental to the ship. It was The Brotherhood! And that jerk Edric really dicked _Fred_ over too. . .
+				But! That does rather fall apart if he builds a _new_ ship and has them or new elementals bound for his new ship. So, it's probably time to renegotiate the deal with them now.
+				Basically, I want Fred to sell them on a bit of a shared enemy/problem (Edric), a shared goal (freedom), and also play to their pride ("What is a wind without something to blow? And what could be cooler than blowing a sick fuckin' pirate ship through the skies?!? You could be _pirate_ elementals. . ."). His aim is to recruit them as crew, rather than bind them as an engine. He sympathizes with their plight ("Hey, you're kind of like me! I _love_me!") and also figures a free elementals are likely to do a better job with the ship (he knows all about doing the bare minimum you can get away with).
+				To do that, though, we need to do some house ruling. Small Air Elementals intelligent creatures with two hit dice, but they don't have a printed level adjustment and probably deserve a point or two of it. As far as what followers I can have right now, you mentioned Squee  always counts as my highest level slot, so I can have 1 level 3 follower slot free and 3 level 2 ones that might work for the elementals. If I have at least the Great Renown bonus mentioned in the comment I replied to, then I could have an extra of each level.
+				_Are_ the elementals powering the ship small? Is there one, or several?
+			-6 small ones power the ship: https://discord.com/channels/560915739796570113/1190044737026134098/1190806279749378129
+			-We'll treat their HD as their ECL: https://discord.com/channels/560915739796570113/1190044737026134098/1190807250554585279
+			-So, Fred can only have 4 level 2 followers. . . but does have room for another 2 level
+			 _3_ ones.
+				-So, this can be made to work!
+				-Can I give two of them _level_ then? Maybe personally train them as pirates?
+				-Asked about it here: https://discord.com/channels/560915739796570113/1190044737026134098/1191127164997861376
+			-Customize the new ship to suit them?
+				-Comfort and the like, but also maybe a way to safely land it, so they can leave it?
+		-Asked if the cloak will be completed here: https://discord.com/channels/560915739796570113/1027415547278794782/1189981568626868285
+			-It's finished!
+		-What about those gnome mimes? Are they level 1?
+			-Yep, level 1!
+			-If so, what class? Bard? Expert?
+				-If bards, Gnome Bard varient is good: https://srd.dndtools.org/srd/classes/baseCore/bard.html#gnome-bard
+				-75% experts, 25% PC classes (bard will be my choice): https://discord.com/channels/560915739796570113/1190044737026134098/1190809555085557770
+			-Asked about them here: https://discord.com/channels/560915739796570113/1190044737026134098/1190552221696405514
+			-Attractive feats:
+				-Extra Music (for the Bards): https://dnd.arkalseif.info/feats/eberron-campaign-setting--12/extra-music--1025/index.html
+				-Jack of All Trades (for the Experts): https://dnd.arkalseif.info/feats/complete-adventurer--54/jack-of-all-trades--1695/index.html
+		-Some of these followers potentially have interesting gear. . .
+			-The gnomes have one or more wagons.
+			-Then there's the goblin airship.
+				-Shit, does it pose air elemental relations issues?
+			-Probably need to start writing this kind of thing down in it's own spot.
+				-"Gear Elsewhere" or the like, with standard location-name-and-contents format
+				-In fact, should write down out main airships attributes somewhere too, with it's 
+				 20k value.
 	-Talk to Jake about income gained during downtime:
 		-Brief discussion of the subject here: https://discord.com/channels/560915739796570113/1027415547278794782/1190043459864756395
 		-We have a year of downtime, picking back up at next Founding Day.
@@ -6180,23 +6214,13 @@ TODO:
 		-Definitely spend lots of time promoting your own reputation, and helping the others bask
 		 in your reflected glory.
 		-Shopping?
+			-Basic protective items?
 		-Alchemy (beyond the smoke powder)?
+			-Fire and acid?
+			-In particular, for use by followers, aboard ship, etc.
 
 
 TODO:
-	-Buy more spells for Grimble!
-		-Shit, they're not only expensive, but crazy time consuming to copy: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
-		-Also a nasty Spellcraft check.
-		-Confirmed an emporium in Sasserine has everything I want, so now I just need time.
-		-(DONE!) Hmm. . . Can Grimble borrow that time acceleration item?
-			-The Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
-				-Hmm. . . there's potentially other consequences. Grimble used it for Fireball, had
-				 to make a Will save, and, though he rolled excellently, he still flickered in and
-				 out of existence, saw second long snapshots of other planes. Hate to think what
-				 might have happened had he failed. . .
-				-Ah, I think Jade and Maya gave it away to Zyrastra (grumble): https://discord.com/channels/560915739796570113/560915739796570119/1179609124766498876
-		-Also, anything we can do to buff his Spellcraft?
-			-Eh, needing it for 24 hours makes that tough without using an item.
 	-Finish cannon refurbishment, given that incoming bone fortress.
 		-They'd be great for use with followers!
 			-At 100 gp. per shot (1/3 that, if crafted), in powder cost alone, that's pretty
@@ -6322,6 +6346,19 @@ TODO:
 
 
 TODONE:
+	-(DONE!) Buy more spells for Grimble!
+		-Shit, they're not only expensive, but crazy time consuming to copy: https://www.d20srd.org/srd/magicOverview/arcaneSpells.htm
+		-Also a nasty Spellcraft check.
+		-Confirmed an emporium in Sasserine has everything I want, so now I just need time.
+		-(DONE!) Hmm. . . Can Grimble borrow that time acceleration item?
+			-The Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
+				-Hmm. . . there's potentially other consequences. Grimble used it for Fireball, had
+				 to make a Will save, and, though he rolled excellently, he still flickered in and
+				 out of existence, saw second long snapshots of other planes. Hate to think what
+				 might have happened had he failed. . .
+				-Ah, I think Jade and Maya gave it away to Zyrastra (grumble): https://discord.com/channels/560915739796570113/560915739796570119/1179609124766498876
+		-Also, anything we can do to buff his Spellcraft?
+			-Eh, needing it for 24 hours makes that tough without using an item.
 	-Maybe get some arrows of other materials?
 		-Definitely silver, given the Shapers.
 	-Upgrade to a longbow. Marshal gave you the proficiency.

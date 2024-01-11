@@ -31,6 +31,8 @@ Active Permanent Spells:
 
 Skill Tricks Known:
 	Dwarven Dance: DC 25 Perform(Dance) check to negate 10 ft. of rough terrain underground.
+	Harmonic Shot: DC 30 Perform check and no move during the turn to give a ranged attack sonic
+	               type, yours or others.
 
 Advancement:
 	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html

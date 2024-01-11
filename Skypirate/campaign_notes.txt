@@ -5929,8 +5929,8 @@ TODO:
 				 Ah for these last two messages: Raspberry Cupkake!!"
 				"We will do our very best to destroy the Pearl through the portal-thing and hope
 				 the Dragon will lose interest in you. Raspberry Cupcacke"
-				"If all looks bleak for you and Sassarine, tell it about us, maybe it will be more
-				 interested in us and ignore Sassarine. raspberry cupcake!"
+				"If all looks bleak for you and Sasserine, tell it about us, maybe it will be more
+				 interested in us and ignore Sasserine. raspberry cupcake!"
 				"Fredrick wants you to wait with this, but dont. Your life and the citizens are
 				 more important than our lives Rasperry Cupcake. Love you....always."
 			-Some scowling from me ensued when I returned and read that last bit she had written,
@@ -5964,7 +5964,7 @@ TODO:
 	 city. In the cavity  formed in the water, I could see tentacles emerging from it. . .
 		-That warranted another book-message from Maya:
 			"There are tentacles coming up from the water outside the city and there is a tsumami
-			 wave coming towards you. Cover your self."
+			 wave coming towards you. Cover yourself."
 		-And an alarming response:
 			"You have a demogorgon coming for you."
 		-Or, as Maya keeps referring to it, "Gummy Bear"
@@ -5972,7 +5972,7 @@ TODO:
 			 of demons.
 		-Sure enough, Maya looked again through the glass and saw a two-headed, tentacled ape-demon
 		 racing through the air towards us, though Jade doubted it was Demogorgon _itself_, saying,
-		 "I doubt the demon prince himself is actually here. Probably an avatar. . . though that's"
+		 "I doubt the demon prince himself is actually here. Probably an avatar. . . though that's
 		  plenty bad."
 		-That prompted some scrambling.
 			-We had Pook swallow the pearl again, which did indeed seem to cause the demon to
@@ -5995,7 +5995,7 @@ TODO:
 		-The ship didn't seem to be taking on water, but also wasn't really meant to maneuver in it.
 		-Nonetheless, I attempted to improvise, shouting to those still aboard to, "Reef the lower
 		  sails, and angle the mainsail starboard, to catch the breeze!"
-		-They attempted to comply, with D'Roc's tremendous strength going a long ways, as he
+		-They attempted to comply, with D'Roc's tremendous strength going a long ways as he
 		 descended below decks to pull on the now-disconnected spars controlling some of the lower
 		 sails.
 		-Between us, we got the ship about 50 feet out from the island, before something snapped and
@@ -6024,11 +6024,11 @@ TODO:
 		-Jade claimed we needed to toss the pearl through the portal, and we began whispered
 		 discussion of how to accomplish that.
 		-It was interrupted by a thud from behind us.
-			-Something hitting the temple's door. Something enormous.
+			-Something hitting the temple's door. Something enormous. . .
 		-A moment later, two tentacles smashed through the doors and I started running.
-		-Hero that I am, I drew my bow as I did it and loosed an arrow behind me. It pierced one of
+		-Hero that I am, I drew my bow as I did so and loosed an arrow behind me. It pierced one of
 		 the tentacles through the center of it's mass and that one withdrew with a sharp jerk.
-		-Sarge ran _towards_ them, (bravely, but unwisely) hurling spells.
+		-Sarge ran _towards_ them, bravely (but unwisely) hurling spells.
 		-Bruce, Grimble, and Pook, though, more prudently ran forward into the tunnel.
 		-Grimble, clearly looking to facilitate that, conjured a garguntuan gold dragon, barely
 		 small enough to squeeze down the corridor, which he made run down the corridor, roaring
@@ -6042,8 +6042,8 @@ TODO:
 		 the wall.
 			-Past the (illusion of a) dragon and at the end of the corridor, I could see some kind
 			 of winged creature in a cage, being tormented by a swarm of locusts.
-		-As the others caught up with me, a demon of sime kind emerged from a doorway on the left
-		 of the corridor I was looking down. . . and begin the "fight" the illusory dragon.
+		-As the others caught up with me, a demon of some kind emerged from a doorway on the left
+		 of the corridor I was looking down. . . and began to "fight" the illusory dragon.
 		-Motion down the corridor I came from _also_ then caught my eye. D'Roc was charging at
 		 Grimble and I!
 			-He had a crazy look in his eyes, and seemed to struggle with himself, but kept his
@@ -6089,7 +6089,7 @@ TODO:
 		-"You guys made it!" I cried out, ". . . Along with. . . are those more demons?"
 		 "No, my child," a. . . voice in my head said, "I was their prisoner, and you saved me."
 		 "Oh. Well, that's good, then."
-		-Maya then made an entriety, asking the rescued prisoner for help in saving her city of
+		-Maya then made an entreaty, asking the rescued prisoner for help in saving her city of
 		 Sasserine.
 		-They said they'd be honored to help, and so we fell to discussing the logistics of that.
 			-As the disembodied voice (the winged serpent, I think?) rightfully pointed out, _some_
@@ -6156,7 +6156,9 @@ TODO:
 			-After the first day or three of binge drinking I. . . well, I kept drinking, but did
 			 a lot of talking with the various members of the city's populace.
 				-I talked up the air-sailing lifestyle, and the wonders of my own adventures.
-			-TODO: airship more or less total loss; salvaged; Jade built new one
+			-My airship, though, was a more or less total loss.
+				-We salvaged what we could of it and, with all the set aside funds in the ship's
+				 account, plus some more out of our own pockets, we set Jade to building a new one.
 
 
 TODO:
@@ -6186,8 +6188,10 @@ TODO:
 				-So, this can be made to work!
 				-Can I give two of them _level_ then? Maybe personally train them as pirates?
 				-Asked about it here: https://discord.com/channels/560915739796570113/1190044737026134098/1191127164997861376
+					-Yep! Talked about it in session!
 			-Customize the new ship to suit them?
 				-Comfort and the like, but also maybe a way to safely land it, so they can leave it?
+				-Proposed it here: https://discord.com/channels/560915739796570113/1190044737026134098/1194046884872999072
 		-Asked if the cloak will be completed here: https://discord.com/channels/560915739796570113/1027415547278794782/1189981568626868285
 			-It's finished!
 		-What about those gnome mimes? Are they level 1?
@@ -6196,6 +6200,7 @@ TODO:
 				-If bards, Gnome Bard varient is good: https://srd.dndtools.org/srd/classes/baseCore/bard.html#gnome-bard
 				-75% experts, 25% PC classes (bard will be my choice): https://discord.com/channels/560915739796570113/1190044737026134098/1190809555085557770
 			-Asked about them here: https://discord.com/channels/560915739796570113/1190044737026134098/1190552221696405514
+				-They indeed get the standard 15, 14, 13, 12, 10, and 8 array discussed on DMG pg. 169. 
 			-Attractive feats:
 				-Extra Music (for the Bards): https://dnd.arkalseif.info/feats/eberron-campaign-setting--12/extra-music--1025/index.html
 				-Jack of All Trades (for the Experts): https://dnd.arkalseif.info/feats/complete-adventurer--54/jack-of-all-trades--1695/index.html
@@ -6205,11 +6210,13 @@ TODO:
 				-Shit, does it pose air elemental relations issues?
 			-Probably need to start writing this kind of thing down in it's own spot.
 				-"Gear Elsewhere" or the like, with standard location-name-and-contents format
-				-In fact, should write down out main airships attributes somewhere too, with it's 
+				-In fact, should write down out main airship's attributes somewhere too, with it's 
 				 20k value.
 	-Talk to Jake about income gained during downtime:
 		-Brief discussion of the subject here: https://discord.com/channels/560915739796570113/1027415547278794782/1190043459864756395
 		-We have a year of downtime, picking back up at next Founding Day.
+		-Perform actually could produce a substantial amount of gold for you: https://www.d20srd.org/srd/skills/perform.htm
+			-Almost certainly more than profession.
 	-Other downtime stuff?
 		-Definitely spend lots of time promoting your own reputation, and helping the others bask
 		 in your reflected glory.
@@ -6218,6 +6225,68 @@ TODO:
 		-Alchemy (beyond the smoke powder)?
 			-Fire and acid?
 			-In particular, for use by followers, aboard ship, etc.
+
+
+1/10/23: A brief session, handling some of the details of our long downtime.
+	-I helped Jade negotiate some deals for a magic shop she set up during our year in Sasserine.
+		-She also did some humanitarian activities along the way, especially in the days following
+		 the dragon attack, crafting magic items to help, like a decanter providing endless fresh
+		 water.
+		-She also put together a magic lute that builds stuff, which Maya put to good (and good
+		 sounding) use.
+		-And, of course, she put together our new ship, even making some improvements for
+		 _cooperative_ elementals crewing it.
+			-Fantasy Grounds now has some Airship maps, with a fancy interior.
+	-Sarge left Sasserine for much of the year, in search of further arcane learning.
+		-He came back with tales of not _too_ distant locales, like Glyphstone Keep, the city of
+		 Wroat with it's many magical wonders, and the volcano he visited.
+	-D'Roc, on the other hand, hung around Sasserine. Between his prodigious strength and,
+	 apparently, some carpentry experience, he was a lot of help with rebuilding the city.
+		-I also heard him and Maya discussing the mystery of his origins, with her helping him do
+		 some research on the subject.
+		-He did a bit of a field trip for that too, going off alone into the wilds outside the city.
+			-He came back calm and confident.
+	-Maya, meanwhile, busied herself with politics.
+		-The Dawn Council's power, in the wake of this disaster, had really waned. She spent a lot
+		 of time pushing for changes to the city's government, with an eye to more of a voice for
+		 the city's common people.
+	-As for myself. . .
+		-The city's party scene was something of a disappointment for the first few months after
+		 the attack.
+		-Nonetheless, where no party is to be found, I can create one, and I set about doing (a lot
+		 of) just that!
+		-During the day, though, most of the city busied itself with rebuilding, a process I watched
+		 a lot of when I was awake for it.
+		-While roaming one of the construction sites, I spotted the one, the only Party Lizard,
+		 carrying lumber.
+			-"Party Lizard!" I called out. "How have you been?!?"
+			 "Fred! I've been good. These elves I'm here with are really chill."
+			 "You'll have to introduce me! Let me find some wine. . ."
+			 "Ah," he replied, "What I could really go for is some of those sausages. . . Do you
+			  remember?"
+			 "Oh yeah! What was that bar. . . Oh! The Lusty Leper!"
+			 "Yeah, that place was great! I wonder if it's still standing. . . Well, there's one fun
+			  way to find out!"
+		-We sought out our old stomping grounds and found the Lusty Leper still intact.
+			-It had a picture of a cat on it's sign, though, for some reason. . .
+			-Bursting through the front door, I found the place dead and depressing, but immediately
+			 called out, "Look who I found! It's the party lizard!"
+			 "Woah!" the barkeep exclaimed. "I love that guy!"
+			-There was a bard in one corner playing a desultory tune, but I turned to Grimble,
+			 saying, "Fetch your kin! We need some more entertainment!"
+			-He returned less than a wine bottle, a dozen or so gnomes in tow. I spotted one
+			 carrying a lute and I called to him, "Hey! Play something with a fast tempo! Dance
+			 music!"
+			-When the gnome complied, I turned to Party Lizard, saying, "Come on, lets get the
+			 dancing started!"
+			-Soon, the bar was crowded. There were gnomes swinging from the chandelier and Party
+			 Lizard had one in each of his saddle-bag-like things he'd taken to wearing.
+			-By the end, I'd had a great time, and even figured out a new trick (Harmonic Shot).
+	-TODO: Skye? Lesley is indeed putting a new character together. . .
+
+
+TODO:
+	-Stat out elementals rogues an gnomes, from last set of todos above.
 
 
 TODO:

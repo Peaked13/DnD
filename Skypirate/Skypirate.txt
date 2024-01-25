@@ -11,7 +11,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse.
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
 8	Dread Pirate 2	+6		10														Probably choosing "honorable", as eventual Fight to the Death is amazing with your Charisma.
-9	Dread Pirate 3	+7		10				Combat Reflexes for SD? Or Spring Attack? Work up to Shot On The Run? Something else?
+9	Dread Pirate 3	+7		10				Combat Reflexes for SD? Craven? Or Spring Attack? Work up to Shot On The Run? Something else?
 10	Shadowdancer 1?	+7		10														Could have it as soon as 7, if Leadership is delayed until 9.
 11	Dread Pirate 4	+8		10
 12											1

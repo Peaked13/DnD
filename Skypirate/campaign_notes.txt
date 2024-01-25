@@ -6167,12 +6167,12 @@ TODO:
 	-More followers?
 		-I did a bunch of talking with now-displaced people in the city about the wonders of the
 		 air life.
-		-Does my self-promotion during downtime qualify for Leadership bonuses?
+		-(DONE!) Does my self-promotion during downtime qualify for Leadership bonuses?
 			-"Great renown +2", or even "Special power +1": https://www.dandwiki.com/wiki/SRD:Leadership
 				-"So then I kills the demon. With my brain! His head fuckin' exploded!"
 			-Asked about it here: https://discord.com/channels/560915739796570113/1190044737026134098/1190081918746775652
 				-Yep, I have Great Renown, but not Special Power: https://discord.com/channels/560915739796570113/1190044737026134098/1190806988930678795
-		-Perhaps elementals now? Building a new ship, I can no longer claim as easily that _I_
+		-(DONE!) Perhaps elementals now? Building a new ship, I can no longer claim as easily that _I_
 		 didn't have anything to do with binding them to _this_ one.
 			-Sent Jake this, discussing flavor stuff and rulings both: https://discord.com/channels/560915739796570113/1190044737026134098/1190548817230184458
 				More follower questions, @.dmjake, for whenever you have a chance!
@@ -6188,13 +6188,22 @@ TODO:
 				-So, this can be made to work!
 				-Can I give two of them _level_ then? Maybe personally train them as pirates?
 				-Asked about it here: https://discord.com/channels/560915739796570113/1190044737026134098/1191127164997861376
-					-Yep! Talked about it in session!
+				-Yep! Talked about it in session! Giving two of them a rogue level.
+					-Feat?
+						-Dodge is what they'd get for more elemental HD, and probably wise otherwise too.
+					-Oh! Cutlasses or scimitars are flavorful, but reach could be _amazing_ with 
+					 Flyby Attack!
+						-Oh, no scimitar proficiency for rogues. Not sure where to find a cutlass.
+							-Looked up a cutlass and it's basically a shortsword.
+					-Lets do a rapier, because of Finesse, and consider keeping longspears about.
+					-5 skillpoints to spend.
+						-Tumble! Profession(Sailor)!
 			-Customize the new ship to suit them?
 				-Comfort and the like, but also maybe a way to safely land it, so they can leave it?
 				-Proposed it here: https://discord.com/channels/560915739796570113/1190044737026134098/1194046884872999072
-		-Asked if the cloak will be completed here: https://discord.com/channels/560915739796570113/1027415547278794782/1189981568626868285
+		-(DONE!) Asked if the cloak will be completed here: https://discord.com/channels/560915739796570113/1027415547278794782/1189981568626868285
 			-It's finished!
-		-What about those gnome mimes? Are they level 1?
+		-(DONE!) What about those gnome mimes? Are they level 1?
 			-Yep, level 1!
 			-If so, what class? Bard? Expert?
 				-If bards, Gnome Bard varient is good: https://srd.dndtools.org/srd/classes/baseCore/bard.html#gnome-bard
@@ -6286,7 +6295,198 @@ TODO:
 
 
 TODO:
-	-Stat out elementals rogues an gnomes, from last set of todos above.
+	-(DONE!) Stat out elementals rogues and gnomes, from last set of todos above.
+	-Fanaticize the party? Followers too?
+		-Well, how does repeating this work? Possibly a Jake question.
+		-Maybe a lavish Founders Day Party Party?
+			-I put feelers out: https://discord.com/channels/560915739796570113/1190044737026134098/1198097668459733012
+		-Invite the party lizard!
+
+
+1/24/23:
+	-In the lead up to Founders Day, and a party I planned to host for it, I heard a voice in my
+	 head: https://discord.com/channels/560915739796570113/560915739796570119/1199512833583493180
+		-"A chosen of mystra said I should rendevous with all of you to return the piece of mt.
+		  celestia's 6th layer from whence it came. I will meet you on your ship or in Jade's
+		  emporium, what is your preference? Sorry if this is presumptive, I learned long ago not
+		  to question the word of mystical oracles conveniently delivering quests... Oh, I'm Lucien.
+		  You'll know me when you see me." 
+		-Since it sounded like I could respond, I said aloud, "Disembodied voice, eh? No worries;
+		 we get _tons_ of those. And, yeah, I _did_ once trade some river ham to someone claiming
+		 Mystra chose her. For some magic eyeballs! Never been to any celestial mountain, and don't
+		 much care for layers, but, fuck it, we're having a Founder's Day party. Swing by then and
+		 we can talk about it! I'm still sorting the location, but, sure, Jade can collect you form
+		 her shop Bring liquor!."
+		-(We're introducing a new player, and it sounds like Lesley is bowing out.)
+	-I rented the Lusty Leper for my party, and arranged food and booze through them.
+		-It was a lavish banquet, attended by the the party lizard, the party, and our various
+		 hangers-on, and I wasted no time getting it started the moment I arrived at the bar.
+		-The rest trickled in over time, with Jade and D'Roc arriving with a stranger: a man with
+		 white hair. . . and red horns.
+			-Well, I suppose D'Roc has a pair too. . .
+		-The stranger _did_ have welcome gifts: a bottle of black liquor and cupcakes.
+		-The trio were greeted by another trio, this one of gnome mimes.
+			-The gnomes, in their mismatched theatrical garb mimed astonishement at their arrival,
+			 and then began to perform cartwheels around them.
+			-They were no mere entertainment, though, but guests themselves, as one made clear by
+			 grabbing the stranger's liquor bottle and running off with it.
+			-The gnome uncorked it as he ran, then took a swig.
+			-It was evidently strong, as the gnome near-instantly began to stumble. . . right into
+			 one of the air elementals whose buffeting winds hurled the gnome across the room.
+				-Fortunately one of his fellows was near at hand, caught the bottle, and ran off
+				 while holding it high over his head.
+			-I was busy stacking gnomes on the party lizard, but the flying gnome caught my
+			 attention (and ruined my high score attempt in a gnomish avalanche).
+			-Turning and seeing the new arrivals and, perhaps more importantly, the fancy looking
+			 bottle of one of the mimes was holding overhead, Fred called out, yelling, "Buddy!
+			 Bring me that bottle!"
+			-The gnome delivered, and I started drinking (this, instead of the wine bottle in my
+			 other hand).
+				-The black liquor was. . . intense, and strong.
+		-The horned man followed his bottle over, and began, "An oracle, chosen by Mystra said you
+		 could. . ."
+		 "Oh! You're the voice in my head!" I broke in.
+		 ". . . I'm Lucien. I was asked to return a piece of Mount Celestia to where it came from,
+		  and was told you'd seen something in the dwarven city of Sharaar Kol."
+		  "Yeah. . . come to think of it. . . Sarge! When we found that river ham. . . I do recall
+		  things went weird. We were suddenly on a mountainside. . ."
+		-Jade then called for our attention, shouting, "Guys? Guys! It's gotten really quiet
+		 outside. . ."
+		 "You need more music, you're saying?" I slurred, but our horned stranger drew his blade.
+		-Jade, Maya, and the stranger all went to the window next to the door, peering out through
+		 it's curtains. Jade then turned back to the room, and simply said, "Demons."
+		 "My family. . ." the stranger added.
+		-Two imps then came crashing through the window, swiping at Jade, and things became chaotic.
+		-Bruce conjured a snowstorm outside as the party rushed to the windows and began battling
+		 the winged demons that were pouring in.
+		-Soon, the little demons were joined by a winged woman, one who looked to be at least half
+		 a demon herself.
+		-"Oh dear Lucien. . ." the woman began.
+		 "Oh. Hello," the horned stranger replied.
+		 "Your friends don't seem to know how to welcome one such as I properly. . . 
+		-His response was to stab her with his sword, eliciting a wince from her, and then an attack
+		 with a blade of her own. Soon, the two of them were trading blows, with some punches from
+		 Sarge in the mix (he having turned his fist to stone somehow).
+			-One such stoney swing went wild, smashing a nearby door off it's hinges.
+		-The party lizard, meanwhile was snapping at one of the imps, as it tried to stab him with
+		 it's tail.
+		-I loosed an arrow at one of the imps in a shattered window as I darted for cover behind
+		 the bar.
+		-Finally, things calmed down as the the party lizard got his imp (it was now hanging limp
+		 from his jaws, much like a hunting dog with a bird) and Lucien diced the demon-woman to
+		 bloody pieces.
+		-"Good bye, sister," he said.
+		-While I had another cupcake, Lucien (apparently) began kicking through the bloody remains
+		 of what was apparently what was once his sister.
+			-Jade eventually joined him in that, muttering something about auras as she looked
+			 through her magic monocle.
+			-Out of the bloody mess, they pulled a note and a large red gem.
+			-While Jade muttered something about astral projection and the gems use therein, Lucien
+			 simply said, "See you soon, sister." Sounds like the matter isn't settled. . .
+		-With everyone standing around, surveying the mess, I felt my intervention was needed. I
+		 clambered up onto the bar and called for the attention of those there.
+		 "Friends!" I called out. "Are we going to let _this_ stop us? This city has been good to
+		  us! It even loved me so well as to put up all those posters with my face on them! And this
+		  day, this is Founders Day! A celebration of the city. . . So lets celebrate!"
+			-(I rolled a 53 on Diplomacy. . .)
+		-Soon, we were back to it, with gusto! I seemed to have really riled the crowd up.
+			-With the bars doors smashed, the public was also streaming in, making it truely crowded.
+		-The troupe of gnomes launched into a fast, heavy number, and Lucien even climbed up onto
+		 the stage and began singing in a raspy voice as the crowd began to mosh.
+		-The barkeep soon came downstairs, shouting, "What's going on here?"
+		-In response, the crowd _roared_ back.
+		-"Uh, sure, carry on. . ." the barkeep said. "Just, uh, fix those doors, maybe?"
+		 "Get more booze!" I called to him. "I think we've got even more coming in!"
+		 "It _is_ more crowded than it's been. . . ever. Uh, sure, let me see what I can do," the
+		 barkeep said, as he continued past me to the cellar.
+		-Maya did, though indulge his request and the spirit of the party both, pulling out her
+		 Lute of Building, effecting repairs and adding to the music both!
+		-As I stood on the bar, calling encouragement to the musicians, I overheard Jade strike up
+		 a conversation with Lucien.
+			-"You wouldn't happen to know of any diamond deposits, by any chance?" she asked.
+			 "Diamonds? Why this in particular?" Lucien replied. "Does someone require
+			  resurrection?"
+			 "Well, that part's taken care of," Jade answered. "But we promised we'd help them
+			  replace the diamonds."
+			-Lucien looked thoughtful for a moment, and then said, "I've heard tales of a diamond
+			  mine given over to the force of good, in a long ago pact. . ."
+			-This rang an unwelcome bell for me. I'd heard such tales too. . . back in the creche.
+			 Tales of _The Brotherhood's_ pact that secured a great diamond mine on a distant plane,
+			 but also saw the opening of portals to The Hells, and a "Demiplane of Gloaming". . .
+			-I felt I needed to break in, saying, "I've heard of the place, a place of hell and
+			 gloaming. I'd suggest steering clear of The Brotherhood and its works. It's best. . .
+			 for everyone."
+			-Jade had not been taking my advice and, looking uncomfortable, she pulled out her orb,
+			 saying, "Uh. . ."
+				-Ugh. I'd half managed to forget the thing existed. . .
+			-I grimaced, and looked back to the party and the stage, but Jade explained to Lucien
+			 that the thing was tied to The Brotherhood, a circle of ascended gods, and that it
+			 could work strange powers when keys to The Brotherhood's planes were inserted into
+			 it.
+			-I began drinking harder. . .
+	-Eventually, it came time for sleep.
+		-Most, perhaps all, of us took rooms above the bar.
+		-When I awoke, there was still a good sized mob of people waiting for me, some immediately
+ 		 outside my door, and others downstairs. The moment I emerged from my room, one asked me,
+		 "Where's the next party?" bringing a smile to my face, despite the hangover.
+			-I'd clearly made quite the impression last night.
+		-That smile clearly delighted several women among them, one of whome said, "Ohhh! Fred is
+		 _so_ dreamy. . ."
+		 "I know baby. I love me too," I replied
+		-Making my way down to the bar below, I saw several of my fellows well into breakfast
+		 already.
+		-I poured myself a smallbeer and sat down with them, inquring with the staff about some
+		 food.
+		-Then, as I waited for some food, I turned to the fawning crowd around me and said, "I
+		  think the next party is in Sharaar Kol! You wouldn't expect it, but those dwarves can
+		  dance. Let's liven up those dwarven halls. . "
+		 "Oh! Can you take us with you Fred?" someone in the crowd called out.
+		 Another shouted, "Is there room?"
+		-Lucien muttered something about having spent 40 gold on an airship passage, sparking a
+		 discussion amongst the party.
+		-I thought we could probably fit as many aboard the ship as fit in the bar, for at least
+		 a little while.
+		-Soon, we had paying passengers. 57 of them, in fact, each paying 100 gp. a head for the
+		 party cruise!
+	-Soon, we were leading an increasingly drunk (again) mob back to the airship.
+		-There Rusty greeted us.
+		-"Rusty! Buddy!" I said. "How's my ship?"
+		 "All is well," he intoned. "It's a very fine ship. Though, I confess, I sometimes miss
+		  the old one. . ."
+		 "Naaaah. This is a much better ship," I said. "I like better where it came from."
+		 "The old one was as gift, was it not?" Rusty asked.
+		 "Gifts can be poisoned, buddy. . ."
+		 "That I know."
+	-During the voyage, Lucien called Sarge, D'Roc, and I over, offering a glass of "Abyssal
+	 Temptation, as he named the remainder of his black liquor.
+		-As we drank, he asked each of us about ourselves.
+		-"Well," I began. "I came from a place far, far away. It's terrible. Never go there. But,
+		  then I came to Sasserine, and quickly became it's most famous sometimes-denizen. They
+		  love me! They were putting up pictures of me all over town, inviting me to all the best
+		  funerals. . . It's been great!"
+		-Sarge then began to talk of his origins in Stormreach, while I downed my glass all at once
+		 and then interrupted, asking Lucien, "Got any more?"
+		-That was the point, though, that I noticed the crystalline constructs on my shoulders, one
+		 horror on each. . .
+			-"Get them off!" I yelled, swatting at my shoulders and eliciting confused looks from
+			 the others.
+				-It did no good, though, as the ectoplasmic constructs grew _hooks_, and dug into
+				 my shoulders.
+			-Sarge finished his own drink as he stared. . . and was soon joining me in looking at
+			 his shoulders in horror.
+			-I eventually fumbled my rapier free of it's sheath, muttering, ". . . have to. . . cut
+			  them out. . ."
+			-That's when people started towards me, but not before I stabbed myself in the shoulder.
+			-Someone took the rapier from me and Lucien approached me, trying to. . . mean-mug one
+			 of the constructs?
+			-I grabbed him by the shoulders, shouting, "You fool! Constructs don't know feeaaar!"
+			-I then fell down.
+			-After a bit, the constructs and whatever plagued Sarge, faded. I presume them to have
+			 been the effects of this vile liquor.
+			-Still, though. Even after the constructs were gone, I felt like I was being watched.
+				-Ugh.
+				-"Have any more of that?" I asked Lucien.
+				 ". . . we can get more."
 
 
 TODO:
@@ -6324,6 +6524,7 @@ TODO:
 				+6: 7200 gp., 288 XP
 			-Light reading suggests that Psi-Like abilities are no different then normal manifesting
 			 when it comes to dispensing with displays: https://www.d20srd.org/srd/psionic/psionicPowersOverview.htm
+		-A Stone of Good Luck at 20k will be a big deal for you eventually.
 	-More dance numbers.
 	-Recruiting followers!
 		-You're keeping track of them in a Followers tab on the spreadsheet.

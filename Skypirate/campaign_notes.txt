@@ -23,7 +23,7 @@
 		-The city seems to be mostly human.
 		-Ruins were frequently in evidence, broken bridges and the like, that seemed to indicate the
 		 city had been rebuilt several times.
-	-In paying the docking fee, we also heard about a job oppotunity, a lady offering work, and
+	-In paying the docking fee, we also heard about a job opportunity, a lady offering work, and
 	 requesting candidates meet her at her estate tomorrow evening.
 	-In the meantime, we found a tavern, The Drunken Bear.
 		-Talking with the barkeep, we learned more about Lavinia. Apparently she'd lost her family
@@ -2808,7 +2808,7 @@ TODO:
 		 the lead.
 		-We found no more drow, but Sarge reported that he heard noises coming from a dark pit just
 		 past the chokepoint.
-		-To-Cao and I evidentally had the same idea, as he tossed Sarge a bottle of lamp oil and
+		-To-Cao and I evidently had the same idea, as he tossed Sarge a bottle of lamp oil and
 		 stated simply, "Flame."
 			-"Yeah," I added. "Got any more of that hot sauce?"
 		-He reacted with a smile, and began to pour the lamp oil down the hole.
@@ -6489,6 +6489,267 @@ TODO:
 				 ". . . we can get more."
 
 
+1/29/24:
+	-The parties (adventuring and dance) continued on through the skies.
+		-A. . . couple(?) days (the boundries between them were quite fuzzy) into the journy, we
+		 crossed the coast and were over land. Soon, the mountains were in sight, and we'd be at
+		 Sharaar Kol in a day and half.
+		-That prompted a new Fred-suggestion: "See! We're almost there! So, new game! See a
+		 new mountain? Drink!"
+		-Shockingly, Jade sort-of listened, pulling out that bottle of Lucien's.
+			-Apparently she held onto the dregs.
+			-She eyed the bottle hesitently, then uncorked it and downed what was left.
+			-Soon, she fell to the deck, mumbling about her godmother and. . . mob? Mab?
+			-Lucien went to try and comfort her, while I laughed, shouted, "That's good stuff,
+			 huh?!?" and then wandered off with his hangers-on, suggesting they throw empties over
+			 the side of the ship while I try to shoot them out of the sky with my bow.
+	-Eventually, we reached Sharaar Kol.
+		-As we docked at the city's airdocks, a runner from the king whisked away Maya, with Sarge
+		 accompanying her, for meetings concerning the kingdoms latest aid package for Sasserine
+		 in the wake of the flooding. (Boring. . .)
+			-(Mathias and Bram couldn't make this session.)
+		-As our next order of business, I led the party and our crowd or revelers to the tavern
+		 where Maya and I learned that dance.
+			-I went straight to the bar, to discuss some ale and food.
+			-With that order in, I turned to the new guy and asked, "So, Lucien. . . you were looking
+			  for a rock? For that Mystra girl?"
+			 "A rock? I don't know about a rock?" he replied.
+			 "You said something about a piece of a mountain?" I clarified.
+			 "It's a piece of a _plane_," he said, "It would have felt annoyingly good. . ."
+				-That last prompted some debate between Jade and Lucien  about "annoying"
+			 river ham; through the mines; Sarge mentioned "instability"
+	-With some food and (more) drink in me and a general outline in mind, we ditched the partygoers
+	 at the tavern to enjoy the dancing and left my followers stretched between there and the ship
+	 to go in search of supplies.
+		-With great approval from me, Lucien found two more bottles of that Abyssal booze, down in
+		 the lower city.
+		-Sarge also hit one of the dwarvern forges, to get some shiny new armor.
+	-With that, we were off to the mines!
+		-I _totally_ knew where we were going, though the rest of the party wasn't all that sure.
+		-Lucien, at least, despite not having been there himself, did a good job of following my
+		 excellent instructions, knowing immediately what I meant about going left "at the area
+		 that smelled bad. . . eggs and. . . purple?".
+		-Soon, we were well on the way to the site of our wild magic accident. . . 
+		-. . . though we also seemed to soon be missing Sarge?!?
+		-So, we did some backtracking. Lucien was pretty confident he could follow our own
+		 footsteps, and soon we found Sarge, a short distance down a passage that forked from our
+		 own.
+		-From there, we continued on, following my (definitely perfect) recollections and
+		 descriptions.
+	-Eventually, we arrived at the carved stone walls that marked the site of our river ham
+	 adventure.
+		-There, in the first chamber of the ruin, we found our "Chosen" glow-in-the-dark lady.
+		-She greeted all of us warmly, and then quickly launched into the technical details of the
+		 mess on her hands.
+		-"The transposed bit of Celestia," she said, "Has mixed with the river of chaotic magic
+		  here, leading to a. . . small universe creation event."
+		 "How small?" I asked, "Like, breadbox?"
+		-She tried to explain, prompting a flury of questions from Jade.
+		-I tuned back into the discussion when Jade mentioned something about that time crystal.
+			-Apparently, what we have on our hands is basically a font of Chaotic Good, and Jade
+			 had ideas about how she might duplicate that time crystal using its energies.
+		-The Chosen went one, saying that there were portals opening in the area at random.
+			-She said she'd sent in a magical scout, and from it learned that there now were four
+			 minor primordial planes overlapping with the area.
+			-"Each of them," she claimed, "Is tied to a champion. . . or, well, better: a beast.
+			  Defeat the right ones and we can set things right."
+			-She told us we needed to destroy the fire and air champions, leaving earth and water.
+			-She also then began to explain that we could get _in_ via the portals. . . prompting
+			 a flurry of questions from us about how we get _home_.
+			-By way of response, she handed Lucien a strange, intricately carved. . . statuette?
+			 "It contains a spell of Return," she said.
+			-Lucien turned it over in his hands, looking at it, and then handed it to Jade.
+			-Bruce then interjected, "If these beings are elementals, and so strongly tied to these
+			 planes, they may be invincible on their own planes. . ."
+			 "Yes," The Chosen replied. "You will need to bring them to another plane before they
+			  may be struck down."
+			-That, of course, prompted some consternation, but these random portals seemed likely
+			 to provide some opportunities.
+		-We then discussed the matter of motivation. "Lady," I said, "Last time you gave me some
+		  magic eyes. Got any more? I could use a third. . ."
+		 Nonplussed, she responded, "Yes, last time I granted you darkvision. What boon is it that
+		  you now wish?"
+			-We fell to discussing the matter, but Lucien was quickest to speak to her, saying that
+			 he wished to increase his power, the power of his very soul.
+			 After only a moments thought, she offered, "Well, there is a kind of enchanted tome
+			  that can grant what you seek. I can provide you with such a thing."
+			-Jade, then, asked for something a bit more material: materials. Ones with which she
+			 could create the time crystal she envisioned, explaining her plan to the interested
+			 (if seemingly slightly concerned) woman.
+			 "Yes, I believe I can provide you with a suitable crystal," the nodding Chosen replied.
+			-Finally, and both subdued (for me) and almost a bit reluctantly, I asked, "Can you. . .
+			  make me immortal?"
+			 "That. . . is forbidden," she said. "It is against the natural laws."
+			 "Shit, I do _plenty_ of stuff that's against the law," I tried to reason with her. "Most
+			  of the fun stuff _is_!"
+			 ". . . I cannot do that to you. . . I cannot grant that request."
+			 "Hmph. . . Fine. . . I'll take the self-improvement. . . have to read a book. . ."
+	-A minute or so later, a portal appeared.
+		-Lucien and Bruce inspected the portal closely, and Lucien pronounced it as not one of our
+		 targets, instead describing a "place of mazes".
+		-Jade began to ask The Chosen if the portal could be stabilized, but it was gone before Jade
+		 finished speaking. "Damn," she said. "I bet D'Roc would have been really interested in that
+		 one. . ."
+		-That repeated for quite some time, portals randomly appearing and disappearing every few
+		 minutes until my companions pronounced a portal promising.
+			-Bruce took some of that time to cast his Snowsight spell on myself and most of the rest
+			 of the party.
+	-We popped through the promising portal. . . into a flaming hellscape.
+		-We were perched atop one of several rocky crags strewn around a sea of bubbling magma.
+		-I stood close to Jade, whispering, "If it gets much hotter, we're getting the hell out of
+		  here, right?"
+			-That mostly earned me a frown.
+		-Eventually, we got the impression that something was _in_ the sea of magma. From time to
+		 time a. . . blob of flaming matter would leap from it and then dive back in, like a fish.
+		-Lucien began yelling at it as menacingly as possible, growling, "Hey. _You_. . ."
+			-I followed his cue, shouting, "Yeah! You don't want to mess with him. . ."
+		-That got a definite response, as again a flaming mass lept from the magma, this time
+		 landing on the rock in front of Lucien and staying still enough that we could see it was
+		 some kind of vaguely wolf-shaped fire elemental.
+		-It snapped at Lucien who danced back from it's flaming jaws just barely in time.
+		-Bruce then conjured snow, presumably obscuring us (though his Snowsight countered it for
+		 me) and _definitely_ pissing the fire-wolf off.
+		-Though not so much as when Lucien, with his own Snowsight, began to hack away at the beast
+		 with his blade, causing it to grow not just angrier but also substantially bigger. . .
+		-Sarge then pelted it with some conjured ice of his own, briefly turning its eyes towards
+		 him, but they were quickly back on Lucien as he smacked it with his sword again.
+			-Neither attack, though, seemed to cause any real harm.
+		-I then began some yelling of my own at it, shouting, "Bad puppy! See what happens when you
+		  try to bite strangers?!? Bad dog!"
+			-That earned me some sheepish puppy-dog eyes, but it quickly turned back to snarling at
+			 Lucien.
+		-I was beginning to see the futility of our situation, but Sarge then called out an idea,
+		 yelling, "This plane! It's fire! Charge it with more of that energy and maybe we can force
+		  another planar link!"
+		 "So. . . lets burn this motherfucker down!" I shouted, looking to Grimble.
+		-Sarge was quick to follow his own advice, though, muttering arcane syllables and conjuring
+		 a burst of glame in the center of our rock, one that revealed a shining portal as it
+		 dissipated.
+		-"It's neutral!" Bruce called out, after quickly inspecting it. "That's what we need!"
+		 "So, dive on through?!?" I asked.
+		 "Yes!" Sarge responded.
+		-I shrugged and did just that, with Grimble pumping his tiny legs behind me.
+		-On the other side of the portal, we found ourselves ankle deep in a fountain, in the midst
+		 of some kind of garden.
+		-We wasted no time diving behind some nearby benches, which proved prudent as Lucien and the
+		 fire elemental came through seconds after us.
+		-The rest of the party followed them through and that devolved into a flurry of attacks from
+		 both sides, with me popping up from behind my bench to add my shots.
+		-The mess continued for some time until the firey beast fell to cinders under our assault.
+	-Now free too look around a bit more, we found the garden we stood in to be a maze of hedges.
+		-We could walk across the area in minutes, Bruce, from the air, assured us, and said that,
+		 on the plane, the garden was seemingly all there was.
+		-He also informed us that, in clearings, there stood four statues, each with the symbols 
+		 of one of the four elements.
+		-We naturally sought out the air one and, finding it, began to speculate about ways of
+		 keeping a portal open.
+		-No great option presented itself though, so, as Jade asked if anyone had air magic
+		 available to them, Sarge volunteered that he had us covered.
+		-Before stepping through, I suggested we perhaps try an alternate plan, and take a softer
+		 approach.
+			-"That way we don't have to use you as bait, Lucien," I offered.
+			-They seemed willing to try it! And we could always _fall back_ to risking Lucien's
+			 life. . .
+		-Planning settled, Sarge conjured a wind that swirled about the statue, soon forming a
+		 portal from its swirling and now glowing energies.
+		-We then stepped through it one by one.
+	-Through the portal, we found a clearly air-aligned plane plane: more rocky pillars, these
+	 separated by cloudy voids and buffetted by wind and lightning.
+		-I set about putting my plan into action, calling out (the Auran equivalent of), "Yoo hoo!
+		  Anybody out there? We've got snacks. . .", putting all the call-a-puppy-over energy into
+		 it that I could muster.
+		-The response I got was. . . less than what I had hoped for, as a huge giant clambered up
+		 one of the pillars some distance from ours, grabbed a rock the size of my head and hurled
+		 it straight at me, hitting me square in the chest.
+		-"Oof!" I said, clutching my chect. "You. . . bastard. . . I just. . . offered you snacks. . ."
+			-Grimble rushed over and healed me with his magic belt, taking some of the sting away.
+		-I, though, was still _pissed_. I _glared_ at the thing, as a buzzing built in my head, and
+		 then in the heads of those around me. "Knock. . . that. . . shit. . . out!" I yelled at the
+		 giant. . . and he did. In fact, he stopped moving at all.
+		-"Alright, folks!" I called out a moment later. "Now we wait for a portal! He's not going
+		  anywhere. . ."
+		-We then fell to discussing options for reaching the giant on his somewhat distant pillar.
+		-Jade provided Lucien and I the means to fly, so Grimble rendered himself tiny and I
+		 strapped him to my chest, then the pair of us, Lucien, Bruce, and Sarge all flew over to
+		 the giant's pillar.
+			-I got a lightening strike for my trouble, and nearly lost control of the giant's mind,
+			 but managed to hang onto my power through shear force of will.
+		-There, Bruce volunteeered that he had a handy spell to trigger a portal but, before he
+		 could cast it, one opened near Jade, across a chasm from us.
+			-Sarge asserted we can't likely open a _second_ portal while that one is open, and Jade
+			 called over to us that this one looked suitable for our purposes, so we began to debate
+			 how to move the giant to the portal.
+			-Ultimately, Sarge conjured some freaky black tentacles that were able to shuffle the
+			 giant across the chasm, where we shoved the thing (with _a lot_ of force) through the
+			 portal and followed it in.
+	-We found ourselves on what I at first presumed to be an island. . . until I saw its head and
+	 fins.
+		-In fact, we stood on vegetation-clad back of an enormous turtle, as several others swam
+		 in the water nearby.
+		-Well, Lucien wasted little time, and began to hack away at the giant like the tree it was
+		 the size of.
+		-All of us joined in on that, though after some conjured flame and bow, I, with Grimble
+		 strapped to me, dove into some turtle-bushes, to get out of sight.
+		-That proved quickly prudent, as one of the smaller-but-still enormous turtles emerged from
+		 the water, clambering up the back of it's bigger fellow and interposing itself between us
+		 and the giant.
+		-At that sight, Sarge took a few steps back, saying, "Guys. . . we should try talking this
+		 out. . . I think it's a _good_ turtle."
+		 "Well," mumbled Bruce, "I do think I might speak it's language. . ."
+		 "Yeah! Talk him down from this ledge, Bruce!" I yelled out, from my bush. "Let him know
+		  that getting rid of this thing should stop all the portals. He probably hates that! I
+		  know I would, in my living room. . ."
+		-Bruce, in a burbly, liquid-y language, began to speak to the turtle.
+		-And, as it turned out, not a moment too soon, as I felt myself lose my control of the
+		 giant's mind. It felt like the turtle had. . . intervened, somehow.
+		-Bruce did, though, seem to get through to the beast. It nodded to him, than pushed itself
+		 backward with its fins, back into the water.
+		-The now-stirring giant was then immediately subjected more attacks from the party.
+		-A hail of conjured rocks from Sarge saw particular succes, and he called out that, "It's
+		  vulnerable to the element of Earth!"
+		-"Alright, then," I whispered to Grimble. "On my signal. . . One. . . Two. . ."
+		-I then popped up from the bushes, loosing several arrows at the giant, striking it twice
+		 in the chest.
+		-Grimble followed that by, from my chest, tossing a thimble-sized green vial. One that grew
+		 as it flew forth from his hand and struck the giant, splattering all over it.
+		-The giant sizzled, popped, and. . .dissolved into lightning.
+			-A neat trick. . . if it weren't for the fact that I'm pretty sure he's dead now.
+		-That lightening, though, dispersed into the turtle beneath us, and the water around it, and
+		 the turtle began to shudder.
+		-"You're welcome!" I called out, to the other turtle, and then scurried over to Jade, saying,
+		 "Lets get the fuck out of here.
+		-She complied and, after joining hands with all of us, she snapped the weird device The
+		 Chosen had given us. Suddenly. . .
+	-We were on The Material once more.
+		-The Chosen of Mystra stood before us and, undisturbed by our sudden appearance, she said,
+		 "You've succceeded, I see. You have my thanks."
+		-Indeed, through the doorway, what once was chaotic swirls and a snow dusted rocky slope was
+		 now, well, still a chaotic glowing river of. . . something, but different than it was a short
+		 while ago!
+		-"So," The Chosen continued, "We should then see to your rewards. . ."
+		-As promised, she gave Lucien and I each a book, entitled the Tome of Experience.
+			-I frowned a bit, but placed it in my pack. I am my best asset after all, so I suppose
+			 I can stomach a self-help book.
+		-To Sarge, she handed a staff made of brass and a bronze-colored wood, after a wave of her
+		 hand summoned or called it into being.
+			-That evidently delighted him.
+		-And, to Jade, she similarly called for a beautiful piece of crystal, saying, "This should
+		  suit your purposes. I shall also give you the time you need with the stream. Go, child,
+		  and do your working."
+			-Jade made some preparations, taking a seat beside the stream and drawing circles and
+			 diagrams around herself with various magical reagents.
+			-Then, slowly, she dipped one corner of the crystal into the stream. . . and went still.
+			-We waited moments. . . then minutes, and still she did not withdraw the crystal from
+			 the stream or otherwise move.
+			-After a fair while of growing more agitated by the moment, Bruce approached and tried
+			 to reach for the crystal. . . only to also go still when _he_ touched it.
+			-Well, the rest of us looked at each other. . . but then sat down to wait a while
+			 without attempting further interventions.
+			-After what had to have been a couple of hours, Jade and Bruce both stirred.
+			-Jade, in particular, looked somewhat shaken, but also reported success. She also said
+			 she thought it will be a bit healthier than the other too. . .
+
+
 TODO:
 	-Finish cannon refurbishment, given that incoming bone fortress.
 		-They'd be great for use with followers!
@@ -6532,7 +6793,7 @@ TODO:
 		-Some kind of "air bike" concept seems attractive, small 1 or 2 man airships.
 			-Perhaps alchemically armed? A swarm of these things hurling alchemist fire seems like
 			 a major threat to airships.
-		-The air elemental running your ship?
+		-(DONE) The air elemental running your ship?
 			-What _would_ level adjustement for an elemental look like?
 				-None listed, though could perhaps look at HD, if Jake allows it?
 					-Small through Huge air elementals are 2, 4, 8, 16 HD.
@@ -6541,7 +6802,7 @@ TODO:
 				https://dndtools.net/feats/planar-handbook--79/planar-familiar--2172/
 				https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions/animal-companion-archetypes/elemental-companion-animal-companion-archetype/
 				Complete Mage pg. 33 has the Elemental Companion alternate class feature for Druids
-		-Those gnome mimes you met Sharaar Kol.
+		-(DONE) Those gnome mimes you met Sharaar Kol.
 			-They're a blast! Totally your kind of people.
 			-They'd also provide a possible background for your hypothetical gnome illusionist
 			 cohort.
@@ -6605,13 +6866,18 @@ TODO:
 				-Seems to be half minotaur, a rather interesting bloodline.
 			-Skye Nightwarden:
 				-A follower of Nkisi.
+			-Lucien:
+				-
 		-Items:
 			-The Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
 				-Totally Ed's kind of thing, a magic crystal that can be used for efficient production.
 				-Ah, I think Jade and Maya later gave it away to Zyrastra, but Fred doesn't know
 				 that yet.
-				-Still, can it be kept from a _god_? Maya's father also had a magic stone to him to
-				 Zyrastra wherever they were, and could have more. . .
+				-Still, can it be kept from a _god_? Maya's father also had a magic stone that took
+				 him to Zyrastra wherever they were, and could have more. . .
+			-Oh! Jade has a new crystal now: The Crystal of Chaotic Good Time Dilation (name pending?):
+				-First 10 minutes = Fatigued, then Exhausted after another 10, and useless until
+				 some rest or other means of curing those states.
 	-Do we have a treasure map? Search "a treasure map" above!
 
 

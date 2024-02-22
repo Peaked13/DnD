@@ -6491,7 +6491,7 @@ TODO:
 
 1/29/24:
 	-The parties (adventuring and dance) continued on through the skies.
-		-A. . . couple(?) days (the boundries between them were quite fuzzy) into the journy, we
+		-A. . . couple(?) days (the boundries between them were quite fuzzy) into the journey, we
 		 crossed the coast and were over land. Soon, the mountains were in sight, and we'd be at
 		 Sharaar Kol in a day and half.
 		-That prompted a new Fred-suggestion: "See! We're almost there! So, new game! See a
@@ -6501,7 +6501,7 @@ TODO:
 			-She eyed the bottle hesitently, then uncorked it and downed what was left.
 			-Soon, she fell to the deck, mumbling about her godmother and. . . mob? Mab?
 			-Lucien went to try and comfort her, while I laughed, shouted, "That's good stuff,
-			 huh?!?" and then wandered off with his hangers-on, suggesting they throw empties over
+			 huh?!?" and then wandered off with my hangers-on, suggesting they throw empties over
 			 the side of the ship while I try to shoot them out of the sky with my bow.
 	-Eventually, we reached Sharaar Kol.
 		-As we docked at the city's airdocks, a runner from the king whisked away Maya, with Sarge
@@ -6516,8 +6516,13 @@ TODO:
 			 "A rock? I don't know about a rock?" he replied.
 			 "You said something about a piece of a mountain?" I clarified.
 			 "It's a piece of a _plane_," he said, "It would have felt annoyingly good. . ."
-				-That last prompted some debate between Jade and Lucien  about "annoying"
-			 river ham; through the mines; Sarge mentioned "instability"
+				-That last prompted some debate between Jade and Lucien about if goodness could be
+				 "annoying" or not.
+			-The conversation eventually did circle back around to business: river ham business.
+			-Those of that were there recounted our encounter with the ham, and described the way
+			 we reached it, through the mines.
+			-Sarge also mentioned something about "instability", though I got the impression he was
+			 talking about something more arcane than a cave-in.
 	-With some food and (more) drink in me and a general outline in mind, we ditched the partygoers
 	 at the tavern to enjoy the dancing and left my followers stretched between there and the ship
 	 to go in search of supplies.
@@ -6548,7 +6553,7 @@ TODO:
 		-I tuned back into the discussion when Jade mentioned something about that time crystal.
 			-Apparently, what we have on our hands is basically a font of Chaotic Good, and Jade
 			 had ideas about how she might duplicate that time crystal using its energies.
-		-The Chosen went one, saying that there were portals opening in the area at random.
+		-The Chosen went on, saying that there were portals opening in the area at random.
 			-She said she'd sent in a magical scout, and from it learned that there now were four
 			 minor primordial planes overlapping with the area.
 			-"Each of them," she claimed, "Is tied to a champion. . . or, well, better: a beast.
@@ -6577,13 +6582,13 @@ TODO:
 			 could create the time crystal she envisioned, explaining her plan to the interested
 			 (if seemingly slightly concerned) woman.
 			 "Yes, I believe I can provide you with a suitable crystal," the nodding Chosen replied.
-			-Finally, and both subdued (for me) and almost a bit reluctantly, I asked, "Can you. . .
-			  make me immortal?"
+			-Finally, subdued (for me) and almost a bit reluctantly, I asked, "Can you. . . make me
+			 immortal?"
 			 "That. . . is forbidden," she said. "It is against the natural laws."
 			 "Shit, I do _plenty_ of stuff that's against the law," I tried to reason with her. "Most
 			  of the fun stuff _is_!"
 			 ". . . I cannot do that to you. . . I cannot grant that request."
-			 "Hmph. . . Fine. . . I'll take the self-improvement. . . have to read a book. . ."
+			 "Hmph. . . Fine. . . I'll take the self-improvement. . . Ugh, have to read a book. . ."
 	-A minute or so later, a portal appeared.
 		-Lucien and Bruce inspected the portal closely, and Lucien pronounced it as not one of our
 		 targets, instead describing a "place of mazes".
@@ -6636,7 +6641,7 @@ TODO:
 		-The rest of the party followed them through and that devolved into a flurry of attacks from
 		 both sides, with me popping up from behind my bench to add my shots.
 		-The mess continued for some time until the firey beast fell to cinders under our assault.
-	-Now free too look around a bit more, we found the garden we stood in to be a maze of hedges.
+	-Now free to look around a bit more, we found the garden we stood in to be a maze of hedges.
 		-We could walk across the area in minutes, Bruce, from the air, assured us, and said that,
 		 on the plane, the garden was seemingly all there was.
 		-He also informed us that, in clearings, there stood four statues, each with the symbols 
@@ -6749,6 +6754,173 @@ TODO:
 			-Jade, in particular, looked somewhat shaken, but also reported success. She also said
 			 she thought it will be a bit healthier than the other too. . .
 
+TODO:
+	-(DONE) Get that Eternal Wand of Undersong. See below for more details.
+
+2/21/24:
+	-Reality untangled, we made our way back out of the mines and to the dwarven city.
+	-A 10 ft. tall bull-man proved easy to find in a city of dwarves, especially since they were at
+	 my first stop, the bar I left my party-goers at.
+		-(I wasn't even looking for them yet. Just wanted a drink. . .)
+		-Greeting them, Jade inquired how Maya and D'Roc's hob-nobbing went.
+		-Sounds like they met with success, and came back with some potential work.
+			-Apparently there's some issues with bandits, and Maya came up with some plan to settle
+			 them on some empty land to resolve the issue. The king was amenable and she got the job
+			 of talking them into it, and getting them to a meeting about it.
+			 "Sell them on it being more fun to hang with Fred than getting impaled?" I asked. "Seems
+			  pretty easy."
+		-Jade had also apparently had a dream recently, concerning some of Nikisi's followers in The
+		 Morticians Guild.
+			-She thought it meant they were still around, and wanted to go haring off after them.
+			-Weirdly, Lucien was backing her on this, acting like he was _there_, in her dream. . .
+				-Well, I've heard, seen, and done crazier. . .
+			-Not sure I want anything further to do with followers of The Brotherhood, but I also
+			 guess we'd probably be killing those corpsefuckers.
+		-We debated the subject briefly, but Lucien took the. . . higher? wetter? ground, and poured
+		 out two shots of his Abyssal liquor.
+			-He passed one to D'Roc, saying, "I don't believe you've tried this yet. . ."
+			-I never knew D'Roc to lack bravery (though I've also never much loved Wisdom), yet he
+			 seemed reluctant to try the strange liquor, having seen it's effect on the rest of us,
+			 resisting even as I began to chant, "Drink! Drink! Drink!"
+			-Lucien shrugged, and then downed both shots, leading to much raving on Lucien's part.
+				-Jade even pointed out that he seemed to suffer from some sinister spell effect,
+				 though there was some disagreement about exactly what amount the arcanely inclined.
+				-They bandied about sinister terms like "Power Word" or "Phantasmal Killer".
+				-Whatever it was, it gave Lucien a hell of a nosebleed.
+		-As Lucien came back around, we coalesced on the bandit task.
+		-I felt no need to _hurry_ out into the wilderness, and said as much, suggesting we order a
+		 round and some food, then make plans.
+			-In particular, I suggested we talk about what supplies we need to stock up on.
+			-On the walk back to the city, Jade and I had discussed options for helping me focus a
+			 bit better, especially after I almost lost my grip on that lighting elemental/giant's
+			 mind. She had actually had a great suggestion, some spell for the rythmically-inclined
+			 which she could create a wand of for me, and even extend the wand's duration as she'd
+			 been doing with other spells already. I was sold, and wanted to pick up the materials
+			 for it.
+	-Dinner(? Hard to tell when undergound. . .) done with, we did our shopping, then headed back
+	 to the ship, chivvying some of my stray followers aboard as we ran into them.
+		-Once back to the ship, I sent some of the followers on hand to round up the rest, and put
+		 the others already there to loading the ship.
+		-Soon, we were aloft.
+	-The ship traveled through the night and, the next day, we were soon in the area we'd been told
+	 the bandits were operating.
+		-Jade, with some help from her magic crystal, was able to create that Undersong wand for me
+		 while we traveled.
+		-I suggested that, to find the bandits, we engage in some aerial reconnaissance (in no small
+		 part because I got to sit aboard my comfortable ship while we did so).
+		-The party all assented, and Lucien and Bruce climbed the mast to keep lookout in the crow's
+		 nest.
+		-A little while later, some commotion came from the top of the mast, with Bruce and Lucien
+		 yelling.
+		-I looked up just in time to see a bolt of lightening strike the mast.
+		-Looking in the direction it came from, I saw a huge winged lizard and, casting my eyes
+		 about, I spotted another nearby.
+		-Grimble dived behind a gunwale and began casting a spell on himself while one of the winged
+		 lizards swooped at the crows nest, attempting to claw at Lucien as Lucien ducked.
+		-Battle was joined and, as the lizards swooped again and again at Lucien (he seemed to be
+		 taking pains to draw attention to himself) while our party hurled spells back at them.
+		-I focused on one of them and froze it's brain. It's outstretched wings kept it at a gentle
+		 glide but it rapidly fell behind our speeding ship.
+		-Meanwhile, D'Roc rushed to the front of the ship and brought one of our loaded cannons to
+		 bear on the remaining lizards, shooting it out of the sky.
+		-That left the brain locked lizard, which soon shook the effect off as the ship pulled me
+		 out of the range of my power, after which it began flapping after us.
+		-It was somewhat faster than the ship and was slowly closing the distance, so the whole
+		 party joined me at the back of the ship, readying attacks for when it got back in range.
+		-Noteably, D'Roc dragged the two remaining loaded cannons over, with seeming ease, which
+		 he and Lucien quickly made good use of as the winged thing neared.
+		-That was joined by a variety of spells and other projectiles.
+		-Sarge flew forward, to get the thing in range of a spell, but that proved a pit unwise
+		 when the thing swooped forward and grabbed Sarge with it's claws.
+		-Maya took wing too, flying closer to the beast, and shot it straight in the face,
+		 vaporizing its head with eldritch energy.
+		-Sarge was then able to quickly free himself from the now limp claws, and I slowed the ship
+		 while he and Maya flapped back over.
+	-Some healing and reloading followed.
+		-Lucien asked if we were ready to continue on or if we should rest, to which I replied, "I'm
+		 ready for a toast! To our victory!" Lucien obligingly poured out some whiskey shots.
+		-The warming whiskey was well welcome, as the sun had to dropped nearly to the horizon, the
+		 temperature dropping with it.
+		-The twilight was very welcome, though, as it was essentially the perfect time to search
+		 for bandits.
+	-Before the sun had set, Lucien called out from the crows nest, saying, "A caravan! And it's in
+	  trouble. . ."
+		-Climbing down, he pointed out the caravan. . . and it's pursuers. "They're rather large. . ."
+		 he added.
+		-I changed the ship's heading and soon we were hovering above the caravan, perhaps 15 or 20
+		 feet up.
+		-Lucien wasted no time jumping down to the ground, landing with a graceful roll, and was
+		 followed shortly by D'Roc, landing with a thud.
+		-In response the bandits, now clearly _ogre_ bandits, took off running.
+		-Lucien growled at them to halt, and they did, while Maya flew down and started talking to
+		 them.
+		-She asked them questions about how many of them there were, and eventually arranged to
+		 meet with their leader, back at the cave in which their tribe of bandits resided.
+		-The caravan, meanwhile, was guarded by a party of more junior adventurers.
+			-We accepted their thanks, and Maya offered them the blessings of of Bahamut, a thing
+			 that delighted all of them, save one dressed in black who grumbled in response.
+			-Lucien offered one, a ranger, a swig of the Abyssal Temptation, which he took like a
+			 champ.
+			-(They're all level two, except the ranger, who leveled up from bravely facing The
+			  Abyss.)
+	-I instructed my followers to, after we left, bring the ship up higher until they caught sight
+	 of us again, and admonished them to listen to Rusty. The rest of us, then, descended via ropes
+	 and various other means, and followed the ogres back to their cave.
+		-They led us back to a filthy cavernmouth, and inside.
+		-Just inside the entrance, they halted. Looking from one to another, they then turned to us,
+		 giggling, of all things, and asked, "Uh, do you like surprises?"
+		-That understandably met with a chorus of no's from us, and rather spoiled the surprise when
+		 an enormous ball of writhing black ooze dropped down onto us.
+		-Sarge's reflexes were quick and he seared it with a blast of flame from his hands as it
+		 fell, but fell it still did, right on Lucien.
+		-That was like spitting a loogie into a blender, though, Lucien with his sword and all, and
+		 we were all sprayed by bits of us. . . annoyingly damaging a lot of our equipment with the
+		 acidic slime.
+		-Lucien continued on, slaying one of the ogres too.
+		-I called out to the remaining one, "Here's a surprise: I'd be surprised if you live through
+		  this. Better cut this surprise shit _really_ fast. . ."
+		-He cowered, in response, and Lucien demanded, "Now, who was your leader?"
+		-Maya then stepped forward and chimed in, "My friends here _do not_ like surprises. Take us
+		  to your leader without any more of them. . ."
+		 "Bu. . . But, he said people _love_ survivors. . ." the ogre blubbered, as he turned and
+		 walked off down the tunnel.
+	-The remaining ogre led us a ways through the caves without further incident, and eventually to
+	 a champer bedecked in carved stone and featuring a man in dark furs, a statue behind him, and
+	 a floor carpeted in a mix of treasure and bones.
+		-"Did you get the caravan?" he began in response to the ogre's thudding footfalls. "It
+		  should ha. . ."
+		-As he trailed off at the sight of us behind the ogre, the ogre gestured to him, saying,
+		 "This Ravenshroud. He good leader. . ."
+		 ". . . What in the hells do you want?" Ravenshroud then said, addressing us. "I see I now
+		  seem to be short an ogre. . ."
+		-Maya launched into her spiel, saying she came with an offer from the king of Sharaar Kol,
+		 an offer of peace, land, and alliance, if he would stop his depredations.
+		-He nodded along, saying "Uh huh, I would be willing. . ."
+		-I, though, detected a note in his voice. He sounded concerned and evasive, like he was
+		 getting ready to bolt.
+		-Indeed, following his arm down, I saw him reaching for a lever alongside his statue. . .
+		-Acting quickly to forestall. . . whatever he was doing, I unleashed a blast of psionic
+		 energy, stunning the bandit leader. . . along with most of my party, and the ogre.
+		-D'Roc, though, was behind me, and outside the effect of the blast, while Lucien also
+		 seemed to resist it.
+		-I had both of them quickly help me, to drag Ravenshroud away from his lever, to snap off
+		 the lever, and to pull Maya out from the space between the bandit and his ogre.
+		-After only a few moments, the stunned folks began stirring.
+		-Ravenshroud came to with Lucien and D'Roc standing over him. As the bandit unsteadily
+		 clambered to his feet, Lucien growled, "That could have gone a lot worse. . ."
+		 "Yeah," I added, "We could just as easily have slit your throat while you were on the
+		  ground. . . Try listening this time. . . or we'll try that."
+		-Clearly, he got the message, and he was much more receptive to _Maya's_ message.
+			-She soon had him agreeing to meet with the king, and had even offered him a ride back
+			 to Sharaar Kol with us, aboard our luxurious airship.
+			-She _did_ note, though, that his ill-gotten plunder might need to be confiscated, a
+			 thing the rest of us enthusiastically set about doing as she led him off down the
+			 tunnel, towards the cave's entrance.
+
+
+TODO:
+	-Make sure party is OK with how loot is alotted and sold. See spreadsheet.
+
 
 TODO:
 	-Finish cannon refurbishment, given that incoming bone fortress.
@@ -6768,24 +6940,13 @@ TODO:
 	-Items:
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
+		-Chris had some bow ideas: https://discord.com/channels/@me/838577998269120522/1207089795155886120
 		-Something to deal with undead?
 			-Maybe a specific wand?
-		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 		-Dex boosts too, though maybe the runner up behind Charisma.
 			-I've already got the +2 gloves of Dex.
-        -Jade also maxes Concentration, so can craft you an item boosting it.
-			-Custom cost:
-				Skill bonus (competence):	Bonus squared × 100 gp
-				No space limitation:		Multiply entire cost by 2
-			-You'd be crafting it too, so you pay half that in gold, and 25th in XP:
-				+2: 400 gp., 32 XP
-				+3: 900 gp., 72 XP
-				+4: 1600 gp., 128 XP
-				+5: 2500 gp., 200 XP
-				+6: 7200 gp., 288 XP
-			-Light reading suggests that Psi-Like abilities are no different then normal manifesting
-			 when it comes to dispensing with displays: https://www.d20srd.org/srd/psionic/psionicPowersOverview.htm
 		-A Stone of Good Luck at 20k will be a big deal for you eventually.
+		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 	-More dance numbers.
 	-Recruiting followers!
 		-You're keeping track of them in a Followers tab on the spreadsheet.
@@ -6920,6 +7081,25 @@ TODONE:
 	-Collect potions and bounties.
 	-Once you get Leadership, what cohort should you get?
 		-Moved discussion of this into Skypirate.txt
+	-(DONE) Concentration improvements:
+		-Light reading suggests that Psi-Like abilities are no different then normal manifesting
+		 when it comes to dispensing with displays: https://www.d20srd.org/srd/psionic/psionicPowersOverview.htm
+		-Jade maxes Concentration, so can craft you an item boosting it.
+			-Custom cost:
+				Skill bonus (competence):	Bonus squared × 100 gp
+				No space limitation:		Multiply entire cost by 2
+			-You'd be crafting it too, so you pay half that in gold, and 25th in XP:
+				+2: 400 gp., 32 XP
+				+3: 900 gp., 72 XP
+				+4: 1600 gp., 128 XP
+				+5: 2500 gp., 200 XP
+				+6: 7200 gp., 288 XP
+			-Remember there are factors in the item rules that can reduce cost too. . .
+		-(DONE) OH! Even better, get an Eternal Wand of Undersong: https://dndtools.org/spells/spell-compendium--86/undersong--4650/
+			-Jade can craft it in one day for 307.5 gp (820 gp * 0.75 * 0.5) and 32 exp: https://discord.com/channels/@me/838577998269120522/1207111809610547231
+			-(It can!) Wait, can it last all day? Does Jade have limited ability to do the persist thing?
+				-If not, maybe a regular wand is best.
+				-Yes, it can: https://discord.com/channels/560915739796570113/1195829441683796118/1208967677826175078
 
 
 TODON'T:

@@ -11,10 +11,11 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 6	Swashbuckler 1	+4		8				Leadership								Swashbuckler for free Weapon Finesse.
 7	Dread Pirate 1	+5		10														First level Shadowdancer is possible, due to skills.
 8	Dread Pirate 2	+6		10														Probably choosing "honorable", as eventual Fight to the Death is amazing with your Charisma.
-9	Dread Pirate 3	+7		10				Combat Reflexes for SD? Craven? Or Spring Attack? Work up to Shot On The Run? Something else?
-10	Shadowdancer 1?	+7		10														Could have it as soon as 7, if Leadership is delayed until 9.
-11	Dread Pirate 4	+8		10
-12											1
+9	Dread Pirate 3	+7		10				Craven
+10	Dread Pirate 4	+8		10
+11	Dread Pirate 5	+9		10
+12	Dread Pirate 5	+10		10				Combat Reflexes for SD?
+13  Shadowdancer 1?
 
 
 Flaws (compensating for +2 LA):
@@ -66,7 +67,7 @@ Advancement:
 		-The way a bard's Inspire courage stacks with Dread Pirate's Rally the Crew could make a one
 		 level dip into bard worth it to get a further +1 to attack and damage for that ability.
 		-Legendary captain would be fun if we focus heavily on the ship, and even more if we go
-		 beyond letting me take more than a few levls of it: https://dndtools.net/classes/legendary-captain/
+		 well beyond 20, letting me take more than a few levels of it: https://dndtools.net/classes/legendary-captain/
 			-Leadership score bonuses and random ship-focused abilities.
 	-Possible feats:
 		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:

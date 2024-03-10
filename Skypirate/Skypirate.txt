@@ -233,6 +233,7 @@ Cohort:
 			-Oh, fuck yeah. This is worth sacricifing a lot for, and you mostly just need to spend
 			 skill points on Bluff and Hide (solid skills!) and (mostly) waste the Silent Spell you
 			 already took.
+		-Unbound Scroll is an interesting prestige class, if you do lots with scrolls: https://dnd.arkalseif.info/classes/unbound-scroll/index.html
 		-Feats:
 			-Metamagic:
 				-Still Spell and Silent Spell?

@@ -6841,7 +6841,7 @@ TODO:
 		 ready for a toast! To our victory!" Lucien obligingly poured out some whiskey shots.
 		-The warming whiskey was well welcome, as the sun had to dropped nearly to the horizon, the
 		 temperature dropping with it.
-		-The twilight was very welcome, though, as it was essentially the perfect time to search
+		-The twilight was very welcome too, though, as it was essentially the perfect time to search
 		 for bandits.
 	-Before the sun had set, Lucien called out from the crows nest, saying, "A caravan! And it's in
 	  trouble. . ."
@@ -6874,7 +6874,7 @@ TODO:
 		-Sarge's reflexes were quick and he seared it with a blast of flame from his hands as it
 		 fell, but fell it still did, right on Lucien.
 		-That was like spitting a loogie into a blender, though, Lucien with his sword and all, and
-		 we were all sprayed by bits of us. . . annoyingly damaging a lot of our equipment with the
+		 we were all sprayed by bits of it. . . annoyingly damaging a lot of our equipment with the
 		 acidic slime.
 		-Lucien continued on, slaying one of the ogres too.
 		-I called out to the remaining one, "Here's a surprise: I'd be surprised if you live through
@@ -6885,7 +6885,7 @@ TODO:
 		 "Bu. . . But, he said people _love_ survivors. . ." the ogre blubbered, as he turned and
 		 walked off down the tunnel.
 	-The remaining ogre led us a ways through the caves without further incident, and eventually to
-	 a champer bedecked in carved stone and featuring a man in dark furs, a statue behind him, and
+	 a chamber bedecked in carved stone and featuring a man in dark furs, a statue behind him, and
 	 a floor carpeted in a mix of treasure and bones.
 		-"Did you get the caravan?" he began in response to the ogre's thudding footfalls. "It
 		  should ha. . ."
@@ -6919,10 +6919,82 @@ TODO:
 
 
 TODO:
-	-Make sure party is OK with how loot is alotted and sold. See spreadsheet.
+	-(Done!) Make sure party is OK with how loot is alotted and sold. See spreadsheet.
+	-(Done!) Subtract replacement cost of acid damaged stuff, roughly 600 for a high estimate.
+
+
+3/6/24:
+	-I spent the flight back to Sharaar Kol drinking with Lucien, D'Roc, and the bandit leader.
+		-We all pushed the idea of taking the king's deal pretty hard.
+			-"You can go legit!" I suggested. "Now, you 'confiscate' 'taxes' from caravans!"
+		-He sampled some of Lucien's Abyssal liquor, followed by Lucien himself, and they both
+		 began babbling about the contents of their shoulders.
+			-Interestingly, they fell to discussing some past deal of the bandit's, mentioning a
+			 drow named "Raith", who had set him up in his current deal, inducing him to attack
+			 caravans in the area, and providing weapons and goons with which to do so.
+			-It suggests there's another power in play here, and one that might work against our
+			 bandit's change of heart and Sharaar Kol's interests.
+			-"Well," I told the bandit, "Sounds like the dwarf king's got another problem, and us
+			  an opportunity, problem solvers that we are."
+		-We also explained to him that Maya is big in Sasserine. Being on her good side could mean
+		 some backing from another power.
+	-Once back at Sharaar Kol, Maya offered to take the bandit king to an inn to freshen up, and to
+	 go find some nicer clothes for his meeting with the dwarven king.
+		-So, we started talking about shopping!
+		-Jade chimed in that she might have a way to fund some of that shopping: salt.
+			-Apparently, she can conjure the stuff, and asked for our help selling it in bulk, here
+			 and maybe other ports of call.
+				-She demonstrated this talent by first conjuring some huge rock bins in the ship's
+				 hold and then conjuring the salt itself, inside the bins and in vast quantity.
+				-Supposedly, she said, 10's of _thousands_ of gold worth.
+			-Interesting possibilities, here!
+				-"Our problem, then," I said, "Is one of demand, not supply. But, we've got our ship,
+				  and already visit plenty of ports of call. . ."
+				-Maya even volunteered that one of the other noble families in Sasserine run the
+				 city's fishing industry. . .
+			-So, we got to selling, clearing 2700 gp. with a single bulk sale.
+		-We then set about unloading our confiscated-from-the-bandits loot and replacing our acid
+		 damaged stuff.
+			-Maya bought some _elaborate_ clothes for herself, Jade, Sarge, and D'Roc.
+	-Shopping handled, we then went to see the king, bringing the bandit along.
+		-The bandit leader, hesitent and seemingly shy before the dwarf king, related the tale of
+		 this drow Raith. Maya eventually had to help him along, offering some of the details
+		 herself.
+		-The king had little respect for the suddenly shy bandit, provoking him rather badly, but
+		 the bandit remained meek and agreed to the king's terms.
+			-In particular, given the revelation about this drown backer, the dwarf king doubted
+			 (aloud) that the (former) bandit could really hold this land.
+		-We, in turn, were paid a princely sum, 4,000 gp., for delivering and convincing the man.
+		-We were also offered a new task: bringing to the king this drow.
+			-After the way the last task paid, we were happy to accept.
+	-When we were dismissed from the king's presence, we set about discussing our drow hunt, and
+	 the supplies we'd need.
+		-The now-former bandit interjected, "Well, you guys _broke_ the lever to The Underdark. . ."
+		-That got us all staring at him, and he went on to explain that the lever had been the
+		 start of the long, twisting path through The Underdark that he had been following to meet
+		 his drow contact.
+			-"I think it was such a long mess just because he liked torturing me. . ." he added.
+			-This was so helpful we bothered to ask his name: Gevin.
 
 
 TODO:
+	-Commission something from Jade, now that you've got tons of money. Maybe the Stone of Good Luck?
+		-Talked about it in Discord here: https://discord.com/channels/560915739796570113/1027415547278794782/1215139511726645278
+		-So, with just paid-for crafting time, through the magic crystal and Lesser Restoration,
+		 it costs:
+			-Wand charges: 20/50*562.5 = 225 gp. and 20/50*60 = 24 XP
+			-Stone: 10k*.75 = 7.5k and 20k/25 = 800 XP
+			-For a total of: 7,725 gp. and 824 XP
+		-Worth the XP? Probably. . .
+	-Maybe a vest or ring as well (or possibly even instead)?
+		http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
+		https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
+
+
+TODO:
+	-Skill spending:
+		-5 ranks in Jump, for a useful skill and +2 to Tumble?
+		-Those skill tricks, probably before Jump.
 	-Finish cannon refurbishment, given that incoming bone fortress.
 		-They'd be great for use with followers!
 			-At 100 gp. per shot (1/3 that, if crafted), in powder cost alone, that's pretty
@@ -6946,6 +7018,7 @@ TODO:
 		-Dex boosts too, though maybe the runner up behind Charisma.
 			-I've already got the +2 gloves of Dex.
 		-A Stone of Good Luck at 20k will be a big deal for you eventually.
+		-A Vest of Resistance would be wise too: http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 	-More dance numbers.
 	-Recruiting followers!

@@ -6978,7 +6978,7 @@ TODO:
 
 
 TODO:
-	-Commission something from Jade, now that you've got tons of money. Maybe the Stone of Good Luck?
+	-(DONE) Commission something from Jade, now that you've got tons of money. Maybe the Stone of Good Luck?
 		-Talked about it in Discord here: https://discord.com/channels/560915739796570113/1027415547278794782/1215139511726645278
 		-So, with just paid-for crafting time, through the magic crystal and Lesser Restoration,
 		 it costs:
@@ -6986,9 +6986,132 @@ TODO:
 			-Stone: 10k*.75 = 7.5k and 20k/25 = 800 XP
 			-For a total of: 7,725 gp. and 824 XP
 		-Worth the XP? Probably. . .
-	-Maybe a vest or ring as well (or possibly even instead)?
+	-(VEST DONE) Maybe a vest or ring as well (or possibly even instead)?
 		http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
 		https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
+	-Jade craft formula:
+		Gold: COST_IN_GP/2*.75
+		XP: COST_IN_GP/25
+		Time: Floor(COST_IN_GP/1000)
+				or
+			  WAND_CHARGES_IN_GP = Floor(COST_IN_GP/1000)*1500/50
+			  Crafting cost: WAND_CHARGES_IN_GP/2*.75 gp., WAND_CHARGES_IN_GP/25 in XP
+				Lessor Restoration as a 1st lvl. paladin wand is 1500
+				The crystal can provide 1 day worth of time per charge, as it removes Fatigued
+				(or turns Exhausted to Fatigued) and the crystal does:
+					"First 10 minutes = Fatigued, then Exhausted after another 10"
+	-So a Vest of Resistance +3:
+		9000/2*.75 = 3375 gp., 9000/25 = 360 XP
+		Wand charges = 9000/1000 = 9
+			WAND_CHARGES_IN_GP = 9*1500/50 = 270 gp.
+			Crafting cost: 270/2*.75 = 101.25 gp. ; 270/25 = 10.8
+
+
+3/20/24:
+	-The drow hunting discussion continued, and we quickly addressed the light aspect: Maya has
+	 a dozen or so sunrods that we'll tie to D'Roc's horn as needed (most of us can see in the dark
+	 anyways).
+	-Far _less_ quickly, though, we discussed Jade's wonderous enchanting talents, kicked off by my
+	 bringing up a luck rock I want.
+		-She was amenable, having that magic crystal now, and she even offered to cover the magical
+		 energies if I would purchase the materials.
+		-That inspired a flurry of further requests, from the others and even another for me: a
+		 shiny magic vest!
+		-She was frantically noting down the details of our shouted-over-each-other commissions,
+		 looking a bit harried, while Bruce hovered (not, in this case, literally) at her side,
+		 looking a bit worried.
+		-She paused then, suddenly and, looking up, said, ". . . How old will I be after this?"
+		-We looked at her quizically and she elaborated. "This. . . accelerated time. . . it has
+		  real, physical impacts on the world. Even with the fatigue handled by other magic, I
+		  think I'm at least growing older by the days it grants me. . ."
+		 ". . . Huh," I replied. "Well. . . you were going to build all this stuff anyways, right?
+		  It's basically a wash for you! It's just better for us! Faster!"
+		 "Uh. . ."
+		-That sparked lots of conversation.
+			-Bruce was asking her if, "young lady", she really thought this was worth it.
+			-She, meanwhile and looking to the rest of us, sounded almost be pleading, "If we do
+			  this. . . We'll find a way to fix this, right?"
+			-I felt her exactly. "Sure! We'll just figure out how to make ourselves immortal!"
+			-Then, after a pause, I added, "If you've got something for that. . . get working,
+			 Jade."
+			 "Uh. . ."
+			-Since she was starting to seem a bit reluctant with all this, I offered something a
+			 bit more concrete.
+				-"Look," I said, "If it comes to it, I now a way you can become immortal. It's not
+				  the _best_ option, but, if we can't find something better, it's there."
+				 "Uh. . . how?" she asked.
+				 "I _promise_. Isn't that good enough?"
+				 ". . . No."
+				 ". . . OK. Fine," I said, giving in. "It's the big thing where I come from. . .
+				  People turning into these. .  . Elans, they call themselves. Then, they live
+				  forever!"
+				 "Where. . . What is. . ."
+				 "It's tied to Edric, the god that made me."
+				 ". . . Why haven't you done it?"
+				 "Can't. The bastard. . ."
+				 "Why not?"
+				 "It's. . . You know how I can kill you with my brain?" I said. "It's got something
+				  to do with that. Ed tried it with. . . someone he knew, way back. . . . I think
+				  I'm actually related to the guy. He was like me, anyways, and, after the
+				  process. . . Well, what's left of him is some kind of. . . mold? It covers miles
+				  and miles. . . but is definitely not how I want to end up."
+			-The conversation awkwardly petered out after that. . . but she agreed to all the
+			 crafting.
+	-That settled, we did various bits of shopping.
+		-There were the enchanting materials, of course.
+		-Maya also wanted to get some make up, "To make her look like a drow."
+			-This was. . . questionable.
+			-But, I wasn't going to stop her! In fact, "Sure, Maya! Let's go shopping! We'll bring
+			 Grimble! He's in the _entertainment_ industry!"
+			-And we did exactly that, with Maya spending 50 gold on the various cosmetics she,
+			 Grimble, and I pointed at in the shop we visited.
+		-From there, Maya also wanted to visit the high priest of Moradin, the one we'd saved from
+		 that vile kidnapper. . . Nkondi.
+			-After all, she pointed out that a dwarven priest is likely well able to help guard us
+			 against those perfidious drow and the nefarious poisons.
+			-Her name was plenty to get _her_ taken back to see the priest, a thing I made no real
+			 attempt to shoehorn my way into, I not being in the mood to be preached at.
+			-Instead, when she collected us in the nearby square, reporting that the priest had
+			 promised her that he'd have an assortment of potions available for us inside of an
+			 hour or two, I suggested we find a tavern in which to wait.
+		-We then found a nearby bar, labeled the The Endless Bar and built into a disused mineshaft
+		 with the other end of the space ending in a collapsed tunnel.
+			-The barkeep greeted us and I ordered an ale.
+			-He also offered some welcome food, a chicken and mushroom soup or the chef's special,
+			 a roast mole.
+				-"Well, you caught my ears with the mushroom, figure a dwarf would know good
+			      mushrooms," I said. "But dwarves would know _moles_ too! I'll have the special!"
+				-Sarge added that he'd have, "What the captain's having." Soon, the barkeep was
+				 calling me captain too.
+				 "Always good to see a tavern that's in ship-shape!" I graciously riffed.
+		-A few hours turned into three or four and then the raucous bunch of us went to go pick up
+		 the potions at the temple, with Maya taking possession of them.
+	-All that in hand, we grabbed our bandit king from the dwarf king's residence and headed for
+	 the ship.
+		-Between our previous visit and the bandit's landmarks, it was no trouble to find our way
+		 back to his cave and, descending, we were soon back in his. . . audience chamber.
+		-Jade examined the broken lever and, with a moment's fiddling, was able to trigger it's
+		 connected mechanism, sliding away a counterweighted stone wall and opening a passageway.
+		-We then discussed directions with the bandit.
+			-He said the dark elf changed the location he held the meetings regularly, but all were
+			 reached at the end of a long, winding series of caverns.
+			-In particular, he also mentioned an old, ruined temple, in which grew glowing green
+			 mushrooms, where he had held their most important meetings.
+			-We seized on that and got detailed directions to it. Between that and several of our
+			 group being skilled trackers, we figured we had it covered.
+	-Following the bandit's directions, we wound through caves for what felt like many hours, though
+	 time was quite hard to guage down here.
+	-Eventually, though, we reached a cave where, as it opened up a bit and we walked forward, dark,
+	 many-legged shapes skittered back from the light strapped to D'Roc's horn.
+		-"Uh oh," I said. "I can see where this is going. . . Or, well, hang on. . . _Now_ I can,"
+		 I continued, as I manifested Defensive Precognition.
+	
+	
+TODO:
+	-I manifested Defensive Precognition at the first sight of the spiders, and have added it's +3
+	 to my Misc AC and my saves. Remove that when done.
+		-Ah, and Grimble has Mage Armor applied too.
+	
 
 
 TODO:
@@ -7010,6 +7133,8 @@ TODO:
 	-Host an event with that arms merchant. Search above for "weapon signing".
 	-Figure out paying back that 10k in diamonds.
 	-Items:
+		-A Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
+			-Your saves are good now, so you need to boost your AC.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Wonderous.
 		-Chris had some bow ideas: https://discord.com/channels/@me/838577998269120522/1207089795155886120
@@ -7017,8 +7142,6 @@ TODO:
 			-Maybe a specific wand?
 		-Dex boosts too, though maybe the runner up behind Charisma.
 			-I've already got the +2 gloves of Dex.
-		-A Stone of Good Luck at 20k will be a big deal for you eventually.
-		-A Vest of Resistance would be wise too: http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 	-More dance numbers.
 	-Recruiting followers!
@@ -7173,6 +7296,8 @@ TODONE:
 			-(It can!) Wait, can it last all day? Does Jade have limited ability to do the persist thing?
 				-If not, maybe a regular wand is best.
 				-Yes, it can: https://discord.com/channels/560915739796570113/1195829441683796118/1208967677826175078
+	-(DONE) A Stone of Good Luck at 20k will be a big deal for you eventually.
+	-(DONE) A Vest of Resistance would be wise too: http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
 
 
 TODON'T:

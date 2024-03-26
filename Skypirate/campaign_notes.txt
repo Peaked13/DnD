@@ -7105,13 +7105,64 @@ TODO:
 	 many-legged shapes skittered back from the light strapped to D'Roc's horn.
 		-"Uh oh," I said. "I can see where this is going. . . Or, well, hang on. . . _Now_ I can,"
 		 I continued, as I manifested Defensive Precognition.
+		-"Fred. . ." Jade then called out.
+		 "Huh?"
+		 "When you did that. . Those glowing mushrooms over there started. . . waving, and changing
+		  colors. . ."
+			-Well that's not good either.
 	
 	
 TODO:
 	-I manifested Defensive Precognition at the first sight of the spiders, and have added it's +3
 	 to my Misc AC and my saves. Remove that when done.
-		-Ah, and Grimble has Mage Armor applied too.
-	
+		-Ah, and Grimble has Mage Armor applied too, but improperly.
+			-Removed that. . .
+
+
+3/25/24:
+	-Lucien began to creep forward, slowly, towards where the spider-y things skittered off to while
+	 I turned to Grimble and whispered, "Might be time for your magic armor. . ."
+		-He nodded in response and began casting.
+		-Noteably, the mushrooms _also_ reacted to that, shifting to a different color than with my
+		 power.
+	-I then slunk off towards a likely looking niche in which to hide.
+		-A bit _too_ likely, as it turned out. Bruce and Lucien began to shout something to me as
+		 the rock wall before me dissolved in a spray of acid.
+		-I was able to hop back and dodge the spray of acid, but not the immense paw of. . .
+		 something, that reached out a grabbed me.
+	-From there, I had my hands quite full with. . . whatever had it's hands full of me.
+		-It couldn't escape my notice, though, when something metallic struck the stone around the
+		 corner from me _very_ loudly.
+		-It took me a moment more to see Lucien's blade embedded in the. . . thing that had grabbed
+		 me, he having cleaved through the rock face separating him from it.
+		-But then it dragged me beneath the earth, tunneling through the rock, and I lost track of
+		 most of what was going on.
+		-Instead, I focused on battering away at the beast. . . with my brain.
+		-It's mind proved durable and my first attempt, at least, got nowhere.
+		-Meanwhile, it was secreting some goop that _burned_. Like crazy.
+		-I next tried something a bit more subtle, trying to implant an aversion to me, rather than
+		 just hammering away at it's grey matter, but had no better luck.
+		-To my confusion, then rock around me dissolved into mud and fell in gobs around the beast
+		 and I.
+		-To my delight, that was quickly followed by D'Roc charging over to us and burying his axe
+		 in the ugly lump's maybe-a-head protrusion, causing it to go limp.
+			-And leaving me distinctly filthy, covered now in mud, that creature's secretions, and
+			 whatever passes for it's blood. But, alive!
+		-Before I could so much as find cover, the sounds of battle died down, and I looked up from
+		 my filthy melt-wounds to see Lucien standing over a spider corpse, and a number of other
+		 spider corpses and party members scattered about.
+	-Grimble and I took turns healing my acid burns with our magic belts, then joined the others in
+	 rummaging around.
+		-Apparently, as they filled me in, some kind of druid had been controlling at least the
+		 spiders.
+		-They were already rifling through his pockets when I walked up, turning up a magic ring
+		 and a carved bone sceptor.
+			-The latter looked reasonably valuable, but I lost most interest once Jade said it
+			 wasn't magical.
+			-Jade and Maya continued to pour over it, though, talking about the symbols carved into
+			 it.
+				-Jade mentioned they were tied to some kind of place of earth and evil, known as
+				 "Earth's End", found somewhere in The Underdark.
 
 
 TODO:

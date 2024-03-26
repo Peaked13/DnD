@@ -103,25 +103,6 @@ Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on cl
 	3 gp. remaining
 
 
-Flavor:
-	-Creche raised.
-		-Clearly special, you were soon a leader amongst your peers (explaining eventual Marshal
-		 levels, among other things). Those peers all abandoned you, though, and their old selves,
-		 by means of the elan transcendence that is denied to you.
-		-Your name honors Edric, and your creche was full of Nedrics, Erics, Cedricks, and such.
-			-You're not too fond of it, as a result.
-			-Sometimes "Fred the Red".
-	-Took to air shortly as he was leaving his home, The Nested Domains of the Enlightened Edric,
-	 seeking freedom, and distance from the portal he'd emerged from.
-		-Did he arrive on The Material at Xûl-Jarak? Direct to Melvaunt? Someplace new?
-		-Did he have some previous relationship with Varani? Lesley had suggested something like that.
-			-Yep. Varani is in The Brotherhood's service as well. You met in The Nested Domains, and
-			 it was his tales of The Material Plane's vast, liberating vistas that pushed you out of
-			 the nest (lol).
-		-Since it sounds like our ship is provided by The Brotherhood, how did that go down for you?
-			-You described it in game as "like the Prisoner opening sequence": https://discord.com/channels/560915739796570113/560915739796570119/925920343271559259
-
-
 Character Design Notes:
 	-Phrenic Bard, with a one level dip into Marshal?
 		-Good option for a social focus, and the +4 Cha mostly negates the level adjustment if
@@ -325,6 +306,8 @@ Cohort:
 				-Lies + illusions = profit.
 				-Invisibility + rogues = death.
 				-Eventual Simulacrums are an amazing effect from a cohort: https://www.d20srd.org/srd/spells/simulacrum.htm
+			-Illusion saves, how do they work?
+				-The authoritative article: https://web.archive.org/web/20110225130432/http://www.wizards.com/default.asp?x=dnd/rg/20060221a
 			-Gear:
 				-Will start with expected character wealth for level: https://discord.com/channels/560915739796570113/560915739796570119/1095123367343964190
 					-That's 5400 gp.

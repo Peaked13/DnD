@@ -14,7 +14,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 9	Dread Pirate 3	+7		10				Craven
 10	Dread Pirate 4	+8		10
 11	Dread Pirate 5	+9		10
-12	Dread Pirate 5	+10		10				Combat Reflexes for SD?
+12	Dread Pirate 6	+10		10				Combat Reflexes for SD?
 13  Shadowdancer 1?
 
 

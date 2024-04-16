@@ -7242,7 +7242,7 @@ TODO:
 			 "Oh! Just a few moments ago, actually. . ."
 	-That revelation kicked off quite the flurry of activity, with people variously throwing their
 	 hands over their eyes or (unwisely) casting their eyes about, looking for the creature.
-		-I guess, as having seen that makes clear, I did the latter, before hurridly switching to
+		-As I guess having seen that makes clear, I did the latter, before hurridly switching to
 		 the former.
 		-Not a moment too soon, either, it sounded like, as I soon heard a hissing noise, coming from
 		 the direction I thought the glowing crystals were.
@@ -7263,9 +7263,9 @@ TODO:
 		 then began to scream with what sounded like (feigned?) fear, yelling, "Ahhh!!! I don't think
 		  basilisks speak common! Ahhh!!! I'm making the ceiling appear to cave in! _Don't_ run for
 		  your lives!"
-			-Catching on, I chimed in, shouting, "Oh no! I rock _isn't_ crushing my leg! Aghhhh!"
+			-Catching on, I chimed in, shouting, "Oh no! A rock _isn't_ crushing my leg! Aghhhh!"
 			-It was quite the illusion! I could swear I even thought I felt small bits of rock fall
-			 onto me, like the cave really _was_ crumbling a bit.
+			 onto me, like the cave really _was_ crumbling a bit. . .
 		-The sounds of battle died down at the same time, though I still dared not look over to see
 		 exactly why.
 		-Grimble, though, spoke up a moment later, saying, "Uh, Fred?"
@@ -7290,7 +7290,7 @@ TODO:
 		 crystal that floated up from his chest, and then hovered above him.
 		-"Oh!" Jade exclaimed, as I began to shout at nearly the same time, "Oh no!"
 		-Not heeding the warning I barely had begun to get out, Jade reached out and grabbed the
-		 key and, after gazing on it only a moment, pulled that hells damned orb of hers from her
+		 key and, after gazing on it only a moment, pulled that hells-damned orb of hers from her
 		 pack and began attempting to slot the key into it.
 		-"Of _course_ this was him!" I shouted. "That bastard! He can go fuck himself with his own
 		  crystal cock!"
@@ -7358,15 +7358,152 @@ TODO:
 		  be _changed_. . ."
 		 "You can't help him by doing what Edric wants. But, with help. . ." she said. "If we return
 		  this drow to the king of Sharaar Kol, he can have his priests pray for aid. If I then go
-		  back to Sasserine. . . Grimble was one of the heros that saved the people! Surely we can
-		  rally the people of the city, and it's temples, to our side.
+		  back to Sasserine. . . Grimble was one of the heroes that saved the people! Surely we can
+		  rally the people of the city, and it's temples, to our side."
 		-I could see some wisdom in that, the support of allies. . . and that I was going to be out
 		 voted here.
 
 
 TODO:
-	-Applied _+6_ to my Misc AC and my saves, double the normal due to crystal magic. Undo it.
-	-LEVEL FRED!
+	-(DONE) Applied _+6_ to my Misc AC and my saves, double the normal due to crystal magic. Undo it.
+	-(DONE) LEVEL FRED!
+
+
+4/15/24:
+	-Jade and D'Roc began talking about how to carry Grimble, settling on D'Roc carrying the ten
+	 times greater weight of his now-crystal form.
+	-Buying some time, being not yet ready to move on, I asked Jade about the crystals here.
+		-"Those crystals did something to my precognition, making it _way_ more powerful than it's
+		  ever been. Saving. . . my. . . ass," I said. "Seems like maybe a you thing, Jade?"
+		-Jade eyes indeed widened, and she began to babble a bit, mostly to herself.
+		-I caught something about "redirecting" and "kinetic energy". Eventually, catching us
+		 staring at her blankly, Jade slowed it down for us, explaining, "I could build a. . . way
+		 to redirect an attack with sword. . . outward. Make a weapon, for the ship."
+		-Well, that sounded good to me, and we talked a bit about how to haul more of this crystal
+		 back, more than the crumbled bits of deep crystal we'd already gathered up.
+			-Jade though she could manage some magic, but would need supplies and the like, having
+			 to run to town and back.
+			-I offered the ship's crew, who could certainly weild some picks, but we'd need to 
+			 fetch _them_ too, and need to keep them alive down here.
+		-Ultimately, we decided to put a pin in this and come back to it.
+	-We then finished gathering everything up and went to leave.
+		-To especially Maya's delight, our new tentacle-y buddies followed us. They were of the
+		 opinion it was safer around us, and trailed along offering advice about which fungus we
+		 passed was tasty or shouldn't be touched.
+	-As we walked on, the enormous crystals proved a confusing reflective maze, but, despite some
+	 brief uncertainty, D'Roc lead us out of it, and into some more traditionally-walled tunnels.
+	-We walked for what seemed miles, eventually following the sound of water to an arch across
+	 a crevasse.
+		-"You know," I said, "Watering holes and bridges both tend to play host to predators, two
+		  legs or four. Or, here, a thousand. . ."
+		-The party indeed stopped a bit short, casting our eyes and ears about before continuing.
+		-It was Bruce that pointed out that the noise of the water was something falling _into_ it,
+		 and pointed out that the stone arch was already crumbling, even without, say, D'Roc on it.
+		-We gathered up our various lengths of rope, passing and end of each to Maya, who flew them
+		 across the cavern.
+			-She tied her ends to a piton she hammered into the rock while I wrapped the others
+			 around a handy rock formation.
+			-Jade then I crossed the bridge's slippery footing, clinging tightly to the rope we'd
+			 strung.
+			-Sarge had to go get fancy spreading his wings and leaping out into the chasm, to glide
+			 across. . . falling just a bit short of the other end.
+				-As he drifted downward, Maya had to leap in to save him, relying on her glowing
+				 wings and trying to catch him by the arm.
+				-She had him for a brief moment, but his weight proved to much as he slipped 
+				 through her fingers.
+				-Sarge started to call out curses, and yelled, "There's something in the water!"
+				-I rifled through my holstered wands, pulling out one of Summon Monster I. I called
+				 a me-sized centipede into being, clinging to the wall below him, and called out,
+				 "Sarge! Grab the bug!"
+				-He did as instructed, and the creepy thing was able to scurry up the wall with
+				 Sarge on his back, just barely reaching the chasm's edge in the seconds before the
+				 insect disappeared.
+			-Sarge then safe, I turned to Bruce, who had begun pushing rocks into the water.
+				-He yelled something about tentacles, and Maya joined him at the chasm's edge. . .
+				 throwing some playing cards into the water?
+				-Her plan quickly became clear(ish) as two elves appeared in place of the cards. . .
+				 and began thrashing in the water.
+					-I guess maybe that at least distracted whatever is down there. I just hope
+					 those aren't real people. . .
+			-Lucien then darted nimbly across the rock bridge, but D'Roc, attempting to follow that
+			 act, immediately fell from the slippery bridge.
+				-He held tight to the ropes, but they began to snap one by one.
+				-Sarge barked some arcane syllables, and called into being. . . yet more tentacles,
+				 black ones emerging from the cliff-face.
+				-The new tentacles quickly grabbed D'Roc and threw him upwards, back onto the
+				 crumbling bridge.
+				-He quickly got his feet beneath him, and _ran_ for us, the bridge now collapsing
+				 beneath him, reaching us barely in time.
+			-"Well, I'd say lets never do that again," I said, "But that _is_ our way back. . ."
+	-We traveled on from the bridge, eventually reaching tunnels of _worked_ stone.
+		-Maya and Jade examined the stonework and some inscriptions on it. Maya pronounced it an
+		 ancient elven dialect, and described mentions of sacrifice and worship.
+		-"Sounds like we're here," Jade said.
+		-D'Roc also pointed at some nearby fungus, saying, "Someone's been harvesting that. Within
+		  the week."
+		-He began to search for tracks leading from them, and found a few sets of footprints, one
+		 or more _light_ humanoids and some kind of paw prints.
+	-We followed the tracks through these ruins, to a stone staircase, where D'Roc drew up short.
+		-Looking back at us behind him, he said, "Do you think there are traps?"
+		 "Good question!" I replied. "There was the one in the elevator after all. . . I'll keep
+		  an eye out!"
+		 "So you'll go first, then?" D'Roc asked.
+		 "Fuck no!"
+		-We _all_ kept a close watch, and moved cautiously, which was a good thing, as Jade pointed
+		 out a trip wire.
+		-She volunteered to disable it and, gingerly, cut the wire. . . at which point a dart flew
+		 from a unnoticed hole in the wall and right into her side.
+			-Weirdly, I then caught a flash of Jade falling to the ground, but only a blink later
+			 she was standing as she was before, and drawing the dart from her stomach.
+			-Casting my eyes about, I saw magic energies fading from about Bruce's hands, presumably
+			 the cause of the weirdness, and maybe what saved Jade.
+	-Continuing into the ruin, Maya remarked on a strange statue, pronouncing it some lost diety of
+	 the drow, a predecessor to Lloth's hold on them.
+	-_My_ eyes were instead drawn to some crates nearby, of a decidedly more recent vintage.
+		-Rifling through them, they appeared to be more of the stolen goods the bandit had been
+		 trafficking in.
+		-"Well, in stolen property, two wrongs do make a right," I claimed. "Ours now!"
+		-We grabbed from it some assorted jewelry and scrolls, plus a Wand of Fly that will surely
+		 prove handy.
+	-We paused a moment at a room filled with rusted spikes, some trap long since triggered, in which
+	 D'Roc pointed out some alarming _bite_ marks, indenting the iron of the spikes, and recently. . .
+	-Following D'Roc a bit further, he halted again.
+		-Pointing ahead of him, he called our attention to some faint voices we could hear some
+		 distance ahead of us. Voices, the sleeply snuffling of a beast. . .
+	-In hushed whispers, we proposed an ambush, killing anyone but our target and, those of us with
+	 appropriate magics, attempting to disable the target.
+	-"Those of you feeling sneaky, with me," I said, and then began to creep forward with Lucien in
+	 tow.
+	-Rounding a corner, I saw two drow: a woman in heavy armor and a man, presumably our target.
+		-Sleeping at their feet were two vaguely dog-like things, hideous and covered in spikes.
+		-I took cover behind some handy crates while Lucien took a position a bit forward of me,
+		 using the corner of a wall as cover.
+		-I then waved to D'Roc who came thundering in, the rest of the party behind him and blasting
+		 in various ways.
+		-Meanwhile, peering around the crate, I mucked about in our target's brain, locking it up
+		 so long as kept up my psychic "stirring".
+		-A melee soon ensued a short distance ahead of me, Lucien, Jade, and D'Roc tangling with the
+		 dog-things while the drow fell back, our target launching crossbow bolts and is sister
+		 chanting the words of some spell.
+		-Lucien cleaved a dog-thing while Sarge caught the other, and our target's sister, in a huge
+		 blast of flame. The rocky skin of the beast weathered it, but the drow was left smoking and
+		 motionless.
+		-Maya aimed her eldritch blasts at our target, but seemed to be shooting to wound, not kill,
+		 which should be a longer term solution than my power.
+	-Lucien finished the remaining dog-thing, so we crept forward and debated what to do about the
+	 target, while I held tight to his brain.
+		-Jade eventually offered to take over, claiming she could exercise a somewhat more subtle
+		 control.
+		-She chanted some Draconic syllables, and then gave me a nod.
+		-I let go, leaving us with a suddenly very cooperative elf.
+		-"Well," Maya said, "Lets look around and see what we can find before we lead."
+		 "Wait!" I broke in. "We can simple _ask_ our new friend here."
+		-I was also similarly eager to volunteer his services as a guide back out of here, if we
+		 wished to avoid that now-gone bridge.
+		-Jade began to request what we discussed of our well and truely captured target.
+
+
+TODO:
 	-Other routes to Edric? I imagined his realm having many portals, but it's an open question if
 	 that's indeed so, as I think only one to Xul-Jarak existed in the actual game sessions.
 	-Other Edric prep?
@@ -7376,16 +7513,21 @@ TODO:
 TODO:
 	-Skill spending:
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?
-		-Those skill tricks, probably before Jump.
-	-Finish cannon refurbishment, given that incoming bone fortress.
-		-They'd be great for use with followers!
-			-At 100 gp. per shot (1/3 that, if crafted), in powder cost alone, that's pretty
-			 expensive for follower pot shots at anything but other ships.
-		-They're in working order now, and just need smoke powder, which Grimble can make.
-			-It's retails for 25 gp. per pound, or a third of that in materials, if crafted, and
-			 it's 4 lbs. per shot with the light bombards.
-			-Stormwrack pg. 104 has the details, and doesn't list a Craft DC but just says it can
-			 be created by anyone with 9 ranks in Craft (alchemy). So maybe an automatic succcess?
+			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
+			 speed.
+		-Those other skill tricks, probably before Jump.
+	-Ship weapons:
+		-Finish cannon refurbishment, given that incoming bone fortress.
+			-They'd be great for use with followers!
+				-At 100 gp. per shot (1/3 that, if crafted), in powder cost alone, that's pretty
+				 expensive for follower pot shots at anything but other ships.
+			-They're in working order now, and just need smoke powder, which Grimble can make.
+				-It's retails for 25 gp. per pound, or a third of that in materials, if crafted, and
+				 it's 4 lbs. per shot with the light bombards.
+				-Stormwrack pg. 104 has the details, and doesn't list a Craft DC but just says it can
+				 be created by anyone with 9 ranks in Craft (alchemy). So maybe an automatic succcess?
+		-Jade mentioned kind of melee-attack-to-kinetic-energy device she could make if we returned
+		 for those magically reflective deep crystals in The Underdark (see 4/15/24 notes).
 	-Maybe do something with our other airship too.
 	-Get some boulders on board the ship for D'Roc to throw too.
 	-Host an event with that arms merchant. Search above for "weapon signing".

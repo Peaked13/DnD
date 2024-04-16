@@ -34,16 +34,17 @@ Skill Tricks Known:
 	Dwarven Dance: DC 25 Perform(Dance) check to negate 10 ft. of rough terrain underground.
 	Harmonic Shot: DC 30 Perform check and no move during the turn to give a ranged attack sonic
 	               type, yours or others.
+	Rhetorical Flourish: Rushed Diplomacy at -5 instead of -10.
 
 Advancement:
 	-Skill tricks are of course a big deal for rogues: https://srd.dndtools.org/srd/skills/skilltricks.html
 		-They cost two skill points each.
-		-RHETORICAL FLOURISH can help speed Diplomacy!
+		-(Done!) RHETORICAL FLOURISH can help speed Diplomacy!
 		-There's a variety of others that are almost as useful.
 		-Get:
 			Lvl.	Name
 			-------------
-			4		RHETORICAL FLOURISH (Diplomacy 8): Rushed Diplomacy at -5 instead of -10.
+			4		(Done!) RHETORICAL FLOURISH (Diplomacy 8): Rushed Diplomacy at -5 instead of -10.
 			4		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
 			9		BACK ON YOUR FEET (Tumble 12)
 		-Customize CONCEAL SPELLCASTING???

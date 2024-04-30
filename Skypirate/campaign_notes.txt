@@ -7383,13 +7383,14 @@ TODO:
 		 back, more than the crumbled bits of deep crystal we'd already gathered up.
 			-Jade though she could manage some magic, but would need supplies and the like, having
 			 to run to town and back.
-			-I offered the ship's crew, who could certainly weild some picks, but we'd need to 
+			-I offered the ship's crew, who could certainly wield some picks, but we'd need to 
 			 fetch _them_ too, and need to keep them alive down here.
 		-Ultimately, we decided to put a pin in this and come back to it.
 	-We then finished gathering everything up and went to leave.
 		-To especially Maya's delight, our new tentacle-y buddies followed us. They were of the
 		 opinion it was safer around us, and trailed along offering advice about which fungus we
-		 passed was tasty or shouldn't be touched.
+		 passed was tasty or shouldn't be touched (though, given their radically different anatomy,
+		 I wasn't putting much stock in it).
 	-As we walked on, the enormous crystals proved a confusing reflective maze, but, despite some
 	 brief uncertainty, D'Roc lead us out of it, and into some more traditionally-walled tunnels.
 	-We walked for what seemed miles, eventually following the sound of water to an arch across
@@ -7399,7 +7400,7 @@ TODO:
 		-The party indeed stopped a bit short, casting our eyes and ears about before continuing.
 		-It was Bruce that pointed out that the noise of the water was something falling _into_ it,
 		 and pointed out that the stone arch was already crumbling, even without, say, D'Roc on it.
-		-We gathered up our various lengths of rope, passing and end of each to Maya, who flew them
+		-We gathered up our various lengths of rope, passing an end of each to Maya, who flew them
 		 across the cavern.
 			-She tied her ends to a piton she hammered into the rock while I wrapped the others
 			 around a handy rock formation.
@@ -7409,7 +7410,7 @@ TODO:
 			 across. . . falling just a bit short of the other end.
 				-As he drifted downward, Maya had to leap in to save him, relying on her glowing
 				 wings and trying to catch him by the arm.
-				-She had him for a brief moment, but his weight proved to much as he slipped 
+				-She had him for a brief moment, but his weight proved too much as he slipped 
 				 through her fingers.
 				-Sarge started to call out curses, and yelled, "There's something in the water!"
 				-I rifled through my holstered wands, pulling out one of Summon Monster I. I called
@@ -7483,7 +7484,7 @@ TODO:
 		-Meanwhile, peering around the crate, I mucked about in our target's brain, locking it up
 		 so long as kept up my psychic "stirring".
 		-A melee soon ensued a short distance ahead of me, Lucien, Jade, and D'Roc tangling with the
-		 dog-things while the drow fell back, our target launching crossbow bolts and is sister
+		 dog-things while the drow fell back, our target launching crossbow bolts and his sister
 		 chanting the words of some spell.
 		-Lucien cleaved a dog-thing while Sarge caught the other, and our target's sister, in a huge
 		 blast of flame. The rocky skin of the beast weathered it, but the drow was left smoking and
@@ -7503,11 +7504,149 @@ TODO:
 		-Jade began to request what we discussed of our well and truely captured target.
 
 
+4/29/24:
+	-The enscrolled drow described to us a route back, through several hidden passages and other
+	 ingeneous short cuts.
+		-We took him at his (compelled) word and followed him to the surface.
+		-The dark elf didn't seems to much enjoy the sunny day we emerged into, but the rest of us
+		 sure did, and he didn't have any choice.
+		-Sarge had a handy Wand of Message, and also essentially specialized in signal flares (being
+		 some kind of pyromancer and all), so we had soon signaled our location to the ship and
+		 got picked up.
+		-Our newfound flump friends had followed us all the way to the surface and were happy to
+		 join us aboard ship.
+			-They were ooh-ing and ah-ing over, well, everything since we left The Underdark.
+			-I wisely suggested leashing them to the ship before we got underway, lest a stray wind
+			 sweep them off who knows where.
+	-All aboard the ship, we headed back to Sharaar Kol.
+	-A storm was blowing in, though, and soon the airship was tossing and shuddering in the winds.
+		-The crew and I did what we could to keep the ship under control.
+		-It was going well, until disaster, and lightning, struck one of the sails which was soon
+		 alight.
+		-I called out for help, shouting over the wind, "Shit's on fire! Who can conjure some water
+		  or the like?"
+		 "Do we have any water?" Maya shouted from the doorway to belowdecks.
+		 "There's barrels in the hold!" I replied at the top of my lungs.
+		-Maya soon returned with a bucket of water, splashing all around, and was thankfully
+		 followed by D'Roc carrying an entire barrel.
+		-Maya took wing with the bucket, dousing part of the burning sail and then returning for
+		 more water from D'Roc's bucket.
+		-Her next load of water spilled uselessly into the air, though, and, D'Roc, in an effort
+		 to help, hurled the barrel itself. . . which crashed through the rapidly disintegrating
+		 sail.
+		-"Cut the sail free!" I shouted. "We can limp back without it!"
+		-The crew began to hack away at the sail's riggin and spars, with mixed success until D'Roc
+		 joined with his axe, cutting easily through the spars.
+		-As the burning sail fell free, I maneuvered the now-damaged ship out of the storm clouds
+		 and into calmer air.
+	-We had better weather for the remainder of the journey, and enough time to get some rest.
+		-Before turning in, Jade made sure to do some careful maintenance on the spell holding the
+		 drow in bondage.
+		-After her nap, Maya emerged from her cabin with a tiny brass dragon in tow.
+			-"Uh, where'd you find that, Maya?" I asked.
+			 "He came to me in a while I was meditating," she replied.
+			 "Shit. I wish more of _my_ dreams came true. . ."
+			-Clearly, she's made another not-imaginary friend.
+	-Soon, we were back in Sharaar Kol.
+		-We were drawing even more stares than usual, us and our magically multiplying managerie of
+		 various creatures, but particularly the drow.
+		-Guards rushed to meet us, demanding an explanation.
+			-"Relax, guys," I reassured them. "The king had us retrieve this prisoner for him to
+			  interrogate. Jade here has him enscrolled"
+		-They then offered us an escort to the king, which we happily accepted, and soon we were in
+		 the king's audience chamber.
+			-The flumps followed us there, ooh-ing and ah-ing over the city.
+			-"Yeah, it's a solid place, guys," I said. "The dwarves know their drink!"
+			-It was soon established that the flumps had no idea what booze was, and I had a mission.
+		-The king was happy to see us returning successfully, and Jade began to ask about where we
+		 could secure the prisoner so she could release his mind.
+			-"Wait, release his mind?" I asked. "_Why_, Jade? Lets just get the answers we need
+			  while he's compelled to answer!"
+			-She looked rather uncomfortable at the idea, and proved unwilling, but the king was
+			 fine with the matter and I didn't much care so long as we were going to get paid.
+			-As such, they led him off to a cell.
+		-Once in a cell, Jade released the drow's mind, leading to a sudden grimace on the prisoner's.
+		 face, and we began the interrogation.
+			-Lucien furnished us with copious threats, and soon we got through to our prisoner.
+				-I remained less than convinced this was kinder than mind control. . .
+			-The king demanded answers to why the drow was comissioning attacks on caravans in the
+			 region and, after a couple of evasions, gave a name, Shadlock, claiming he'd employed
+			 the drow in this matter.
+			-Maya and Jade clearly recognized the name, as did the king, who was enraged.
+			-The king began to call for the death of this Shadlock and the drow both, but Maya
+			 counciled mercy, or at least caution, saying that the drow should be retained while
+			 pursuing Shadlock, for information and testimony.
+			-Maya was able to persuade the king, and the two of them fell to discussing what to do
+			 to settle the region, given this Shadlock's plots.
+				-The king asked first for Maya's help, and then her father's, but she pled other
+				 commitments.
+				-He settled on sending a cousin of his, by the wonderfully dwarven name of Lord
+				 Alestone, to oversee the matter, and advise the newly minted bandit-turned-lord.
+			-Maya also took a moment to introduce the king to our flump-y friends, and asked him to
+			 help set them up in the city.
+				-They settled on letting them hang around the local miner's school, an institution
+				 dwarves apparently begin attending in childhood.
+		-Taking our leave of the king, we led the flumps to the school and introduced them to some
+		 of the staff there (they were at least as interested in the rocks strewn around).
+			-Before daying our goodbyes, though, I insisted they join us for a celebratory drink.
+			-We found a tavern and I called out the the barkeep, "These poor critters have never
+			  had a proper drink! Help me fix that!"
+			 "Sure! What'll they have?"
+			 "Well, they sure love mushrooms. . . Got anything with mushrooms in it?"
+			-The barkeep described a beer fermented in barrels covered in mushooms and I ordered
+			 a round (and soon several more).
+			-What we got was something like a cream of mushroom soup, with a bit of boozy bite.
+			-Soon, two of the flumps were floating upside down and the third was on his third.
+				-One of them brought up a new rock selling scheme: _tasty_ rocks.
+				-That lit up Jade's eyes, and she began discussing the salt business with them. She
+				 had apparently recruited her sales force.
+					-And quite the talented one! They were brimming over with suggestions. We
+					 particularly liked the idea of _colorful_ salt, and decided on blue as quite
+					 striking.
+				-Maya even helped them come up with a catchy jingle: https://discord.com/channels/560915739796570113/560915739796570119/1234678503945801779
+		-Those of of not so lightweight that we float then fell to discussing our plan for rescuing/
+		 resurrecting Grimble.
+			-We pooled what I and others knew about Edric's realm, with focus on how to get there
+			 (and, perhaps more importantly, how to get back).
+			-Maya thought Ed might have Grimble on the layer featuring Rovert's . . . remains.
+				-Ugh. Not a place I want to visit.
+				-Apparently she'd heard rumors of. . . transformations, conducted there.
+			-Jade and Maya both pushed the idea of seeking the protection of some other god, to
+			 protect us from Edric.
+				-I was decidedly leery of that prospect, though came closest to comfort with Maya's
+				 framing of it as _commerce_: doing a favor or the like for some god in return for
+				 their protection against Edric.
+				-The notion of seeking out other members of The Brotherhood came up, but I was
+				 almost as deeply against that as just kowtowing to Edric. After all, their his
+				 allies, and probably more inclined to help him than us.
+				-The fact that gnomes have a god was also brought up and, knowing Grimble's people,
+				 that sounded a bit more attractive to me. We resolved to talk with Grimble's kin,
+				 back aboard the ship.
+			-We also talked a lot about options for getting to Edric's realm.
+				-Jade can make Planeshift scrolls, but Grimble would put us over the headcount
+				 limit and each casting risks dumping us some random distance away from our target.
+					-Maya had apparently heard of an extra-planar _copy_ of Xul-Jarak, used as a
+					 meeting place by The Brotherhood, something we could use to our advantage with
+					 planeshift.
+						-I actually visited there as a kid, with my creche!
+						-It was no bigger than the fortress, and thus hard to get lost in with
+						 Planeshift, but was linked to all the planes of The Brotherhood.
+						-Maya even claimed that the key to Edric's plane would _also_ let us
+						 Planeshift there!
+				-There are also portals, famously the one at Xul-Jarak where I myself arrived on The
+				 Material Plane.
+
+
 TODO:
+	-Talk to my gnomish followers about who Garl Glittergold is.
+    -Get a quote for repairing that damaged sail.
+	-Posted about the above in Discord here: https://discord.com/channels/560915739796570113/560916449527332877/1234696209462202418
 	-Other routes to Edric? I imagined his realm having many portals, but it's an open question if
 	 that's indeed so, as I think only one to Xul-Jarak existed in the actual game sessions.
 	-Other Edric prep?
 		-Will save bonuses?
+		-Be ready to ask about diamonds? They're chump change to Ed, and could pay that debt and/or
+		 pay to resurrect Grimble too.
 
 
 TODO:

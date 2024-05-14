@@ -168,7 +168,7 @@
 		-Meanwhile, we saw some further off guards apprehend Soller, at least, and a few of his men.
 		 With the boat in the water, I went over to tell our story.
 			-As I approached, Soller was receiving some rough treatment. It seems he was known to
-			 them, as one said to another, "This thug has been evading us for a long time. He's off
+			 them, as one said to another, "This thug has been evading us f\\\\\\\\\\r a long time. He's off
 			 to the dungeons."
 				-Another also mentioned something about having aprehended about half of the men they
 				 saw fleeing.
@@ -7509,7 +7509,7 @@ TODO:
 	 ingeneous short cuts.
 		-We took him at his (compelled) word and followed him to the surface.
 		-The dark elf didn't seems to much enjoy the sunny day we emerged into, but the rest of us
-		 sure did, and he didn't have any choice.
+		 sure did. . . and he didn't have any choice.
 		-Sarge had a handy Wand of Message, and also essentially specialized in signal flares (being
 		 some kind of pyromancer and all), so we had soon signaled our location to the ship and
 		 got picked up.
@@ -7527,7 +7527,7 @@ TODO:
 		  or the like?"
 		 "Do we have any water?" Maya shouted from the doorway to belowdecks.
 		 "There's barrels in the hold!" I replied at the top of my lungs.
-		-Maya soon returned with a bucket of water, splashing all around, and was thankfully
+		-Maya soon returned with a bucket of water, splashing it all around, and was thankfully
 		 followed by D'Roc carrying an entire barrel.
 		-Maya took wing with the bucket, dousing part of the burning sail and then returning for
 		 more water from D'Roc's bucket.
@@ -7544,15 +7544,15 @@ TODO:
 		 drow in bondage.
 		-After her nap, Maya emerged from her cabin with a tiny brass dragon in tow.
 			-"Uh, where'd you find that, Maya?" I asked.
-			 "He came to me in a while I was meditating," she replied.
+			 "He came to me in a dream while I was meditating," she replied.
 			 "Shit. I wish more of _my_ dreams came true. . ."
-			-Clearly, she's made another not-imaginary friend.
+			-Clearly, she's made another not-imaginary friend. Pretty on brand for her.
 	-Soon, we were back in Sharaar Kol.
 		-We were drawing even more stares than usual, us and our magically multiplying managerie of
 		 various creatures, but particularly the drow.
 		-Guards rushed to meet us, demanding an explanation.
 			-"Relax, guys," I reassured them. "The king had us retrieve this prisoner for him to
-			  interrogate. Jade here has him enscrolled"
+			  interrogate. Jade here has him enscrolled."
 		-They then offered us an escort to the king, which we happily accepted, and soon we were in
 		 the king's audience chamber.
 			-The flumps followed us there, ooh-ing and ah-ing over the city.
@@ -7638,15 +7638,182 @@ TODO:
 
 
 TODO:
-	-Talk to my gnomish followers about who Garl Glittergold is.
-    -Get a quote for repairing that damaged sail.
-	-Posted about the above in Discord here: https://discord.com/channels/560915739796570113/560916449527332877/1234696209462202418
-	-Other routes to Edric? I imagined his realm having many portals, but it's an open question if
+	-(DONE) Talk to my gnomish followers about who Garl Glittergold is.
+    -(DONE) Get a quote for repairing that damaged sail.
+	-(DONE) Posted about the above in Discord here: https://discord.com/channels/560915739796570113/560916449527332877/1234696209462202418
+	-(DONE) Other routes to Edric? I imagined his realm having many portals, but it's an open question if
 	 that's indeed so, as I think only one to Xul-Jarak existed in the actual game sessions.
-	-Other Edric prep?
+	-(DONE) Other Edric prep?
 		-Will save bonuses?
-		-Be ready to ask about diamonds? They're chump change to Ed, and could pay that debt and/or
-		 pay to resurrect Grimble too.
+
+
+5/24/24:
+	-Sitting in the tavern, one flump upright and two floating upside down, we continued discussing
+	 our plan to get Grimble back (and my traumatic childhood).
+		-Jade zoned out for a bit, doing a bit of crystal-fueled crafting.
+		-We debated a lot of ideas for leverage, with Edric or even other gods.
+			-Gods came up a bunch.
+				-We might be able to seek the help of Garl Glittergold. Grimble wasn't really a
+				 worshipper, but he sure was an excellent _gnome_ nonetheless: a trickster and
+				 master of illusions.
+				-Sarge reminded us that I'd mentioned a late companion, Isaias, a cleric of Shawn,
+				 who may have been a cleric of Enilias disguised.
+					-That certainly speaks to some turmoil, now or when this is revealed, in The
+					 Brotherhood, and maybe the possibility of seeking alliances there.
+					-It was also on my list of "report back" material.
+					-Jade chimed in, pointing out that it was on Isaias's body that we found her
+					 orb, a thing he'd never mentioned before his death.
+			-I spoke more about the kind of things Edric wants, which it's ostensibly my job to
+			 find, but also about how what he almost certainly wants from this is me: information
+			 about me and my capabilities, and doubtlessly to put me to some kind of test.
+		-In service of exploring. . . services (?) from Garl Glittergold, we decided we should talk
+		 talk with Grimble's kin about the subject.
+			-"Lets go fetch them. They could probably use a stiff drink, after the news about
+			  Grimble. . . Who can run there fastest?" I asked.
+			-Lucien raised his hand, so I said to him, "Great! I'll race you there! I'll even give
+			 you a head start! You take off and I'll follow when I finish this drink. . ."
+				-I ordered another, after he left, and before finishing the one I had.
+	-After some further discussion of our plans here, we noticed it had been quite a while that
+	 Lucien had been gone. . . even if he strolled up to the docks.
+		-We called for the check and were getting ready to follow him when he burst into the bar,
+		 hand on his sword hilt.
+		-Apparently there'd been yet _another_ kidnapping of my friends: my entire crew.
+		-Lucien's devil-brother, Sangravos, was apparently waiting for him, and had taken my crew
+		 hostage.
+		-Apparently he wanted our help ingratiating himself with the king of Sharaar Kol.
+			-A mass kidnapping is a funny way to get that. . .
+			-I told him as much, claiming that I certainly can't convince the king to trust him 
+			 while something like this is between us. I'm not a good liar. . .
+				-He had to concede _both_ points.
+		-Fortunately, Maya charmed (magically and regularly both, I think) the pants of off him
+		 (thankfully not literally).
+			-She convinced him that we could _never_ sell the king on such a thing while we were
+			 frantically trying to rescue a friend, and now more friends. If he were to release
+			 the crew and come back in a day. . .
+			-He couldn't resist her and assented. He waved his hand, leading to some stirring in
+			 the hold, and then teleported away.
+		-Soon, the crew was emerging from below decks, all talking over one another about how a
+		 devil tied them up.
+	-With the crew restored to us, we took the opportunity to ask Grimble's kin about Garl
+	 Glittergold.
+		-"Dimble, Bimble, and Timble, what do you guys know about Garl Glittergold?"
+		-They seemed to be about as religious as Grimble, and could really only speak about folksy
+		 generalities, saying stuff like, "Uh. . . Well, he loves tricks. Oh! And he likes when
+		 little gnomes clean their rooms!
+		 "It's alright guys," I told them. "I slept through religion class too. . ."
+		 "You had religion classes?" D'Roc asked.
+		 "I grew up in a place directly, and rigidly, run by the god who made me! Of course there
+		  were religion classes. . ."
+		-Timble _did_ volunteer that we could consult with a cleric of Glittergold.
+			-Consulting with _him_, and the rest of his resident kin, we determined the location of
+			 the gnome burrow nearest to Sharaar Kol, which he assured us would have one.
+	-With a trip to visit some gnomes in mind, we went off in search of a shipwright, to fix our
+	 burned and severed sail.
+		-Forunately, the airdocks was unsurprisingly the place to find one, and we quickly made our
+		 way inside such an establishment, SHIPWRIGHT_NAME's.
+		-We were greeted warmly by it's owner, proprietor, and namesake, who was happy to do the
+		 work, but who, upon hearing about our haste, regrettably informed us that he was closing
+		 up for the night and that his employees were already off at a tavern.
+			-We offered him additional money for speedy work, but he doubted he could convice his
+			 workers to return this evening.
+		-Maya, though, once more turned on her charm.
+			-Just the regular kind, I think, given the less abrupt and more plausible effect it had
+			 on him.
+		-That had quite the impact, with SHIPWRIGHT_NAME soon enamored with her, saying that he'd
+		 set about the work immediately, and work all through the night! He frantically gathered
+		 up some tools and then ran out the door to our nearby ship.
+		-He lept the gap between dock and ship, heedless of the great plunge between, and began to
+		 assess the damage.
+			-That rather alarmed Maya.
+	-We shouted to the dwarf, asking where his crew could be found, so that we could try our own
+	 luck at convincing them to come back to work. We then rushed off to that bar, though Maya
+	 opted to stay back and keep an eye on SHIPWRIGHT_NAME, to catch him should he fall.
+		-Inside the bar, we found a roudy group of dwarves dressed in identical work uniforms and
+		 deep into the booze _flights_ strewn about on the table before them.
+		-We sat down with them and I called for another round of the same flights, for all of us,
+		 making a proper introduction.
+		-Confirming they worked for SHIPWRIGHT_NAME, we started to raise the issue of our damaged
+		 sail, but were met with laughter as one said, "You should talk to the boss about that. . ."
+		 "I did! I replied. "He was doubting you guys could do it. . ."
+		 "Well, another replied, we are 5 rounds deep. . ."
+		 "Exactly!" I said, cutting him off. "That's a mere appetizer to dwarves! He seemed to doubt
+		  your fortitude. . . But, seeing you lot, I sure don't! Now, look, guys, I hate to delay
+		  you reaching the main course, but we are willing to pay for the rush job. . ."
+		-We were soon on the way back to the ship, with at least two of the dwarves having trouble
+		 walking in a straight line.
+		-As we reached the ship, the grinning SHIPWRIGHT_NAME told his employees he's joining our
+		 crew, and I was of course on board, he being a skilled shipwright.
+			-"SHIPWRIGHT_NAME'S_SON, you're in charge now! You'll just have to ADD/REMOVE the LETTER on the sign. . ."
+		-The crew then joined their boss in the work.
+		-One dwarf, on the drunker end of the crowd, almost immediately fell to his seemingly certain
+		 death, but Maya took (magic) wing, swooping down to grab him, and tossed a line back up to
+		 D'Roc who hauled the two of them back up.
+			-Gazing at D'Roc, that clumsy dwarf, muttered, "You know, your remind me of something. . ."
+			-The two of them, soon joined by Maya and Jade, discussed a place that D'Roc indeed
+			 believed sounded like his long lost home, dwarven legends apparently telling of such a-bit
+			 maze.
+				-Maya and Jade discussed some arcane quirk of cosmology where mazes are apparently
+				 a part of the early formation of a plane.
+	-With the repairs underway, our comrades and I spent the time discussing how to deal with the
+	 devil.
+		-I suggested murder, and Lucien enthusiastically agreed. . .which was good. Some people do
+		 take offense to proposals to murder their siblings. . .
+		-Jade volunteered that she could create a binding circle, for trapping outsiders, which
+		 certainly interested us for the current problem!
+			-To set that up, we picked the antechamber to the captain's quarters, and Jade began
+			 painstakingly creating an elaborate diagram on the floor in powdered silver.
+			-Jade thought she could summon him and bind him in the circle.
+			-Lucien even volunteered his blood, the blood of our target's kin, and Jade agreed that
+			 she could make use of that to strengthen the ward, solomnly accepting a cup full of his
+			 donation.
+			-As she worked, Jade warned all of us, "Breaking the circle will free him, as will
+			 hostile actions towards him."
+				-We conveyed that message to the crew too, telling them to stay out of the room,
+				 under any and all circumstances.
+	-Jade then commenced the summoning ritual.
+		-Soon, the devil faded into view before us, and he greeted Maya warmly.
+		-Through gritted teeth, and minding the warning about "hostile actions", Lucien growled,
+		 "Nice to see you, brother. So. . . good, to have you back on The Material Plane. . ."
+		 "Ah, Maya! I see you civilized him," the demon goaded Lucien. "He's a regular lap dog these
+		  days!"
+		-Lucien was instantly enraged, and stepped towards the circle.
+		-Jade then grabbed his arm, talking to him in low quiet tones, and pulled him towards my
+		 bedchamber.
+			-I chimed in, "Yeah. . . Play it cool. No need to get _hostile_. . . yet."
+		-That left me to play for time with the devil.
+			-We talked of booze, The Material, and of how surprisingly similar our homes were.
+				-"Huh. Awful, layers, and run by tyrannical jerks. That _does_ sound familiar. . ."
+			-He could read a surprising amount about me, though whether is was simple sight, magic,
+			 or foreknowledge, and apparently saw in that an opportunity.
+				-"Where you come from. . . psionics are common, are they not? You yourself are
+				  clearly so empowered. These jerks you speak of. . . I could offer you what every
+				  captain dreams of: a treasure map. And one that leads to an artifact that would
+				  shield your mind. . ."
+				 ". . . Uh. . . Tell me more. . ."
+				 "All you would need to do is release me. . ."
+			-Jade, though, burst back into the room with a still fuming Lucien.
+			-"Fred," she said. "We're going to leave him here for now. . . We need to further
+			  discuss how we're going to. . . deal with our guest."
+		-We headed out into the hall and down into the other end of the ship. There, discussed our
+		 options.
+			-Jade had apparently tried something involving a "Spectral Hand" while she was shut in
+			 the bedroom, but without luck.
+			-She thought she could try again until it worked, given enough time, maybe a week. . .
+			-That isn't really time we have right now, but she said she'd be able to compell a
+			 service from him, with these arcane tricks, and maybe some negotiation coaching from me.
+			-That prompted it's own debate, but one of the most attractive options was a _dual_,
+			 with Lucien, Lucien being confident he could take his brother if we set the terms such
+			 that he could quickly close and stay close.
+	
+
+TODO:
+	-New shipwright (dwarven expert) crew member. Ask Jake for more details, and figure out if he's
+	 a follower or what.
+		-Ah, he's fixated on Maya, not me. She doesn't have leadership, but he'll at least be staying
+		 aboard ship for the 9 days he's Fanatical towards her.
+	-Applied +3 Precognition. Remove it.
+	-Be ready to ask Edric or his people about diamonds? They're chump change to Ed, and could pay
+	 that debt and/or pay to resurrect Grimble too.
 
 
 TODO:
@@ -7715,6 +7882,7 @@ TODO:
 			-Low saturation by the fruits of Edric (never saw an adamantine weapon, etc.).
 			-Interesting metal working technology, used to create ultra-light mail.
 			-Evidence of a follower of Enilias operating, masquerading as a follower of Shawn.
+				-Now dead, but still interesting.
 			-Found an illithid skull in the caverns beneath Sasserine's noble district, where they
 			 were making the were-sharks. Very much Ed's area of interest.
 		-Sharaar Kol:
@@ -7729,7 +7897,7 @@ TODO:
 			-The Quickhammer organization:
 				-Seems to indicate a demand for fake or shoddy good exists. Potentially something
 				 exports from Edric's domain could take advantage of (being a source of cheap goods)
-				 or preempt (being capable of extraordinary workmanship or materials).
+				 or preempt (being capable of extraordinary workmanship and materials).
 			-The king is angry at the high priest of Morradin.
 		-Earth's End:
 			-A trading post in The Underdark we have the location of, with an existing portal to

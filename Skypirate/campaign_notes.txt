@@ -7710,7 +7710,7 @@ TODO:
 	-With a trip to visit some gnomes in mind, we went off in search of a shipwright, to fix our
 	 burned and severed sail.
 		-Forunately, the airdocks was unsurprisingly the place to find one, and we quickly made our
-		 way inside such an establishment, SHIPWRIGHT_NAME's.
+		 way inside such an establishment, Edgar's.
 		-We were greeted warmly by it's owner, proprietor, and namesake, who was happy to do the
 		 work, but who, upon hearing about our haste, regrettably informed us that he was closing
 		 up for the night and that his employees were already off at a tavern.
@@ -7719,7 +7719,7 @@ TODO:
 		-Maya, though, once more turned on her charm.
 			-Just the regular kind, I think, given the less abrupt and more plausible effect it had
 			 on him.
-		-That had quite the impact, with SHIPWRIGHT_NAME soon enamored with her, saying that he'd
+		-That had quite the impact, with Edgar soon enamored with her, saying that he'd
 		 set about the work immediately, and work all through the night! He frantically gathered
 		 up some tools and then ran out the door to our nearby ship.
 		-He lept the gap between dock and ship, heedless of the great plunge between, and began to
@@ -7727,12 +7727,12 @@ TODO:
 			-That rather alarmed Maya.
 	-We shouted to the dwarf, asking where his crew could be found, so that we could try our own
 	 luck at convincing them to come back to work. We then rushed off to that bar, though Maya
-	 opted to stay back and keep an eye on SHIPWRIGHT_NAME, to catch him should he fall.
+	 opted to stay back and keep an eye on Edgar, to catch him should he fall.
 		-Inside the bar, we found a roudy group of dwarves dressed in identical work uniforms and
 		 deep into the booze _flights_ strewn about on the table before them.
 		-We sat down with them and I called for another round of the same flights, for all of us,
 		 making a proper introduction.
-		-Confirming they worked for SHIPWRIGHT_NAME, we started to raise the issue of our damaged
+		-Confirming they worked for Edgar, we started to raise the issue of our damaged
 		 sail, but were met with laughter as one said, "You should talk to the boss about that. . ."
 		 "I did! I replied. "He was doubting you guys could do it. . ."
 		 "Well, another replied, we are 5 rounds deep. . ."
@@ -7741,9 +7741,9 @@ TODO:
 		  you reaching the main course, but we are willing to pay for the rush job. . ."
 		-We were soon on the way back to the ship, with at least two of the dwarves having trouble
 		 walking in a straight line.
-		-As we reached the ship, the grinning SHIPWRIGHT_NAME told his employees he's joining our
+		-As we reached the ship, the grinning Edgar told his employees he's joining our
 		 crew, and I was of course on board, he being a skilled shipwright.
-			-"SHIPWRIGHT_NAME'S_SON, you're in charge now! You'll just have to ADD/REMOVE the LETTER on the sign. . ."
+			-"Cedgar, my son, you're in charge now! You'll just have to add a letter on the sign. . ."
 		-The crew then joined their boss in the work.
 		-One dwarf, on the drunker end of the crowd, almost immediately fell to his seemingly certain
 		 death, but Maya took (magic) wing, swooping down to grab him, and tossed a line back up to
@@ -7807,16 +7807,138 @@ TODO:
 	
 
 TODO:
-	-New shipwright (dwarven expert) crew member. Ask Jake for more details, and figure out if he's
+	-(DONE) New shipwright (dwarven expert) crew member. Ask Jake for more details, and figure out if he's
 	 a follower or what.
 		-Ah, he's fixated on Maya, not me. She doesn't have leadership, but he'll at least be staying
 		 aboard ship for the 9 days he's Fanatical towards her.
-	-Applied +3 Precognition. Remove it.
-	-Be ready to ask Edric or his people about diamonds? They're chump change to Ed, and could pay
-	 that debt and/or pay to resurrect Grimble too.
+	-(DONE) Applied +3 Precognition. Remove it.
+
+
+5/29/24:
+	-Jade apparently had more curses up her sleeve, and plenty of time left on her magic binding,
+	 so she requested another day to prepare something more, and we eventually assented.
+		-"I mean, who knows what's happening to poor Grimble. . . wherever he is?" I complained.
+		 "Grimble? He's on the ship!" Bram replied.
+		 "Well, _crystal_ Grimble is. . ." I clarified, "But not his soul or whatever."
+	-The next morning, Jade's preparations in place, she cursed him still further, from the other
+	 room using various magic implements.
+	-We then opened up the door to our unpleasantly occupied dining chamber, to reveal a glaring
+	 and impatient devil.
+		-Maya gave us all a little speech, talking to us about how great we were, and to the devil
+		 about about an honorable confrontation.
+		-Indeed, we then proceeded to negotiate the terms of a duel between Lucien and his brother,
+		 which both assented to.
+			-I sent one of my gnomish crewmen, Timble, off to grab some snacks, for us in the
+			 the audience.
+		-The duel itself was almost anticlimactic. Lucien breached the circle with his toe and then,
+		 almost before his brother could even brace himself, Lucien drew his blade and slashed the
+		 devil in one smooth motion, then finished his reeling sibling with another as he brought
+		 the blade, glowing with holy energies, back down.
+			-Those energies probably have a lot to do with why the devil basically exploded.
+			-I also had to call Timble back, on account of the brevity of the duel, and ask him to
+			 fetch some rags instead.
+	-That left the room _drenched_ in blood.
+		-In fact, Lucien was really _staring_ at his handiwork. Even more strangely, he was soon
+		 joined in that by Jade, who staring at blood was a bit less in character for.
+		-That mystery was soon explained, though. They fell to discussing the nature of the planes,
+		 and bandied about terms like "hemospicy", and eventually clued the rest of us in.
+			-Apparently, something about a devil's passage between planes marks it, and they
+			 believed they could divine where in The Hells the devil departed from, based on the
+			 patterns formed from his bloody demise.
+			-Jade then set to recording the splatters _on Lucien_, before the two set to arguing
+			 about the patterns and their meanings.
+			-They came to the conclusion that he'd left from the seventh level of The Nine Hells,
+			 Maladomini, a place ruled by the infernal prince Baalzebul.
+	-Well, with that bloody matter settled, we made the ship ready to depart and then sought out
+ 	 the gnomes town my crew had told me about.
+		-In the course of the trip from Sharaar Kol, we passed above the Shieldwall Mountains.
+		-A short way past the mountains foothils, the air elementals grew restive. I could feel it
+		 in the ships handling.
+		-Seeking them out below decks, there and been a subtle change in their hue, a grayer tone.
+		-Asking them what was wrong, they gave me only vague answers, about a "change in the wind".
+		-They seemed to have little idea of what they were feeling themselves, but had instead
+		 some instinctive connection to their element.
+		-I warned everyone aboard to keep an eye out, and it was a short while later that Bruce
+		 called out from the crow's nest (bat's nest?).
+		-He had sighted some kind of. . . floating platform? Even with my attention called to it,
+		 I could barely make it out in the dark clouds. There was definitely _something_ there,
+		 though.
+		-We elected to give it a wide berth, and spent a tense dozen minutes on alert while we
+		 passed.
+		-Pass we did, though, and soon we were clear of the mountains, with the elementals back to
+		 normal a short while later.
+	-Soon thereafter, we were flying above The Shining Valley.
+		-We sighted an elaborate, heavily mechanized dock at one end of the valley, one which my
+		 crewman Himble confirmed was operated by the gnomes (and which he proceeded to go on at
+		 length about it's many fine mechanical marvels).
+		-We brought the ship into a berth on the airdock, and soon I was chatting with the
+		 dockmaster.
+		-After collecting his fee for the berth, he was _at least_ as enthusiastic about his docks.
+		-After some pleasantries, I was soon steering him toward Jade, who was all to happy to
+		 talk with him at length about mechanisms, particularly his pride and joy, the modulated
+		 sprocket, a. . . thing he'd apparently invented.
+			-I _did_ catch the dockmaster mentioning to Jade the many fine and exotic materials
+			 available in this settlement, a thing she (and I, though her) might love to take
+			 advantage of.
+		-Eventually she brought the conversation back around to our need for a priest, and asked
+		 for directions.
+			-Apparently that was something of a faux pas. He informed us that only gnomes were
+			 supposed to know the location of Garl Glittergold's temple.
+			-After some wheedling on Maya's part, though, he gave in and revealed that the temple
+			 was beneath the settlement.
+			-However, to get in, there was an obstacle: admittance to the temple require that we
+			 somehow prank one of it's secret guardians. No one knows who they are, but impressing
+			 them in this way is what's required to earn their approval, and entry into the temple.
+		-Coming up with an impressive prank stumped us for some time. . . so I suggested a bar.
+			-Somewhere between my fourth and eighth whiskey, we settled on a scheme, mostly built
+			 on a joke Maya suggested: asking for a priest to help my pony. . . because he's a
+			 little horse.
+			-That soon ballooned into a dragon battle and all sorts of (planned) chaos.
+		-It required some spell preparation on Jade and Bruce's parts, though so we turned in for
+		 the evening with a plan to execute our prank over the lunch hour tomorrow.
+	-The next morning, some miserable gnomish contraption woke me. An "alarm clock" is what the
+	 inn's proprietor named it, when I came down and complained.
+	-Around lunchtime, we headed to a small public square, outside a popular restaurant.
+		-While Jade conjured a pony, I made sure everyone knew their parts in the plan.
+		-I then ran at the restaurant, waving my hands over my head, yelling, "Run for your lives!
+		 The dragon! The beast! It's here!"
+		-D'Roc and the pony were fast on my heels, with, shortly behind them, Maya's tiny dragon
+		 and Lucien.
+			-The last was cackling evilly in a way that played up his devilish heritage.
+			-Sarge also contributed some gouts of flames for the the dragon, bursting in the air
+			 overhead.
+		-D'Roc picked up the pony and ran past me, but I halted, and shouted, "I'll scare them off!"
+		-I then let out the cutest, _least_ intimidating roar I could manage, my best impression of
+		 a squeaky kitten, which nonetheless caused Lucien to flee, though without deterring the
+		 dragon.
+		-Unfortunately, I was not the only one responding to the "attack".
+			-Some form of automaton emerged from a nearby alleyway.
+			-In an ominous mechanical voice, it demanded calm, and then began encasing nearby
+			 gnomes in some kind of domes of force.
+		-D'Roc then set the pony down and turned to face the dragon, drawing his axe.
+		-They had a quick mock battle and then "struck down" the dragon, which began spurting comical
+		 gouts of what I would swear was wine. . . or perhaps it's underage cousin, grape juice.
+		-The dragon's "demise" thankfully quieted the construct.
+		-I then ran to "my" poney and screamed, adding, "My pony! The dragon got her! I need a
+		 priest!"
+		-I kept repeating that last bit until I noticed a gnome waving and yelling, from beneath
+		 one of the domes.
+		-"I'm the priest!" he yelled as I got closer. "But I'm stuck!"
+		-D'Roc then shattered the dome with his axe, and the priest stood up as it's shards
+		 disintegrated around him.
+		-"What's wrong with your pony?" he asked me.
+		 "Oh! He's a little horse. . ." I replied, as the horse gave forth Jade's (terrible) singing
+		 voice.
+	-The gnomish priest groaned loudly, saying, "I see what this is. Fine. . ."
+		-He then drew a door with his finger in the dirt of the square beneath him.
+		-Grasping it's "knob", he pulled the apparently realer than it looked door open, revealing
+		 a stair going downward into the earth.
+		-The party gathered around and then descended, emerging into a carnival scene. . .
 
 
 TODO:
+	-Be ready to ask Edric or his people about diamonds? They're chump change to Ed, and could pay
+	 that debt and/or pay to resurrect Grimble too.
 	-Skill spending:
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?
 			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement

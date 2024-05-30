@@ -7699,7 +7699,7 @@ TODO:
 		-"Dimble, Bimble, and Timble, what do you guys know about Garl Glittergold?"
 		-They seemed to be about as religious as Grimble, and could really only speak about folksy
 		 generalities, saying stuff like, "Uh. . . Well, he loves tricks. Oh! And he likes when
-		 little gnomes clean their rooms!
+		 little gnomes clean their rooms!"
 		 "It's alright guys," I told them. "I slept through religion class too. . ."
 		 "You had religion classes?" D'Roc asked.
 		 "I grew up in a place directly, and rigidly, run by the god who made me! Of course there
@@ -7728,14 +7728,14 @@ TODO:
 	-We shouted to the dwarf, asking where his crew could be found, so that we could try our own
 	 luck at convincing them to come back to work. We then rushed off to that bar, though Maya
 	 opted to stay back and keep an eye on Edgar, to catch him should he fall.
-		-Inside the bar, we found a roudy group of dwarves dressed in identical work uniforms and
+		-Inside the bar, we found a rowdy group of dwarves dressed in identical work uniforms and
 		 deep into the booze _flights_ strewn about on the table before them.
 		-We sat down with them and I called for another round of the same flights, for all of us,
 		 making a proper introduction.
 		-Confirming they worked for Edgar, we started to raise the issue of our damaged
 		 sail, but were met with laughter as one said, "You should talk to the boss about that. . ."
 		 "I did! I replied. "He was doubting you guys could do it. . ."
-		 "Well, another replied, we are 5 rounds deep. . ."
+		 "Well, another replied, we are five rounds deep. . ."
 		 "Exactly!" I said, cutting him off. "That's a mere appetizer to dwarves! He seemed to doubt
 		  your fortitude. . . But, seeing you lot, I sure don't! Now, look, guys, I hate to delay
 		  you reaching the main course, but we are willing to pay for the rush job. . ."
@@ -7748,9 +7748,9 @@ TODO:
 		-One dwarf, on the drunker end of the crowd, almost immediately fell to his seemingly certain
 		 death, but Maya took (magic) wing, swooping down to grab him, and tossed a line back up to
 		 D'Roc who hauled the two of them back up.
-			-Gazing at D'Roc, that clumsy dwarf, muttered, "You know, your remind me of something. . ."
+			-Gazing at D'Roc, that clumsy dwarf muttered, "You know, your remind me of something. . ."
 			-The two of them, soon joined by Maya and Jade, discussed a place that D'Roc indeed
-			 believed sounded like his long lost home, dwarven legends apparently telling of such a-bit
+			 believed sounded like his long lost home, dwarven legends apparently telling of such a
 			 maze.
 				-Maya and Jade discussed some arcane quirk of cosmology where mazes are apparently
 				 a part of the early formation of a plane.

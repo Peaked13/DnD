@@ -7825,7 +7825,7 @@ TODO:
 	-We then opened up the door to our unpleasantly occupied dining chamber, to reveal a glaring
 	 and impatient devil.
 		-Maya gave us all a little speech, talking to us about how great we were, and to the devil
-		 about about an honorable confrontation.
+		 about an honorable confrontation.
 		-Indeed, we then proceeded to negotiate the terms of a duel between Lucien and his brother,
 		 which both assented to.
 			-I sent one of my gnomish crewmen, Timble, off to grab some snacks, for us in the
@@ -7846,20 +7846,20 @@ TODO:
 			 believed they could divine where in The Hells the devil departed from, based on the
 			 patterns formed from his bloody demise.
 			-Jade then set to recording the splatters _on Lucien_, before the two set to arguing
-			 about the patterns and their meanings.
+			 about the patterns in the gore there and elsewhere, and their meanings.
 			-They came to the conclusion that he'd left from the seventh level of The Nine Hells,
 			 Maladomini, a place ruled by the infernal prince Baalzebul.
 	-Well, with that bloody matter settled, we made the ship ready to depart and then sought out
- 	 the gnomes town my crew had told me about.
+ 	 the gnome town my crew had told me about.
 		-In the course of the trip from Sharaar Kol, we passed above the Shieldwall Mountains.
 		-A short way past the mountains foothils, the air elementals grew restive. I could feel it
 		 in the ships handling.
-		-Seeking them out below decks, there and been a subtle change in their hue, a grayer tone.
+		-Seeking them out below decks, there had been a subtle change in their hue, a grayer tone.
 		-Asking them what was wrong, they gave me only vague answers, about a "change in the wind".
 		-They seemed to have little idea of what they were feeling themselves, but had instead
 		 some instinctive connection to their element.
 		-I warned everyone aboard to keep an eye out, and it was a short while later that Bruce
-		 called out from the crow's nest (bat's nest?).
+		 called out from the crow's nest (_bat's_ nest?).
 		-He had sighted some kind of. . . floating platform? Even with my attention called to it,
 		 I could barely make it out in the dark clouds. There was definitely _something_ there,
 		 though.
@@ -7874,7 +7874,7 @@ TODO:
 		-We brought the ship into a berth on the airdock, and soon I was chatting with the
 		 dockmaster.
 		-After collecting his fee for the berth, he was _at least_ as enthusiastic about his docks.
-		-After some pleasantries, I was soon steering him toward Jade, who was all to happy to
+		-After some pleasantries, I was soon steering him toward Jade, who was all too happy to
 		 talk with him at length about mechanisms, particularly his pride and joy, the modulated
 		 sprocket, a. . . thing he'd apparently invented.
 			-I _did_ catch the dockmaster mentioning to Jade the many fine and exotic materials
@@ -7934,6 +7934,123 @@ TODO:
 		-Grasping it's "knob", he pulled the apparently realer than it looked door open, revealing
 		 a stair going downward into the earth.
 		-The party gathered around and then descended, emerging into a carnival scene. . .
+
+
+6/10/24:
+	-The temple was filled with gnomes, conjuring illusions, practicing acrobatics, and telling
+	 jokes, resulting in the carnival atmosphere.
+		-There were though also artificers and enginneers, practicing _their_ talents and trades to,
+		 dedicating the works to their god.
+		-I cast my eyes looking for someone in charge, ring master or high priest either, but it was
+		 Maya who first spotted and pointed out that a considerable amount of what we were witnessing,
+		 gnomes, furnishings, and even space, were in fact illusions covering a smaller temple and
+		 somewhat less worshipers.
+		-She also said that she felt there were two factions or schools in the temple, split along
+		 the lines of their talents: jokers and artisans.
+		-Well, the jokers are clearly Grimble's and my people, and I said as much, suggesting we
+		 seek help there.
+		-We followed the call of a carnival barker of sorts, which led us to an illusory play of
+		 sorts, one telling some tale of a split between gnomes and kobolds.
+			-There were also some bits about an eclipse and other astronomical phenomena.
+			-I didn't really follow that, though. . . maybe because where I come from doesn't have
+			 a sky.
+		-We also observed a variety of other displays, shows, and shrines.
+			-Another series of illusions showed Garl Glittergold pranking other gods.
+				-The pranks were good natured, save where kobolds were concerned.
+			-There was also a lavish statue of a gnome with gemstone eyes.
+		-Eventually Maya pointed out a particularly unobtrusive gnome, one seemingly repeating lines
+		 to himself in one corner.
+			-"In this place where little is what it seems, the leader won't be flashy and obvious,"
+			 she added.
+			-Shrugging in response, I approached the gnome and asked, "What are you working on? Need
+			 a stand-in for whatever you're practicing?" I asked.
+			 "The tree. . ." he said, "Should it disappear or turn into a T-Rex?"
+			 "Uh. . ."
+			 "Oh, sorry! You need the context. . ." the gnome added. "I need to impart a moral
+			  lesson. Someone stole sacred jewelry, a very grave crime."
+			 "What's a T-Rex?" Jade broke in.
+			 "Ah, it's a, well, a kind of lizard. . . a very large one," the priest explained.
+			 "Oh! Like a dragon?" Maya asked.
+			 "Uh, yeah, kind of! But with really short arms. . " the priest replied.
+			 "Ah. I think something like that killed a buddy of mine. . ." I said, killing the mood
+			 a little bit.
+			 "I'm sorry. . ." the priest said. "What happened?"
+			 "Well," I explained, "We _did_ learn a moral lesson, one about rushing in without a
+			  plan. . ."
+				-Adding that last bit, a glared briefly at Maya.
+			 "But!" I continued, perking up. "_That's_ why I vote T-Rex. They teach a _mean_ lesson."
+			-I then took the opportuninty to steer the conversation around to our own agenda, saying,
+			 "Actually, we've need to teach something of a moral lesson of our own. . ."
+			-I then told him about my lost friend, Grimble: how he was a paragon of gnomishness,
+			 with his great talent for illusions and great sense of humor, and the story of Grimble's
+			 mistreatment by Edric.
+			-The priest knew of Edric for his industrial pursuits, and generally respected him for
+			 them.
+			-"The problem is," I explained, "He treats _people_ like _things_. . . and doesn't
+			  hesitate to make things out of them."
+			-He soon saw the issue, and agreed it was a grave misdeed by someone who clearly needs
+			 to lighten up.
+			-Seeing the nobility of our cause, and the stick up Ed's ass, he agreed to offer us aid.
+			-In particular, he handed us each a small, fragile-seeming gemstone, explaining that, if
+			 we break them against a creature, the creature will disappear and be replaced with an
+			 illusory double.
+				-A handy thing, given Edric's unpleasant interest in yours truely.
+				-Bruce even handed his to me, saying his vow of poverty forbids his use of such
+				 things.
+			-Jade also asked the priest, "What else do you know of The Brotherhood?"
+				-He mentioned, in reply, rumors of some kind of falling out, with the various gods
+				 of The Brotherhood retreating to their own realms and agendas. "Their shared realm
+				 is. . . sort of in disrepair?" he added.
+				-He also said that Nikisi had pissed off Myrkul, but that the church of Garl
+				 Glittergold actually regarded Enelias rather fondly, for his talents for trickery.
+				-The priest also shared that Shawn's adventuring academy is going strong, but
+				 concerns itself with the broader cosmic balance more than the rest of The
+				 Brotherhood.
+				-Beyond the gods, he also mentioned an artificer that had been associated with The
+				 Brotherhood, one "2d6", who it's said left enchanted items behind hoping that one
+				 day someone would take them up to help The Brotherhood.
+					-Jade started fidgeting a bit at that.
+					-"Do you think he's still around?" she asked the gnome.
+					 "Don't see why not, given that he's a warforged."
+			-Given that the priest clearly knew a lot about The Brotherhood, I also asked him about
+			 the statue of a gnome with (alarming, to me) crystal eyes.
+				-"That's Garl Glittergold himself!" the gnome explained. "It's said that every
+				  thousand years or so he even inhabits the statue. Gets up to all sorts of things!"
+	-That matter settled, we adjourned to a tavern and returned to discussing our planned approach
+	 to The Brotherhood.
+		-We talked a bit about The Brotherhood's shared realm, their otherworldly fortress of
+		 Xul-Jarak.
+		-Jade also brought up the card game she's been dreaming of for some time, wondering if
+		 Edric would be interested in such things.
+			-It actually sounded like _very_ much his kind of thing, and I told Jade as much.
+			-She rapidly got excited, talking quickly about properties, odds, and the appeal of her
+			 cards-and-illusions game.
+			-I was eventually able to get a word in edgewise, and cautioned her, saying, "Remember
+			 what this is really about, Jade: we need to get Grimble back. . . not find you an
+			 investor."
+			-She nodded solomnly, in response.
+			-Well, it's at least another bargaining chip. . .
+		-Sarge also raised aid from others of The Brotherhood, a thing I'm more amenable to than I
+		 was before we learned The Brotherhood wasn't exactly in the perfect harmony the teachers
+		 described to me back in the creche.
+			-Jade ran with that too, talking of where she might be able to find more keys for her
+			 orb.
+			-She also suggested that she and Maya could both reach out, via their magic books, to
+			 their people in Sasserine, asking them to (discretely) inquire with any churches of
+			 the gods of The Brotherhood in Sasserine, about their gods' interests and agendas.
+				-They indeed spent some time scribbling to their correspondents, and conferring
+				 with one another about what instructions to give.
+		-Jade also continued to have an unhealthy interest in her orbs and the keys that fit within
+		 it. She kept insisting that more keys. . . would somehow help, but couldn't seem to say
+		 exactly what they would do.
+			-Drawing on the gnome priest's story about 2d6, and some claims of a "harmonious"
+			 purpose for the artifact Jade made base on her study of it. . . well, she figured
+			 that harmony can't be bad, right?
+			-I was quick to correct her, "It's for the harmony _of The Brotherhood_! That's not what
+			 _we_ want. We're sitting here debating if we can use divisions in The Brotherhood to
+			 our advantage here. . ."
+			-She did insist, though, that the orb and it's purpose might be something Edric would
+			 be willing to bargain for. Which, fair enough.
 
 
 TODO:

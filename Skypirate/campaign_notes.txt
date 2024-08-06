@@ -7625,7 +7625,7 @@ TODO:
 			-We also talked a lot about options for getting to Edric's realm.
 				-Jade can make Planeshift scrolls, but Grimble would put us over the headcount
 				 limit and each casting risks dumping us some random distance away from our target.
-					-Maya had apparently heard of an extra-planar _copy_ of Xul-Jarak, used as a
+					-Maya had apparently heard of an extra-planar _copy_ of Xûl-Jarak, used as a
 					 meeting place by The Brotherhood, something we could use to our advantage with
 					 planeshift.
 						-I actually visited there as a kid, with my creche!
@@ -7633,7 +7633,7 @@ TODO:
 						 Planeshift, but was linked to all the planes of The Brotherhood.
 						-Maya even claimed that the key to Edric's plane would _also_ let us
 						 Planeshift there!
-				-There are also portals, famously the one at Xul-Jarak where I myself arrived on The
+				-There are also portals, famously the one at Xûl-Jarak where I myself arrived on The
 				 Material Plane.
 
 
@@ -7642,7 +7642,7 @@ TODO:
     -(DONE) Get a quote for repairing that damaged sail.
 	-(DONE) Posted about the above in Discord here: https://discord.com/channels/560915739796570113/560916449527332877/1234696209462202418
 	-(DONE) Other routes to Edric? I imagined his realm having many portals, but it's an open question if
-	 that's indeed so, as I think only one to Xul-Jarak existed in the actual game sessions.
+	 that's indeed so, as I think only one to Xûl-Jarak existed in the actual game sessions.
 	-(DONE) Other Edric prep?
 		-Will save bonuses?
 
@@ -7939,7 +7939,7 @@ TODO:
 6/10/24:
 	-The temple was filled with gnomes, conjuring illusions, practicing acrobatics, and telling
 	 jokes, resulting in the carnival atmosphere.
-		-There were though also artificers and enginneers, practicing _their_ talents and trades to,
+		-There were though also artificers and engineers, practicing _their_ talents and trades to,
 		 dedicating the works to their god.
 		-I cast my eyes looking for someone in charge, ring master or high priest either, but it was
 		 Maya who first spotted and pointed out that a considerable amount of what we were witnessing,
@@ -7977,7 +7977,7 @@ TODO:
 			 "I'm sorry. . ." the priest said. "What happened?"
 			 "Well," I explained, "We _did_ learn a moral lesson, one about rushing in without a
 			  plan. . ."
-				-Adding that last bit, a glared briefly at Maya.
+				-Adding that last bit, I glared briefly at Maya.
 			 "But!" I continued, perking up. "_That's_ why I vote T-Rex. They teach a _mean_ lesson."
 			-I then took the opportuninty to steer the conversation around to our own agenda, saying,
 			 "Actually, we've need to teach something of a moral lesson of our own. . ."
@@ -8019,7 +8019,7 @@ TODO:
 	-That matter settled, we adjourned to a tavern and returned to discussing our planned approach
 	 to The Brotherhood.
 		-We talked a bit about The Brotherhood's shared realm, their otherworldly fortress of
-		 Xul-Jarak.
+		 Xûl-Jarak.
 		-Jade also brought up the card game she's been dreaming of for some time, wondering if
 		 Edric would be interested in such things.
 			-It actually sounded like _very_ much his kind of thing, and I told Jade as much.
@@ -8044,13 +8044,168 @@ TODO:
 		 it. She kept insisting that more keys. . . would somehow help, but couldn't seem to say
 		 exactly what they would do.
 			-Drawing on the gnome priest's story about 2d6, and some claims of a "harmonious"
-			 purpose for the artifact Jade made base on her study of it. . . well, she figured
+			 purpose for the artifact, Jade made the case for her study of it. . . Well, she figured
 			 that harmony can't be bad, right?
 			-I was quick to correct her, "It's for the harmony _of The Brotherhood_! That's not what
 			 _we_ want. We're sitting here debating if we can use divisions in The Brotherhood to
 			 our advantage here. . ."
 			-She did insist, though, that the orb and it's purpose might be something Edric would
 			 be willing to bargain for. Which, fair enough.
+
+
+8/5/24:
+	-We talked a few last details over, but even I had run out of excuses to avoid going home.
+		-The only additional thing we prepared was another plane shift scroll, crafted by Jade as
+		 we were worried that bringing Grimble back with us would push us over the limit of the
+		 spell.
+	-So, we finally performed the plane shift, all of us grasping hands in a circle as Jade recited
+	 the incantation from the scroll, to take us to the (far smaller) demiplane on which The
+	 Brotherhood had constructed it's planar nexus, and Xûl-Jarak clone.
+	-The world shifted and twisted and, as it melted back into intelligible shapes, we found ourselves
+	 standing before a forboding fortress: all sharp angles and made from a black metal.
+		-"Ugh," I said. "That did not play nice with the red wine I had for breakfast. . . Next
+		  time, I'm sticking to white before plane shifting."
+		-Forboding though it was, it was hardly devoid of life: there were various groups of all
+		 sorts of creatures, scattered across it's ramparts and battlements.
+		-I approached a nearby group of halfling-sized rat people, saying, "Hello, there my fuzzy
+		  friend! Do you think you could help us with some directions!
+			-He was well-mannered and helpful both, and more than happy to show us around.
+			-I explained to him that I was from Edric's Enlightened Spheres, and looking to head
+			 home, but he was also very proud of the copy-fort, eagerly pointing out various
+			 landmarks.
+				-He was a big fan of Shawn's adventuring academy, suggesting we consider classes
+				 there, and pointing it out to us.
+				-He also showed us the tavern, which, were Grimble's fate less urgent, _I_ would be
+				 a very big fan.
+					-Actually, D'Roc was quite interested too, after our ratman guide mentioned Dog.
+					-Apparently, some of the trophies on the wall were _his_, brought back from the
+					 god's hunting grounds.
+					-D'Roc was very interested in reaching his god's promised land, and, indeed, the
+					 ratman explained they could be reached from here, _if_ the petitioner proved
+					 himself a worthy hunter (at which he gestured to some of the trophies).
+						-There was even a bounty board of sorts: posted reports of great beasts,
+						 whose slaying would bring the favor of Dog.
+						-Most prominent among them was a Nightmare, a black horse wreathed in flames
+						 that had been sighted in the frontier nation of Q'barra, 
+				-He also showed us a space he referred to as the throne room, but said it was mostly
+				 used to host a regular market, though we'd come on the wrong day.
+			-Intriguing as all that was, I had to press the matter of my route. . . home.
+			-"Oh!" he said. "If you have the key, there's a portal you can activate with it, in the
+			  throne room. Or. . . there are open portals in the basement, but it's been infested
+			  for a millennia."
+			 "There rats down there?" D'Roc asked, insensitively.
+				-I, standing behind the ratman, waved my hands, trying to mime that D'Roc should
+				 knock it off, and pointing at our guide.
+			 "Hmph. . . No. Undead," he replied.
+			-Another of his kind then called out, waving to him, saying, "Beauregard!"
+			 "Oh! That's my wife," our guide explained. "Well, best of luck to you all! Coming, my
+			  dear!"
+			-"Well, Jade. . . Do we have the right key?" I asked.
+				-She nodded, and got to fishing about in her orb.
+				-Withdrawing a black adamantine one, Jade wandered to the far end of the throne room
+				 and, indeed finding a keyhole on the wall opposite the main entrance, she inserted
+				 and turned the key.
+				-That transformed the wall into a rippling portal, and we all stepped through.
+	-This time, we found ourselves in a desert scattered with wreckage: The Borderlands.
+		-"D'Roc, we need to find a hole, to descend to a lower layer. There's probably a lot of
+		  traffic in and out so. . . see any tracks?"
+		-He nodded and got to looking.
+		-Something caught his eye near the rusty hulk of some enormous. . . airship, maybe?
+			-It was half embedded in the sand in any case.
+			-He followed some trail over to a great rent in the old hulk.
+			-As he approached the dark opening, though, he halted, shaking his head as if to clear
+			 it.
+			-"Uh, D'Roc?" I called out. "Don't go listening to any voices!"
+			-He babbled something about a "chittering". . . and soon we could hear it too.
+		-The source was soon revealed, as a band of thri-kreen appeared from the rent in the wreck,
+		 some of them aboard a strange, rumbling machine.
+			-They had their weapons at the ready and Sarge was already reaching for his spell
+			 component pouch, but I tried to de-escelate things.
+			-Raising my hands away from my swordbelt, I callded out, to bug and buddy both, "Be cool!
+			  We're here because Edric called for us. You don't want to piss of _god_ do you?"
+			-The thri-kreen seemed to follow at least _some_ Common, as they took a step or two back,
+			 lowering their weapons.
+			-We began some linguistically-impaired negotiation, mostly consisting of Maya and I
+			 dancing.
+			-Dance proved to be a rather universal language, and Maya, in particular, seemed to get
+			 across that. . . I was the son of god and needed to go see my father.
+			-Well, it got the job done, as one of them began to draw a map in the sand.
+			-It indeed featured a hole, but also. . . what I thought, at first, was a thri-kreen,
+			 but which the one drawing seemed to be taking pains to make. . . ant-like?
+				-In any event, it was depicted between us and the hole.
+			-That sparked a recollection from my childhood. In one of the rare, exciting bits of
+			 creche classes that actually held my attention, I rembered learning about the thri-kreen
+			 that roved The Borderlands _and their formian rivals_.
+			-Well, grasping the problem, I proposed a solution: I danced forward, recoiled from the
+			 drawing of the ant man, and then danced back forward and stomped the ant man.
+			-The thri-kreen seemed to take my meaning, excitedly chittering amongst themselves before
+			 one of the ones on the strange machine made a clear "hop on" gesture, which we happily
+			 obliged.
+	-We rode the bug men's strange sand ship quite a ways through the desert until it seemed to run
+	 (more?) aground, the sands having grown rockier.
+		-The Thri-kreen managed to indicate to us that we should now get out and walk, gesturing to
+		 a rocky ridge that was visible in the distance.
+		-Some of the insect band also gestured back and forth between the ridge and their weapons,
+		 and it was clear to me they meant to fight alongside us.
+	-We approached the rocky ridge and could soon see that portions of the stone had been worked
+	 into a kind of fortress, with taller constructions inside.
+		-We discussed scouting the place in some way, and eventually settled on the three of us that
+		 could fly taking a look from above.
+		-When they glided back down, they reported a bustling hive of activity, with numerous antmen
+		 digging away at the rock, overseen by larger members of their race.
+		-They also mentioned other, very different insects, possessed of wings, up on the ridge.
+			-They were much larger, perhaps 10' long.
+			-Bruce termed them "spider-eaters", and said one of them was doing just that, chowing
+			 down on a giant spider.
+		-We debated our options at length and settled on. . . another frontal assault, like the one
+		 that killed my last bug buddy.
+			-But, this time, we would send _summoned creatures_ in first, Jade having volunteered
+			 the newly learned ability to summon giants.
+	-We crept forward to the opening in the ridge that clearly served as a front gate to the
+	 fortress and, once we were 20 or so feet away, Jade barked some arcane symbols, summoning a
+	 pair of stone giants that then charged forward through the gap.
+		-They were met by some of the larger formians, the ones that had been directing the workers.
+		-One stared intently at one of the giants, in a way that felt awfully familiar to me, but
+		 the giant appeared unphased.
+		-D'Roc loosed some arrows at one of the ant people, to no avail as the shot went wide.
+		-Far more effective was boulder one of the giants grabbed and hurled at the formian
+		 taskmaster, which cracked it's exoskeleton horribly, letting flow a disgusting goo, though
+		 the formian kept his feet.
+		-Our thri-kreen allies then lept (literally) into the fray, as the formians formed up into
+		 organized ranks and things devolved into a general melee.
+		-I also began to feel an ominous rumbling, coming from the earth beneath me. . .
+		-I took a shot with my bow at some kind of rock monster that emerged from one of the
+		 buildings, and then darted behind a rock to use it for cover.
+		-Moments later, another (or the same?) rock monster emerged from the sand near my rocky
+		 cover, casting about it's eyeless face, clearly looking for me, but to no avail.
+		-I stabbed it with my rapier, which merely scratched it's rocky carapace, and I tumbled
+		 backwards out of it's reach.
+		-The rumbling reached it's crescendo, then, as a huge rock monster emerged from the sand
+		 just inside the gate and began smashing our thri-kreen allies.
+			-Why always my bug buddies?!?
+		-I tried to lock the huge rock man's mind, to prevent further bug smashing, but it managed
+		 to resist me.
+		-Thankfully, it couldn't resist D'Roc's axe, with which he cleaved it in twain.
+		-As the rock monster crumbled, so to did the earth beneath him, eventually forming a hole
+		 15' across, through the layer.
+	-The party and I dashed towards the hole and dived in.
+		-I gave a wave to our remaining bug buddies as I did so. They were now driving the remaining,
+		 demoralized formians back into a retreat.
+		-As we fell through the hole, the still shifting sides of the hole expelled numerous
+		 gemstones, which we grasped at greedily as the tumbled in the air around us.
+		-The gravity (and stomach) flip that I knew was coming seemed to quite bother the others
+		 and it was the first thing they brought up when we were flung out on the topside of the
+		 next layer, rather than our shiny windfall.
+			-"Why is it _like_ that?!?" Jade asked.
+			 "Eh, you get used to it. Plus, the elans here often don't bother eating, so it probably
+			  doesn't hit them as hard," I explained.
+		-We then fell to sorting through the gems, and I found I'd managed to snag the most precious
+		 of them, a blue star sapphire.
+			-"I got the best one!" I exclaimed. "Hey. I caught a _star_! You all saw it!"
+
+
+TODO:
+	-(DONE!) Applied Precognition. Remove it!
 
 
 TODO:
@@ -8134,7 +8289,7 @@ TODO:
 			 to _consume_. If that can be worked into items. . .
 				-It might now be on the plane of Celestia.
 			-The Quickhammer organization:
-				-Seems to indicate a demand for fake or shoddy good exists. Potentially something
+				-Seems to indicate a demand for fake or shoddy goods exists. Potentially something
 				 exports from Edric's domain could take advantage of (being a source of cheap goods)
 				 or preempt (being capable of extraordinary workmanship and materials).
 			-The king is angry at the high priest of Morradin.
@@ -8180,8 +8335,7 @@ TODO:
 		-Items:
 			-The Crystal of Lost Time (10 minutes = 1 day of work for 1d4 Con damage).
 				-Totally Ed's kind of thing, a magic crystal that can be used for efficient production.
-				-Ah, I think Jade and Maya later gave it away to Zyrastra, but Fred doesn't know
-				 that yet.
+				-Ah, I think Jade and Maya later gave it away to Zyrastra.
 				-Still, can it be kept from a _god_? Maya's father also had a magic stone that took
 				 him to Zyrastra wherever they were, and could have more. . .
 			-Oh! Jade has a new crystal now: The Crystal of Chaotic Good Time Dilation (name pending?):

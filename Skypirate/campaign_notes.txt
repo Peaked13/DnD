@@ -8076,7 +8076,7 @@ TODO:
 				-He was a big fan of Shawn's adventuring academy, suggesting we consider classes
 				 there, and pointing it out to us.
 				-He also showed us the tavern, which, were Grimble's fate less urgent, _I_ would be
-				 a very big fan.
+				 a very big fan of.
 					-Actually, D'Roc was quite interested too, after our ratman guide mentioned Dog.
 					-Apparently, some of the trophies on the wall were _his_, brought back from the
 					 god's hunting grounds.
@@ -8121,8 +8121,8 @@ TODO:
 		 some of them aboard a strange, rumbling machine.
 			-They had their weapons at the ready and Sarge was already reaching for his spell
 			 component pouch, but I tried to de-escelate things.
-			-Raising my hands away from my swordbelt, I callded out, to bug and buddy both, "Be cool!
-			  We're here because Edric called for us. You don't want to piss of _god_ do you?"
+			-Raising my hands away from my swordbelt, I called out, to bug and buddy both, "Be cool!
+			  We're here because Edric called for us. You don't want to piss off _god_ do you?"
 			-The thri-kreen seemed to follow at least _some_ Common, as they took a step or two back,
 			 lowering their weapons.
 			-We began some linguistically-impaired negotiation, mostly consisting of Maya and I
@@ -8206,6 +8206,225 @@ TODO:
 
 TODO:
 	-(DONE!) Applied Precognition. Remove it!
+	-(DONE!) Update Jump for Haste +12 from speed.
+
+
+8/19/24:
+	-This new layer featured more industrial scenery: titanic metal structures and great machines.
+	-There was, however, rather little activity. We didn't see any people about, and most of the
+	 machinery was idle.
+	-_Most_, but not all. Some short distance away, we could hear the hiss of steam coming from a
+	 clanking conveyor belt that kept starting and then haulting.
+		-We walked that way, following what we hoped were signs of life.
+		-Approaching the machinery, we could see scorched spots on the belt, outlining, in each
+		 case, a pair of footprints?
+		-There were also more literal signs, onse warning about wearing safety helmets, to avoid. . .
+		 implantation?
+	-As we followed the stalled belt onward, the are got progressively. . . slimier, a wet green-ish
+	 muck covering any and, soon, most surfaces
+		-Maya spotted it _moving_.
+		-"Oh, I think I remember what this is. . ." I said. "It's my great, great, great, great. . .
+		  you get the idea, uncle. He had the same inborn psionics as I do, and Edric tried to turn
+		  him into an elan. This was the thing that resulted. . . They say it still shows evidence
+		  of _thinking_. . ."
+		-I bent to scrape some of it off my boot, and got quite a bit more than evidence: it began
+		 _talking_.
+		-"Remember what I said about listening to voices!" I shouted to the rest.
+		-The voice in my head, though, which the others seemed to also hear as soon as they touched
+		 the slime, was staying instead, "Come to the center. . ."
+		-I reacted by backing away slowly.
+		-"Don't go!" it "said". "I'm Rovert. Who are you?"
+		 "Ah. . . Uh, I'm Fred."
+		 "You're Fred! Oh! It's good to meet you," the slime "said".
+		 "You've heard of me?"
+		 "You're the new PR guy that was supposed to be coming," it explained.
+		 "Uh. . . "
+		 "You know, spread the message to the Material Plane and all that! Recruit followers."
+		 "Ohhh. Not a resident position, then. Well. . . do you know know who I need to talk to
+		  about that?"
+		 "Well, there's a tribe of kobolds?"
+		 "Are they. . . like, HR, then?"
+		 "Kind of! They're a bit less. . . changed, then a lot of Edric's thralls."
+		-Maya then broke in asking, "Is that why you're slime?"
+		 "Well, that was the result of an experiment," the slime said. "Someone pulled the wrong
+		  lever. Then there was slime everywhere. . . and I _was_ the slime. It was my penance."
+		 "Wait," I then said, "It was just a mistake?"
+		 "Well," the voice-of-the-slime replied, "Edric said it was a cautionary tale. If you fail,
+		  you're slime."
+		 "Look," it continued, "Can you do me a favor? Scoop up a ball of the slime and bring it to
+		  Edric. I'd really like to talk to Edric, and ask him if my penance is done."
+		 "Uh. . . Jade?" I asked. "Go ahead and scoop that up. . . She's my go-to for magical stuff
+		  that. . . I don't want to touch."
+		-We briefly debated containers, and it turned out Jade had a rum bottle.
+		 "Rum!" Rovert exclaimed. "I remember rum. . ."
+		 "Can you still. . . drink rum?" Maya asked.
+		 "I can feed on all _kinds_ of things these days," it replied.
+		-Well, I grabbed the bottle from Jade, took a swig from it, and poured the rest into the
+		 slime.
+		-It seemed to appreciate the rum, making approving "noises", and Jade scooped some into the
+		 emptied bottle I handed back to her.
+		-"So, where to with this, Rov?" I asked.
+		 "The nearest column is over there," it replied, illustrating it's point by forming a vague
+		  psuedopod from the slime in the jar, pointing at a metal structure reaching all the way
+		  up to the surface above us. ". . .but you'll have to get past the rest of me."
+		 "Uh, what?"
+		-It went on to explain that it's not so. . . unified, as once it was, and it doesn't all
+		 agree with itself. We'd need to confront some dissenting opinions at the column.
+	-Well, we walked over to the column.
+		-There, we found the column's interior was heavily coated in slime.
+		-As we approached the mass of slime, many mouths formed on it, all gibbering a discordant
+		 cacophony of competing voices.
+		-It. . . was almost like the chatter. . . back in school. . . I'd struggled to ignore that
+		 too.
+		-Then, I _was_ back in school. I'd forgotten my homework. . .
+		-"No more homework. . ." I protested, futily, over and over again.
+	-Eventually, I realized most of the babbling I could still hear was me. . . and that I could
+	 also hear. . . singing?
+		-As I regained my sense, I found Maya had coaxed the mouths into a chorus.
+			-A bit flat, but better than the babbling!
+		-With the babbling stopped, Bruce flew up with a rope, and we climbed it to follow.
+	-Reaching the next surface, we found far more activity than the abandoned area given over to
+	 Rovert.
+		-There were tiny constructs swarming all over the place, building things from metal.
+		-Noticing us, several, then many more, approached us, and lights on their bodies began to
+		 blink.
+		-Lucien then. . . showed them his sword? Well, actually, he caused it to repeatedly sheath
+		 itself in flames and then extinguish. . . blinking back.
+		-That actually got somewhere. One of the otherwise silent constructs spoke up, repeating,
+		 "Boxes. Safe in boxes."
+		-The party fell to arguing with them, there being lots of back and forth along those lines
+		 and none of us being to keen to be placed into any kind of box.
+		-The construct _did_ mention being "safe from implantation", which called something to mind.
+		-"Ohhh," I said. "Can you guys make _small_ boxes? Something we could put on top of our
+		  heads?"
+		-They proved eager to help and soon we had helmets for those of us that lacked them.
+			-I even talked them into making a fashionably red one for me.
+		-With the constructs in so good a mood, I figured it was an opportune time to ask them, 
+		 "How do we get down to the next layer from here?"
+		-The construct said a lot about a "permanent box". Eventually, I worked out it meant a
+		 large building a little bit away.
+	-We said our goodbyes and approached the building, which was also surrounded by a fair bit of
+	 activity: humanoid creatures, marching in uncanny unison.
+		-We tried a variety increasingly strident methods for getting their attention, culminating
+		 in Maya and Lucien slapping a couple of them, but we got no response from the blank faced
+		 people.
+		-D'Roc could almost reach the windows of the factory, though, and boosted Lucien up.
+		-Lucien reported that, inside, a scorpion was stabbing the heads of golems. . . and also
+		 that the window opened.
+		-"Well, helmets everyone!" I called out.
+		-We clambered through the window, and onto the factory's catwalks, which proved to hang
+		 above many levels of conveyor belts, stretching far below the level we'd reached up to the
+		 window from.
+			-Those conveyors indeed featured many humanoid golems, that some kind of crystalline
+			 scorpians were indeed doing. . . something to the heads of.
+		-There, we caught sight of someone who was perhaps some kind of supervisor, dressed in
+		 coveralls and seemingly patroling the catwalks.
+		-Naturally, we hid.
+		-Maya attempted some kind of distraction with her illusion cards, calling into being the
+		 illusion of a humanoid woman in furs.
+		-That seemed to just result in the supervisor turning and jogging off, pulling something
+		 from his clothes. Lucien said he could hear the supervisor saying something about needing
+		 backup. . .
+		-Well, I knew that was likely to mean more, angrier constructs, so I suggested we get the
+		 hells out of there.
+	-We needed to descend to the next layer, so we opted to use a rope to climb down to one of the
+	 conveyer belts we could see, roughly 40' below us.
+	-Unfortunately, as the last of us descended, a huge astral construct smashed through the wall
+	 near one end of the belt, striding ominously forward.
+		-Lucien wasted no time and ran forward to meet it. It swung for him, but he ducked low and
+		 then slashed at it repeatedly with his sword to. . . some effect.
+		-I being less confident in the impact of arrows on that tower of ectoplasm, I ran at it
+		 too. . . and dived between it's legs and through the rent in the wall it came from.
+		-I found myself in a shaft, lined with more conveyer belts, that sloped steeply up and down.
+		-"I think I found our way down, guys!" I called out.
+		-Meanwhile, D'Roc joined Lucien at hacking away at the construct, while Sarge blasted it
+		 with flames.
+		-For it's part, it struggled to connect with Lucien, though that didn't dissuade it from
+		 swinging at him again and again in a flurry of blows.
+		-It continued to get the worse of the exchange with the party until it was shattered to
+		 slowly dissipating globs of ectoplasm.
+	-We followed the shaft downward, emerging into a seemingly endless field of crystalline tubes,
+	 many housing various humanoids.
+		-There was also an announcement blaring from. . . somewhere, and repeating in various
+		 languages instructions to retreat to safety while the emergency is "addressed".
+		-Not caring for the sound of that last, we briefly discussed options for a distraction, to
+		 cover our escape.
+		-I asked Maya if she'd like to play a game of cards and, saying that she'd love to, she
+		 drew forth a card and called into being the image of a huge (and distracting) iron golem.
+		-She sent it running off down a throughfare, while we hastily headed the opposite direction,
+		 losing ourselves in the field of tubes.
+	-Soon the sound of pursuit and alarms faded, and we were free to explore the area, to find our
+	 way futher into Edric's realm.
+	-It was Bruce that identified a tube that differed from the others.
+		-Rather than a solid floor, it's base opened into a shaft descending deeper into the plane.
+		-However, it was barely big enough for Bruce, and far to small for the rest of us.
+		-Sarge saw to fixing that with a spell he named Shatter, crumbling both the tube and the
+		 rock of the shaft it sat above, widening the opening.
+	-The widened passage led to a layer over which a great cathedral-like structure sprawled,
+	 seemingly encompassing the whole plane.
+		-On one side of the cloistered courtyard we'd emerged into, there stood a great door, which
+		 opened at our arrival, welcoming us inside (though I felt chilled at the sight).
+		-Maya, though, drew us up short, and gave a speech. She spoke of our great accomplisments
+		 thus far, and the majestic fates that awaited us in the future, and we all took heart.
+		-As we walked through the doors, though, we felt a powerful compulsion to kneel.
+		-I was intent on dealing from position of strength, though, and, drawing on how Maya's
+		 speech left me feeling, I stood tall.
+		-We found ourselves before a great adamantine throne, on which was seated Edric.
+			-He'd long ago twisted himself far from mortal form, and now was a great, gleaming
+			 crystaline figure, strange and alien.
+		-My attention, though, was drawn to what stood beside it: a crystal tube with Grimble in it.
+		-I didn't hesitate to harangue, yelling, "Hey! That's _my_ righthand gnome!"
+		-Edric then spoke, demanding of me, "Did you spread my good word to The Material Plane?"
+		 "I thought I was bringing information _back_," I replied.
+		 "It flows both ways. . ." the god said. "And what of my ship?"
+		 "I. . . replaced it. Why, Jade here is quite the shipwright! Her craftsmanship. . ."
+		 "And what of it's crew? Those who set out with you?"
+		 "Eh, they didn't last ten minutes. . . But! The crew I've found has done so much. . .
+		  It's why I need Grimble back! He's essential to the operation! And, I've brought _your_
+		  right hand back to you. . . Jade, where's that rum bottle?"
+		 "Ah, Rovert. . . Such a disappointment, what happened. . ."
+		-Seeing the god reminisce, Maya spoke up, saying, "Is this really what you wanted, when
+		 you were mortal?"
+		-That pissed him right off, and he did. . . something. She fell to the ground, facedown.
+		-She quickly stirred, though, thankfully, and, seemingly groggy, regained her feet. She then
+		 shook her head, as if to clear it, and spoke again, saying, "Lord Edric, what _we_ want
+		 is Grimble back. No less and no more. . ."
+		 "I bought him," the god replied.
+		 "Stole him!" I was quick to correct.
+		 "Bought. And let us speak then of what I want. . ." the god began. "Business has slowed.
+		  During the last war, anyone would offer up any treasure in exchange for ships and
+		  material. I want such markets again."
+		 "Well, OK," I replied. "I've got information on that front, angles on offer. Take Maya, for
+		  example. She clearly means to be queen of Sasserine, and certainly wouldn't mind an
+		  armada. . ."
+		-Maya saw no need to deny that, and was, I think, rather intrigued by the notion of a fleet.
+		-In any event, she and Edric fell to haggling.
+			-He was pushing her for more than simply buying a fleet. He wanted a _war_, something to
+			 drive sales to all sides.
+			-She, meanwhile, was very insistent that Grimble be returned to us, now and unchanged.
+			-For my part, if she was willing to burn her world to give me Grimble back, I guess I
+			 wasn't going to stop her. . .
+		-It seemed they'd come to terms. A crystal collar formed around Grimble's neck, the tube
+		 opened, and then Edric pushed Grimble towards us.
+		-"Grimble!" I shouted, stepping towards him. "Long time, no see! . . . are you OK?"
+		-But Maya spoke up again before Grimble did. "I said he would be unmolested," she stated,
+		 gravely.
+		 "He is himself," the god replied. "The collar will simply return him to me, should you not
+		  hold to your end of the bargain and sell the fleets."
+		-It then became clear that Maya was trying to do _exactly_ what I told her not too, as she
+		 inisted, "I said I would _consider_ doing so. And I have. . ."
+			-Maya was trying to trick a god. A god of the mind.
+			-I think she may have tried going even further, as some of her words seemed freighted
+			 with the arcana granted her by her patron wyrm. If so, it would seem to have failed.
+			-I cannot say that I can recall for sure what exact words she or the god spoke and
+			 agreed to, watching as I was a young girl argue with my worst nightmare over the fate
+			 of my friend's soul. . .
+			-The two began to argue, but it was clear that Edric was not going to meekly let us
+			 claim Grimble through wordplay.
+		-As Edric was about to pull Grimble back, Maya drew out the platinum cloak she'd been given
+		 by her dragon god and, wrapping it around him, said, "Grimble, at least take your cloak!"
+	-In a sudden flash, we were then elsewhere. We stood in a glittering court, where lounged, in a
+	 place of honor, a great shining platinum wyrm that could only be Bahumut.
 
 
 TODO:
@@ -8215,6 +8434,12 @@ TODO:
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?
 			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
 			 speed.
+				-Ah, but that's only a DC 10 with a 20' running start, which probably means the Run
+				 action, as well as managing that much movement in a straight line.
+				-It's DC 20 without that, which is probably tough for you to hit consistently.
+				-Oh! But extra movement speed from Haste gives you a +12 that makes that _very_
+				 plausible.
+				-Then, once Dread Pirate 8 lets you always take 10, it's guaranteed. . .
 		-Those other skill tricks, probably before Jump.
 	-Ship weapons:
 		-Finish cannon refurbishment, given that incoming bone fortress.
@@ -8228,8 +8453,8 @@ TODO:
 				 be created by anyone with 9 ranks in Craft (alchemy). So maybe an automatic succcess?
 		-Jade mentioned kind of melee-attack-to-kinetic-energy device she could make if we returned
 		 for those magically reflective deep crystals in The Underdark (see 4/15/24 notes).
+		-Get some boulders on board the ship for D'Roc to throw too.
 	-Maybe do something with our other airship too.
-	-Get some boulders on board the ship for D'Roc to throw too.
 	-Host an event with that arms merchant. Search above for "weapon signing".
 	-Figure out paying back that 10k in diamonds.
 	-Items:

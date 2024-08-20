@@ -50,6 +50,7 @@ Advancement:
 		-Customize CONCEAL SPELLCASTING???
 			-Psionic version would be very useful, but Sleight of Hand doesn't make much sense for
 			 something with no somatic components. _Bluff_, though. . . and opposed by Sense Motive?
+			-Would also mean needing a rank in Psicraft.
 	-Skills required for prestige classes:
 		-Dread Pirate:
 			Appraise 8 ranks

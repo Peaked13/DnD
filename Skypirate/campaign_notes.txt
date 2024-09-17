@@ -8218,7 +8218,7 @@ TODO:
 		-We walked that way, following what we hoped were signs of life.
 		-Approaching the machinery, we could see scorched spots on the belt, outlining, in each
 		 case, a pair of footprints?
-		-There were also more literal signs, onse warning about wearing safety helmets, to avoid. . .
+		-There were also more literal signs, ones warning about wearing safety helmets, to avoid. . .
 		 implantation?
 	-As we followed the stalled belt onward, the are got progressively. . . slimier, a wet green-ish
 	 muck covering any and, soon, most surfaces
@@ -8288,7 +8288,7 @@ TODO:
 		-There were tiny constructs swarming all over the place, building things from metal.
 		-Noticing us, several, then many more, approached us, and lights on their bodies began to
 		 blink.
-		-Lucien then. . . showed them his sword? Well, actually, he caused it to repeatedly sheath
+		-Lucien then. . . showed them his sword? Well, actually, he caused it to repeatedly wreath
 		 itself in flames and then extinguish. . . blinking back.
 		-That actually got somewhere. One of the otherwise silent constructs spoke up, repeating,
 		 "Boxes. Safe in boxes."
@@ -8357,7 +8357,7 @@ TODO:
 	 way futher into Edric's realm.
 	-It was Bruce that identified a tube that differed from the others.
 		-Rather than a solid floor, it's base opened into a shaft descending deeper into the plane.
-		-However, it was barely big enough for Bruce, and far to small for the rest of us.
+		-However, it was barely big enough for Bruce, and far too small for the rest of us.
 		-Sarge saw to fixing that with a spell he named Shatter, crumbling both the tube and the
 		 rock of the shaft it sat above, widening the opening.
 	-The widened passage led to a layer over which a great cathedral-like structure sprawled,
@@ -8371,7 +8371,7 @@ TODO:
 		 speech left me feeling, I stood tall.
 		-We found ourselves before a great adamantine throne, on which was seated Edric.
 			-He'd long ago twisted himself far from mortal form, and now was a great, gleaming
-			 crystaline figure, strange and alien.
+			 crystalline figure, strange and alien.
 		-My attention, though, was drawn to what stood beside it: a crystal tube with Grimble in it.
 		-I didn't hesitate to harangue, yelling, "Hey! That's _my_ righthand gnome!"
 		-Edric then spoke, demanding of me, "Did you spread my good word to The Material Plane?"
@@ -8417,19 +8417,163 @@ TODO:
 			-I think she may have tried going even further, as some of her words seemed freighted
 			 with the arcana granted her by her patron wyrm. If so, it would seem to have failed.
 			-I cannot say that I can recall for sure what exact words she or the god spoke and
-			 agreed to, watching as I was a young girl argue with my worst nightmare over the fate
-			 of my friend's soul. . .
+			 agreed to, preoccupied as I was while watching a young girl argue with my worst
+			 nightmare over the fate of my friend's soul. . .
 			-The two began to argue, but it was clear that Edric was not going to meekly let us
 			 claim Grimble through wordplay.
 		-As Edric was about to pull Grimble back, Maya drew out the platinum cloak she'd been given
 		 by her dragon god and, wrapping it around him, said, "Grimble, at least take your cloak!"
-	-In a sudden flash, we were then elsewhere. We stood in a glittering court, where lounged, in a
-	 place of honor, a great shining platinum wyrm that could only be Bahumut.
+	-In a sudden flash, we were then elsewhere. We stood before a desk, behind which sat a silvery-
+	 scaled dragonborn.
+
+9/16/24: The Trial, and the After. . . party
+	-This was clearly not where I'd parked my airship. . . a sentiment I gave voice to.
+	-"Oh, traffic is down the hall," the dragonborn responded to that.
+	-". . . wait. _You're_ the ones here about that gnome," he added.
+	 "Oh! Yeah! What do you know about Grimble?" I asked.
+	-He went on to explain what we'd asked for by wrapping Grimble in Bahamut's cloak: the judgement
+	 of gods.
+		-There would be a panel of three gods.
+		-"Edric has already chosen a kobold. . . kind-of. . . god?" the scaly functionary said to
+		 us. "He's called Kurtulmak. You'll need to pick one judge as well, another lawful god."
+			-"Who paid attention that day of class?" I asked. "Maya?"
+			-That led to some debate, with Maya listing various lawfully aligned gods.
+			-I seized on her mention of Moradin, breaking in and saying, "Oh! Yeah, Moradin would
+			  work. Dwarves love gnomes! And gnomes love dwarves. . . and the dwarves we've met like
+			  us well, enough. . . Yeah, that'll do!"
+		-"There will also be a third, neutral diety on the tribunal, to arbitrate. . ." the
+		 dragonborn added.
+	-Within seconds, and with another sudden flash, we were in a new room, though one of a common
+	 style with the functionary's room.
+		-At one table sat Edric, along with a scholarly-looking kobold and several constructs
+		 flipping through paperwork.
+		-We stood before a table of our own, and there were three empty podiums on a platform before
+		 us.
+		-In the center of the chamber, there was Grimble, contained within a crystal column.
+			-I tentatively waved to him, and received a wave back, but it was slow and. . .
+			 multifluous? His arm seemed to blur into many arms, all waving out of sync and at
+			 slightly different angles. . .
+		-"All rise!" called out a winged, angelic  baliff to our left.
+		-The baliff then heralded each god in turn, as they materialized before their podiums. There
+		 were:
+			-"The Soul Forger, Moradin!"
+			-"Death's Guardian, Wee Jas!"
+			-"And The Gnomesmasher, Kurtulmak!"
+	-Their eyes all turned to us, then, Edric's accusers, as they waited expectantly.
+		-"I am no enemy to Edric," I began. "I am a creation of Edric's myself, but one mistreated
+		  every step along the way.
+		  Grimble, though, was no part of my relationship with Edric, and had his soul claimed just
+		  to send me a _message_. 
+		  And we would have sought his resurrection! Edric denied life _and_ proper after life to
+		  him, over a dispute he was no part of."
+		-Edric then droned through his response, saying, "I did not mistreat Fredrick. Everything
+		  of his life was as it needed to be, as best served the realms material and divine. Perfect.
+		  Grimble died when one of his own companions' own rage was reflected back by a natural
+		  formation of crystals. I simply purchased his soul, which no god laid claim do, following
+		  the proper procedure."
+	-Edric was first to present evidence.
+		-He drew forth a string of crystals, in which tiny moving images and, concentrating a moment
+		 while holding one, he conjured forth the image of a scene. . . the scene of Grimble's death.
+			-I got to witness again his destruction by a burst of terrible energy.
+		-Jade called out to the tribunal, though, saying, "This scene has been manipulated, stripped
+		 of it's emotional context! It is meant to mislead."
+		-Moradin at least was persuaded, and called to see the _whole_ of the context.
+			-Mostly, that meant seeing my grieving over poor Grimble. . .
+	-Seizing the initiative, Maya then asked to speak on my behalf and, when I gestured that she
+	 should go ahead, she proceeded to speech-ify.
+		-It was long on tenets of divine law, principals of divine interference, and, perhaps most
+		 importantly, flattery of our divine judges.
+		-To be honest, it was a bit much to my ears, but also seemed exactly the kind of lengthy
+		 polite rambling that our divine judges would want to hear.
+		-"Well said!" I shouted out at the end.
+	-Following that, Moradin asked to see the crystal containing the scene of Grimble's death, and
+	 was duely obliged.
+		-The Dwarfather performed some magic, conjuring visions of Grimble's soul going to
+		 Glittergold, and then pronounced the crystal a forgery!
+			-"The gnome's soul _would_ have been delivered to Garl Glittergold," he said, "But it
+			  was snatched away!"
+		-"Of course he belonged to Glittergold," I agreed. "He was a paragon of gnomishness, in his
+		  illusions and his humor both. Though he seldom thought of the gods, he was Glittergold's
+		  through and through."
+		-The kobold god was unsurprisingly unpersuaded and yelled out, "It was purchased! Glittergold
+		  will not have him!"
+	-Wee Jas meanwhile looked stern. . . but skeptical of Kurtulmak, at least.
+	-Maya took the opportunity to suggest a remedy, saying, "If I could propose a solution? Grimble's
+	  soul could be remanded to _my_ care, and him returned to life? Then, the matter of his soul's
+	  destination can be settled by Grimble himself?"
+		-That prompted sputtering from Kurtulmak. . . and glaring at May from me. _Her_ care?
+	-Wee Jas then spoke, saying, "No, not life. . . Something between. Pulled between mortal and god,
+	  he will be pulled between life and death, as they fey are."
+	-With that the crystal column surrounding Grimble disolved, Grimble spouted butterfly wings, and
+	 he began to flutter around the chamber.
+	-He only had a few seconds to do so, though, as, in a blink, we found ourselves in a temple of
+	 Moradin that. . . wait, this was _Sharaar Kol!_
+	-I simply stared at Grimble, hardly having believed he would ever be returned to me. . .
+	-That revery was broken by an apology from Maya, who said, "Fred, my request that Grimble be
+	  given over to me. . . I only meant to see him returned to life and released.
+	 "I. . . I'm sure you meant well," I replied. "I'm just a bit sensitive about gnome-theft right
+	  now. . ."
+	-"This. . . this deserves a party! The _biggest_ party!" I began to ramble. "We'll get ahold of
+	  the party lizard. . . Grimble! We're in Sharaar Kol. . . Lets go to that bar with the dancing!"
+	-The two of us began to walk out of the temple and into the corridor, but then I turned around,
+	 saying, "Oh, yeah! Jade! I've got a Wand of Sending with a charge left, but can you do anything
+	 similar? We should send a message to The Party Lizard!"
+		-It turned out she could in fact add some temporary charges to the wand, so we fell to
+		 discussing who we should send invites out to.
+		-Folks that came to my mind:
+			Party Lizard
+			"Those deep gnomes we rescued are fun! The ones that think we're gods?"
+			"The High Priest of Moradin is cool, and probably right around here somewhere.
+			"Who else survived one of my parties. . . Well, you guys. . ."
+	-Soon we were at the bar, and all sorts of people were turning up, probably helped by me shouting
+	 invites to everyone we passed.
+		-As things at the bar began to get rolling, though, Maya was standing off by herself,
+		 looking a little shell-shocked, so I walked up to her and thrust a full glass of wine into
+		 her hand.
+			-"I know that look. . . that's the look of someone who needs to drink something away,"
+			 I said to her.
+			-"I. . . never met a god before. . ." she began, than chugged the whole glass, proving
+			 me right.
+		-Soon, some music started up, with a shirtless half-orc on stage yelling, "We are The
+		 Bardvarians!" before launching into something loud.
+		-A short bit later, several dwarven defenders marched into the bar, shouting, "Make way for
+		 his highness!"
+			-They were soon followed by the king himself, shouting, "Make way. . . to the bar!
+			  We're doing shots!"
+			-I insisted the bartender pour a couple into my bottle of Rov-slime, which was met with
+			 a suitable thumbs up gesture from the slime.
+		-Maya still seemed a bit out of sorts, though, rather than her usual bubbly self.
+			-She began to debate aloud what she should do with herself next after. . . all this.
+			-She seemed unsure what she wanted now. . . but seized upon Sarge, who had mentioned
+			 a long while back wishing to see his homeland again.
+				-A chance to focus on another's needs seemed to focus _her_. . . and Sarge certainly
+				 _did_ deserve a vacation. Can't say I'd ever been before either, which is a mark in
+				 it's favor.
+		-After he performed some acrobatics, we also briefly tried to encourage Lucien to become
+		 what I billed as "The World's Scariest Devil-Mime".
+			-He was not on board. . . though used it to make a horrifying joke, proving the concept
+			 had legs.
+			-After he started dipping into his Abyssal liqour, he also started mumbling, "Maybe I
+			  should go see my family. . . the _good_ ones. . . "
+		-Lucien also took a moment to pour some Abyssal Temptation into the Rov-bottle.
+			-That resulted in (visible to everyone!) tiny Ed and tiny Fred on it's. . . "shoulders".
+			-"Woo! Go slime-Fred!" I called out, as a familiar struggle ensued.
+			-My victory was clear, and the slime turned from green to red. . .
+		-Grimble, for his part, turned summersaults in the air, until his alcohol content rendered
+		 that unwise, and then began to conjure illusory scenes from his weird adventures beyond
+		 death.
 
 
 TODO:
-	-Be ready to ask Edric or his people about diamonds? They're chump change to Ed, and could pay
-	 that debt and/or pay to resurrect Grimble too.
+	-Figure out Grimble XP implications.
+		-Fred just got 600, which needs to be added to Grimble's total after applying the formula.
+		-But, also look into what this means longterm, if it might render Grimble permanently many
+		 levels behind.
+	-Note down Grimble's new properties:
+		fey-like; butterfly wings; 5/cold iron; must be completely truthful; fly 2x normal speed (good maneuverability)
+
+
+TODO:
 	-Skill spending:
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?
 			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
@@ -8517,7 +8661,7 @@ TODO:
 				-Seems to indicate a demand for fake or shoddy goods exists. Potentially something
 				 exports from Edric's domain could take advantage of (being a source of cheap goods)
 				 or preempt (being capable of extraordinary workmanship and materials).
-			-The king is angry at the high priest of Morradin.
+			-The king is angry at the high priest of Moradin.
 		-Earth's End:
 			-A trading post in The Underdark we have the location of, with an existing portal to
 			 The Elemental Plane of Earth.
@@ -8630,7 +8774,12 @@ TODONE:
 	-(DONE) A Stone of Good Luck at 20k will be a big deal for you eventually.
 	-(DONE) A Vest of Resistance would be wise too: http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
+	-Do we still hav that bottle of Rov-slime?
+		-Seems like it. Maya interrupted that conversation.
+		-Yep! Jake confirmed it. . .
 
 
 TODON'T:
 	-Tiger time? See TODOs before 6/1/22.
+	-Be ready to ask Edric or his people about diamonds? They're chump change to Ed, and could pay
+	 that debt and/or pay to resurrect Grimble too.

@@ -8501,9 +8501,9 @@ TODO:
 	-Maya took the opportunity to suggest a remedy, saying, "If I could propose a solution? Grimble's
 	  soul could be remanded to _my_ care, and him returned to life? Then, the matter of his soul's
 	  destination can be settled by Grimble himself?"
-		-That prompted sputtering from Kurtulmak. . . and glaring at May from me. _Her_ care?
+		-That prompted sputtering from Kurtulmak. . . and glaring at Maya from me. _Her_ care?
 	-Wee Jas then spoke, saying, "No, not life. . . Something between. Pulled between mortal and god,
-	  he will be pulled between life and death, as they fey are."
+	  he will be pulled between life and death, as they fe are."
 	-With that the crystal column surrounding Grimble disolved, Grimble spouted butterfly wings, and
 	 he began to flutter around the chamber.
 	-He only had a few seconds to do so, though, as, in a blink, we found ourselves in a temple of
@@ -8523,7 +8523,7 @@ TODO:
 		-Folks that came to my mind:
 			Party Lizard
 			"Those deep gnomes we rescued are fun! The ones that think we're gods?"
-			"The High Priest of Moradin is cool, and probably right around here somewhere.
+			"The High Priest of Moradin is cool, and probably right around here somewhere."
 			"Who else survived one of my parties. . . Well, you guys. . ."
 	-Soon we were at the bar, and all sorts of people were turning up, probably helped by me shouting
 	 invites to everyone we passed.
@@ -8569,8 +8569,212 @@ TODO:
 		-Fred just got 600, which needs to be added to Grimble's total after applying the formula.
 		-But, also look into what this means longterm, if it might render Grimble permanently many
 		 levels behind.
+			-Well, looks like he's already level 6, so it'd be pretty hard to argue that anything
+			 he lost in return for his new sort-of-fey properties was an unfair trade.
 	-Note down Grimble's new properties:
-		fey-like; butterfly wings; 5/cold iron; must be completely truthful; fly 2x normal speed (good maneuverability)
+		-fey-like; butterfly wings; 5/cold iron; must be completely truthful; fly 2x normal speed (good maneuverability)
+		-Wrote it down in his Spells spreadsheet, but see what fits in Fantasy Grounds too.
+		-
+
+
+9/30/24:
+	-During the party, I led a very drunk Squee over to Jade, to ask her if if she'd ever heard
+	 of "The End of Infinity".
+		-(With Squee being unable to die, I saw no reason not to egg him onto terrible feats of
+		  liqour consumption.)
+		-Jade thought that _did_ sound like something, a term she'd heard to describe the space
+		 _between_ planes. A place that still harbored. . . creatures.
+		-". . . end? . . . or 'nother gruesome. . . " Squee mumbled.
+		 ". . . yeah!" I cut in. "This one of those tentacle monster situations, Jade?"
+			-That was just met with a shrug from Jade.
+		-"I guess if you were to visit the Negative or Positive energy planes. . ." Jade began.
+		 "Trrrriiied," Squee slurred in response.
+		-That met with some incredulity from my . . . friends, and D'Roc to ask, "How long have you
+		  been around, Squee?"
+			-By way of response, he pulled out a small, tattered book, and began leafing drunkenly
+			 through it.
+			-It was filled with crude tallies, which he dragged his finger along haphazardly while
+			 muttering various numbers before blurting, "Lost count. *Hic*"
+			-After some further questions from various people, they eventually concluded it had been
+			 _at least_ a millenia.
+				-That's a hell of a long time. I wonder if he can trade his "curse" to me. . .
+	-The dwarvern bar actually managed to _run out of beer_, to much jeering from all around.
+		-"Well get some more!" I demanded of the bartender.
+		 "You don't understand!" he shouted back. "The whole damned _city_ is out now!"
+		 "I thought you dwarves were supposed to be industrious! Running out of beer. . . Who can
+		  conjure us some more!" I walked off shouting.
+		-Jade saved the day by conjuring up more kegs.
+	-Eventually, the party did wind down. I woke the next morning, still in the bar and thoroughly
+	 hung over, surrounded by scattered deep gnomes.
+		-It was the breakfast rush that woke me, an assortment of dwarves digging into food and ale
+		 before shifts in the mines.
+	-Rather than endure any more of their noise or their joking(?) offers to pick up a mining shift,
+	 we gathered ourselves up and got to leaving.
+		-On the way out of the bar, D'Roc pointed out the glint of. . . glass? In a nearby alley?
+		-Bruce saw it too, and I was quick to ask, "The glint of gems maybe? Treasure?!?"
+		 "No. . ." D'Roc said. "It moved?"
+		 "Moved?!? Some construct or the like? Which way was it?!? I'm going the other!" I rambled.
+		-I began to hurry off in a random direction, but then a voice called out saying, "Wait!
+		  Stay in the frame!"
+		-A trio of odd looking humanoids then emerged from the alley, one of them bearing a crystal
+		 studded device.
+		-That last still had me quite alarmed, but they eventually got it across that they wanted an
+		 interview, for some kind of interplanar newspaper.
+		-Hearing that, I said, "Ah! Adoring fans! I get those _all_ the time, and hardly _ever_ get
+		 them killed!"
+		-They looked a bit alarmed at the last bit, but pressed on, asking for the story of my
+		 recent court case.
+		-I began to regale them with the tragic story of my childhood in Edric's realm.
+		-After several minutes of that, one broke in with a question, saying, "Do you have any
+		  family? Someone who could corroborate your story?"
+		 "Sure! I replied, pulling out a half full bottle. "This is my great, great, great, great,
+		  great, Uncle Rov!"
+		-That bottle proved to contain rum, though, so, after a swig, I spent another moment digging
+		 the bottle of slime out of my haversack.
+		-"Uncle Rov! My adoring fans want to interview us!" I said, addressing the bottle.
+		-By way of response, the slime formed a head and the approximation of some hair, and then
+		 smoothed the "hair" back with a psuedopd.
+		-"Why are you in a bottle?" one of the reporters then asked. "Seems like a story there?"
+		 "Well, your conciousness gets fractured, manifests as slime, gets scooped up by your
+		  nephew. You know how it goes!"
+		 ". . . sure. Bit played out, though, don't you think? What of your time with Edric? Any
+		  lovers? What about adventures?"
+		 "Lovers. . . aren't really Edric's thing. But, adventures? Sure! Why, early after his
+		  ascension, he and his Brotherhood fought another god, destroying him with a Sphere of
+		  Annihilation!"
+		-They spent some time writing that down, then turned back to me, asking if I had any
+		 adventures of my own to report.
+		-"Tons! We've fought dinosaurs, undead dinosaurs, octopuses, octopus demons. . . all sorts
+		  of stuff!" I replied. "How much time do you have?"
+		-One of them consulted a _very_ elaborate watch, muttering something about time getting
+ 		 awfully complicated when you travel the planes, before calling out, "6 points."
+		 "Perfect!" I replied, without missing a beat. "Then you have time for my greatest triumph,
+		  at least: the recent court case!"
+		-I then went into how I was terribly wronged, how Maya's friendship with Bahamut enabled our
+		 appeal to the court, and how my many cunning strategems won the day.
+		-Eventually, the one with the watch cut me off saying, "I think that's enough for now"
+		-"Here's my card," another said, handing it to me, and than all three of them disappeared
+		 in a flash of light.
+		-"Let me see that card," Jade said, taking it form my hands.
+			-After examining it a moment, she pronounced it a plane shift scroll, targeted to a
+			 specific plane, a place she said was a kind of news room?
+			 "Ah! So I'm set up for whenever I want to retire to a career of punditry, then?
+			  Excellent!" I said.
+		     Then, after a pause, I added, "Lots of aging pirates retire to be come news anchors.
+		      Happens all the time."
+	-After that, we returned to our ongoing discussion of what to do next, a thing I was rather
+	 sanguine about, having just gotten the thing that I wanted.
+		-We talked again about Squee's problem, inspiring me to ask, "Oh! That Sphere of Annihilation
+		  The Brotherhood used. . . I wonder if that is still around, and would work?"
+		-Ultimately, though, we settled on the treasure map. It sounded lot less dangerous than
+		 Annihilation and such. . .  and, because, _treasure map_.
+	-The one landmark on the map was the city of Graywall, a few days flight Northeast of Sharaar Kol.
+	-So, we set about taking on supplies and rounding up our hung over crew members. Soon, we were
+	 aloft again.
+		-We opted to take more or less the shortest route. . . across the turbulent and dangerous
+		 skies over the Graywall mountains.
+		-That was because it was over those very same mountains, on the trip to The Shining Valley
+		 and it's gnomish village, we had spied that floating platform, and Jade was still quite
+		 keen on investigating it.
+	-The journey was wracked by stormy weather.
+		-At one point, a gnomish crewman almost went overboard, but I lassoed him with a handy line,
+		 and hauled him back across the deck with help from D'Roc
+	-We had a decent sense of where the platform was and, as we neared where we saw it, D'Roc
+	 claimed he could _smell_ it, or at least the way it disturbed the air currents we were sailing
+	 through.
+		-Well, his nose didn't lead us astray, and instead _did_ lead us to the platform, sitting in
+		 a volume of air the rain mysteriously did not touch.
+		-On top of that, the platform was also weirder than it was before, with a series of flickering
+		 images playing out across it's surface.
+		-Sarge suspected an illusion, a conclusion Jade and Grimble nodded sagely in agreement with.
+		-He said such things had been common in his war, as a way of concealing ships and other
+		 large objects, to disguise them as wild magic.
+		-We discussed poking at it in various ways: throwing something at it or shooting it with a
+		 cannon, but ultimately settled on a conjured gust of wind from Sarge, as our gentlest option.
+		-That may not have been our _best_ option, though, as, once Sarge finished the innvocation,
+		 we all began to float, and scrambled to grab ahold of some bit of the ship.
+		-Jade shouted something about it functioning as a magic inverter, rebounding magical energies
+		 back at us, and we all had to wait a moment for the effect to end.
+		-D'Roc then _did_ throw a rock at the. . . thing, confirming, yep, it's an illusion, but
+		 Jade also claimed that it was _reacting_ to us, intelligently, and perhaps was being
+		 actively controlled.
+		-There was no thump or anything like that, though, that anyone heard from the rock.
+		-"Well," I asked, "Who wants to go see what's inside there? Folks with wings?"
+		-I got a healthy number of volunteers (well, unhealthy, given the danger involved), and
+		 Bruce and Sarge were soon getting ready to fly into the illusion. Jade broke in and
+		 suggested that she could make D'Roc fly with a minute's prep, and soon she was riding a
+		 flying minotaur off with them as I saluted (a thing I'm not sure I _can_ do not
+		 sarcastically).
+	-After they were gone for roughly an hour, the illusion began to slowly move towards our ship.
+		-When the lookout in the pointed that out, I sprang into action, calling out to the crew,
+		 "Full speed in reverse! It's coming at us!"
+		-A few minutes later though, Bruce, in the bigger-bat-thing form he often shifted into,
+		 came flapping out of the illusion towards us.
+		-I called out to him as he neared, saying, "What's going on? What's in there?"
+		 "A ship! And it's mad captain!" Bruce shouted in reply. "He stopped time and took us
+		  captive! You need to negotiate for the others' release! Slow down!"
+		 "Huh. . . Sarge was right, it was hiding a ship. . . Well, trim the sails! Bring us into
+		  the illusion at docking speed!" I called out to the crew.
+	-As our ship passed within the illusion, I could suddenly see a gigantic ship before us.
+		-It was painted with a name, The Storm's Ascent.
+		-We pulled alongside it and the crew got a gangplank into position.
+		-What greeted us was a warforged with eight arms, bedecked in a splendid, if tattered,
+		 miltary uniform. Behind him, the away party sat in chains, all save Jade who had been
+		 apparently allowed her freedom.
+		-The captain greeted me and said, "Call me Red," a name his cloak indeed matched.
+		 "Oh ho! Good taste!" I replied. "I'm _Fred_ the Red! Well met!"
+		 Opening with an accusation, my opposite number said, "So you're the pirate."
+		 "Well, don't think I've ever captured a ship. . . not that I'd turn another one down mind
+		  you. But I'm forever getting called all sorts of names. . ."
+		 "They called _me_ a traitor," the warforged mumbled darkly. "Couldn't in good conscious do
+		  what they asked me too. . ."
+		 "I know a thing or two about that!" I commiserated. "The god that sent me out on a scouting
+		  mission with my first ship, he's a dick! Why he kidnapped my gnome and dared to. . . But,
+		  trauma stories are best told over drinks!
+		 "Grimble!" I called to my fairly fey friend. "I still haven't seen Lucien for a bit. . .
+		  but do you think he's got a bottle of that Abyssal Temptation below decks? See if you can
+		  find one!"
+		 Turning back to the captain, I said, "You'll love the stuff! It's imported!"
+		-The captain then went back to babbling about the assassins that doubtlessly had been sent
+		 after him and other such ancient history while Grimble went off in search of a bottle.
+		-A short while later, Grimble returned with one of the distinctive bottles and handed it to
+		 the captain.
+		-He uncorked it and then paused. Perhaps thinking of those assasins, he turned to Sarge and
+		 said, "You first."
+		-Sarge nodded and, taking the bottle in one manacled hand, took a swig and, with a look of
+		 concentration on his face, managed to show no outward signs of the liquors more unusual
+		 effects.
+		-Satisfied, the captain took his own drink, and soon was yelling at tiny figures on his
+		 shoulders. . . a thing actually rather in keeping with the rest of his behavior thus far.
+		-I took the opportunity to quickly draw my rapier and stab the captain in the gap between
+		 two of the plates that made up his outer carapace.
+		-D'Roc and Sarge were quick to join my attack, with Sarge searing the madman with a gout of
+		 conjured flame while D'Roc wrapped his chains around the captain's neck and tried to
+		 strangle him.
+		-Soon, the captain dropped lifeless to the deck. . . but, as he did, a steady beeping began
+		 to come from somewhere within the ship.
+		-Jade looked alarmed. Well, we all did, but her especially, and she ran off in the direction
+		 of the ship's helm.
+		-I began to edge my way over to the gangplank and when, after a minute or so, the beeping
+		 stopped and the ship began to instead list sharply to one side, I ran across, back to my
+		 ship.
+		-I was joined in that by most of the party, save D'Roc who went running after Jade.
+		-I grabbed a line, tossing one end after then, and then began tying the other to my ship's
+		 rail.
+		-Soon, D'Roc was running back, Jade slung over one shoulder, and grabbed for the line as
+		 the deck tilted faster and faster under him.
+		-The crew hauled them back aboard as the other ship fell from beneath them, to a spectacular
+		 crash in the mountains below.
+		-We all looked over the rail at the wreckage below, most seemingly as wistful as I at the
+		 loss of that beautiful warship.
+		-Jade immediately began to talk of salvaging the thing, and Sarge had apparently been wise
+		 enough to do some salvaging on the way out, presenting her with a wand he'd taken from the
+		 fallen mad-captain.
+		-After some extensive study, and consulting with Sarge, Jade pronounced it the warship's
+		 control rod, and also a Wand of Command in it's own right.
+		-She remained very much intent on salvaging what we could form the ship, despite the
+		 mountainous terrain it's wreckage was spread across, and I was all for it, thinking of
+		 how it's artiface could be repurposed for our own ship.
 
 
 TODO:

@@ -8565,16 +8565,16 @@ TODO:
 
 
 TODO:
-	-Figure out Grimble XP implications.
+	-(DONE!) Figure out Grimble XP implications.
 		-Fred just got 600, which needs to be added to Grimble's total after applying the formula.
 		-But, also look into what this means longterm, if it might render Grimble permanently many
 		 levels behind.
 			-Well, looks like he's already level 6, so it'd be pretty hard to argue that anything
 			 he lost in return for his new sort-of-fey properties was an unfair trade.
-	-Note down Grimble's new properties:
+	-(DONE!) Note down Grimble's new properties:
 		-fey-like; butterfly wings; 5/cold iron; must be completely truthful; fly 2x normal speed (good maneuverability)
 		-Wrote it down in his Spells spreadsheet, but see what fits in Fantasy Grounds too.
-		-
+			-Done!
 
 
 9/30/24:
@@ -8748,9 +8748,8 @@ TODO:
 		 shoulders. . . a thing actually rather in keeping with the rest of his behavior thus far.
 		-I took the opportunity to quickly draw my rapier and stab the captain in the gap between
 		 two of the plates that made up his outer carapace.
-		-D'Roc and Sarge were quick to join my attack, with Sarge searing the madman with a gout of
-		 conjured flame while D'Roc wrapped his chains around the captain's neck and tried to
-		 strangle him.
+		-D'Roc and Sarge were quick to join my attack, with Sarge blasting the madman with a magic
+		 shout while D'Roc wrapped his chains around the captain's neck and tried to strangle him.
 		-Soon, the captain dropped lifeless to the deck. . . but, as he did, a steady beeping began
 		 to come from somewhere within the ship.
 		-Jade looked alarmed. Well, we all did, but her especially, and she ran off in the direction
@@ -8759,7 +8758,7 @@ TODO:
 		 stopped and the ship began to instead list sharply to one side, I ran across, back to my
 		 ship.
 		-I was joined in that by most of the party, save D'Roc who went running after Jade.
-		-I grabbed a line, tossing one end after then, and then began tying the other to my ship's
+		-I grabbed a line, tossing one end after them, and then began tying the other to my ship's
 		 rail.
 		-Soon, D'Roc was running back, Jade slung over one shoulder, and grabbed for the line as
 		 the deck tilted faster and faster under him.
@@ -8774,7 +8773,7 @@ TODO:
 		 control rod, and also a Wand of Command in it's own right.
 		-She remained very much intent on salvaging what we could form the ship, despite the
 		 mountainous terrain it's wreckage was spread across, and I was all for it, thinking of
-		 how it's artiface could be repurposed for our own ship.
+		 how it's artifice could be repurposed for our own ship.
 
 
 TODO:

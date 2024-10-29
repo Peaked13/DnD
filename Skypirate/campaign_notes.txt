@@ -8776,6 +8776,98 @@ TODO:
 		 how it's artifice could be repurposed for our own ship.
 
 
+10/28/24:
+	-Intent on that salvage, we brought the ship down lower, over the crashsite.
+		-The winds grew stronger and more turbulent nearer the mountains, so I was busy barking
+		 orders as the crew rushed all over the place, trying to keep the ship under control.
+		-The wreckage was. . . flickering. Strangely.
+			-Jade deemed it some kind of arcane energy, suggesting it was perhaps coming from the
+			 warship's engines.
+		-There was no surface suitable for actually _landing_ our ship, so, once we neared the
+		 crashsite, we lowered ropes and climbed down.
+	-Once on the mountainside, we sought a way up the sharp slope.
+		-We pooled our ropes and climbing gear, giving charge of them to Sarge, who apparently
+		 wore dragon-themed boots with a climbing effect.
+		-He scurried up the snowy slope, and _attempted_ to anchor the ropes to the mountainside,
+		 for the rest of us to climb up, but they came undone with the slightest tug.
+			-Can't _believe_ he used to serve aboard ships. . .
+		-Jade solved the issue, though, by granting a similar spell effect to D'Roc, who then
+		 _carried_ most of us up the steep slope, his feet (Hooves? What's inside those boots?)
+		 glued to the mountain by magic.
+		-Part way up, though, Lucien called out from where he hung from D'Roc's back, saying, "Look!
+		  There's something moving in the snow!"
+		-We followed his pointing, seeing large, shadowy figures approaching through the snow
+		 flurries.
+		-Any illusion that they came in peace was quickly shattered by the howling of wolves.
+		-Moments later, as they approached through the snow, the figures revealed themselves to be
+		 a band of various giants, preceded by several large, white wolves. . . 
+		-. . . and Lucien, with haste-enhanced speed, rushed towards them himself, cutting down the
+		 leading wolf.
+		-With that, the battle was joined, with us hurling spells down the slope while the giants
+		 hurled rocks upward.
+		-For our part, Grimble conjured an illusory white dragon, bursting from "beneath" the snow,
+		 roaring and snapping, while I stared down the biggest frost giant, their apparent leader,
+		 and locked his brain.
+			-The wolves, and a couple of the giants, ran in fear of the gargantuan dragon while
+			 their leader stared blankly ahead.
+			-With that accomplished, the two of us wisely sought some cover to hide behind.
+		-Sarge's conjured bursts of flames proved devestatingly effective, but one of the frost
+		 giants managed to tackle Lucien, and he fell in the snow, wrestling with his enormous
+		 opponent.
+		-D'Roc, nearly the size of the giant, came to Lucien's rescue, running at them and slamming
+		 into the giant, pushing the giant off Lucien and goring the huge humanoid with his horns.
+		-One of the giants hit Maya with a thrown boulder, staggering her and nearly knocking her
+		 off her feet.
+			-In response she turned to the giant and stared him down. I think she may have been
+			 casting some spell but, if so, I did not see what it did. The giant, in any event
+			 seemed unphased.
+		-Eventually, the series of spells hurled at his vicinity incinerated the stupified leader
+		 of the giants (along with any pretense Grimble's dragon was real), freeing Grimble and I
+		 to focus on other things.
+			-I used that opportunity to take careful aim at the nearest giant and, popping up from
+			 my cover, lodged an arrow between his ribs, before ducking back down.
+			-Grimble made to follow my example, holding his crossbow and beginning to stand up, but
+			 I yanked him back down, saying, "Hey. You already basically died once. Don't be so
+			  eager for a repeat performance."
+		-The fight wore on and, though mostly one sided, even formidble D'Roc fell for a bit beneath
+		 a giant's fierce blows, but he was soon back on his feet, some of his wounds healed by a
+		 potion flown over by Maya's familiar.
+		-Eventually, the remaining couple of giants turned to flee, though that didn't stop my from
+		 loosing more arrows after them.
+			-I'm not above shooting a man in the back.
+	-After the fight, we searched through the bodies of the giants.
+		-More salvage. . .
+		-Sadly, the weapons of the frost giants turned out to be made of ice, pretty much ruling
+		 out any resale value.
+		-Their leader had a sweet magic belt, though, and they had a fair amount of coin between
+		 them.
+	-Returning to the climb, we reached the wreckage of the warship a short while later.
+		-Peering through a rent in the ship's mangled hull, we could see the ship's engines. . .
+		 which were surrounded by a continuous lightshow of arcing energies.
+		-At our urging, Jade stepped forward to examine the matter more closely, but jumped back as
+		 an arc of energy caught her foot.
+			-The wound, rather than the burn we expected, was more of a. . . blackening, necrotic
+			 affair, suggesting the energy was not simply lightning.
+		-Maya, ever the historian, was excited that the aft of the ship was most intact.
+			-She mentioned she hoped there might be log books and the like, discussing the ship's
+			 service and travels.
+			-Well, I _was_ rather fond of the color of the captain's wardrobe. . .
+			-Maya then clarified her intentions, suggesting that the log books may disclose the
+			 location of old _armories_, from the war, thing perhaps stocked with ship parts and
+			 the like.
+			-_That_ had me rubbing my hands. . .
+		-"Oh!" I then blurted out. "Maya's mention of the captain reminds me of something! Didn't
+		  Sarge grab some kind of control device for the ship? That wand-like thing? Maybe it can
+		  be used to control the engines?
+		-My suggestion unsurprisingly proved brilliant and, drawing out the wand, Jade fiddled with
+		 if for a bit and was eventually able to stop the arcing energies.
+
+
+TODO:
+	-Remove precognition (DONE) and mage armor (actually still in effect for hours)!
+	-Level up!
+
+
 TODO:
 	-Skill spending:
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?

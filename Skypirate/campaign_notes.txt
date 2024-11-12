@@ -8832,7 +8832,7 @@ TODO:
 		-The fight wore on and, though mostly one sided, even formidble D'Roc fell for a bit beneath
 		 a giant's fierce blows, but he was soon back on his feet, some of his wounds healed by a
 		 potion flown over by Maya's familiar.
-		-Eventually, the remaining couple of giants turned to flee, though that didn't stop my from
+		-Eventually, the remaining couple of giants turned to flee, though that didn't stop me from
 		 loosing more arrows after them.
 			-I'm not above shooting a man in the back.
 	-After the fight, we searched through the bodies of the giants.
@@ -8864,8 +8864,142 @@ TODO:
 
 
 TODO:
-	-Remove precognition (DONE) and mage armor (actually still in effect for hours)!
-	-Level up!
+	-Remove precognition (DONE!) and mage armor (actually still in effect for hours)!
+	-(DONE!) Level up!
+		-(DONE!) Did for Fred:
+			-HP: 4 :(
+			-BAB & saves
+			-Class features
+			-Updated SR
+			-XP
+			-Skills
+			-Followers
+		-(DONE!) Did for Grimble:
+			-Added Wizard level in Fantasy Grounds
+			-XP
+			-Skills
+			-Spells
+	-Rescue air elementals from the wreck!
+		-I have room for more Small ones as followers, or potentially others.
+	-Rov-slime as a follower?
+		-Wrote it on the Followers tab of the spreadsheet.
+	-(DONE!) Level up some of your air elemental followers to fill higher level slots?
+		-Their innate Flyby Attack plus sneak attack (and Tumble?) is amazing.
+		-Ran it by Jake and he's OK with it: https://discord.com/channels/560915739796570113/560915739796570119/1302048294519963740
+		-So, get it done!
+
+
+11/11/24:
+	-"Is that thing safe to approach now, Jade?" I asked.
+	 "Uh. . . I think so?"
+	 "Great! We've got a rescue to do! The air elementals that powered this ship, they've been
+	  trapped, what, decades?"
+		-I then called out in Auran, "Hello?"
+		-But, if I got any reply, well, we were on a windswept mountainside and the language sounds
+		 like wind in the first place.
+	-It seemed like we needed to get closer, so Jade and Maya discussed some options and settled on
+	 what turned out to be a _quite_ impressive Lute (of Building) solo, substantially repairing the
+	 damaged, and previously shakey, wreckage.
+	-In response, though, flashing arcs of lightning again began to dance over the ship's hull and
+	 engines.
+		-In fact, the patterns. . . seemed less than random.
+		-Our arcanists fell to discussing the matter.
+			-They concluded that these _were_ the elementals that had been powering the ship, but
+			 that they were also somehow supercharged.
+			-They discussed a plane of origin that had greater levels of elemental energy, as well
+			 some arcane transformation process, one related to dragons, and perhaps the process
+			 that _made_ Sarge something dragon-like.
+			-In any event, the lute's magic seemed to have pacified them somewhat.
+		-"So, these are the elementals then?" I asked and, seeing more nods than shrugs, I called
+		 again to the dancing arcs in Auran, saying, "Hey there!"
+		- dance
+		- Maya _interpretive_ dance
+		- response: images of dragons imbuing something (them?) with lightning energy, only for that all to be stuffed into some kind of device
+			-We also got a scene of warforged marching off to, well, war.
+			-Maya recognized the banner in that scene, that of House Deneith, one of the ruling
+			 houses of Khorvaire, people known to consort with The Cult of the Dragon Below.
+				-Their banner bore a lion, a dragon, and a minotaur.
+		-"These Deneith pricks are the ones who bound you to this engine, huh?" I asked the
+		 arcing elementals.
+			-By way of response, the arcs formed a giant face, which then nodded.
+		-"Jerk move," I sympathized. "But, how did you like the sailing life?"
+			-This time, we got a whole saga.
+			-Their arcs formed a globe, featuring a supercontinent one that, as we watched, was
+			 shattered by a great hammer, with the pieces drifting into the shapes of continents
+			 we know today.
+			-Then, we got to watch a series of battles, nations rising and falling, and great
+			 catastophes, all playing out in miniature across the globes surface.
+				-I actually learned quite a lot. This electric play was a lot more exciting than
+				 history class (everyone got a +5 to Knowledge(History)).
+			-With that, they managed to also convey that they had been around for a _long_ time,
+			 involved with airships for much of it.
+		-"OK, so, _dedicated_ sailors, huh? Me too! You know, we're always looking for experienced
+		  crew. . . Our elementals serve freely too. None of this bound to the engines shit. . .
+		  You'll love Patches and Peggy! Just watch out when Peggy starts swinging that wooden leg
+		  around. At least I _think_ it's a leg. . ."
+			-That triggered another show, the globe shrinking, or us receding from it, and then up,
+			 past other globes, until all that was contained in one great crystal sphere which was,
+			 in turn, soon one tiny crystal sphere among many, pouring through a great hour glass.
+			-The more studious among us mumbled about a multi-verse, planes upon planes separated
+			 into different spheres.
+			-The elementals clearly yearned for other spheres, conveying a desire to leave this one
+			 that they'd resided for so long within.
+			-Jade even thought that travel between such things was one of the capabilities of this
+			 ships wonderous engine, though the damage to it prevented that until substantial
+			 repairs were done.
+				-"Well, the ability to run _even farther_ away from some folks in my life would be
+				  pretty welcome. . ." I responded.
+	-Well, with all this interest in a "spelljammer drive", we fell to discussing how we could
+	 continue our efforts to salvage the ship.
+		-The engine was _immense_. It alone would never fit in our hold.
+			-It's 125' x 25' x 15'.
+		-So, we started talking about whether we could build some kind of frame we could lift with
+		 our ship, perhaps from the warship's remains.
+		-Or perhaps we should fortify _this_ area, and create some shelter from the elements, to
+		 undertake some serious work on site?
+	-With the salvage details still under debate, we figured we should also search through the
+	 rest of the before making an final decisions.
+		-We turned up some coins and some expensive-looking artworks.
+		-It was the captain's quarters that proved especially interesting.
+			-There, Maya's eyes alighted upon an especially fine pair of boots, but, when she
+			 reached out to touch them, they teleported across the room. . . and began to talk.
+			-In the tones of an old sailor, the boots inquired after their captain, and we had to
+			 break the news about the long isolation and undeniable madness of the warforged skipper
+			 that I stabbed, and his scuttling of the warship.
+				-It took some doing, but the boots were eventually persuaded of the captain's
+				 madness, especially after they got a sense of how long it had been.
+					-They seemed especially hurt that the captain hadn't called on his "first mate"
+					 in that time.
+				-I saw no reason to mention the stabbing bit.
+				-They introduced themselves as Jaspar.
+					-"Ah! On account of the brown leather, eh?" I responded. "I like a good
+					  wardrobe-and-name theme. . ."
+				-When the boots proposed a drinking contest to determine who was the captain now,
+				 I knew they were my kind of people. . . er, footwear.
+				-I eagerly accepted, and the boots designated D'Roc the referee.
+				-"3, 2, GO!" I called out, hoisting the rum bottle I was given to my lips.
+				-The boots laces pulled their own bottle over, tipping it into one of the shoes.
+				-D'Roc soon called the boots out, for the splashing of liquid he could hear on the
+				 other side of the cabin door.
+					-"What? It's no different than it going down his stomach. . ." the boots groused
+					 as I seized the distraction to keep drinking and try to pull ahead.
+					-That shit stopped soon enough anyways, the boots perhaps out of charges, and
+					 the voice emanating from the boot without a bottle stuck in it began to slur.
+				-I had to lean on my mental powers to push myself to keep rushing towards alcohol
+				 poisoning, but also noticed my bottle was not emptying it as it should, it being
+				 seemingly endless, and perhaps another trick.
+				-I'm fuzzy on what happened from there, but clearly I won by disqualification,
+				 having at least cheated far less _visibly_ (if my inborn powers are even cheating).
+	-The rest of what I remember from the night was trying to sleep beneath a moth eaten blanket
+	 (which smelled of vomit for some reason) while the sounds of music and construction _both_ JUST
+	 WOULD NOT KNOCK IT OFF!
+
+
+TODO:
+	-Remove Mage Armor from Grimble!
+	-See who those boots would like to travel with, or where else they'd go?
+		-Given that their intelligent, you don't feel any better about treating them like property
+		 than with the elementals.
 
 
 TODO:
@@ -8875,11 +9009,13 @@ TODO:
 			 speed.
 				-Ah, but that's only a DC 10 with a 20' running start, which probably means the Run
 				 action, as well as managing that much movement in a straight line.
+					-Oh. No Run action needed, rereading that text. Just the 20' straight.
 				-It's DC 20 without that, which is probably tough for you to hit consistently.
 				-Oh! But extra movement speed from Haste gives you a +12 that makes that _very_
 				 plausible.
 				-Then, once Dread Pirate 8 lets you always take 10, it's guaranteed. . .
-		-Those other skill tricks, probably before Jump.
+			-Took the ranks and now just need the skill trick (didn't have 2 skill pts. to spare).
+		-Those other skill tricks, possibly before Jump.
 	-Ship weapons:
 		-Finish cannon refurbishment, given that incoming bone fortress.
 			-They'd be great for use with followers!

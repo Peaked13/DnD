@@ -16,6 +16,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 11	Dread Pirate 5	+9		10
 12	Dread Pirate 6	+10		10				Combat Reflexes for SD?
 13  Shadowdancer 1?
+	More Marshal? Major auras are OK, but Minor Aura giving bonus to Dex skills _and initiative_ is great.
 
 
 Flaws (compensating for +2 LA):
@@ -47,6 +48,7 @@ Advancement:
 			4		(Done!) RHETORICAL FLOURISH (Diplomacy 8): Rushed Diplomacy at -5 instead of -10.
 			4		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
 			9		BACK ON YOUR FEET (Tumble 12)
+			?		Extreme Leap ()?
 		-Customize CONCEAL SPELLCASTING???
 			-Psionic version would be very useful, but Sleight of Hand doesn't make much sense for
 			 something with no somatic components. _Bluff_, though. . . and opposed by Sense Motive?
@@ -75,7 +77,9 @@ Advancement:
 		-Psionic Weapon and it's related stuff would be good, but has min. Str 13:
 		 https://dndtools.net/feats/expanded-psionics-handbook--65/psionic-weapon--2290/
 			-Or the ranged version of that? How do ranged sneak attacks work?
+				-https://dndtools.net/feats/expanded-psionics-handbook--65/fell-shot--1106/
 				-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
+				-It also has some solid feats descending from it, along the same them.
 			-Both would benefit from improving Concentration, otherwise being one per encounter.
 				-Items are an option for that.
 		-Craven is _really_ a solid sneak attack feat, especially since it's based on level:

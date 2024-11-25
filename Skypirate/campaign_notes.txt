@@ -8912,9 +8912,12 @@ TODO:
 			-In any event, the lute's magic seemed to have pacified them somewhat.
 		-"So, these are the elementals then?" I asked and, seeing more nods than shrugs, I called
 		 again to the dancing arcs in Auran, saying, "Hey there!"
-		- dance
-		- Maya _interpretive_ dance
-		- response: images of dragons imbuing something (them?) with lightning energy, only for that all to be stuffed into some kind of device
+		-The lightening arcs continued their dance, but it _changed_. It was a response.
+		-Maya's a dancer to rival even I, and is perhaps somewhat bolder than me (probably due to
+		 her gentler upbringing), so she was quick to follow their lead and engage in a kind of
+		 _interpretive_ dance, questioning them, after a fashion, about their nature.
+		-They responded with images of dragons imbuing something (them?) with lightning energy,
+		 only for that all to be stuffed into some kind of device.
 			-We also got a scene of warforged marching off to, well, war.
 			-Maya recognized the banner in that scene, that of House Deneith, one of the ruling
 			 houses of Khorvaire, people known to consort with The Cult of the Dragon Below.

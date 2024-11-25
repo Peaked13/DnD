@@ -15,7 +15,11 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 10	Dread Pirate 4	+8		10
 11	Dread Pirate 5	+9		10
 12	Dread Pirate 6	+10		10				Combat Reflexes for SD?
-13  Shadowdancer 1?
+13  Dread Pirate 7	+11		10				
+14  Dread Pirate 8	+12		10				
+15  Dread Pirate 9	+13		10				1
+16  Dread Pirate 10?+14		10				
+	Shadowdancer?
 	More Marshal? Major auras are OK, but Minor Aura giving bonus to Dex skills _and initiative_ is great.
 
 
@@ -87,6 +91,7 @@ Advancement:
 		-Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
 		-Shot on the Run: https://dndtools.net/feats/players-handbook-v35--6/shot-on-the-run--2618/
 			-This then adds a damage bonus to that if you use crossbows: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
+		-None of the Leadership related feats are amazing: https://dndtools.net/feats/categories/leader/
 
 
 Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention,

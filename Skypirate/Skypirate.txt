@@ -349,3 +349,5 @@ Cohort:
 						https://www.d20srd.org/srd/spells/mirrorImage.htm
 						https://www.d20srd.org/srd/spells/bullsStrength.htm
 						https://www.d20srd.org/srd/spells/catsGrace.htm
+					-Higher level spells to maybe get:
+						https://dndtools.org/m/spells/stormwrack--87/disguise-ship--3350/

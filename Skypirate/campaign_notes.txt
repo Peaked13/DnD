@@ -8969,6 +8969,7 @@ TODO:
 			-In the tones of an old sailor, the boots inquired after their captain, and we had to
 			 break the news about the long isolation and undeniable madness of the warforged skipper
 			 that I stabbed, and his scuttling of the warship.
+				-(I glossed over the stabbing bit.)
 				-It took some doing, but the boots were eventually persuaded of the captain's
 				 madness, especially after they got a sense of how long it had been.
 					-They seemed especially hurt that the captain hadn't called on his "first mate"
@@ -8993,16 +8994,106 @@ TODO:
 				 seemingly endless, and perhaps another trick.
 				-I'm fuzzy on what happened from there, but clearly I won by disqualification,
 				 having at least cheated far less _visibly_ (if my inborn powers are even cheating).
-	-The rest of what I remember from the night was trying to sleep beneath a moth eaten blanket
+	-The rest of what I remember from the night was trying to sleep beneath a moth-eaten blanket
 	 (which smelled of vomit for some reason) while the sounds of music and construction _both_ JUST
 	 WOULD NOT KNOCK IT OFF!
 
 
 TODO:
-	-Remove Mage Armor from Grimble!
-	-See who those boots would like to travel with, or where else they'd go?
+	-(Done!) Remove Mage Armor from Grimble!
+	-(Done!) See who those boots would like to travel with, or where else they'd go?
 		-Given that their intelligent, you don't feel any better about treating them like property
 		 than with the elementals.
+
+
+12/16/24:
+	-When I could no longer manage more of anything resembling sleep, I got up, wiped off some mess,
+	 and stumbled forth, pulling on my new friend Jaspar as I did so.
+		-I did _ask_ first:
+			"So, Jaspar. . . that rum last night, that felt like the origin of a friendship to me,
+			 right? In light of that, mind if I, uh. . . put my feet inside you?"
+			". . . I've never been asked quite like that before. . . Well, what's the hygiene
+			 situation? Do you powder?"
+			"Hmm. . . the inside of you sure smells like rum at the moment. . . and so do I. Guess
+			 we can't make it worse?"
+	-My crew had been busy in my absence (of consciousness), and I found the wreckage surrounded by
+	 a formidable stone wall, the wall itself camouflaged with snow piled against it.
+	-I didn't have much time to admire the work, though, as Lucien reported seeing, down the
+	 mountain, the glint of what he thought might be a spyglass.
+		-Peering down the mountain some more, Lucien thought he might have seen something he termed
+		 a "githyanki", some kind of humanoid from the astral plane.
+			-Well, maybe not originally, Jade clarified. She infact had heard rumors of them being
+			 sited around crash sites and natural disasters lately. . .
+		-We talked about talking it out, but, if they're interested in crash sites, well, this one
+		 is ours and I sure as the hells ain't giving it up.
+		-So, that left intimidation and worse.
+		-With them not attacking quite _yet_, we had options to prepare.
+			-Maya through out enlisiting gravity to our cause, causing an avalanche or the like.
+			-I also asked Jade, "Jade, is any of the ship's artillery still in shape? Or easily
+			  repaired? That'd offer the possibility of an avalanche _or_ more direct action. . ."
+				-She and Sarge fell to discussing the matter, and seemed confident they could get
+				 something working.
+		-While we prepped, Lucien pointed out something else alarming: the sun seemed to be getting
+		 _dramatically_ brighter, to a degree that, now that he pointed it out, must clearly be
+		 unnatural.
+			-There goes our snow cover, then, and maybe more badness besides.
+		-We debated more prep, but then Lucien blurted out, ". . . someone just tried to banish me."
+			-"Jade," I asked, "What's the range on that? Are they already here?"
+			 ". . . It's close," she confirmed.
+			 "Shit. They're here!"
+		-We began to cast our eyes about, Lucien spotted a humanoid creeping up, brandishing a holy
+		 symbol.
+		-Lucien _also_ put the sun, the holy symbol, and, now that he mentioned it, the feint whiff
+		 of garlic and ran after the humanoid, who turned and fled, yelling, "I'm not a vampire,
+		 damn it!"
+			-Lucien easily caught up, and started a discussion I was a bit far to hear.
+		-After a short conversation, the humanoid disappeared, and Lucien returned.
+			-He summarized the conversation saying, yeah, it thought he was a vampire, and was
+			 worried about the "planar technology" of the wreckage falling into the hands of. . .
+			 someone, and their airship armada.
+		-Well, while I was still in favor of our artillery as the solution, but there _was_ more we
+		 could learn here.
+			-I checked with Jaspar, and, indeed, as he had demonstrated when cheating during our
+			 rum drinking contest, he could teleport stuff, and said his limit would be three of us.
+			-So, we put together an away party of Lucien, Grimble, and myself.
+			-We made no effort to conceal ourselves, since this was a parlay, but _did_ do the most
+			 intimidating walk we could manage, which was quite scary, between Lucien and I.
+			-As we neared the camp, we hailed them, and a representative came out to talk.
+				-"You walk like warriors, not just treasure hunters as we'd expected," the gleaming-
+				 armored and green-skinned humanoid said to us by way of greeting. "We did not wish
+				  the ship's technology to fall into the wrong hands."
+				 "It _is_ quite the treasure," I replied, "But not something we're going to treat
+				  lightly. . . or give up lightly. You seem worried about some third party, though.
+				  I'd like to learn more about that. . ."
+				 "Do any of you have magic in your blood?" the creature then asked.
+				-We had looked one to another, the wizard, the planar half-breed, and the whatever
+				 I am, and then asked a bunch of clarifying questions.
+					-Ultimately, it seemed like his main concern was _sorcerors_. At least Lucien
+					 _kind of_ counted, but was less _refined_ than what he said his foe sought.
+					-We pointedly _did not_ mention Sarge. . . but should warn him.
+				-The githyanki then recommended that, if we employed the ship we were salvaging, we
+				 would need protection, and offered that of the Githyanki Empire, but would be said
+				 that we would then besubject to the Lich Queen's orders.
+				-Changing the subject, I then asked, "Well, can you put a name to this blood
+				  drinking nightmare you're concerned about?"
+					-"I'm not sure it can be translated. . ." he warned and, indeed the Astral
+					 gibberish he then uttered was unintelligible to the three of us.
+					-He did, though, speak of entire planes stripped of their blood, saying they
+					 seem to be collecting it. . .
+				-"Well. . . we're normally freebooters," I began, returning to his offer, "But, if
+				  we do seek protection, how do we get in contact?"
+					-"Who is your communications officer?" he asked, and we eventually clarified
+					 that we would need someone to cast Sending.
+					-I said that was well within our abilities and aksed his name, which he gave as
+					 "R'san".
+				-We then took our leave and returned to the ship (on foot, since it wasn't an
+				 emergency, tempted though I was to do otherwise, given the slope).
+	-By the time we got back to the ship, Maya's Lyre strumming had essentially all the non-magical
+	 portions of the warship repaired.
+
+
+TODO:
+	-Remove Mage Armor from Grimble!
 
 
 TODO:
@@ -9035,6 +9126,8 @@ TODO:
 	-Maybe do something with our other airship too.
 	-Host an event with that arms merchant. Search above for "weapon signing".
 	-Figure out paying back that 10k in diamonds.
+	-Offer Squee that infinite bottle of rum? Can't _kill_ him, but can keep him _senseless_ for
+	 eternity. . .
 	-Items:
 		-A Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
 			-Your saves are good now, so you need to boost your AC.

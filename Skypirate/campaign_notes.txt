@@ -9021,9 +9021,9 @@ TODO:
 	-I didn't have much time to admire the work, though, as Lucien reported seeing, down the
 	 mountain, the glint of what he thought might be a spyglass.
 		-Peering down the mountain some more, Lucien thought he might have seen something he termed
-		 a "githyanki", some kind of humanoid from the astral plane.
+		 a "githyanki", some kind of humanoid from the Astral Plane.
 			-Well, maybe not originally, Jade clarified. She infact had heard rumors of them being
-			 sited around crash sites and natural disasters lately. . .
+			 sited around crash sites and natural disasters lately too. . .
 		-We talked about talking it out, but, if they're interested in crash sites, well, this one
 		 is ours and I sure as the hells ain't giving it up.
 		-So, that left intimidation and worse.
@@ -9043,9 +9043,9 @@ TODO:
 			 "Shit. They're here!"
 		-We began to cast our eyes about, Lucien spotted a humanoid creeping up, brandishing a holy
 		 symbol.
-		-Lucien _also_ put the sun, the holy symbol, and, now that he mentioned it, the feint whiff
-		 of garlic and ran after the humanoid, who turned and fled, yelling, "I'm not a vampire,
-		 damn it!"
+		-Lucien _also_ put together the sun, the holy symbol, and, now that he mentioned it, the
+		 feint whiff of garlic and ran after the humanoid (who turned and fled) yelling, "I'm not a
+		 vampire, damn it!"
 			-Lucien easily caught up, and started a discussion I was a bit far to hear.
 		-After a short conversation, the humanoid disappeared, and Lucien returned.
 			-He summarized the conversation saying, yeah, it thought he was a vampire, and was
@@ -9084,7 +9084,7 @@ TODO:
 				  we do seek protection, how do we get in contact?"
 					-"Who is your communications officer?" he asked, and we eventually clarified
 					 that we would need someone to cast Sending.
-					-I said that was well within our abilities and aksed his name, which he gave as
+					-I said that was well within our abilities and asked his name, which he gave as
 					 "R'san".
 				-We then took our leave and returned to the ship (on foot, since it wasn't an
 				 emergency, tempted though I was to do otherwise, given the slope).
@@ -9093,10 +9093,156 @@ TODO:
 
 
 TODO:
-	-Remove Mage Armor from Grimble!
+	-(Done!) Remove Mage Armor from Grimble!
+
+1/6/25:
+	-Despite the new revelations about the hazards of traveling between multiverses / crystal
+	 spheres / whatever, we were still intent on it after some discussion.
+		-Jade _did_ warn us, though, that we had no navigation system for the 
+	-So, our course decided, we set about salvaging that engine.
+		-D'Roc began hacking away at the structure of the ship, to free the engine.
+		-Meanwhile, Maya, with her lyre, played and built a frame to lift the engine with our own
+		 shift.
+		-Despite my expert guidance, our ship strained to lift the salvaged equipment from the
+		 warship's wreckage.
+		-Sarge volunteered overcharging the elementals of our own ship's engine again, but,
+		 remembering the damage that did to our last ship, I suggested instead the help of our new
+		 dragon-lightning elemental friends, invested as they are in the project of getting this
+		 engine back together.
+		-Consulting Jade, yeah, she thought they might be able to provide some additional oomph for
+		 our engine, so they joined our existing air elementals in their labor.
+	-But, of course, something went wrong. . .
+		-Those lightning elementals added their effort by manipulating the _salvaged_ engine, now
+		 at least tied to our existing ship. . . 
+		-. . . and, in a flash, we, our ship, and all found our self in a vast, gray expanse.
+		-That caused some alarm, but thankfully Jade recognized it as The Astral Plane.
+		-"Well," I said, "I guess that's more or less what these new engines are supposed to do. . .
+		  So, I guess this is kind of a step in the right direction. Jade! What do you need to
+		  fully repair these things?"
+		-"Time," she replied, but also apparently some supplies, so despite that crystal's mostly
+		 endless supply of time, we needed to find something that wasn't gray nothingness.
+			-"Well, can you at least get us back to The Material Plane?" I asked her.
+			 "I can get _us_ back. . . but not the ship," she replied.
+			 "Ah. It _is_ rather dear to me," I said. "The engines are _supposed_ to do that,
+			  though. What do you need to get that working, Jade?"
+			 "This is the plane of transit. . . Maybe something native to The Astral can help?"
+		-So, we set about searching for. . . well, anything, in this vast expanse.
+			-Jade offered the intriguing observation that Bag of Holding are actually backed by
+			 small, folded pockets of The Astral Plane.
+				-". . . does that mean we can _pick_ those pockets?" I asked.
+				 "Well. . . maybe?" she replied. "First you'd have to _find_ them and, well, The
+				  Astral is _infinite_."
+			-Maya volunteered that dragons can (probably) smell gold, and consulted her familiar.
+				-Sniffing about, Paziameira the tiny dragon said, "Huh. . . I do detect a faint
+				  whiff of silver?"
+		-That was good enough for me, so Paziameira pointed us in the direction and away the ship
+		 sailed.
+	-After we traveled. . . some(?) distance, we could see a gray, smokey fog, on the horizon.
+		-As we got nearer, several of us took a look at it through the spyglass, and Maya noted
+		 that it appeared to have a humanoid shape, and wore two silver bracelets that were
+		 presumably what Paziameira had smelled.
+		-"Well, I know Auran and, smoke-man, so I figure Auran or Ignan are both good bets," I
+		 volunteered.
+		-So I hailed the. . . whatever, calling out, "Ho there! We're a bit lost. . . Mind if we
+		  ask for directions?"
+		-In response, the smoke-thing disappeared, and suddently appeared aboard are ship, towering
+		 over even D'Roc.
+		-I quickly stepped forward to great the. . . whatever, saying, "Hi! Fred the Red here! It's
+		  a pleasure to meet you! We wanted to. . . Wait where are my manners?!? Would you like
+		  something to drink?"
+		-"Well, of course!" the fog bank answered, and conjured a pair of whiskey glasses
+		 "Nice trick!" I complemented the cloud. "I've got a trick of my own: endless rum! Good
+		  thing too, as you're a big one! Tell me when!"
+		-The necessary addressed and drinks in hand, the foggy figure introduced himself as "The
+		 Great Wizard Martek" and, as we got to small talk, he asked, "What year is it?"
+		 "That depends on where you're from," Maya chimed in.
+		 "That it does!" the being replied. "Where are you from?"
+		 "We're recently arrived from The Material!" I supplied. "We were messing about with a
+		  magical artifact, one thing led to another, and suddenly we're on The Astral Plane. You
+		  know how it is, seeing as you're a wizard and all. . .
+		 "Indeed I do!" Martek agreed. "Well, it's been some time since last I was there. . . Tell
+		  me, do the giants still rule the place?"
+		-Not as far as we were aware, so we informed him as much, to his apparent delight, as
+		 apparently it was the giants that exiled him to The Astral, long ago.
+		-He then asked if we wouldn't happen to have a giant skull by any chance.
+			-Maya offered a giant dragon skull (apparently we kept one), proposing exchanging it
+			 for his bracelets.
+			-Though he commented that such things have power, he wasn't much interested.
+			-As he explained, he needed the skull of a giant descended from those that banished him
+			 to be able to return to The Material Plane.
+			-Nonetheless, Maya tried to sell him on the skull anyways, offering to throw in the
+			 celebrated Flumph's Blue Salt ("Great wizard already, it'll make you a great _chef_
+			 too!" I added) and, when that was not enough, some soup.
+				-"Can I try the soup?" the wizard asked, leading to some cooking on Maya's part,
+				 with flumph-provided mushrooms, flame from Paziameira, vegetable slicing from
+				 Lucien, of course the blue salt.
+				-Tasting it, Martek pronounced it good. . . but still wasn't going to be parting
+				 with those bracelets.
+			-Well, if it's a particular flavor of giant skull he's dead set on, we could certainly
+			 keep our eyes out once we found our way back to The Material.
+				-Maya thought to inquire, "If we _can_ obtain one, how would we find you?"
+				-By way of answer, he gave us a _different_ bracelet, from which dangled four
+				 charms. He touched one, which turned a smokey gray, and said that it could be used
+				 to call him to us from any point on The Astral Plane.
+		-Maya then suggested pancakes, to follow the soup, which we all enthusiastically agreed to.
+			-That enthusiasm was somewhat dampered when she suggested that they'd be mushroom
+			 pancakes, but we didn't let that entirely deter us.
+			-"Grimble!" I called out. "You're and alchemist! Think you could make a syrup from rum?"
+				-He did indeed, to much delight.
+		-Through out most of this, with only the occasional pancake break, Jade worked on the
+		 engines, using that time crystal.
+			-Ducking down to where she was doing so, we saw. . . multi-Jade: a flurry of Jades
+			 rushing about and working on various portions of the project.
+			-Maya tried to touch one, but it was like trying to grasp one of Grimble's illusions,
+			 despite the physical progress she was making.
+		-Well, leaving Jade to that, we returned to the deck, where Martek was still (somewhat
+		 confusingly, given his semi-substantial form) eating pancakes.
+		-Eventually, we discussed seeking the aid of the Githyanki, there being a standing offer
+		 there, they being (sort of) native to the plane, and they being familiar with the engine
+		 technology.
+		-Martek knew the way to their Lich Queen and, with some arcane gestures, conjured some form
+		 of navigation system for us, with only one set of coordinates within.
+	-Saying our goodbyes to Martek, we sailed there and found a floating city of many towers.
+		-As we neared the the ring of airships circling structure, I was subjected to a horrid voice
+		 ringing in my mind, barking, "Surrender and prepare to be boarded!"
+			-"Well, they're hailing us, folks," I relayed to my crew. "Stand down and prepare to
+			  greet the welcomong party.
+		-One of their ship pulled alongside us and a githyanki sailor called over, "If you come to
+		  do hommage to our queen, those pathetic iron tubes you call weaponry disgrace you!"
+		 "I have weapons," Maya replied, pointing to D'Roc and Sarge.
+		-Lucien looked terribly insulted to not be included and, puffing up his chest, yelled, "Send
+		  your fiercest warrior over and I'll show you what I can do! Face me in a duel!"
+	-The githyanki took up Lucien's challenge, and sent over their champion.
+		-What ensued alternated between a blur of swords and shouted insults.
+		-Lucien drew first blood, though, and made the impression we were looking for.
+		-Their champion _did_ go out of his way to insult my ship, though. . .
+	-We were directed to a dock low on the structure and, as we disembarked, we found ourselves at
+	 the base of a _looong_ staircase.
+		-Another insult. . .
+		-The short trip to the dock, we were also shadowed by a colossal red dragon.
+			-So, hooray, a show of power too. I like these jackasses about as well as I do Edric.
+	-Well, after an interminable climb, we were led to the Lich Queen's throne room.
+		-Her intimidating decore and wardrobe made quite the impression. Enough of an impression,
+		 in fact that D'Roc spun on his hooves and ran back down the stairs, with Maya quickly joining
+		 him.
+		-I myself was struck (nearly) speechless.
+		-The queen was big on oaths of service, a thing she was eager to push on the lot of us.
+			-Lucien especially.
+		-Fortunately, Lucien had thoughts. . .
+			-He and our wrinkly queen here had a overlap of interests: an enimity with Lucien's
+			 angelic kin.
+			-There was a lot of wrangling, but he managed to sell her on the head of one of his more
+			 famous kin in return for her aid getting back to The Material.
+				-Definitely a win-win, as Lucien later explained that, though she's his grandmother,
+				 she also orchestrated the deaths of his parents.
+			-The Lich Queen _did_ set a deadline, though: within a week.
+	-So, we returned to the ship and delivered the news to the others, with a decidedly mixed
+	 reception.
+		-Apparently some of the others are a bit more tolerant of self-righteous celestials than I.
 
 
 TODO:
+	-Dragon-lightning elemental friends as followers?
 	-Skill spending:
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?
 			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
@@ -9238,6 +9384,8 @@ TODO:
 				-First 10 minutes = Fatigued, then Exhausted after another 10, and useless until
 				 some rest or other means of curing those states.
 	-Do we have a treasure map? Search "a treasure map" above!
+	-Skull of a giant descended from the one that banished Martek, to allow him to return to The
+	 Material Plane.
 
 
 TODONE:

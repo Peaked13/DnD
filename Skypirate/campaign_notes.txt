@@ -9098,7 +9098,7 @@ TODO:
 1/6/25:
 	-Despite the new revelations about the hazards of traveling between multiverses / crystal
 	 spheres / whatever, we were still intent on it after some discussion.
-		-Jade _did_ warn us, though, that we had no navigation system for the 
+		-Jade _did_ warn us, though, that we had no navigation system for this.
 	-So, our course decided, we set about salvaging that engine.
 		-D'Roc began hacking away at the structure of the ship, to free the engine.
 		-Meanwhile, Maya, with her lyre, played and built a frame to lift the engine with our own
@@ -9114,7 +9114,7 @@ TODO:
 	-But, of course, something went wrong. . .
 		-Those lightning elementals added their effort by manipulating the _salvaged_ engine, now
 		 at least tied to our existing ship. . . 
-		-. . . and, in a flash, we, our ship, and all found our self in a vast, gray expanse.
+		-. . . and, in a flash, we, our ship, and all found ourselves in a vast, gray expanse.
 		-That caused some alarm, but thankfully Jade recognized it as The Astral Plane.
 		-"Well," I said, "I guess that's more or less what these new engines are supposed to do. . .
 		  So, I guess this is kind of a step in the right direction. Jade! What do you need to
@@ -9123,8 +9123,8 @@ TODO:
 		 endless supply of time, we needed to find something that wasn't gray nothingness.
 			-"Well, can you at least get us back to The Material Plane?" I asked her.
 			 "I can get _us_ back. . . but not the ship," she replied.
-			 "Ah. It _is_ rather dear to me," I said. "The engines are _supposed_ to do that,
-			  though. What do you need to get that working, Jade?"
+			 "Ah. It _is_ rather dear to me," I said. "The engines are _supposed_ to do that for
+			  us. What do you need to get that working, Jade?"
 			 "This is the plane of transit. . . Maybe something native to The Astral can help?"
 		-So, we set about searching for. . . well, anything, in this vast expanse.
 			-Jade offered the intriguing observation that Bag of Holding are actually backed by
@@ -9145,7 +9145,7 @@ TODO:
 		 volunteered.
 		-So I hailed the. . . whatever, calling out, "Ho there! We're a bit lost. . . Mind if we
 		  ask for directions?"
-		-In response, the smoke-thing disappeared, and suddently appeared aboard are ship, towering
+		-In response, the smoke-thing disappeared, and suddenly appeared aboard our ship, towering
 		 over even D'Roc.
 		-I quickly stepped forward to great the. . . whatever, saying, "Hi! Fred the Red here! It's
 		  a pleasure to meet you! We wanted to. . . Wait where are my manners?!? Would you like
@@ -9175,7 +9175,7 @@ TODO:
 			 too!" I added) and, when that was not enough, some soup.
 				-"Can I try the soup?" the wizard asked, leading to some cooking on Maya's part,
 				 with flumph-provided mushrooms, flame from Paziameira, vegetable slicing from
-				 Lucien, of course the blue salt.
+				 Lucien, and, of course the blue salt.
 				-Tasting it, Martek pronounced it good. . . but still wasn't going to be parting
 				 with those bracelets.
 			-Well, if it's a particular flavor of giant skull he's dead set on, we could certainly
@@ -9187,7 +9187,7 @@ TODO:
 		-Maya then suggested pancakes, to follow the soup, which we all enthusiastically agreed to.
 			-That enthusiasm was somewhat dampered when she suggested that they'd be mushroom
 			 pancakes, but we didn't let that entirely deter us.
-			-"Grimble!" I called out. "You're and alchemist! Think you could make a syrup from rum?"
+			-"Grimble!" I called out. "You're an alchemist! Think you could make a syrup from rum?"
 				-He did indeed, to much delight.
 		-Through out most of this, with only the occasional pancake break, Jade worked on the
 		 engines, using that time crystal.
@@ -9229,7 +9229,7 @@ TODO:
 		-The queen was big on oaths of service, a thing she was eager to push on the lot of us.
 			-Lucien especially.
 		-Fortunately, Lucien had thoughts. . .
-			-He and our wrinkly queen here had a overlap of interests: an enimity with Lucien's
+			-He and our wrinkly queen here had an overlap of interests: an enimity with Lucien's
 			 angelic kin.
 			-There was a lot of wrangling, but he managed to sell her on the head of one of his more
 			 famous kin in return for her aid getting back to The Material.
@@ -9239,6 +9239,10 @@ TODO:
 	-So, we returned to the ship and delivered the news to the others, with a decidedly mixed
 	 reception.
 		-Apparently some of the others are a bit more tolerant of self-righteous celestials than I.
+
+
+1/27/25:
+	-
 
 
 TODO:
@@ -9278,13 +9282,18 @@ TODO:
 		-A Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
 			-Your saves are good now, so you need to boost your AC.
 		-Get Jade to craft at least a masterwork rapier for you.
-			-She now even has Craft Wonderous.
+			-She now even has Craft Magic Arms and Armor.
 		-Chris had some bow ideas: https://discord.com/channels/@me/838577998269120522/1207089795155886120
 		-Something to deal with undead?
 			-Maybe a specific wand?
 		-Dex boosts too, though maybe the runner up behind Charisma.
 			-I've already got the +2 gloves of Dex.
 		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
+		-Buy an alchemist's lab for Grimble, to keep aboard ship?
+			-Description: https://www.dandwiki.com/wiki/SRD:Alchemist%27s_Lab
+			-Eh, sounds like it's the MW Tool, with the description there saying it's safe to assume
+			 tools suitable to avoid a penalty are available.
+			-Maybe worth getting eventually, but not urgent.
 	-More dance numbers.
 	-Recruiting followers!
 		-You're keeping track of them in a Followers tab on the spreadsheet.
@@ -9383,6 +9392,8 @@ TODO:
 			-Oh! Jade has a new crystal now: The Crystal of Chaotic Good Time Dilation (name pending?):
 				-First 10 minutes = Fatigued, then Exhausted after another 10, and useless until
 				 some rest or other means of curing those states.
+		-You might have burned some bridges with Edric there now, obviating some of this, but still
+		 not the worst thing to have in your back pocket.
 	-Do we have a treasure map? Search "a treasure map" above!
 	-Skull of a giant descended from the one that banished Martek, to allow him to return to The
 	 Material Plane.

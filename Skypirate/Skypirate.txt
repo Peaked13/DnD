@@ -35,7 +35,7 @@ Flaws (compensating for +2 LA):
 Active Permanent Spells:
 	Darkvision 60': https://www.d20srd.org/srd/spells/darkvision.htm
 
-Skill Tricks Known:
+Skill Tricks Known (once per encounter, or per minute out of combat):
 	Dwarven Dance: DC 25 Perform(Dance) check to negate 10 ft. of rough terrain underground.
 	Harmonic Shot: DC 30 Perform check and no move during the turn to give a ranged attack sonic
 	               type, yours or others.

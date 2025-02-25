@@ -9272,7 +9272,7 @@ TODO:
 		-I watched most of my fellows have a glass each, then each zone out for a minute or two.
 	-That eventually led to some philosophical discussions with our gith guide.
 		-Talking about how long we'd had our ship led to our dragon encounters, which led to the
-		 githyanki alliance with the dragon got Tiamat (and some choking, then heming and hawing
+		 githyanki alliance with the dragon god Tiamat (and some choking, then heming and hawing
 		 from Maya).
 		-Eventually, though, we seem to have managed to thoroughly weird out our host, who took his
 		 leave of us.
@@ -9290,11 +9290,11 @@ TODO:
 			-We did decide it would be better to arrive outsided the city and make a subtle approach,
 			 as opposed to appearing in the air above it in the airship.
 	-We returned to our ship, and soon shifted to Aborea.
-		-We appeared hovering along side a cliff some distance from the city, with a dense canopy
+		-We appeared hovering alongside a cliff some distance from the city, with a dense canopy
 		 of trees far below us, startling some deer as we emerged from our ship.
 		-That actually prompted Grimble to offer a suggestion, and soon he was fluttering after the
 		 deer, aloft on his butterfly wings.
-		-They seeemed rather less alarmed by him flying then us stomping, and soon he was conversing
+		-They seeemed rather less alarmed by him flying than us stomping, and soon he was conversing
 		 with them in a simple language known to his forest-dwelling people, one with which they
 		 could communicate with creatures of the forest. In short order, he had them eating bits of
 		 rations from his hand.
@@ -9324,7 +9324,7 @@ TODO:
 			-The lion man then dived back into the vegetation, but Sarge drove him back out by
 			 blasting the area with a ball of fire.
 			-I'd been waiting for his reappearance, though, and, catching sight of him again,
-			 focused my mind on him and soft locked his brain, leaving him at our mercy for as long
+			 focused my mind on him and soft-locked his brain, leaving him at our mercy for as long
 			 as we wanted.
 		-My mental powers left the creature helpless, but also me less than helpful and him unable
 		 to speak, so our next order of business was to secure him in a different manner.
@@ -9368,12 +9368,123 @@ TODO:
 		 constructing a campsite and improvised shelters for us all.
 
 
+2/24/25:
+	-Lucien caught up with us as we were drinking around the campfire, to some alarm on Kaelith's
+	 part, our horned companion emerging form the darkness.
+		-We calmed him down, though, letting him know Lucien was another of our companions.
+		-More drinking ensued. . .
+	-Come morning, we continued on to the city.
+		-Conversationally, Kaelith asked us if we thought they'd let us through the city's walls.
+		 "Well, I did until now," I responded.
+		-Nonetheless, we continued on, until the city's enormous stone walls were in sight.
+		-At which point, Kaelith said he'd made good on his word, as indeed he had, and asked for
+		 a parting gift of rum, brandishing an empty waterskin.
+		 "Just say when!" I happily replied, filling the bottle to overflowing, luxuriating in my
+		 infinite rum, until he actually did.
+	-No one greeted us at the gate, but D'Roc banging away at the thing sorted that.
+		-After an exchange of "Who goes there?!?" and what not, we got to explaining that we were
+		 here in search of our friend's long lost kin.
+		-The gate guard was quite skeptical of us, particularly eyeing Lucien's horns (and giving
+		 D'Roc a great deal of offense when he said as much).
+		-But, I was able to convince the guard of our good intentions, and he eventually let us
+		 through the gates.
+		-He _did_ though insist we check our weapons as the gate, leading to some frantic scrambling
+		 to conceal blades and the like.
+			-I myself happily handed over my (cheap) weapons, though I "explained" that my wands
+			 were wands of, "Cure Light Wounds, Cure Moderate Scabies, Heal Some Other Stuff. . .
+			 I'm a healer you see!"
+	-We needed information to get more information, so we started by asking around the market.
+		-"Such nice people here. . . How do you keep them so?" and similar, angling for that
+		 "Internal Affairs" service we'd heard the celestials maintained.
+		-Ultimately, we ended up bribing a merchant who was clearly fishing for it, and also liquored
+		 him up (naturally).
+		-With Lucien mentioning his grandmother's name (which I promptly forgot), the merchant was
+		 indeed aware of rumors of a scandal involving a grandson. . . and also some kind of super
+		 soldier program: warriors trained by air elementals or something like that, whirlwinds of
+		 blades.
+	-Taking our leave of our notably corrupt corruption expert, we found a bit of privacy to discuss
+	 our next move.
+		-Lucien was immediately thinking about how to sneak into the temple in which his grandmother
+		 worked or resided or whatever.
+		-I, though, proposed trying to lure her away from it somehow, some of us (here I was eying
+		 D'Roc) not being the sneakiest folks in the world. . .
+		-Lucien then proposed announcing his "capture", and trying to lure her back to the boat to
+		 come take possession of the "prisoner".
+		-I had and alternative in mind, though: quinceanera!
+			-This required explaining. . .
+			-Essentially, I proposed throwing some kind of party in Lucien's honor, in an effort to
+			 both lure his grandmother there and provoke her.
+	-Weirdly, the quinceanera thing kept snowballing. . .
+		-We visited a party shop in a tree, run by fairies, to purchase streamers, cupcakes, banners
+		 for confusing assortment of conflicting events, and a bunch of self-playing kazoos.
+			-Sadly, Maya was not with us, as this totally would have been our kind of thing. I think
+			 she was sulking a bit, due to this whole hunting angels and allying with Tiamat's allies
+			 thing. . .
+		-We then debated a location and, even more weirdly, I convinced myself, then the others, that
+		 the ominous cave the deer were telling us about was a great location.
+			-I mean, it _was_ near to both the city _and_ our ship, it was outside the city. . . and
+			 it made me giggle.
+		-On our way to scout the location, we also took some time to spread rumors about the upcoming
+		 party:
+			"It's going to be the event of the millenia. . ."
+			"The Material Plane's famed Party Lizard might even make an appearance. . ."
+			"You probably haven't heard about it yet. . . it's really underground."
+	-So, we had D'Roc look for the end of the cave system nearest the city, a thing he did with
+	 obvious ease.
+		-The opening he lead us too required some sqeezing from his large form, but nonetheless he
+		 lead the way. . . and called a halt just inside.
+		-He and Lucien explained that the loose sand ahead of us. . . with skeletal hands poking
+		 out of it. . . posed a hazard to us.
+		-Thankfully Grimble and Sarge were easily able to sort that, glassing the sand with a
+		 judicious application of conjured flame.
+		-Soon, we had a neat glass floor for the entrance, complete with spooky skeleton hands
+		 underneath!
+		-I found myself curious if that had drawn any attention to us and, sure enough, cocking his
+		 head, D'Roc said he could hear some. . . squawking, coming from deeper in the cave.
+		-Hearing that, Lucien scouted forward while Grimble and I took up defensive positions, hiding
+		 behind a rock outcropping.
+		-The rest of the party crept forward too, and, apparently seeing something down a hole,
+		 Lucien raised his blade, ready to attack it, while Sarge blasted the ceiling above the hole,
+		 dropping rocks down it to much further squawking.
+		-Soon, some kind of bird-horse emerged from a different hole.
+		-Grimble blasted it with a ball of fire while I loosed some arrows at it, then Lucien ran
+		 forward and cut it in twain.
+			-"It's cooked! . . . And smells pretty good," I added.
+			 "Party appetizers!" D'Roc suggested.
+			 "Yeah! . . . anyone know if it's unethical to eat. . . whatever that is?" I ssked.
+		-There were still plenty of bird noises echoing throught the cave so Sarge and D'Roc rushed
+		 forward to join Lucien while I asked Grimble for some invisibility and crept forward myself.
+		-Soon, another of the creatures soared out from the same hole in the cavern floor.
+		-I loosed another arrow at it as it swooped at Lucien, the arrow hitting but it thankfully
+		 missing Lucien, continuing past him as the devil-angel-man-whatever swiped at the
+		 horse-bird-whatever with his blade.
+			-(I'm not trying to give offense! Fuck knows whatever _I_ am. . .)
+		-Lucien ran after the creature and lept onto it's back, sinking his blade into it's flank.
+		-It fell to the earth, dead and bleeding, but unfortunately slipping into one of the nearby
+		 cracks in the cavern floor. . . with Lucien sliding in after.
+		-Fortunately, Jade's artifice meant I was hasted, so I rushed forward and tossed him a
+		 rope. . . though my effort to wind it around a nearby root just ended up breaking the root,
+		 and with me sliding toward the pit myself.
+		-Thankfully, Grimble rushed forward to take hold of the rope too and we were soone joined
+		 by Sarge as well, and the three of us were able to haul Lucien back up.
+	-After that, we took some time to survey the cave, collecting various trinkets from the
+	 hippogriffs' victims, while Lucien victimized one of the beasts in turn, butchering and cooking
+	 it.
+		-(Someone informed me what they were. I also learned they are delicious.)
+
+
+TODO:
+	-Party prep!
+		-Upper left is the exit nearest the airship, and a useful looking stage-like area.
+		-Serve roast hippogriff?
+
+
 TODO:
 	-Dragon-lightning elemental friends as followers?
-	-Skill spending:
+	-Skill spending (remember tricks are once per encounter!):
 		-5 ranks in Jump, for a useful skill and +2 to Tumble?
 			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
-			 speed.
+			 speed (once per encounter. . .).
 				-Ah, but that's only a DC 10 with a 20' running start, which probably means the Run
 				 action, as well as managing that much movement in a straight line.
 					-Oh. No Run action needed, rereading that text. Just the 20' straight.

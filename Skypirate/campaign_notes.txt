@@ -9486,7 +9486,7 @@ TODO:
 		-My main priority was locating a suitably large depression in which to create a punch pool,
 		 using my infinite rum bottle and whatever other flavors were on hand.
 			-Lucien sagely suggested pouring some Abyssal Temptation in, to which I enthusiastically
-			 agreed. Spiked punch!
+			 agreed. Twice-spiked punch!
 			-I located a suitable depression near the entrance, so people could fill their glasses,
 			 buckets, or whatever as they came in, and began pouring. . . which continued for 45
 			 minutes or so.
@@ -9502,7 +9502,8 @@ TODO:
 		-We were even joined by Kaelith and some of his lionel brethren, having heard the rumors
 		 and smelled the meat cooking.
 			-We talked them into playing security for the party (though reassured them that
-			 definitely preclude partaking of the punch).
+			 definitely didn't preclude partaking of the punch).
+				-"I like my bouncers like I like myself," I said. "Pretty drunk."
 		-We also opted to make the party a masquerade too.
 			-For my own costume, I decided to pour Uncle Rov onto my face, asking him to take
 			 advantage of his slime-self-shaping abilities as suited him, for my mask.
@@ -9535,7 +9536,7 @@ TODO:
 		 growling arguments and accusations at her.
 		-Arguing turned into fighting, and thankfully the lady was unarmed as she was fast as fuck.
 			-Faster, even, than the thankfully _armed_ Lucien.
-		-I employed my precognition (which said shit's about to go down at this part) and ducked
+		-I employed my precognition (which said shit's about to go down at this party) and ducked
 		 behind a rock.
 		-Maya tried to calm things down, but our fast foe proved immune even to her considerable
 		 charm.
@@ -9546,12 +9547,12 @@ TODO:
 		 Lucien was clearly wronged by his grandmother.
 		-Shockingly, the force of all that _did_ seem to calm things down, and the lady even paused
 		 for another drink.
-		-Shit, I think Lucien even befan trying to chat her up.
+		-Shit, I think Lucien even began trying to chat her up.
 			-Maya was naturally all about this, and even commissioned an illusory "Kiss the birthday
 			 boy!" tunic from Grimble.
 		-Yep, pretty soon they were making out. Well, OK, fine, a kiss on the cheek.
 		-She did agree to go fetch his grandma, and took off shortly thereafter.
-	-That confrontation seemed to sour the mood of some of the party goers started heading home.
+	-That confrontation seemed to sour the mood of some of the party goers, who started heading home.
 		-Many of those that remained seemed _excited_ by the confrontation, though, if anything.
 	-An hour or so later, we got word from the bouncers: Leansia had been sighted at the door.
 		-Lucien walked forward to the town-side entrance, and confronted her.
@@ -9565,36 +9566,180 @@ TODO:
 		 had given her to take Edric to court.
 			-"Fred, it sounds like Leansia needs to face justice. . ." May began.
 			 "Say no more!" I slurred, taking the cloak from her. "Grimble! Hide me!"
-		-Grimble scurried over to me and, with a gesture, some arcane syllables, and a tab, I was
-		 soon invisible and creeping towards Leansia.
+		-Grimble scurried over to me and, with a gesture, some arcane syllables, and a tap from the
+		 gnome, I was soon invisible and creeping towards Leansia.
 		-Well, I may have had more rum than was adviseable for creeping, and kept bumping into
 		 things and tripping over the uneven cavern floors as I approached, but Maya attempted to
 		 distract the celestial grandmother while I attempted to pretend to be a drunk pixie.
 			-The former didn't work. . . but, shockingly, the latter did! Well, I guess it's
 			 honestly not that far off who I am. . . especially after all that pixie dust.
 		-Once close to Leansia, I lunged forward and wrapped her in the cloak.
-		-In the blink of an eye, we were else where, standing before an enormous silver dragon
+		-In the blink of an eye, we were elsewhere, standing before an enormous silver dragon
 		 sitting at an enormous desk.
 
 TODO:
-	-Remove precog and Mage Armor (once the durations expire).
-	-Level Fred and Grimble!
+	-(DONE!) Remove precog and Mage Armor (once the durations expire).
+	-(DONE!) Level Fred and Grimble!
+		-Did:
+			-Fred:
+				-BAB & Saves
+				-Special Ability
+				-Skills
+				-HP
+				-Followers
+			-Grimble:
+				-Applied level in Fantasy Grounds, covering:
+					-BAB & Saves
+					-HP
+				-Skills
+				-Ability increase
+				-Spells
+
+
+4/7/25:
+	-Bahamut's paralegal greeted us, saying, "Oh! You're back! What's happened now?"
+		-I proceeded to explain that, "Well, mixed interplanar family, grandmother murders mother. . .
+		 A whole sordid story, crying out for justice, and, well, we naturally thought of you lot!"
+		-Well, the clerk made some noises about paperwork he'd need to attend to, and left us to
+		 wait in a featureless void.
+			-"So, drinks, then? I've got some rum!" I offered, to wide assent.
+			-Jade was all business, though, and turned to some papers of her own, some designs she
+			 was working on.
+				-Asking her about the subject, she said it was her air-elemental-cruelty-free
+				 airship engines she'd proposed, a project I enthusiastically commended her on.
+		-In three drinks or so, the clerk returned. . . seeming a bit flustered.
+			-Apparently, expert filer though our scaley bureaucrat claimed to be, the paper work
+			 was all chaos.
+			-"In fact," he elaborated, "The plane itself is. . . a bit wonky. You see, Bahamut is. . .
+			 not here at the moment. The plane, then, is tightly linked to it's god."
+		-He eventually admitted we could perhaps help him with that matter, help him to find his god.
+			-Apparently Bahamut was known to wander, and had gone to visit an outdoor market North
+			 of Vanguard Keep that he was fond of, but had been gone unusually long.
+			-We agreed to help and, after a brief discussion of transit and the safety of our ship,
+			 he shifted us back to The Material Plane, just outside the market.
+				-My crew was with the ship, and the lion men were thankfully about as well. I figured
+				 they had good reason to regard us fondly, as did many of the other partygoers.
+		-Before he took his leave of us, I asked him about how we should get back.
+			-"Don't worry. Bahamut can easily return you to his plane," the dragon-clerk said.
+			 "What about a way back, or to get in touch, if the situation is. . . more complicated," I
+			 clarified.
+			 "Well, you still have the cloak. . . that can take you back there," he replied.
+		-That was good enough for me, and soon the dragon was gone.
+	-"Well, if you look over yonder," I began, "That looks to be a bar. Shall we start there?"
+		-I greeted the bartender and asked what she was pouring.
+		-When she replied mostly wine, I asked for the house red, saying I had a theme going, while
+		 gesturing to my clothes.
+			-What I received was a very oaky red wine, near brandy-strong. Bit abrasive, but good!
+		-Eventually, we got around to asking about our quarry, inquiring about an elderly man
+		 accompanied by his birds.
+		-She'd  indeedseen an old man with seven yellow birds. He'd been touring the market's
+		 various venders of magic trinkets.
+	-Our next stop then was a nearby wagon with an array of items marked in draconic runes and the
+	 like.
+		-Our old man had indeed been there, and purchased a number of items, paying all in platinum,
+		 but seemed particularly interested in a lantern.
+			-It was no ordinary lantern, he clarified (of course not), but a one-of-a-kind work of
+			 magic which is said to show the bearer the path to his heart's desire.
+			-Well, that potentially complicates things, as who knows where that would lead a dragon
+			 god. . .
+		-Fortunately, Jade provided a very reasonable suggestion, that boiled down to, have you tried
+		 magic?
+			-She fell to leafing through tomes she drew forth from her pack, muttering, "Perhaps a
+			 sending. . . Or divine communion?"
+		-While Jade debated her options, Maya addressed her little dragon familiar, asking if he
+		 perhaps had a way of seeking out his divine draconic forebearer.
+			-The critter at least suggest he could try tracking him, picking up his sent and such,
+			 a project D'Roc quickly joined him in.
+			-They were indeed able to follow some footprints and the scent of an elderly man, leading
+			 off from the magic vendor's wagon and into the woods.
+	-We followed the tiny dragon and the enormous bull-man into the woods, until they called a halt
+	 well out of sight of the market.
+		-They pointed out where the footsteps stopped, becoming instead scuffed earth and crushed
+		 vegetation, as if our quarry fell to the earth.
+		-"Shit! How deep do you think the old-man shape goes?" I asked in alarm. "D'you think he
+		 broke a hip or something?!?"
+		-That was met with shrugs, but D'Roc at least had a theory of what led to the fall: a snare.
+		-Several of us then looked about, including up, for evidence of our trap, and noticed
+		 something funny about a large tree looming over the site of our scuffle.
+			-A section of it was dead and warped, as if it had been caught on the edge of some magic
+			 effect.
+			-"Shit! You're saying the tree was involved?!? I know the leafy motherfuckers couldn't
+			 be trusted. Don't have 'em where I'm from and I've been nervous around 'em since
+			 getting here! Could fall on you any moment!" I rambled.
+			-I was a bit put out that no one appeared to be paying much attention to my ranting,
+			 but their discussion of the nature of the tree's damage and anti-magic fields bore
+			 fruit: they were pretty sure such a field had damaged the tree and been used to trap
+			 our dragon god in the form he'd shapeshifted into.
+				-". . . Aren't several of _us_ magic? Is this shit unhealthy?" I asked. "Jaspar!
+				 How are you doing?"
+				-To my great dismay, my shoes did not respond. . .
+				-Perhaps even more concerning, when I consoled myself with a swig of my rum bottle,
+				 it didn't refill!
+		-With that element of the trap in mind, I suggested, "Can't those of you arcanely-inclined
+		 examine magic traces and the like? There something you can learn from this?"
+			-Indeed, it turned out, they could!
+			-A combination of Jade and Maya were able to follow traces of magic away from the scene
+			 of the kidnapping, which lead up into the air, something about it's motions saying to
+			 Jade "airship".
+			-Thankfully too, Jaspar began to respond once we were some distance away, though he
+			 described a terrifying experience of blankness.
+			-Checking my rum bottle, it had also refilled, though another swig tasted. . . harsher?
+			 Less well-aged perhaps. . .
+				-"Those motherfuckers! They'll pay for this! They've made an enemy for life!" I
+				 shouted.
+	-We followed the aerial trail some distance overland, until it reached a cliff face.
+		-With Maya possessed of both wings and Detect Magic, she was able to fly up and see that
+		 the trail led to a cave in the cliff, high above.
+		-With some short debate, we all found ways to either fly or climb up the mountainside,
+		 reaching the cave.
+		-Looking inside, we could see it was in fact a concealed airdock inside the cave, with
+		 tunnels leading deeper into the mountain, an airship sitting there at rest.
+			-A _rather nice_ ship, with a fancy-looking dragon figurehead on the front. . .
+			-It _does_ help to have a back up ship, as we've established several times, and,
+			 well, I _am_ a pirate. . .
+	-Perched at the mouth of the cave, D'Roc warned us that he could hear a guard or the like,
+	 partroling a regular path within, somewhere past the airships bulk.
+		-After some whispered debate, Grimble rendered everyong within ten feet of D'Roc invisible,
+		 and we stumbled forward as a ball of lunatics, clanking rather loudly in our armor and such.
+		-That. . . did not fool the guard, who rushed forward to investigate and turned out to be a
+		 githyanki.
+		-Maya attempted to address the matter through charm, foresaking the invisibility for some
+		 arcane syllables, and soon she and the guard were good friends.
+		-That, though, simply lead to the guard pulling her aside and shouting, "Look out! Something
+		 is creeping up behind you!"
+		-He hurled a vial of what turned out to be alchemist's fire at our feet, as we all rolled
+		 away from D'Roc, trying to dodge with varying degrees of success and losing our invisibility.
+		-Maya was quick to explain that we were in fact her body guards, resulting some apologies
+		 from the guard.
+		-She was quick to interrogate her new friend, learning that nine of his fellows were deeper
+		 inside the mountain, and had indeed captured an old man. He was even willing to sketch us
+		 a quick map to them.
+		-We thanked him for his help and promised to put in a good word with his superiors on his
+		 behalf, then followed his map into the tunnels.
+	-We were no more successful trying to silence our clammor as we moved through the tunnels, so it
+	 was no surprise when we were soon met by another two githyanki guards, brandishing greatswords
+	 and shouting warcries.
+		-Thankfully, axe and spell made short work of that all.
+	-Following our map, we eventually felt our various bits of magic fail us, we having found the
+	 anti-magic effect.
+		-But, interesting, my psionic precognition _did not_ fail, though things got a bit. . .
+		 static-y.
+	-Shortly thereafter, we emerged into a chamber in which an elderly man sat in an iron cage of
+	 fine meshwork, chatting with seven yellow birds.
+		-D'Roc had no trouble wrenching the cage's door open, despite it's lock, and soon the man
+		 was free, and greeting Maya.
+		-I asked if the lamp had led him to what he wanted, and he replied that it was instead cursed.
+			-"I figured," I replied, "But figured I should check. I don't judge, and who knows what
+			 you're into."
+		-We quickly made to leave, and as soon as we were past the anti-magic field, old man Bahamut
+		 whisked us off the plane and back to his court.
 
 
 TODO:
+	-Sell loot!
+	-People from Aborea(?) party as followers?
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
-		-5 ranks in Jump, for a useful skill and +2 to Tumble?
-			-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
-			 speed (once per encounter. . .).
-				-Ah, but that's only a DC 10 with a 20' running start, which probably means the Run
-				 action, as well as managing that much movement in a straight line.
-					-Oh. No Run action needed, rereading that text. Just the 20' straight.
-				-It's DC 20 without that, which is probably tough for you to hit consistently.
-				-Oh! But extra movement speed from Haste gives you a +12 that makes that _very_
-				 plausible.
-				-Then, once Dread Pirate 8 lets you always take 10, it's guaranteed. . .
-			-Took the ranks and now just need the skill trick (didn't have 2 skill pts. to spare).
 		-Those other skill tricks, possibly before Jump.
 	-Ship weapons:
 		-Finish cannon refurbishment, given that incoming bone fortress.
@@ -9630,6 +9775,9 @@ TODO:
 			-Eh, sounds like it's the MW Tool, with the description there saying it's safe to assume
 			 tools suitable to avoid a penalty are available.
 			-Maybe worth getting eventually, but not urgent.
+		-Slippers of Battledancing would be amazing: https://www.imarvintpa.com/dndlive/items.php?ID=3184
+			-Would mean giving up the talking boots, maybe to Grimble, to protect my little buddy. . .
+			-Might push me towards hand crossbows and the like. . .
 	-More dance numbers.
 	-Recruiting followers!
 		-You're keeping track of them in a Followers tab on the spreadsheet.
@@ -9799,6 +9947,17 @@ TODONE:
 	-Do we still hav that bottle of Rov-slime?
 		-Seems like it. Maya interrupted that conversation.
 		-Yep! Jake confirmed it. . .
+	-5 ranks in Jump, for a useful skill and +2 to Tumble?
+		-Oh! Jump offers the Extreme Leap trick, which is really good. Pretty much +10' movement
+		 speed (once per encounter. . .).
+			-Ah, but that's only a DC 10 with a 20' running start, which probably means the Run
+			 action, as well as managing that much movement in a straight line.
+				-Oh. No Run action needed, rereading that text. Just the 20' straight.
+			-It's DC 20 without that, which is probably tough for you to hit consistently.
+			-Oh! But extra movement speed from Haste gives you a +12 that makes that _very_
+			 plausible.
+			-Then, once Dread Pirate 8 lets you always take 10, it's guaranteed. . .
+		-Took the ranks and now just need the skill trick (didn't have 2 skill pts. to spare).
 
 
 TODON'T:

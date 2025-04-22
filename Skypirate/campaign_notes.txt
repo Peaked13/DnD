@@ -9599,7 +9599,7 @@ TODO:
 4/7/25:
 	-Bahamut's paralegal greeted us, saying, "Oh! You're back! What's happened now?"
 		-I proceeded to explain that, "Well, mixed interplanar family, grandmother murders mother. . .
-		 A whole sordid story, crying out for justice, and, well, we naturally thought of you lot!"
+		  A whole sordid story, crying out for justice, and, well, we naturally thought of you lot!"
 		-Well, the clerk made some noises about paperwork he'd need to attend to, and left us to
 		 wait in a featureless void.
 			-"So, drinks, then? I've got some rum!" I offered, to wide assent.
@@ -9611,7 +9611,7 @@ TODO:
 			-Apparently, expert filer though our scaley bureaucrat claimed to be, the paper work
 			 was all chaos.
 			-"In fact," he elaborated, "The plane itself is. . . a bit wonky. You see, Bahamut is. . .
-			 not here at the moment. The plane, then, is tightly linked to it's god."
+			  not here at the moment. The plane, then, is tightly linked to it's god."
 		-He eventually admitted we could perhaps help him with that matter, help him to find his god.
 			-Apparently Bahamut was known to wander, and had gone to visit an outdoor market North
 			 of Vanguard Keep that he was fond of, but had been gone unusually long.
@@ -9629,10 +9629,10 @@ TODO:
 		-I greeted the bartender and asked what she was pouring.
 		-When she replied mostly wine, I asked for the house red, saying I had a theme going, while
 		 gesturing to my clothes.
-			-What I received was a very oaky red wine, near brandy-strong. Bit abrasive, but good!
+			-What I received was a _very_ oaky red wine, near brandy-strong. Bit abrasive, but good!
 		-Eventually, we got around to asking about our quarry, inquiring about an elderly man
 		 accompanied by his birds.
-		-She'd  indeedseen an old man with seven yellow birds. He'd been touring the market's
+		-She'd indeed seen an old man with seven yellow birds. He'd been touring the market's
 		 various venders of magic trinkets.
 	-Our next stop then was a nearby wagon with an array of items marked in draconic runes and the
 	 like.
@@ -9722,7 +9722,7 @@ TODO:
 		-Thankfully, axe and spell made short work of that all.
 	-Following our map, we eventually felt our various bits of magic fail us, we having found the
 	 anti-magic effect.
-		-But, interesting, my psionic precognition _did not_ fail, though things got a bit. . .
+		-But, interestingly, my psionic precognition _did not_ fail, though things got a bit. . .
 		 static-y.
 	-Shortly thereafter, we emerged into a chamber in which an elderly man sat in an iron cage of
 	 fine meshwork, chatting with seven yellow birds.
@@ -9735,12 +9735,146 @@ TODO:
 		 whisked us off the plane and back to his court.
 
 
+4/21/25:
+	-We found ourselves waiting before Bahamut's paralegal (something that sounded like Susan?),
+	 Bahamut nowhere in sight now.
+		-The courts back in order, Susan now asked us what god we wished empaneled to hear our case,
+		 triggering much debating and recapping among our party.
+			-I pointed out that we were looking for _harsh_ justice, given both Lucien's _very_
+			 personal interest in the matter and that deal we made with that lich queen.
+			-Maya said Bahamut was known for his mercy and such, rather not what we were aiming for
+			 here, but that Cuthbert was the god of retribution.
+			-We decided to defer to Lucien here (again, given the personal nature of the case), and
+			 he called for Cuthbert.
+		-Susan then raised the matter of witnesses we might like to call, leading to yet more debate.
+			-Apparently this is the kind of court that accepts the testimony of ghosts, leading to
+			 some kind of fun divination ritual in which Lucien got to experience the death of his
+			 mother firsthand.
+				-". . . Need a drink after that, Lucien?" I said, offering the rum bottle.
+				 "I. . . will save my getting plastered until after the trial," he replied.
+				 "Well, suit yourself!" I said, taking a long swig.
+			-I also suggested that Gramma Lucien also made a confession of a kind at the party,
+			 proposing that we call someone who witnessed that.
+				-"While I myself _never_ lie. . ." I began, only to be drowned out by guffaws.
+				-"Ahem. You, hit it off with that scary lady, right, Lucien?" I tried again. "She
+				  seemed a kind of credible. . ."
+	-Our preparations made, we suddenly found ourselves standing in a courtroom, three gods
+	 presiding.
+		-Two appeared as elderly men, though armored and with his trademark cudgel, Cuthbert was
+		 unmistakeable.
+		-The other was more simply attired and I heard Bruce reverently whisper the name Obad Hai.
+		-The third appeared a young man, shirtless and bemuscled, who Maya named Kord, God of
+		 Strength.
+	-Lucien, as the accuser, was asked to give the opening statement.
+		-He quite eloquently laid out the case that his _cowardly_ grandmother killed her daughter,
+		 not in war, but to save herself _embarrassment_, enlisting the aid of her very enemies,
+		 the family of his daughter's lover, in the murder.
+			-"That sneaky politician!" I shouted, from the gallery.
+			 "There will be silence from the peanut gallery," Obad Hai pronounced.
+			 ". . . Wait. There's peanuts? Grimble, see if we can get a bag. . ." I rambled.
+				-Obad Hai waved his hand and a peanut plant sprouted from the bench beside me and,
+				 with a little bow of thanks, I dug in.
+	-Our celestial murderer then issued her response, going on about the shame and disappointment
+	 she'd been afflicted with by her daughter's acts, the response it demanded, and how one did
+	 what one had to do.
+		-It was hardly convincing, with only Kord, Mr. Might-Makes-Right, seeming the least bit
+		 receptive.
+	-There was then some back and forth concerning how much control she really had over the demons
+	 who were involved, and how this had been _supposed_ to go down.
+		-She sort of alleged she hadn't _really_ meant to cause her daughter's _death_.
+		-Lucien convincingly condemned her actions, and pointed out she then proceeded to _conceal_
+		 these acts she now claimed were oh-so-justified.
+			-I mumbled my approval through a mouthful of peanuts.
+	-Grandma celestial (as is becoming clear, I forgot her name) then called a witness, a soldier
+	 that had been under her command and was there for the death of Lucien's mother.
+		-He told a sob story about what a bloodbath it was, but it was hardly relevant given that
+		 she's the one who set the whole mess up in the first place (a fact I couldn't resist
+		 pointing out from the gallery).
+	-Our triumvirate acknowledged the testimony given and then disappeared from sight, beginning
+	 their deliberation.
+	-Returning a few moments later, Obad Hai pronounced the judgment, saying that her conspiring
+	 with demons was vile. . . but not murder.
+		-Instead, he named it a most severe form of manslaughter, a thing which the consequence is
+		 not death, but exile.
+	-The sentence made, Lucien's grandmother disappeared from sight, and a moment later we too were
+	 elsehwere, back to Susan the scaly paralegal.
+		-Looking at her papers, she said, "I see you had a good outcome. .. "
+		 "The peanuts were good. . . but there was no justice to be had!" I announced.
+			-That occasioned a quick discussion about whether they could be improved with the use
+			 of Flumphs' Blue Salt, and if the god of nature would be amenable to a business deal.
+		-"Excuse me," Maya then interjected. "She was exiled. . . Exiled to _where_?"
+		 "Oh," Susan said. "To the in-between. A nothingness between the planes, where she will be
+		  alone with her thoughts. . . Some say there are creatures there, but presumably just
+		  those sentenced to such an exile."
+	-That left us to debate where next to go.
+		-Jade was eager to resume her labors on various magical projects, and for the reagents she
+		 required to do so. A pile of treasure burning a metaphorical hole in our literal pockets
+		 and various magical dreams meant we were all in enthusiastic agreement.
+			-Maya also volunteered that she had plenty of money back in Sasserine.
+		-I did point out, though, that we needed to retrieve our ship, and get it back to someplace
+		 useful, which meant unwinding several things, most noteably our deal with the lich queen of
+		 the Githyanki and the navigation system we were promised for a thing we argueably
+		 accomplished.
+		-That elicited it's own agreement and so Susan waved a claw in an arcane gesture.
+	-The platinum cloak's spell thusly ended, we found ourselves returned to the party, which had
+	 grown quite raucous, though it was mostly the lion men that remained, dancing in a conga line,
+	 brawling with each other, and continuing to work their way through the punch pool.
+		-Lucien's wild-haired dance partner remained too, though, and swiftly approached us, saying,
+		 "I had a feeling you'd be back."
+		 "Of course!" I replied. "The party's still going!"
+		-She inquired as to her compatriot's fate, and we broke the news of her exile to the in-
+		 between.
+			-"I see. Perhaps a fate crueler than death," she remarked.
+			 "But a fate deemed just by no less than three gods," I countered.
+			 ". . . I see. Then. . . I suppose it must be so."
+		-She then began to kvetch about the gap this left in the leadership of Aborea.
+			-"Do you know how difficult it is to lead these people?" she complained. "It is enough
+			  to drive one mad. . ."
+			 "Perhaps," Lucien began, "It _takes_ a madman. . ."
+			-I don't know why he and Jade kept glancing at me, but I _did_ sense an opportuninty,
+			 and said, "Well, _I_ did get them all pointed in the direction of one hell of a party.
+			  And this place does have it's upsides: fun people, one hell of a party store. . ."
+			 "Can you stay here to do so, though?" our native interlocutor asked. "Can _any_ of you?"
+			 "Ah, you got me there," I admitted. "My heart belongs to the air."
+			-She then spoke of a tournament, one of strength, cleverness, and the hunt. Apparently
+			 it's the usual way of settling such things around here.
+				-Though she did say it would be a while at best before such an undertaking could be
+				 put together.
+					-I suspect the difficulty managing her people was a factor there.
+				-Still, it's an intriguing idea, a thing we could participate in on our own behalfs,
+				 or on behalf of another, as she did mention a practice of champions.
+					-I wonder if The Party Lizard would be interested? We could support him, as some
+					 kind of Party Lizard Party, to enact The Party Lizard Party's Party Platform:
+					 party!
+
+
 TODO:
 	-Sell loot!
 	-People from Aborea(?) party as followers?
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
 		-Those other skill tricks, possibly before Jump.
+	-Items:
+		-A (better than +1, now) Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
+			-Your saves are good now, so you need to boost your AC.
+		-Get Jade to craft at least a masterwork rapier for you.
+			-She now even has Craft Magic Arms and Armor.
+		-Chris had some bow ideas: https://discord.com/channels/@me/838577998269120522/1207089795155886120
+		-Something to deal with undead?
+			-Maybe a specific wand?
+		-Dex boosts too, though maybe the runner up behind Charisma.
+			-I've already got the +2 gloves of Dex.
+		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
+			-Chris did the calculation to go from +4 to +6: https://discord.com/channels/560915739796570113/1027415547278794782/1360112203407294505
+				"Cloak of Charisma +6 is 36000 gp, assuming Fred has got a +4 Cloak at 16000 gp I think he'd need to pay the difference in crafting materials (so that's (36000-16000)x0.75x0.5= 7500 gp and 20000/25 = 800 exp, if my calculations are correct?)."
+		-Buy an alchemist's lab for Grimble, to keep aboard ship?
+			-Description: https://www.dandwiki.com/wiki/SRD:Alchemist%27s_Lab
+			-Eh, sounds like it's the MW Tool, with the description there saying it's safe to assume
+			 tools suitable to avoid a penalty are available.
+			-Maybe worth getting eventually, but not urgent.
+		-Slippers of Battledancing would be amazing: https://www.imarvintpa.com/dndlive/items.php?ID=3184
+			-Would mean giving up the talking boots, maybe to Grimble, to protect my little buddy. . .
+			-Might push me towards hand crossbows and the like. . .
 	-Ship weapons:
 		-Finish cannon refurbishment, given that incoming bone fortress.
 			-They'd be great for use with followers!
@@ -9759,25 +9893,6 @@ TODO:
 	-Figure out paying back that 10k in diamonds.
 	-Offer Squee that infinite bottle of rum? Can't _kill_ him, but can keep him _senseless_ for
 	 eternity. . .
-	-Items:
-		-A (better than +1, now) Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
-			-Your saves are good now, so you need to boost your AC.
-		-Get Jade to craft at least a masterwork rapier for you.
-			-She now even has Craft Magic Arms and Armor.
-		-Chris had some bow ideas: https://discord.com/channels/@me/838577998269120522/1207089795155886120
-		-Something to deal with undead?
-			-Maybe a specific wand?
-		-Dex boosts too, though maybe the runner up behind Charisma.
-			-I've already got the +2 gloves of Dex.
-		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
-		-Buy an alchemist's lab for Grimble, to keep aboard ship?
-			-Description: https://www.dandwiki.com/wiki/SRD:Alchemist%27s_Lab
-			-Eh, sounds like it's the MW Tool, with the description there saying it's safe to assume
-			 tools suitable to avoid a penalty are available.
-			-Maybe worth getting eventually, but not urgent.
-		-Slippers of Battledancing would be amazing: https://www.imarvintpa.com/dndlive/items.php?ID=3184
-			-Would mean giving up the talking boots, maybe to Grimble, to protect my little buddy. . .
-			-Might push me towards hand crossbows and the like. . .
 	-More dance numbers.
 	-Recruiting followers!
 		-You're keeping track of them in a Followers tab on the spreadsheet.

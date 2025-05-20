@@ -9760,7 +9760,7 @@ TODO:
 				  seemed a kind of credible. . ."
 	-Our preparations made, we suddenly found ourselves standing in a courtroom, three gods
 	 presiding.
-		-Two appeared as elderly men, though armored and with his trademark cudgel, Cuthbert was
+		-Two appeared as elderly men, though, armored and with his trademark cudgel, Cuthbert was
 		 unmistakeable.
 		-The other was more simply attired and I heard Bruce reverently whisper the name Obad Hai.
 		-The third appeared a young man, shirtless and bemuscled, who Maya named Kord, God of
@@ -9776,7 +9776,7 @@ TODO:
 				 with a little bow of thanks, I dug in.
 	-Our celestial murderer then issued her response, going on about the shame and disappointment
 	 she'd been afflicted with by her daughter's acts, the response it demanded, and how one did
-	 what one had to do.
+	 what she had to do.
 		-It was hardly convincing, with only Kord, Mr. Might-Makes-Right, seeming the least bit
 		 receptive.
 	-There was then some back and forth concerning how much control she really had over the demons
@@ -9785,7 +9785,7 @@ TODO:
 		-Lucien convincingly condemned her actions, and pointed out she then proceeded to _conceal_
 		 these acts she now claimed were oh-so-justified.
 			-I mumbled my approval through a mouthful of peanuts.
-	-Grandma celestial (as is becoming clear, I forgot her name) then called a witness, a soldier
+	-Grandma Celestial (as is becoming clear, I forgot her name) then called a witness, a soldier
 	 that had been under her command and was there for the death of Lucien's mother.
 		-He told a sob story about what a bloodbath it was, but it was hardly relevant given that
 		 she's the one who set the whole mess up in the first place (a fact I couldn't resist
@@ -9797,7 +9797,7 @@ TODO:
 		-Instead, he named it a most severe form of manslaughter, a thing which the consequence is
 		 not death, but exile.
 	-The sentence made, Lucien's grandmother disappeared from sight, and a moment later we too were
-	 elsehwere, back to Susan the scaly paralegal.
+	 elsewhere, back to Susan the scaly paralegal.
 		-Looking at her papers, she said, "I see you had a good outcome. .. "
 		 "The peanuts were good. . . but there was no justice to be had!" I announced.
 			-That occasioned a quick discussion about whether they could be improved with the use
@@ -9849,7 +9849,133 @@ TODO:
 
 
 TODO:
-	-Sell loot!
+	(DONE!) -Sell loot!
+		-Informed everyone here: https://discord.com/channels/560915739796570113/1027415547278794782/1367709451016208394
+		-Updated my own totals.
+		-(DONE!) Remind everyone in session and blank the Loot tab.
+		-(DONE!) Oh! There is also that wand and those books that need values!
+	-(DONE!) Commission a cloak!
+		-Posted about it here: https://discord.com/channels/560915739796570113/1027415547278794782/1367710718551654420
+		-And subtracted the gold and XP cost on the spreadsheet.
+		-(DONE!) So, apply it! (Unless it's vetoed for some reason.)
+		-Oh, and, deducted the Lesser Restoration charges it required: https://discord.com/channels/560915739796570113/1027415547278794782/1368057442004500573
+
+5/19/25:
+	-Well, back at the party cave, and over some drinks with already hammer lion-men, we discussed
+	 our next moves some more.
+		-We also took a quick trip to town: to sell loot, and buy more snacks and drinks.
+			-(And some crafting components for Jade, as I had her make my cloak even fancier, with
+			  some help from that magic crystal.)
+		-Maya was eager to retrun to Sasserine, and I to unwind our deal with the lich queen, so,
+		 since our reward there was to be a navigation system for the ship, that seemed the thing
+		 to pursue.
+			-I did think to ask Jade, "Will this navigation system have a margin of error measured
+			 in hundreds of miles, like Plane Shift?"
+			-She explained that, no, the new engine we installed in the ship has "advanced memory
+			 banks", meaning that it would be able to at least return to places it had previously
+			 been with great accuracy. Handy!
+	-The party had been waning in our absence, but, with our return, it was ebbing once more!
+		-I found myself passing out thimbles of liquor to a cloud of tiny fairies, and got to asking
+		 them if they'd consider shipboard life, seeing the multi-verse and all that!
+		-They inquried about the view of the stars from the airship ("Fantastic! You're closer!")
+		 and similar details, and eventually a bunch of these "Coure" signed on!
+	-Sarge had a project of his own to pursue too, and one that Aborea might provide a useful
+	 setting for.
+		-He knew a spell that called for dragon scales, and wanted to seek some out.
+		-Maya knew there was said to be an ancient brass dragon that made it's lair on Aborea,
+		 though Sarge pointed out that brass dragons were generally _good_, and that "ancient"
+		 means "dangerous" where dragons are concerned.
+		-I, though, proposed we _bargain_ instead, maybe even acquire two dragon scale flavors at
+		 once! I suggested we offer to "take care of" an _evil_ dragon, in exchange for a scale
+		 shed by this noble brass one.
+		-My brilliant plan was almost as persuasive as I am, so we went about seeking to do just
+		 that.
+		-Our first step was to find this brass dragon.
+			-Asking around town, we learned that is was said that $DRAGON_NAME, the ancient dragon
+			 in question, was said to "listen on the wind" for those calling out for aid.
+			-Sarge proposed several wind-conjuring spells, but Maya short-circuited all that by just
+			 calling out to the breeze, beseeching the aid of a mighty dragon.
+			-Beloved of the dragon god as Maya is, it was perhaps unsurprising that her efforts
+			 yielded a response, words in Draconic carried back to us on the wind.
+			-The voice and Sarge then had an extended debate.
+				-It did a lot of moralizing, and I'm not sure they actually reached any kind of
+				 deal for _it's_ scale or not, but it was very big on protecting the weak and told
+				 us of a marauding _red_ dragon that terrorized an island known as Acheron,
+				 elsewhere on this plane.
+		-So, we returned to our ship and set sail for a different layer of Aborea, the one on which
+		 the isle of Acheron lay.
+			-Sailing there took half a day, during which we rested up for our big show and talked
+			 about the plan.
+			-We settled on luring the dragon with the sight of a rich (but illusory) caravan market.
+			-Grimble and Sarge asserted that red dragons love rubies, the gems being a status symbol
+			 amongst their kind, so I spread rumors around the nearby towns of the "upcoming
+			 market" and the presence of "Rob the Red, ruby merchant".
+		-We then sailed to the location I cited in our rumors.
+			-We landed the ship some distance away. D'Roc camouflaged it to blend with the nearby
+			 vegetation and Lucien, Jade, Bruce, and the crew stayed behind to guard it while the
+			 rest of us went to set up our ambush.
+			-Grimble conjured our illusory market and the rest of us proceeded to pretend to be
+			 shopkeepers.
+			-It seemed I did _too_ good with the rumors, though, as all sorts of people began to
+			 try and show up to this legendary market they'd heard about.
+				-I none too politely informed them that their clothes marked them as unworthy of
+				 the time of "Rob the Red", they being clearly unable to afford my rubies.
+				-Some were _still_ intent on rushing in, but D'Roc played bouncer and threw them
+				 out (in some cases literally).
+			-Eventually, the people approaching the market switched to running away screaming,
+			 causing us to look to the sky where we indeed saw the distant silhouette of a large
+			 dragon approaching.
+		-We lay in wait for the approaching beast, Grimble and I under the cover of some of the
+		 (real) trees, though others took up more obvious defensive positions.
+			-Sarge was first to act, conjuring sleet where the dragon flew, disorienting it and
+			 slowing it's flight.
+			-As it emerged from the sleet, we let loose with various projectiles and spells, to
+			 varying effect.
+			-It, meanwhile, flew at the also flying, also draconic Sarge, snapping at the war mage
+			 and dealing grevious wounds with it's teeth.
+			-It now being nearer, though, a different solution came to my mind: my mind! I proceeded
+			 to replace it's will with my own. . .
+			- land ; ruby deal ; bring us to it's lair ; 
+		-We returned to the ship and took flight, following the beast to it's lair, which proved to
+		 be in a volcano in the islands mountainous spine.
+			-As we neared the volcano, our ship was buffetted by the volcanic winds, but the crew
+			 and I masterfully kept it under control while I kept the dragon's mind in thrall.
+			-The beast led us to it's lair, but the cave in which it dwelled, with it's rivers of
+			 lava, looked a bit hot for most of us to handle so ; bring out your horde
+			- out of character ;broke my hold on his mind
+			- Maya's charm
+			- more deferential ; bring out some of your great treasures
+			- brought them to the edge of it's cave
+			-Among the treasures was a very fine red cloak, a thing that Maya politely asked if she
+			 could be allowed to try on.
+			-The dragon assented and Maya braved the cave mouth's heat, flying down and putting on 
+			 the cloak.
+			-She then. . . froze? It took us a moment to realize something was up, and the dragon
+			 even longer, but eventually it insisted the she return the cloak, reaching out to take
+			 it and revealing this was nothing but the _illusion_ of Maya.
+			-Remembering the gems of Mislead that gnomish cleric gave us, we looked about and
+			 spotted Maya flying on her eldritch wings back to the clearing where we landed the
+			 ship, already some distance from the dragon and still wearing the cloak.
+			- Displacement ; slapped Sarge on the back saying, "Go get him!"
+			- unaccustomed bravery ; ran a bit forward and tried to _stab_ the dragon's mind this time.
+			- reward was a nasty dragon bite
+			- Grimble conjured a maybe-real hippogriff to charge at the dragon and rescue me ; claws slid off the dragon's scales
+			-Sarge proved more effective, though, as he flew forward and conjured a cone of freezing
+			 cold, halting the dragon's advance and causing it to collapse where it had stood.
+		-Our victory in hand, Sarge got his dragon scale(s), and, with some work on Jade's part to
+		 help us endure the heat for a time, we also got the contents of the dragon's horde!
+			
+
+
+TODO:
+	-Update follower count for Charisma change!
+	-Remove Mage Armor and Precognition.
+	-Write down loot.
+		-Include dragon scales? We got a lot more than one, and stuff can be made from them.
+	-Level up Grimble!
+
+
+TODO:
 	-People from Aborea(?) party as followers?
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
@@ -9857,6 +9983,7 @@ TODO:
 	-Items:
 		-A (better than +1, now) Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
 			-Your saves are good now, so you need to boost your AC.
+			-Jade won't be able to craft rings until level 14 or so.
 		-Get Jade to craft at least a masterwork rapier for you.
 			-She now even has Craft Magic Arms and Armor.
 		-Chris had some bow ideas: https://discord.com/channels/@me/838577998269120522/1207089795155886120

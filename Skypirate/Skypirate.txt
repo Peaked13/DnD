@@ -19,9 +19,11 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 14  Dread Pirate 8	+12		10				
 15  Dread Pirate 9	+13		10				1
 16  Dread Pirate 10?+14		10				
-	Shadowdancer? Not sure it's worth it in the end. . . https://www.d20srd.org/srd/prestigeClasses/shadowdancer.htm
-	More Marshal? Major auras are OK, but Minor Aura giving bonus to Dex skills _and initiative_ is great.
-	A level of bard to add to your Rally the Crew?
+	-Shadowdancer? Not sure it's worth it in the end. . . https://www.d20srd.org/srd/prestigeClasses/shadowdancer.htm
+	-More Marshal? Major auras are OK, but Minor Aura giving bonus to Dex skills _and initiative_ is great.
+		-Getting to that third level might mean mult-classing XP issues, though, if I add a third
+		 base class or more Rogue levels.
+	-A level of bard to add to your Rally the Crew?
 		-Oh, and this is neat too: https://minmaxforum.com/index.php?topic=6085.0
 
 
@@ -363,5 +365,7 @@ Cohort:
 						https://www.d20srd.org/srd/spells/mirrorImage.htm
 						https://www.d20srd.org/srd/spells/bullsStrength.htm
 						https://www.d20srd.org/srd/spells/catsGrace.htm
+						https://dndtools.org/spells/players-handbook-v35--6/silence--2704/
+							-Would help mass invisibility a lot. . .
 					-Higher level spells to maybe get:
 						https://dndtools.org/m/spells/stormwrack--87/disguise-ship--3350/

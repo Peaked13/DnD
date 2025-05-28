@@ -9935,17 +9935,30 @@ TODO:
 			 and dealing grevious wounds with it's teeth.
 			-It now being nearer, though, a different solution came to my mind: my mind! I proceeded
 			 to replace it's will with my own. . .
-			- land ; ruby deal ; bring us to it's lair ; 
+			-I then forced the dragon to land and, mindful of providing a some plausibility to the
+			 mind-controlled beast, I claimed I really _was_ interested in the ruby deal, though
+			 I had suspected it wouldn't deal fairly.
+			-Talking up the quality of the enormous rubies my ship's hold was _definitely full of,
+			 I convinced/forced it to bring us to it's lair, to arrange a trade in exchange for a
+			 a portion of it's horde.
 		-We returned to the ship and took flight, following the beast to it's lair, which proved to
 		 be in a volcano in the islands mountainous spine.
 			-As we neared the volcano, our ship was buffetted by the volcanic winds, but the crew
 			 and I masterfully kept it under control while I kept the dragon's mind in thrall.
 			-The beast led us to it's lair, but the cave in which it dwelled, with it's rivers of
-			 lava, looked a bit hot for most of us to handle so ; bring out your horde
-			- out of character ;broke my hold on his mind
-			- Maya's charm
-			- more deferential ; bring out some of your great treasures
-			- brought them to the edge of it's cave
+			 lava, looked a bit hot for most of us to handle, so I insisted that the great beast
+			 bring out it's horde to us, to the nearby clifftop where we landed the ship, that we
+			 might deal.
+			-_That_ proved to be a step too far out of character for the scaly creature and, in a
+			 renewed struggle of wills, the dragon broke my hold on it's mind.
+			-Where more aggressive mind control failed, Maya's charm stepped in (though I think she
+			 too may have been cheating a bit, with the power of her patron).
+			-Wiser in the ways of dragons than I, and more polite in general, Maya was quite a bit
+			 more deferential, playing to the great beast's pride and asking it to bring out just 
+			 _some_ of it's wonderous treasures, which would _surely_ be more than enough to exchange
+			 for our rubies. . .
+			-It's suspicions roused, the dragon selected some choice items from it's horde and
+			 brought them to the edge of it's fiery cave.
 			-Among the treasures was a very fine red cloak, a thing that Maya politely asked if she
 			 could be allowed to try on.
 			-The dragon assented and Maya braved the cave mouth's heat, flying down and putting on 
@@ -9956,22 +9969,32 @@ TODO:
 			-Remembering the gems of Mislead that gnomish cleric gave us, we looked about and
 			 spotted Maya flying on her eldritch wings back to the clearing where we landed the
 			 ship, already some distance from the dragon and still wearing the cloak.
-			- Displacement ; slapped Sarge on the back saying, "Go get him!"
-			- unaccustomed bravery ; ran a bit forward and tried to _stab_ the dragon's mind this time.
-			- reward was a nasty dragon bite
-			- Grimble conjured a maybe-real hippogriff to charge at the dragon and rescue me ; claws slid off the dragon's scales
+			-The dragon soon noticed the same and, letting loose a mighty roar, it took wing and
+			 flew towards us on.
+			-Grimble uttered a few arcane syllables and then slapped Sarge on the back saying, "Go
+			 get him!" Sure enough, Sarge's form blurred, the work of some illusion that would
+			 certainly make him harder to hit, and then Sarge took flight himself.
+			-As the dragon neared us, I, in a fit of unaccustomed bravery, ran a bit forward and
+			 tried to _stab_ the dragon's mind this time.
+			-My reward was a nasty bite from the unphased dragon that swooped down to meet me. I
+			 shan't be doing _that_ again. . .
+			-While the others let loose at the dragon with spell and stone, Grimble conjured a
+			 maybe-real hippogriff to charge at the dragon and rescue me, but it's claws just slid
+			 off the dragon's scales.
 			-Sarge proved more effective, though, as he flew forward and conjured a cone of freezing
 			 cold, halting the dragon's advance and causing it to collapse where it had stood.
 		-Our victory in hand, Sarge got his dragon scale(s), and, with some work on Jade's part to
 		 help us endure the heat for a time, we also got the contents of the dragon's horde!
-			
 
 
 TODO:
-	-Update follower count for Charisma change!
+	-(Done!) Update follower count for Charisma change!
 	-Remove Mage Armor and Precognition.
-	-Write down loot.
+	-(Done!) Write down loot.
+		-Finished writing down the normal loot!
 		-Include dragon scales? We got a lot more than one, and stuff can be made from them.
+			-Mathias raised the subject for me: https://discord.com/channels/560915739796570113/560915739796570119/1374509750791962704
+			-Well, I at least wrote them down on the loot list with a question mark. . .
 	-Level up Grimble!
 
 

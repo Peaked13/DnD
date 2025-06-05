@@ -9861,7 +9861,7 @@ TODO:
 		-Oh, and, deducted the Lesser Restoration charges it required: https://discord.com/channels/560915739796570113/1027415547278794782/1368057442004500573
 
 5/19/25:
-	-Well, back at the party cave, and over some drinks with already hammer lion-men, we discussed
+	-Well, back at the party cave, and over some drinks with already hammered lion-men, we discussed
 	 our next moves some more.
 		-We also took a quick trip to town: to sell loot, and buy more snacks and drinks.
 			-(And some crafting components for Jade, as I had her make my cloak even fancier, with
@@ -9989,17 +9989,152 @@ TODO:
 
 TODO:
 	-(Done!) Update follower count for Charisma change!
-	-Remove Mage Armor and Precognition.
+	-(Done!) Remove Mage Armor and Precognition.
+	-Heal!
 	-(Done!) Write down loot.
 		-Finished writing down the normal loot!
 		-Include dragon scales? We got a lot more than one, and stuff can be made from them.
 			-Mathias raised the subject for me: https://discord.com/channels/560915739796570113/560915739796570119/1374509750791962704
 			-Well, I at least wrote them down on the loot list with a question mark. . .
-	-Level up Grimble!
+	-(Done!) Level up Grimble!
+		-Pick two level 5 spells:
+			-Programmed Image (5 due to Gnome Illusionist): https://www.d20srd.org/srd/spells/programmedImage.htm
+			-Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
+			-Runners up, for next level or to purchase:
+				-Permanency (permanent Reduce Person!): https://www.d20srd.org/srd/spells/permanency.htm
+				-Shadow Evocation: https://www.d20srd.org/srd/spells/shadowEvocation.htm
+				-Teleport: https://www.d20srd.org/srd/spells/teleport.htm
+				-Seeming: https://www.d20srd.org/srd/spells/seeming.htm
+		-(Done!) Pick a feat.
+			-Greater Spell Focus? https://dndtools.net/feats/players-handbook-v35--6/greater-spell-focus--1302/
+		-(Done!) Swap Wall of Fire for something if you're getting another fire spell.
+		-Done:
+			-Feat
+			-BAB & Saves
+			-Skills
+			-HP
+			-Spells
+
+
+6/4/25:
+	-Well, we were still due to return to the Lich Queen, but did do some dithering, not being
+	 _that_ eager to do so. . .
+		-First off, she's fuckin' scary.
+		-Second, we didn't _exactly_ kill Lucien's grandmother, though our solution was argueably
+		 better (and I do love a good argument).
+		-Maya and D'Roc also pointed out that, wait, aren't the Githyanki and their queen closely
+		 allied with Tiamat? Who's rather fond of "her children", the chromatic dragons. . . like
+		 the red one we just killed? Shit. . .
+			-Sarge even pointed out that dragons frequently _mark_ the contents of their hoards in
+			 some mystic way. . . a way that perhaps another dragon could detect.
+	-In light of that last, we opted to head back to that Aborean city, to unload and otherwise
+	 launder our loot, before returning to the Githyanki.
+		-So, we loaded our captured hoard into the ship's hold and took to the air.
+		-Speaking of the air, Sarge spoke _to_ the air, whispering (with some arcane assistance)
+		 to that ancient _metallic_ dragon who set us on the trail of the red, reporting that the
+		 deed was done. . .
+			-Cocking his head, Sarge clearly heard some response and, a moment later, he explained
+			 that the dragon had marked him in some arcane manner, in an offer of future work if
+			 similar foes needed slaying.
+			-He also felt confident that the mark would allow _him_ to speak with the dragon
+			 across even extraplanar distances, should he require, with the aid of some otherwise
+			 more limited messaging spell.
+		-Sarge also experienced some kind of sinister vision?
+			-He spoke of some kind of room filled with flame, maybe dragon fire. . . but it wasn't
+			 all that clear to me what was going on. Sounded to me like he'd been hitting the
+			 Abyssal Temptation. . .
+		-As we flew back, Maya also had a suggestion: what if her familiar, a dragon himself, marked
+		 the loot? Wouldn't that replace the mark?
+			-The tiny dragon and our various arcanists certainly seemed to think so, so he went
+			 through and handled each and every gem, coin, and whatever until he reported it all
+			 marked. Problem solved!
+		-Well, we headed back to town anyways, since all this money was still aching to be spent,
+		 unloading our loot and doing a minor shopping spree.
+			-Grimble, with the help of that magic crystal, learned a new spell in 10 minutes!
+				-He also picked up an assortment of spell components.
+			-Jade and Maya actually did something of the reverse, running around drumming up magic
+			 crafting and building tasks for themselves, to earn some more cash.
+	-Well, reasons to delay exhausted, we crushed a magic stone and then us and the ship were
+	 wrenched back to The Astral Plane.
+		-Docking, we found ourselves at the base of that pointlessly long stair again, met by some
+		 guards.
+		-They led us up that branching series of staircases, _supposedly_ up to the Lich Queen's
+		 throne room. . . but Bruce noticed this path differed from the one we took before.
+		-He pointed that out, calling the pair of guards out.
+		-They claimed she they were leading us to a different location, but were obviously
+		 suspicious.
+		-". . . that wouldn't happen to be a room filled with dragonfire, would it?" I demanded,
+		 thinking of Sarge's vision.
+		-They hemmed and hawwed, so I resorted to. . . reasoning with them.
+			-"Look," I said, "We can yell, scream, and threaten, rip secrets from eachother's minds,
+			  and all that. . . or just talk this out and then get something to drink?"
+			-I _can_ be quite persuasive, and it seemed the reputation of my formidable mind had
+			 proceeded me. . . but they also feared the legendary wrath of their queen.
+			-"Well, have you tried the life of a freebooter?" I asked. "The pay _and_ booze are a
+			  hell of a lot better. . . and a life on the run comes with the territory anyways."
+			 "We've _already_ said far too much," one of the guards responded, "We need to get
+			  out of here!"
+			 "Freebootin' it is, then!" I exclaimed. "Let get the fuck gone!"
+		-Of course, I explained that to get out of here, we really did need that navigation system
+		 that the queen had (falsely) promised us.
+		-The githyanki then describred a workshop that handled ship repairs and such, where such a
+		 thing could possibly be had, so I said they should take us there!
+		-The guards led us up a different set of stairs, into a workshop filled with githyanki and
+		 arcane machinery.
+			-The guards nodded over at of of their fellow astral people, one wearing a fancy monocle
+			 and hunched over some kind of clearly-magic crystal, surrounded as it was by several
+			 shimmering images of itself.
+			-I rushed over, all bluster, yelling about a special mission from the queen, a thing
+			 of great urgency, and rambling about a celestial elf that should be dead but isn't .
+			-Despite my convincing (only half an) act, the githyanki engineer _shushed_ me!
+				-He said something about needing to stabilize the crystal first, to which I replied,
+				 "Well, need an extra set of hands? Jade! Jade here can help, our ship's engineer. . ."
+				 "Not unless she knows planar algebra. . ." he said, trying again to brush us off.
+				-Jade though stepped in and the conversation quickly began to fly over my head, as
+				 it seemed she _did_ know know alge-whatnot, and began to babble about 12 dimensions
+				 and the like.
+				-It seemed she _was_ able to help, and the matter was quickly settled.
+			-His crystal stable, I again reiterated my partly bullshit plea for urgen help with a
+			 navigation system.
+			-This time, I seemed to get through to him and, though he made some noises about seeing
+			 our orders in writing, Maya and I convinced him the matter was both too urgent and too
+			 secret, so he set out for the warehouse connected to his workshop.
+			-It was a big jumble, though, and he was taking forever to find what he was looking for.
+				-Bruce had magic for that problem, though! A thing that could allow all our eyes to
+				 work in unison for the search.
+					-Actually, that seems quite handy for life aboard ship: https://dndtools.org/spells/players-handbook-ii--80/linked-perception--2943/
+				-Together, then, we quickly found the navigation console he was looking for.
+			-We then made a hasty departure, along with our two new Githyanki friends, returning to
+			 our ship with the navigation console.
+	-Jade made quick work of hooking the new navigation console up to our ship, which left us
+	 debating our destination.
+		-"I know Maya is eager to return home to Sasserine," I began, "But it might be wise to make
+		  a quick detour somewhere, since we should probably be worried about pursuit by the Lich
+		  Queen's forces."
+		-That got a lot of nodding in assent.
+		-Sadly, the (former) guards were know help with that, having spent their lives in a society
+		 and religion that insisted the queen had eyes everywhere.
+		-Maya, though, suggested that lawfully aligned planes might be our best option for sanctuary,
+		 given the nature of the Lich Queen and her ally Tiamat.
+			-That was met with a big grown of disappointment from me, as such places sound boring
+			 and bereft of good booze. I especially shuddered at the mention of Mechanus, which
+			 sounded like a place where everyone drank oil or some such, and thankfully talked
+			 everyone out of _that_ option.
+		-We settled on Mount Celestia, a place that certainly wouldn't take kindly to the queen of
+		 the githyanki or the goddess of evil dragons.
 
 
 TODO:
-	-People from Aborea(?) party as followers?
+	-Buy the +3 Cloak of Resistance Sarge is selling, for Grimble? It would be 4,500 gp.
+	-Two Githyanki followers?
+
+
+TODO:
+	-Make that Alchemist Fire for Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
+		-The skill: https://www.d20srd.org/srd/skills/craft.htm
+	-Permanently Reduce Grimble: https://www.d20srd.org/srd/spells/permanency.htm	
+		-He has the XP now.
+		-Then repurpose the spellslots used for Reduce Person.
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
 		-Those other skill tricks, possibly before Jump.
@@ -10223,6 +10358,10 @@ TODONE:
 			 plausible.
 			-Then, once Dread Pirate 8 lets you always take 10, it's guaranteed. . .
 		-Took the ranks and now just need the skill trick (didn't have 2 skill pts. to spare).
+	-People from Aborea(?) party as followers?
+	-Buy stuff for new spells:
+		-Jade dust for Programmed Image:  https://www.d20srd.org/srd/spells/programmedImage.htm
+		-Alchemist Fire (or make it!) for Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
 
 
 TODON'T:

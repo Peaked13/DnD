@@ -10066,10 +10066,10 @@ TODO:
 		-". . . that wouldn't happen to be a room filled with dragonfire, would it?" I demanded,
 		 thinking of Sarge's vision.
 		-They hemmed and hawwed, so I resorted to. . . reasoning with them.
-			-"Look," I said, "We can yell, scream, and threaten, rip secrets from eachother's minds,
-			  and all that. . . or just talk this out and then get something to drink?"
+			-"Look," I said, "We can yell, scream, and threaten, rip secrets from each other's
+			 minds, and all that. . . or just talk this out and then get something to drink?"
 			-I _can_ be quite persuasive, and it seemed the reputation of my formidable mind had
-			 proceeded me. . . but they also feared the legendary wrath of their queen.
+			 preceeded me. . . but they also feared the legendary wrath of their queen.
 			-"Well, have you tried the life of a freebooter?" I asked. "The pay _and_ booze are a
 			  hell of a lot better. . . and a life on the run comes with the territory anyways."
 			 "We've _already_ said far too much," one of the guards responded, "We need to get
@@ -10077,11 +10077,11 @@ TODO:
 			 "Freebootin' it is, then!" I exclaimed. "Let get the fuck gone!"
 		-Of course, I explained that to get out of here, we really did need that navigation system
 		 that the queen had (falsely) promised us.
-		-The githyanki then describred a workshop that handled ship repairs and such, where such a
+		-The githyanki then described a workshop that handled ship repairs and such, where such a
 		 thing could possibly be had, so I said they should take us there!
 		-The guards led us up a different set of stairs, into a workshop filled with githyanki and
 		 arcane machinery.
-			-The guards nodded over at of of their fellow astral people, one wearing a fancy monocle
+			-The guards nodded over at one of their fellow astral people, one wearing a fancy monocle
 			 and hunched over some kind of clearly-magic crystal, surrounded as it was by several
 			 shimmering images of itself.
 			-I rushed over, all bluster, yelling about a special mission from the queen, a thing
@@ -10090,11 +10090,11 @@ TODO:
 				-He said something about needing to stabilize the crystal first, to which I replied,
 				 "Well, need an extra set of hands? Jade! Jade here can help, our ship's engineer. . ."
 				 "Not unless she knows planar algebra. . ." he said, trying again to brush us off.
-				-Jade though stepped in and the conversation quickly began to fly over my head, as
+				-Jade, though, stepped in and the conversation quickly began to fly over my head, as
 				 it seemed she _did_ know know alge-whatnot, and began to babble about 12 dimensions
 				 and the like.
 				-It seemed she _was_ able to help, and the matter was quickly settled.
-			-His crystal stable, I again reiterated my partly bullshit plea for urgen help with a
+			-His crystal stable, I again reiterated my partly bullshit plea for urgent help with a
 			 navigation system.
 			-This time, I seemed to get through to him and, though he made some noises about seeing
 			 our orders in writing, Maya and I convinced him the matter was both too urgent and too
@@ -10112,7 +10112,7 @@ TODO:
 		  a quick detour somewhere, since we should probably be worried about pursuit by the Lich
 		  Queen's forces."
 		-That got a lot of nodding in assent.
-		-Sadly, the (former) guards were know help with that, having spent their lives in a society
+		-Sadly, the (former) guards were no help with that, having spent their lives in a society
 		 and religion that insisted the queen had eyes everywhere.
 		-Maya, though, suggested that lawfully aligned planes might be our best option for sanctuary,
 		 given the nature of the Lich Queen and her ally Tiamat.
@@ -10125,16 +10125,48 @@ TODO:
 
 
 TODO:
+	-(Done!) Maya gave you a masterwork rapier: https://discord.com/channels/@me/963464827345469560/1380037217036013568
+	-(Done!) Delete the stuff from Loot, as it was sold.
+		-You already wrote down the numbers, and posted it in Discord.
+		-Make sure everyone copied what they needed first!
+
+
+6/16/25:
+	-With a moment's respite on this celestial plane, we spent some time discussing what we wanted
+	 to do from here.
+		-Ultimately, we decided to hope this brief stop would throw the lich queen off our tail, or
+		 at least that she wouldn't be all _that_ intent on revenge, since we really just held her
+		 to the deal she made.
+		-So, we decided we deserved some well-earned rest and relaxation (and rum!) in Sasserine,
+		 and shifted there, planning to remain for a bit.
+
+
+TODO:
+	-Level Fred!
+		-Done except picking a feat!
+	-Month of downtime in Sasserine!
+		-Next session will be running through some roleplayed bits related to it.
+	-(Done!) Permanently Reduce Grimble: https://www.d20srd.org/srd/spells/permanency.htm	
+		-He has the XP now.
+		-Then repurpose the spellslots used for Reduce Person.
+		-Monster Manual pg. 291 might be helpful.
+	-(Done!) Add those two Githyanki followers:
+		-They have a level adjustment of +2.
+		-You have space for one at level 3, and one or both of them at 4.
+			-Yeah, Jake was OK with calling them 1st or 2nd level Warriors.
 	-Buy the +3 Cloak of Resistance Sarge is selling, for Grimble? It would be 4,500 gp.
-	-Two Githyanki followers?
+		-It's half your available cash. . . but you _did_ lose him to a bad save once already.
+		-Ah. He's still waiting on the replacement, but will then let me know.
+	-Maybe, as downtime starts, recruit more followers?
+		-If I can _customize_ something, maybe a Marshal? Flavored as a ship's officer, one with
+		 the Wisdom check-and-skill bonus?
+			-Or even, with more than one level, the Major Aura too?
+			-Or that Dex check-and-skill _and initiative_ bonus?!? Maybe for a second follower?
 
 
 TODO:
 	-Make that Alchemist Fire for Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
 		-The skill: https://www.d20srd.org/srd/skills/craft.htm
-	-Permanently Reduce Grimble: https://www.d20srd.org/srd/spells/permanency.htm	
-		-He has the XP now.
-		-Then repurpose the spellslots used for Reduce Person.
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
 		-Those other skill tricks, possibly before Jump.

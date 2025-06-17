@@ -57,6 +57,8 @@ Advancement:
 			-------------
 			4		(Done!) RHETORICAL FLOURISH (Diplomacy 8): Rushed Diplomacy at -5 instead of -10.
 			4		SOCIAL RECOVERY (Bluff 8 ranks, Diplomacy 5 ranks)?
+						-Ehhh, the difference in your Bluff and Diplomacy scores, plus the -10, may
+						 make this useless.
 			9		BACK ON YOUR FEET (Tumble 12)
 			?		(Done!) Extreme Leap (Jump 5)?
 		-Customize CONCEAL SPELLCASTING???
@@ -89,7 +91,7 @@ Advancement:
 			-Or the ranged version of that? How do ranged sneak attacks work?
 				-https://dndtools.net/feats/expanded-psionics-handbook--65/fell-shot--1106/
 				-It requires Point Blank Shot, and sneak attacks just have to be from <= 30'
-				-It also has some solid feats descending from it, along the same them.
+				-It also has some solid feats descending from it, along the same theme.
 			-Both would benefit from improving Concentration, otherwise being one per encounter.
 				-Items are an option for that.
 				-Ah! Your now-near-constant sub-Performance-for-that thing makes this easy!
@@ -99,6 +101,13 @@ Advancement:
 		-Shot on the Run: https://dndtools.net/feats/players-handbook-v35--6/shot-on-the-run--2618/
 			-This then adds a damage bonus to that if you use crossbows: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
 		-None of the Leadership related feats are amazing: https://dndtools.net/feats/categories/leader/
+		-Combat Reflexes for Shadow Dancer?
+		-Pirate Luck for a (thematic!) save reroll? https://www.realmshelps.net/charbuild/feat/Pirate_Luck
+		-Spell-like metamagic feats are sadly mostly useless for you, due to the feats bit on page
+		 184 of Expanded Psionics ruling out their use with any thing with augments applied.
+		-Improved Initiative?
+		-Oh! You qualify for Epic Leadership as soon as your Leadership score is 25! It has no level
+		 requirement!
 	-Interesting build advice thread: https://forums.giantitp.com/showthread.php?352966-Dread-Pirate-Build-help-(3-5e)
 	-Hmm. . . Maybe there's a reason for Intimdate ranks after all:
 		http://dndtools.eu/feats/players-handbook-ii--80/combat-panache--401/

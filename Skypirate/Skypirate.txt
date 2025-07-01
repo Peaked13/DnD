@@ -14,7 +14,7 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 9	Dread Pirate 3	+7		10				Craven
 10	Dread Pirate 4	+8		10
 11	Dread Pirate 5	+9		10
-12	Dread Pirate 6	+10		10				Combat Reflexes for SD?
+12	Dread Pirate 6	+10		10				Hand Crossbow Focus
 13  Dread Pirate 7	+11		10				
 14  Dread Pirate 8	+12		10				
 15  Dread Pirate 9	+13		10				1
@@ -97,7 +97,7 @@ Advancement:
 				-Ah! Your now-near-constant sub-Performance-for-that thing makes this easy!
 		-(Done!) Craven is _really_ a solid sneak attack feat, especially since it's based on level:
 		 http://dnd.arkalseif.info/feats/champions-of-ruin--27/craven--484/index.html
-		-Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
+		-(Done!) Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
 		-Shot on the Run: https://dndtools.net/feats/players-handbook-v35--6/shot-on-the-run--2618/
 			-This then adds a damage bonus to that if you use crossbows: https://dndtools.net/feats/drow-of-the-underdark--93/xaniqos-school--3464/
 		-None of the Leadership related feats are amazing: https://dndtools.net/feats/categories/leader/
@@ -108,10 +108,11 @@ Advancement:
 		-Improved Initiative?
 		-Oh! You qualify for Epic Leadership as soon as your Leadership score is 25! It has no level
 		 requirement!
+		-Hmm. . . Maybe there's a reason for Intimdate ranks after all:
+			http://dndtools.eu/feats/players-handbook-ii--80/combat-panache--401/
+			https://dndtools.org/feats/drow-of-the-underdark--93/imperious-command--3193/
 	-Interesting build advice thread: https://forums.giantitp.com/showthread.php?352966-Dread-Pirate-Build-help-(3-5e)
-	-Hmm. . . Maybe there's a reason for Intimdate ranks after all:
-		http://dndtools.eu/feats/players-handbook-ii--80/combat-panache--401/
-		https://dndtools.org/feats/drow-of-the-underdark--93/imperious-command--3193/
+	-Also, handy: ways to switch what stat adds to what: https://forums.giantitp.com/showthread.php?125732-3-x-X-stat-to-Y-bonus
 
 
 Gear: Using the Duelist starting package on PHB II pg. 57, and spent 1 gp. on clothes, which it didn't mention,

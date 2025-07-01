@@ -10142,8 +10142,9 @@ TODO:
 
 
 TODO:
-	-Level Fred!
-		-Done except picking a feat!
+	-(Done!) Level Fred!
+		-Feat?
+			-In light of the Slippers of Battledancing, went with Hand Crossbow Focus: https://dndtools.net/feats/drow-of-the-underdark--93/hand-crossbow-focus--3426/
 	-Month of downtime in Sasserine!
 		-Next session will be running through some roleplayed bits related to it.
 	-(Done!) Permanently Reduce Grimble: https://www.d20srd.org/srd/spells/permanency.htm	
@@ -10154,23 +10155,32 @@ TODO:
 		-They have a level adjustment of +2.
 		-You have space for one at level 3, and one or both of them at 4.
 			-Yeah, Jake was OK with calling them 1st or 2nd level Warriors.
-	-Buy the +3 Cloak of Resistance Sarge is selling, for Grimble? It would be 4,500 gp.
-		-It's half your available cash. . . but you _did_ lose him to a bad save once already.
-		-Ah. He's still waiting on the replacement, but will then let me know.
 	-Maybe, as downtime starts, recruit more followers?
-		-If I can _customize_ something, maybe a Marshal? Flavored as a ship's officer, one with
-		 the Wisdom check-and-skill bonus?
-			-Or even, with more than one level, the Major Aura too?
-			-Or that Dex check-and-skill _and initiative_ bonus?!? Maybe for a second follower?
+	-(Done!) Make that Alchemist Fire for Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
+		-The skill: https://www.d20srd.org/srd/skills/craft.htm
+		-Posted about it here: https://discord.com/channels/560915739796570113/1384346102333050921/1389274832188997703
+
+
+6/30/25:
+	-Back in Sasserine, the whole crew and I headed straight to a bar.
+		-I got the first round, and got the party started!
+		-Gradually, some of the party snuck off to attend to various bits of business, but us
+		 hardcore party people kept at it.
+		-Soon I was buying whiskey-and-oil cocktails for an animated chain named Frank that had
+		 slithered down from upstairs, trying to set it up with my boots, and dancing on a table.
+		-Grimble set up a small alchemist lab on a nearby table and got to brewing something firey,
+		 though he had to keep slapping away the hands of crew members that tried to grab and drink
+		 from the beakers.
 
 
 TODO:
-	-Make that Alchemist Fire for Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
-		-The skill: https://www.d20srd.org/srd/skills/craft.htm
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
 		-Those other skill tricks, possibly before Jump.
 	-Items:
+		-Buy the +3 Cloak of Resistance Sarge is selling, for Grimble? It would be 4,500 gp.
+			-It's half your available cash. . . but you _did_ lose him to a bad save once already.
+			-Ah. He's still waiting on the replacement, but will then let me know.
 		-A (better than +1, now) Ring of Protection: https://www.dandwiki.com/wiki/SRD:Ring_of_Protection
 			-Your saves are good now, so you need to boost your AC.
 			-Jade won't be able to craft rings until level 14 or so.
@@ -10181,9 +10191,6 @@ TODO:
 			-Maybe a specific wand?
 		-Dex boosts too, though maybe the runner up behind Charisma.
 			-I've already got the +2 gloves of Dex.
-		-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
-			-Chris did the calculation to go from +4 to +6: https://discord.com/channels/560915739796570113/1027415547278794782/1360112203407294505
-				"Cloak of Charisma +6 is 36000 gp, assuming Fred has got a +4 Cloak at 16000 gp I think he'd need to pay the difference in crafting materials (so that's (36000-16000)x0.75x0.5= 7500 gp and 20000/25 = 800 exp, if my calculations are correct?)."
 		-Buy an alchemist's lab for Grimble, to keep aboard ship?
 			-Description: https://www.dandwiki.com/wiki/SRD:Alchemist%27s_Lab
 			-Eh, sounds like it's the MW Tool, with the description there saying it's safe to assume
@@ -10235,6 +10242,11 @@ TODO:
 		-Fey? You met some in a well behind Jade's orphanage. Could be a blast. . .
 		-(DONE!) Squee and the other two goblins as followers?
 		-Rusty as a follower?
+			-Nah, he's working for Jade.
+		-If I can _customize_ something, maybe a Marshal? Flavored as a ship's officer, one with
+		 the Wisdom check-and-skill bonus?
+			-Or even, with more than one level, the Major Aura too?
+			-Or that Dex check-and-skill _and initiative_ bonus?!? Maybe for a second follower?
 	-What do you report, if ever called to do so by those that set you loose with the skyship?
 		-Sasserine:
 			-Turmoil in the church of Nkisi.
@@ -10376,7 +10388,7 @@ TODONE:
 	-(DONE) A Stone of Good Luck at 20k will be a big deal for you eventually.
 	-(DONE) A Vest of Resistance would be wise too: http://mcdt2-dungeon.wikidot.com/item:vest-of-resistance
 	-Talk to Jade about ship repair too, after pushing it hard on the way to Sasserine.
-	-Do we still hav that bottle of Rov-slime?
+	-Do we still have that bottle of Rov-slime?
 		-Seems like it. Maya interrupted that conversation.
 		-Yep! Jake confirmed it. . .
 	-5 ranks in Jump, for a useful skill and +2 to Tumble?
@@ -10394,6 +10406,9 @@ TODONE:
 	-Buy stuff for new spells:
 		-Jade dust for Programmed Image:  https://www.d20srd.org/srd/spells/programmedImage.htm
 		-Alchemist Fire (or make it!) for Firebrand: https://dndtools.net/spells/spell-compendium--86/firebrand--4502/
+	-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
+		-Chris did the calculation to go from +4 to +6: https://discord.com/channels/560915739796570113/1027415547278794782/1360112203407294505
+			"Cloak of Charisma +6 is 36000 gp, assuming Fred has got a +4 Cloak at 16000 gp I think he'd need to pay the difference in crafting materials (so that's (36000-16000)x0.75x0.5= 7500 gp and 20000/25 = 800 exp, if my calculations are correct?)."
 
 
 TODON'T:

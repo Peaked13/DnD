@@ -10173,6 +10173,104 @@ TODO:
 		 from the beakers.
 
 
+8/11/25:
+	-A month, and many drinks later. . .
+	-Maybe _too_ many drinks. . . as I heard some clinking. Looking down, there was a surprisingly
+	 well dressed chicken pecking at my glass of whiskey.
+		-Naturally, I offered to buy the chicken a drink of his own. . . but got about the response
+		 you'd expect from a chicken, with his cocking his head and looking at me quizzically.
+		-About that time a(nother) gnome, dressed in wizard robes, burst into the bar, yelling,
+		 "Grab that chicken!"
+		-I shrugged and made a grab for the bird, but only caught a feather as the chicken
+		 _teleported_ across the room.
+		-Several of my crewmates seemed to be game for the chase too, with D'Roc trying the seize
+		 the bird too, but crashing into furniture instead, and Lucien trying to scare the bird
+		 into submission (turns out terrified chickens don't hold still).
+		-After a few moments, the chicken started making for the open door.
+		-Pretty though I may be, I decided to try using my head. . . and hypnotized the chicken.
+		-D'Roc took the opportunity to take hold of the chicken.
+		-"So, the bird's not going anywhere for a bit," I began, addressing the new gnome. "What's
+		  this all about?"
+		 "That bird owes me a drink!" the gnome replied. "Out of a very special goblet, in fact. . ."
+		-He went on to explain that the chicken had somehow stolen this goblet from him, and hidden
+		 it from him.
+			-"Of course, he wasn't always a chicken. . . A spell rebounded, there was a magic
+			  accident, you know how it goes."
+		-"Well. . . How do your propose to interrogate this chicken?" I asked the gnome.
+		 "I'd been planning to detect his thoughts. . . though I'm not sure that's an option, while
+		  you are. . . doing. . . whatever you've done here."
+		 "Ah! Well, D'Roc, got a good hold on him?"
+		 "Wait!" the gnome interjected. "Hang on. Let me cast something first, to anchor him here.
+		  Don't want him teleporting off again. . ."
+		 "Oh! Yeah, prudent!"
+		-The gnome went about muttering some arcane symbols and such, and then nodded to me when the
+		 spell was complete.
+		-I released my hold on the chicken's mind and he began to struggle in D'Roc's grasp but
+		 couldn't get free.
+		-"Thank you very much for your help," the gnome said. "What's the fee for chicken catching
+		  these days? Here, have a hundred gold. . . I'll take the chicken, then, and be on my way."
+		-That seemed a surprising but welcome sum to me. . . but Bruce raised a hand. Walking over
+		 to me, he whispered, "Keep the gnome talking. Something is suspicious. . ." He then went
+		 over to confer with Jade.
+		-I began pestering the gnome about the best liquors to fill a fancy goblet and such while
+		 Jade fiddled with a stick she'd pulled out from her pack, applying various substances to
+		 it while muttering.
+		-The gnome seemed eager to get out of there but D'Roc wasn't handing over the chicken.
+		-After a few moments, Jade took her stick and bonked the chicken on his head. . . and the
+		 chicken proceeded to turn into a naked man clutching tiny chicken clothes to his loins.
+			-"Wait," I demanded. "The clothes didn't change with him?!? Someone is making tiny
+			  chicken finery! What have we gotten involved in?!?"
+			-Jade grabbed him a tea towel from the bar.
+		-At this point, D'Roc noticed the strange gnome beginning to sidle towards the door, and
+		 shouted to Lucien, who stood near to gnome to grab him.
+		-In the blink of an eye, Lucien had one hand on the gnome and another on a knife at the
+		 little guy's throat.
+		-Talking to the mostly-nude former-chicken, we quickly learned that:
+			-He was a young noble of House Lorchester, minor nobility of Sasserine.
+			-This gnome was part of a group that ambushed him one night as he was walking home
+			 drunk, turning him into a chicken and kidnapping him, presumably for ransom.
+		-He asked him if he would walk him back to his family, who would surely offer a reward.
+			-Maya asked that the Lorchester grant us a commensurate favor, instead of cash, and he
+		     eagerly agreed.
+			-Jade pointed out we should find him some clothes first, and Maya chimed in asking
+			 Grimble if his theater troupe kin were still in Sasserine, they having provided us
+			 tailoring in the past.
+				-He nodded and fluttered out the door in search of them.
+				-A drink or two later, he returned with a rather garish noble costume, something
+				 suited to a play.
+				-After young Lorchester got dressed, D'Roc whispered to me and pointed out that
+				 there were subtle chickens sewed and embroidered into various bits of the garments.
+					-_So_ glad to have you back, Grimble!
+	-We then escorted the young nobleman back to his family's estate.
+		-They were not _quite_ thrilled to see him, in a way that painted him as something of an
+		 embarassment, and casting some amount of doubt on the value of the favor he'll be able to
+		 wring from his kin.
+	-Afterwards, we took some time to interrogate our gnomish chicken knapper.
+		-Maya was particularly offended that they were preying on the nobles of _her_ city.
+			-And, I suspect, saw some political advancement for her to be seen stopping it.
+		-He was easily intimidated, but also clearly not the mastermind of this all, nor powerful
+		 enough a wizard to have accomplished the polymorph.
+		-He said he was part of a gang led by a halfling with long red hair that sticks straight
+		 up and a distinctive scar.
+		-He also admitted they were planning to kidnap another noble after an upcoming feast, in
+		 three days time.
+			-That event turned out to by _Maya's_ party.
+			-Now it's _personal_.
+			-"Also, Maya. . . I wasn't invited?!?" I asked, incredulous.
+			 "But I _did_ invite you, Fred!" she replied. ". . . you must have forgotten, in your
+			  time at that bar."
+			 "Oh. That sounds likely."
+		-With Jade's help, and the perfidous gnome's description, we employed scrying magic to see
+		 the image of our halfling mastermind.
+			-He indeed looked like the kind of creepy fuck that would be turning people into
+			 chickens. . . and sewing tiny outfits for them: https://discord.com/channels/560915739796570113/560915739796570119/1404652962231488582
+			-He sat at table writing letters, surrounded by animals. . . also in tiny noble
+			 outfits?!? It was like some kind of demented petting zoo.
+			-Bruce, peering closely into the mirror Jade had worked her scrying magic with, was
+			 able to identify the letters as _invoices_, not ransom notes as we'd presumed, which
+			 fortunately included an address on Cloud street.
+
+
 TODO:
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
@@ -10196,9 +10294,22 @@ TODO:
 			-Eh, sounds like it's the MW Tool, with the description there saying it's safe to assume
 			 tools suitable to avoid a penalty are available.
 			-Maybe worth getting eventually, but not urgent.
-		-Slippers of Battledancing would be amazing: https://www.imarvintpa.com/dndlive/items.php?ID=3184
+		-Slippers of Battledancing would be amazing, for 33,750: https://www.imarvintpa.com/dndlive/items.php?ID=3184
 			-Would mean giving up the talking boots, maybe to Grimble, to protect my little buddy. . .
 			-Might push me towards hand crossbows and the like. . .
+			-Cost for Jade to craft it: 16,875*.75 = 12656.25 + 1,350 XP.
+				-Can she manage the 5 in Perform (Dance) somehow?
+		-When can I get +5 to Charisma? The tome: https://www.dandwiki.com/wiki/SRD:Tome_of_Leadership_and_Influence
+			-Hiring someone to cast Wish seems about as expensive, and maybe less readily available:
+				https://www.dandwiki.com/wiki/SRD:Wish
+				https://www.enworld.org/threads/cost-for-npc-to-cast-a-spell.207095/
+			-Cost for Jade to craft it (requires CL 17, however that works for her):
+				-6,250*.75 = 4,687.5 gp. + 25,500 XP
+					-Jade's Extraordinary Artisan means a 25% gp. reduction.
+					-Aside from that, that's the weird cost listed in the DM's Guide, probably due
+					 to Wish having an XP cost and being involved.
+					-That XP cost might not be worth it if paying for it is an option. . .
+						-It's greater than the difference between levels 19 and 20.
 	-Ship weapons:
 		-Finish cannon refurbishment, given that incoming bone fortress.
 			-They'd be great for use with followers!

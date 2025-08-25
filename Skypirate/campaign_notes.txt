@@ -10175,16 +10175,16 @@ TODO:
 
 8/11/25:
 	-A month, and many drinks later. . .
-	-Maybe _too_ many drinks. . . as I heard some clinking. Looking down, there was a surprisingly
-	 well dressed chicken pecking at my glass of whiskey.
+	-Maybe _too_ many drinks. . . as I heard some clinking and, looking down, there was a
+     surprisingly well dressed chicken pecking at my glass of whiskey.
 		-Naturally, I offered to buy the chicken a drink of his own. . . but got about the response
-		 you'd expect from a chicken, with his cocking his head and looking at me quizzically.
+		 you'd expect from a chicken, with him cocking his head and looking at me quizzically.
 		-About that time a(nother) gnome, dressed in wizard robes, burst into the bar, yelling,
 		 "Grab that chicken!"
 		-I shrugged and made a grab for the bird, but only caught a feather as the chicken
 		 _teleported_ across the room.
 		-Several of my crewmates seemed to be game for the chase too, with D'Roc trying the seize
-		 the bird too, but crashing into furniture instead, and Lucien trying to scare the bird
+		 the bird also, but crashing into furniture instead, and Lucien trying to scare the bird
 		 into submission (turns out terrified chickens don't hold still).
 		-After a few moments, the chicken started making for the open door.
 		-Pretty though I may be, I decided to try using my head. . . and hypnotized the chicken.
@@ -10222,14 +10222,14 @@ TODO:
 			  chicken finery! What have we gotten involved in?!?"
 			-Jade grabbed him a tea towel from the bar.
 		-At this point, D'Roc noticed the strange gnome beginning to sidle towards the door, and
-		 shouted to Lucien, who stood near to gnome to grab him.
+		 shouted to Lucien, who stood near the gnome, to grab him.
 		-In the blink of an eye, Lucien had one hand on the gnome and another on a knife at the
 		 little guy's throat.
 		-Talking to the mostly-nude former-chicken, we quickly learned that:
 			-He was a young noble of House Lorchester, minor nobility of Sasserine.
 			-This gnome was part of a group that ambushed him one night as he was walking home
 			 drunk, turning him into a chicken and kidnapping him, presumably for ransom.
-		-He asked him if he would walk him back to his family, who would surely offer a reward.
+		-He asked if we would walk him back to his family, who would surely offer a reward.
 			-Maya asked that the Lorchester grant us a commensurate favor, instead of cash, and he
 		     eagerly agreed.
 			-Jade pointed out we should find him some clothes first, and Maya chimed in asking
@@ -10260,7 +10260,7 @@ TODO:
 			 "But I _did_ invite you, Fred!" she replied. ". . . you must have forgotten, in your
 			  time at that bar."
 			 "Oh. That sounds likely."
-		-With Jade's help, and the perfidous gnome's description, we employed scrying magic to see
+		-With Jade's help, and the perfidious gnome's description, we employed scrying magic to see
 		 the image of our halfling mastermind.
 			-He indeed looked like the kind of creepy fuck that would be turning people into
 			 chickens. . . and sewing tiny outfits for them: https://discord.com/channels/560915739796570113/560915739796570119/1404652962231488582

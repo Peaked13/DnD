@@ -109,7 +109,7 @@ Advancement:
 		-Oh! You qualify for Epic Leadership as soon as your Leadership score is 25! It has no level
 		 requirement!
 		-Hmm. . . Maybe there's a reason for Intimdate ranks after all:
-			http://dndtools.eu/feats/players-handbook-ii--80/combat-panache--401/
+			http://dndtools.org/feats/players-handbook-ii--80/combat-panache--401/
 			https://dndtools.org/feats/drow-of-the-underdark--93/imperious-command--3193/
 	-Interesting build advice thread: https://forums.giantitp.com/showthread.php?352966-Dread-Pirate-Build-help-(3-5e)
 	-Also, handy: ways to switch what stat adds to what: https://forums.giantitp.com/showthread.php?125732-3-x-X-stat-to-Y-bonus

@@ -19,12 +19,33 @@ Lvl	Class lvl		BAB		Skill Points	Feats									Notes
 14  Dread Pirate 8	+12		10				
 15  Dread Pirate 9	+13		10				1
 16  Dread Pirate 10?+14		10				
+
+17  Marshall 2?
+18  Swashbuckler 2?
+19  Marshall 3?
+
+or
+
+17  Bard 1?
+18  Bard 2?
+19  Marshall 2?
+20  Swashbuckler 2?
+21  Marshall 3?
+
 	-Shadowdancer? Not sure it's worth it in the end. . . https://www.d20srd.org/srd/prestigeClasses/shadowdancer.htm
 	-More Marshal? Major auras are OK, but Minor Aura giving bonus to Dex skills _and initiative_ is great.
-		-Getting to that third level might mean mult-classing XP issues, though, if I add a third
-		 base class or more Rogue levels.
+		-Getting to that third level might mean mult-classing XP issues, though.
+		    -Rogue is highest level, and thus ignored due to human favored clas: https://www.d20srd.org/srd/races.htm
+		    -Marshall to 3 would mean the penalty unless I also got Swashbuckler to 2.
+		        -Swashbuckler 2 isn't terribly exciting: https://srd.dndtools.org/srd/classes/baseCwar/swashbuckler.html
+		        -You'd have to do the same with any other base classes you add, ideally _before_
+		         getting Marshall 3.
 	-A level of bard to add to your Rally the Crew?
 		-Oh, and this is neat too: https://minmaxforum.com/index.php?topic=6085.0
+		    -Bardic music for +2 Move Silently for you and allies withing 30 ft. insead of Countersong.
+		-But another base class makes Marshall 3 _very_ hard.
+		    -Marshall 3 is probably a way biugger deal.
+    -Rogue 5 is so-so: https://srd.dndtools.org/srd/classes/baseCwar/swashbuckler.html
 
 
 Flaws (compensating for +2 LA):

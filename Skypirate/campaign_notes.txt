@@ -3110,7 +3110,7 @@ TODO:
 			-I'd heard a troupe of gnomish entertainers had recently arived in Sharaar Kol.
 			-They seemed like they'd have the supplies we need, so we figured we'd pay them a visit.
 				-Making our way down to the trade city, we headed over to their caravan.
-				-Evidentally, from the their routine in front of it, they're _mimes_.
+				-evidently, from the their routine in front of it, they're _mimes_.
 				-Well, I just so happen to be fluent in that universal language, dance.
 				-Maya joined me in that dance off, and the gnomes seemed to get the idea, scurrying
 				 off to their cart, and returning with some face paint and a wig that they proceeded
@@ -4508,7 +4508,7 @@ TODO:
 	-D'Roc found me at the festival grounds, hanging around the gnomes' wagon and trying out my new
 	 Grimble harness.
 		-He'd been napping below decks when the ship plummeted (and Bram was busy for the last
-		 session) and, in the chaos surrounding that, we never went to wake him. Evidentally, he's
+		 session) and, in the chaos surrounding that, we never went to wake him. evidently, he's
 		 a heavy sleeper. . .
 		-I demonstrated my new harness, shouting, "Say hello to my little friend!" as I spun to
 		 greet him, showing off the tiny, giggling gnome strapped to my chest.
@@ -10527,7 +10527,7 @@ TODO:
                  to shine this way and that as you tilted the card in different directions.
             -She then suggested that we toast to the deal with a very fine vintage she'd brought
              with.
-                -Calling over to a halfling evidentally in her employ, Sophia had him open a satchel
+                -Calling over to a halfling evidently in her employ, Sophia had him open a satchel
                  from which poured a cool mist and withdraw a too-large-for-the-bag bottle of wine.
                 -It was a wine made once a century to celebrate the originating community's defeat
                  of a marauding purple worm.
@@ -10615,7 +10615,7 @@ TODO:
     -Continuing to take the lead, as befits the captain, I then asked, "Well, what leads do we have"?
         -The priestess hiring us offered that she had a kind of psychic link to the victim. . . but
          a sack had been placed over his head suddenly when he was kidnapped, so he couldn't see
-         anything. From what he could hear, though, he suspected he might be being held in somekind
+         anything. From what he could hear, though, he suspected he might be being held in some kind
          of warehouse or similar space.
             -She also added that he had been investigating a faction in the city named The Last
              Laugh, a guild of scoundrels, at the time of his kidnapping.
@@ -10722,13 +10722,14 @@ TODO:
              "Yeah, that seems likely," I deadpanned.
     -We then took on provisions and flew the ship south towards Cauldron.
         -While we were underway, I began to notice that the ship felt. . . off. It was shuddering
-         nd jittering a bit, and just generally not purring like she should.
+         and jittering a bit, and just generally not purring like she should.
         -I went down to go see what was going on with the engines, and the air elementals that run
          them. I brought Jade along with me, this indeed being a job for the ship's engineer, and
          Bruce came flapping along behind.
         -Down in the engine room, the air elementals were in quite a tizzy, alternating between
          their normal, vaguely-humanoid form and swirling, chaotic whirlwinds.
         -"What's going on here?" I demanded. "Did you lot get into the rum rations?"
+            -A trick question, as we certainly don't ration the rum around here.
         -A chaotic jumble of voices responded in Auran, making very little sense.
         -Thankfully, talking it through with Jade, and her analyzing the area with various
          instruments, she came up with some possible causes of such chaos where elementals are
@@ -10749,9 +10750,12 @@ TODO:
          adjustments, we splashed down with minimal harm, landing on the surface of the ocean below/
         -That settled, we gathered an away party and the elementals while Jade pulled out some
          scrolls from her pack and soon we had shifted to the Elemental Plane of Air.
+            -Well, that is glossing over some complications, as D'Roc's prodigious strength wash
+             required to merely open the door to the engine room again, due to the strangely-
+             localized squall blowing in there.
         -We found ourselves floating in a cloud spotted void, lit by some sourceless illumination.
         -Soon Maya spotted something, and pointed it out: a fey-like elemental floating a short
-         distance from us. Soon we spotted several more.
+         distance from us. Shortly thereafter we spotted several more.
         -As Maya spoke a wisp of cloud formed near us, and then flowed into the shape of a cupcake.
         -Soon, that was joined by other illusions, seemingly tied to each of our desires.
             -Predictably, I got a liquor bottle.
@@ -10804,14 +10808,165 @@ TODO:
 
 
 TODO:
-    -Remove Mage Armor and Defensive Precognition +4.
-    -6 air mephit followers: https://www.d20srd.org/srd/monsters/mephit.htm
+    -(DONE) Remove Mage Armor and Defensive Precognition +4.
+    -(DONE) 6 air mephit followers: https://www.d20srd.org/srd/monsters/mephit.htm
         -Hmm. . . space for followers is a bit tight for 3 HD ones however I slice it.
             -Maybe drop the githyanki?
         -Ask Jake about leveling the Rogue 1 elementals?
+            -Yep, he confirmed that's kosher.
         -Ah! These _do_ actually have a level adjustment as well as HD. . . but aren't way out of
          line with the elementals that Jake just relied on HD for, let alone the Coure.
             -Asked Jake about the subject here: https://discord.com/channels/560915739796570113/560915739796570119/1456506236630466632
+                -OK, yep, we're treating them as 3 HD.
+
+
+1/12/26:
+    -Back aboard ship, we spent some time showing the mephits around and introducing them to that
+     life of an air pirate (and introducing them to rum, but, well, I repeat myself).
+    -A few days later, we arrived in Cauldron.
+    -Just outside the city's walls, there appeared to be a rudimentary air dock, a cleared field
+     with mooring poles.
+        -Bringing the ship alongside one, we tied her up and lowered a ladder.
+        -As we clambered down, we were greeted by a gnome, Gnarls, who seemed to be the harbormaster.
+        -We paid our docking fee for the week and then chatted with our host over the complementary
+         snacks.
+            -Apparently a new mayor had been selected, with the old one, missing to our knowledge,
+             rumored to have been beheaded.
+            -That said, the harbormaster seemed to have more than a few screws loose. . . so who
+             knows.
+    -Eventually, we took the harbormaster's advice and headed for the South gate of the city.
+        -Though it was midday, we found the gates barred to us, and no response to our knocking.
+        -"Well," I began, "As an air pirate, you learn you've got to think _three dimensionally_.
+          Bruce?"
+        -Bruce indeed then flew up towards the top of the gate, but quickly glided back down
+         reporting he saw some kind of net launcher and thought flying over perhaps unwise.
+        -D'Roc smelled sulfur, standing here outside the gate, which is a bit of an ominous sign
+         when sitting on top of a volcano.
+        -Fortunately, as we discussed these matters, a guard _finally_ peeked over the top of the
+         wall, calling out, "Who goes there?"
+            -"Visitors from afar. . . come to class up the place!" I replied.
+              "Are you approved be the Lord Mayor?" the guard asked.
+              "You'd have to ask _him_!" I responded. "Everybody knows me. . . and many approve!"
+              "I mean, are you on this list?" the guard said, brandishing a sheet of parchment.
+              "Dunno! Throw it down and I'll see!" I called back.
+              ". . . look, you tell me you're name and _I'll_ see if it's on the list."
+              "Ah. Very well then: I'm the very famous Fred the Red!"
+              "Nope, not on it."
+            -Maya then stepped in, name dropping someone, and threatened to inform them of our
+             displeasure. That seemed to do the trick.
+            -As he ushered us in, D'Roc also asked the guard about the sulfurous stink.
+                -"Eh, you get used to it," the guard replied. "The wizards say they've got things
+                  stabilized and all is safe. Plus, there's perks to living atop an active volcano.
+                  Makes invasions and the such rather difficult."
+    -We walked a short distance down the street, around a bend that took us out of sight of the
+     gate, and then discussed where we should head to.
+        -I felt the need to take the lead, then, and listed some possible threads we could pull on:
+            -There's that guild of scoundrels the missing priest was investigating when he
+             disappeared.
+            -Similarly, he was also looking into a "House Reindorf".
+            -The old Lord Mayor _also_ disappeared and, now that there's a new one, well, that
+             smells like profit motive to me.
+            -There's also Lavinia's cousins in the city, who might have word of her brother, or
+             other things afoot in the city.
+            -Then there's the jester coins, the madness plague, and what not.
+        -Personally, I pushed for seeking out the Vanderborn cousins, it seeming like a good way
+         to get the lay of the land from someone not likely to be actively hostile to us poking
+         around, and the others nodded in assent.
+    -Well, that still didn't leave us much of an idea as to where to _physically_ head, but, as we
+     continued down the street, we encountered a pair of guards dragging a madman who was loudly
+     claiming, to all and sundry, to be a prince of The Hells and demanding submission.
+        -The guards were rolling their eyes and periodically cuffing him, prompting Lucien to offer,
+         as they passed, to shut him up for them.
+        -Their response boiled down to "Please do" so Lucien gave the man a smack across the head
+         with his sheathed sword, rendering him swiftly unconscious.
+            -They presumably could have done the same at any time, but I suppose this offers them
+             someone else to point at if some trouble comes of it.
+        -The guards were rather receptive after that, and we got to chatting a bit about how to
+         find stuff in the city.
+        -Maya got it into her head that she'd like to speak to this new Lord Mayor, and asked them
+         for directions.
+        -They seemed mildly skeptical, but still happily pointed us in the direction of his estate.
+    -We made our way there through the city's tangle of winding, many-leveled streets, eventually
+     reaching a high-walled estate a level or two below the rim.
+        -The gate to the estate, though, was closed, and Maya pointed out some fine eleven runes
+         running up and down the gate which Jade pronounced likely some kind of magical defense.
+        -D'Roc also informed us of _more_ stinks: what, to him, smelled of orcs, no, _half-orcs_,
+         many of them, training behind the walls of the estate.
+            -He spoke of the smell of well-worn armor and the like.
+            -Not really that typical of a noble estate in a city. That sort of thing would likely
+             take place elsewhere, rather than a near-palace.
+        -Maya, evidently feeling confident, strode boldly forward and banged on the gate with a
+         scepter she pulled from a loop on her belt.
+        -That did not seem to have the result she desired though as, in response, one of the runes
+         began to glow and she dove for the ground before peeking back at the rune.
+        -The flames, demons, or whatever Maya expected didn't really materialize. . . but that _did_
+         lead to someone striding up to a grate in the gate and asking what our business was here.
+            -To my surprise, and some delight, Maya let loose with a long string of insults, not
+             even slowing down when the (indeed) half-orc guard began growling threats, only
+             intermittently demanding to speak with the Lord Mayor, despite the guard's protests
+             that we need an appointment.
+            -Eventually, he made good on his threat to come out so she could say that to his face,
+             doing so with a phalanx of his fellow.
+            -Maya's sudden ill-mannered streak continued, though, leading the guard to press a
+             finger to glyph-marked token affixed to his belt.
+            -In response, blue glyphs began to glow on the cobblestones beneath our feet, swiftly
+             followed by a nasty shock to the lot of us.
+                -Well, save Lucien, who disappeared somewhere in Maya's tirade and I myself, who
+                 knows well to get gone when shit starts unexpectedly glowing.
+            -"Had enough, madmen?" the gloating guard asked.
+            -As Maya went to respond to that, Bruce interrupted and tried to calm the guards down,
+             to some success, saying we merely wanted to speak with the Lord Mayor.
+                -I helped a bit, explaining that, "The only madness she's afflicted by is that of
+                 your average young noble. You know how the lot are, their opinions of themselves
+                 and of anyone not immediately bending to their whims. . ."
+            -It seemed the guard had believed us to be more victims of the madness plague afflicting
+             the city and, well, fair.
+                -The guard also made some comment about suspecting we "had those coins", implying
+                 a link between the jester coins and the madness plague.
+            -The matter corrected the guard. . . well, still loathed us, but conceded we could get
+             an appointment. . . for next week.
+            -Maya looked like she wanted to say more. . . so we quickly took our leave, ushering
+             her with us.
+    -As we walked away from the estate, Lucien chased us down and rejoined us.
+        -He reported that, when the scene at the gate started to clearly go south, he ducked down a
+         nearby alley, and found there, partially concealed by some garbage, a hatch. . . marked
+         with jester hat.
+        -That sounded awfully promising, so we had him lead the way.
+        -He took us to a nearby commercial square, covered in signs for various businesses, but
+         notably several especially prominent advertisements for something called "Skie's Treasury".
+        -It was a short way down an alley off that square where he showed us the hatch which,
+         opening it, led to some kind of tunnel.
+        -Descending into the tunnel, the sulfur stink became considerably worse.
+        -Bruce was happy to inform us that these were natural lava tubes, repurposed by who ever
+         added that hatch.
+        -D'Roc led us through the tunnels, with the disgusting smell getting _worse_. Eventually,
+         we came to a bit of the tunnels what was clearly also serving as a sewer for the city.
+        -Continuing on, past a variety of branches, we eventually came to a tunnel opening,
+         concealed in a depression, that let us out past the city walls, near the airfield.
+        -Well, that's a handy thing to know about, certainly, especially given our trouble at the
+         gate earlier.
+        -But it's also not really progress on our goals here, so we returned to the tunnels to try
+         a new branch.
+        -This time, we eventually found ourselves on a built-up causeway, raised above the water in
+         a partially flooded portion of tunnel. . . when Lucien called a halt.
+        -He pointed to a dark, sodden pile of. . . something, projecting just above the water to
+         one side of the causeway. He then crept forward and drew his sword.
+            -His warning and caution both proved warranted, as up from the water leapt. . . a
+             dreadlock golem? Some kind of hair elemental?
+            -Whatever it was it was an ugly mass of roap-y strands, reaching towards Lucien with
+             several of those tentacle-ly strands which Lucien was gamely slicing off as they came
+             within reach.
+            -Unfortunately, another emerged from the water on the other side of the causeway,
+             wrapping several tentacles around Lucien and dragging him towards the water.
+            -D'Roc rushed forward, hacking at the one grappling Lucien with his immense axe, while
+             I launched crossbow bolts at the injured one that _wasn't_ waving Lucien around in
+             front of it.
+            -"They're ropers!" Jade named them. "Watch for more ambushes!"
+            -She then proceeded to finish off the injured one with a blast of energy from a wand.
+            -Grimble proved that they really don't like being set on fire, unleashing several fiery
+             rays at the one holding Lucien, which dropped, sizzling, into the water.
+        -Thankfully, no further ambushes proved forthcoming and we continued on, coming to the
+         source of the water: a tunnel mouth opening onto the caldera lake.
 
 
 TODO:

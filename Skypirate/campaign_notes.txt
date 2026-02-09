@@ -10834,7 +10834,7 @@ TODO:
              rumored to have been beheaded.
             -That said, the harbormaster seemed to have more than a few screws loose. . . so who
              knows.
-    -Eventually, we took the harbormaster's advice and headed for the South gate of the city.
+    -Eventually, we took the harbor master's advice and headed for the South gate of the city.
         -Though it was midday, we found the gates barred to us, and no response to our knocking.
         -"Well," I began, "As an air pirate, you learn you've got to think _three dimensionally_.
           Bruce?"
@@ -10970,6 +10970,10 @@ TODO:
 
 
 TODO:
+    -Those hairball monsters. . . any past victims or the like strewn about, which might have money?
+
+
+TODO:
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
 		-Those other skill tricks, possibly before Jump.
@@ -10997,6 +11001,7 @@ TODO:
 			-Might push me towards hand crossbows and the like. . .
 			-Cost for Jade to craft it: 16,875*.75 = 12656.25 + 1,350 XP.
 				-Can she manage the 5 in Perform (Dance) somehow?
+				-Ah! Jake OK'ed me "consulting", covering the skill ranks: https://discord.com/channels/560915739796570113/1027415547278794782/1465361198068269078
 		-When can I get +5 to Charisma? The tome: https://www.dandwiki.com/wiki/SRD:Tome_of_Leadership_and_Influence
 			-Hiring someone to cast Wish seems about as expensive, and maybe less readily available:
 				https://www.dandwiki.com/wiki/SRD:Wish
@@ -11008,6 +11013,8 @@ TODO:
 					 to Wish having an XP cost and being involved.
 					-That XP cost might not be worth it if paying for it is an option. . .
 						-It's greater than the difference between levels 19 and 20.
+        -_Probably_ not worth it, but Gauntlets of Heartfelt Blows are interesting: https://discord.com/channels/@me/838577998269120522/1465528336422797373
+            -12k for Cha bonus worth of fire damage to melee attacks.
 	-Ship stuff:
 		-Finish cannon refurbishment, given that incoming bone fortress.
 			-They'd be great for use with followers!

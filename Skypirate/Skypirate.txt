@@ -81,11 +81,13 @@ Advancement:
 						-Ehhh, the difference in your Bluff and Diplomacy scores, plus the -10, may
 						 make this useless.
 			9		BACK ON YOUR FEET (Tumble 12)
+			            -This is a bit less attractive if you increase Tumble further, as you get it
+			             free with a 35 on Tumble: https://www.d20srd.org/srd/epic/skills.htm#tumble
 			?		(Done!) Extreme Leap (Jump 5)?
 		-Customize CONCEAL SPELLCASTING???
 			-Psionic version would be very useful, but Sleight of Hand doesn't make much sense for
 			 something with no somatic components. _Bluff_, though. . . and opposed by Sense Motive?
-			-Would also mean needing a rank in Psicraft.
+			-Would also mean needing a rank in both Psicraft and Concentration.
 	-Skills required for prestige classes:
 		-Dread Pirate:
 			Appraise 8 ranks

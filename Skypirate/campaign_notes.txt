@@ -10989,21 +10989,21 @@ TODO:
         -He recommended The Tipped Tankard Tavern, saying it's dwarven proprietor kept ales that
          had been cave aged as long as a century.
         -That sounded fancy to me, and our impromptu guide said it was just across the lake from
-         us, and that one of the city's water taxis could take us straight there.
+         us, adding that one of the city's water taxis could take us straight there.
         -Thanking him, we headed down to a public dock on the waterfront.
             -We weren't the only people waiting on the dock, and several of them were eyeing D'Roc.
             -D'Roc asked one of them what his problem was and he, somewhat reluctantly, explained
              that, well, there's only so much room on these boats. . .
-            -D'Roc was understanding, especially as the boat arrived, as somewhat rickity affair
+            -D'Roc was understanding, especially as the boat arrived, a somewhat rickety affair
              poled through the water by an elderly elf.
             -Looking at the boat, I thought it _probably_ could hold all of us. . .
             -The boatman appeared to be making a similar calculation, and ended up muttering some
              arcane symbols under his breath before allowing us all aboard.
                 -Jade whispered, though, as we boarded the boat, that he'd just cast Silence on
                  the no longer creaking boat. . .
-            -Once we were out on the water, D'Roc managed to crack on the planks he stood on, and
-             spent the rest of the trip clutching one of the gunwales, which seemed sturdier than
-             the decking.
+            -Once we were out on the water, D'Roc managed to crack one of the planks he stood on, 
+             and spent the rest of the trip clutching the gunwales, which seemed sturdier than the
+             decking.
         -Eventually, we disembarked, very near a sign bearing the image of a spilling tankard.
         -Inside, I asked the barkeep about these cave-aged ales and ended up ordering a round of
          something called Stonefather's Reserve.
@@ -11034,7 +11034,7 @@ TODO:
                  isn't exactly an all-hours establishment, or all that receptive to visitors
                  smelling of booze.
                 -We settled on settling in here tonight, and looking into that tomorrow.
-            -So, with an evening to kill, Jade found herself interested in the dice game.
+            -So, with an evening to kill, Jade found herself still interested in the dice game.
                 -That fast-talking halfling's explanation when she inquired made no sense. . .
                  but I don't think it was intended to do.
                 -We spent some time chatting with the adventurers getting fleeced too.
@@ -11127,7 +11127,7 @@ TODO:
 
 
 TODO:
-    -Level Fred and Grimble!
+    -(DONE!) Level Fred and Grimble!
         -Did for Fred:
             -XP update
             -Class abilities
@@ -11142,12 +11142,119 @@ TODO:
             -HP
             -Spells
             -Skills
+
+
+3/9/26:
+    -A cough behind us proved to be Lucien, returned without explanation, and we briefly tried to
+     convince him to adopt Cullen.
+        -Sadly, he was not up for taking responsibility for a. . . roughly six-year-old, even when
+         I reassured him that people around me _usually_ don't die.
+        -Well, still, we took some time to corrupt. . . *cough*. . . enlighten the kid as to the
+         wonders of our ways.
+    -Well, eventually I tired of the glares from the woman running the place (and her lack of booze)
+     and I left with Maya, D'Roc, and Grimble, to begin our investigations while the rest remained
+     at the orphanage to keep an eye on Cullen.
+    -We started by asking around the streets immediately surrounding the orphanage.
+        -At least a couple of people _did_ remember seeing a fire-breathing child running around
+         the streets a few weeks back, seemingly unsupervised. Presumably our runaway.
+    -Naturally, we soon found ourselves at a nearby bar. . . asking the patrons about the kids, of
+     course.
+        -One of those patrons _did_ mention that the guards had been asking about the orphans, and
+         if any of them had been recently adopted. . . _before_ the disappearances began.
+        -Well, that's a bit outside their normal job description, and suspiciously timed.
+    -Leaving the bar (eventually), we strolled up to the first pair of patrolling guards we came
+     across and Maya turned on an especially haughty flavor of charm.
+        -They acknowledged that there indeed had been reports of a child of. . . unusual heritage
+         causing chaos in the city recently.
+        -At their suggestion, we followed them back to the nearby guardhouse, where one of them dug
+         up a report. It said that the kid had last been spotted in an alley near western wall of
+         the city.
+    -Given that, we walked a quarter turn around the circular city and began searching for traces
+     of the child, D'Roc's tracking abilities coming very much in handy.
+        -In the city wall itself, we eventually noticed disturbed and, upon examination, _loose_
+         stone in the wall.
+        -I suspected some kind of secret passage or the like but, try though I might, I couldn't
+         figure out how it opened.
+        -D'Roc came to our rescue there, slamming his shoulder into the wall until a section of it
+         around the loose stone buckled inward and we were able to remove the crumbled masonry.
+        -That revealed a narrow tunnel. . . one that a child _could_ fit down, but I couldn't.
+        -The tunnel also emitted a noticeable _warmth_.
+        -That last prompted us to let Maya's familiar, Paz, a tiny copper dragon lead the way,
+         followed from a short distance by Grimble.
+            -Grimble also sagely suggest a way to remain in contact, some spell of his that would
+             establish a telepathic link between us, though one that he warned sufficient stone
+             would eventually block.
+        -Grimble eventually came running back out of the hole, followed by the fiery dog. . . who
+         drew up short at the sight of us.
+        -Pausing was the wrong move, though, as D'Roc swiftly brought his axe down on the dog,
+         cleaving it in twain.
+        -Pax then emerged from the tunnel too, after the dog's demise.
+        -We then all conferred, with Paz explaining that he _had_ seen some sign of the child,
+         small footprints and the like, and that the dog (which apparently Paz could speak) with had
+         seen the kid.
+        -Well, there was nothing for it but to send the two of them back down there.
+        -This time, they were gone quite a while, but eventually returned, thankfully without any
+         hot dogs hot on their heels.
+        -They reported that the tunnels went _quite_ far, describing rivers of lava mixing with
+         water, seeping down perhaps from the lake. The resulting steam prevented Grimble from going
+         any further.
+        -They _also_ reported more of the small footprints. . . interrupted by a larger set.
+        -Well, that would bear more looking into. . . if we could all get to the spot.
+        -At that point, we were accosted by a passing set of guards.
+            -They were hassling D'Roc about the damage to the wall, he being a pretty obvious
+             candidate for the cause of the recent smashing.
+            -They were singularly unconcerned about their hot dog infestation, or even that it might
+             have ate up a child.
+            -Eventually, though, we were able to talk them down to a small fine of 10 gold.
+            -Regularly spending more on booze than that, we considered the matter cheaply settled. . .
+             but also that further obvious excavations were ruled out.
+        -Paz then opted to go once more into the breach, to find out where the tunnels led.
+            -He returned some half an hour or so later, fluttering over the rooftops.
+            -He reported that he'd burrowed upwards from the spot where the footprints ended,
+             emerging in the courtyard of some kind of temple complex near the Lord Mayor's house.
+            -Well, that last was particularly interesting, given that another one of the kids had
+             disappeared on a field trip to the mayor's residence. . .
+    -We then decided to return to the orphanage and report our findings.
+    -We strolled through the front door and D'Roc announced that we had word of one of the children.
+        -The foyer was empty, but I could hear people in the room to the left, so I walked in there
+         saying, "Yeah! And D'Roc killed a hot dog! . . . holy shit. Is that a dinosaur?"
+            -Indeed, there _was_ a chest high bipedal dinosaur in the orphanage's dining room.
+            -Everyone seemed quite alarmed. . . but not exactly by that? They were casting their
+             eyes around, rather than focusing on it.
+            -Even weirder, the dinosaur then _nodded_ at me. . . and went to the back door, open
+             it by the handle, and went outside. . .
+            -. . . transforming into Bruce, as it did so, who then fluttered upwards (solving a lot
+             of _that_ mystery).
+         -The source of the tension was soon apparent too, as a gloved hand reached out of the
+          fireplace, grabbed Cullen, and dragged him up the chimney.
+         -Jade smashed a nearby window with some kind of magic lance of sound and then Bruce and
+          Grimble flew out through it and up, to intercept them on the roof.
+         -D'Roc, closer to the front door, had resolved the matter by the time I managed to race
+          outside, by hurling his immense axe at the ninja-garbed figure, slaying her.
+         -A clearly terrified Cullen was huddling on the roof, but soon retrieved by D'Roc who
+          easily scaled the building's wall.
+         -We _also_ asked him to retrieve the corpse of the would-be abductor.
+            -She proved to be a well outfitted kidnapper, bedecked in expensive magics, and was
+             also carrying a pouch of 50 or so coins, all marked with that jester emblem.
+            -"Well, I had been hoping an interrogation would be our big break here," I said, "But
+              that would require her to be alive. . . at least for _me_. . . Jade? Are you able to
+              speak with the dead?"
+             "Hmm. . . let me see what I can rig up. . ." she replied.
+            -After some thought, yeah, she was pretty sure that she could manage a necromantic
+             apparatus that would do the job. She estimated we'd have six questions we could ask of
+             the dead woman, before the spell failed.
+
+
+TODO:
+    -Deal with loot.
+        -It's all written down. You _really_ want those gloves.
+    -Figure out those questions: https://discord.com/channels/560915739796570113/560915739796570119/1480764666329301094
+    -Remove Grimble's Mage Armor.
     -Sort out that Schema: https://discord.com/channels/@me/838577998269120522/1470652551543263387
         -Spent the gold, so now just need to look into UMD DCs when Fantasy Grounds is up, and
          maybe spend the trivial XP if Shroud says he needs that.
         -Also maybe transfer it and wand to Fred?
             -UMD for everything involved is auto-success.
-
 
 TODO:
     -I think Fred is now eligible for Epic Leadership: https://www.dandwiki.com/wiki/SRD:Epic_Leadership
@@ -11259,6 +11366,11 @@ TODO:
 	 Material Plane.
 	-Jobs offered:
 	    -That navigation beacon thing in Sasserine.
+	        -To promote it's construction, host a party?
+	            -Could have guests bring an exotic gift as the price of admission, to be shared out
+ 	             amongst the party goers: food, drink, entertainment or similar.
+ 	                -Beyond making for a sensational party them, it's a way to emphasize the riches
+ 	                 and pleasures more visitors to Sasserine can bring.
 	    -The "divided circle" symbol and opportunity to kill some bodyguards in Cauldron.
 
 

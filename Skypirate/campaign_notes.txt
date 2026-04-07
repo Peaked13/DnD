@@ -11249,12 +11249,138 @@ TODO:
     -Deal with loot.
         -It's all written down. You _really_ want those gloves.
     -Figure out those questions: https://discord.com/channels/560915739796570113/560915739796570119/1480764666329301094
-    -Remove Grimble's Mage Armor.
+    
+
+4/6/26:
+    -While some of the party attempted to distract the orphans (with mixed results), we went to the
+     backyard to engage in some necromancy.
+        -We dragged the woman's corpse out back and Jade began rigging up the apparatus.
+        -Jade then called for silence and kicked off the spell. The corpse immediately sat bolt
+         upright, and Jade began the questioning.
+        -"Where were you supposed to take the children?" Jade asked.
+         "A noble house," the spooky flat voice replied.
+        -That led to a quick discussion, as we switched from our planned question to a follow up.
+        -"What noble house?" Jade then asked.
+         "Rhavaldi," the corpse replied.
+        -Jade quickly followed with another question, asking, "Where are the other children?"
+         Unfortunately, the corpse replied, "I don't know"
+        -More furtive discussion ensued, in which we quickly decided we wanted to focus on actionable
+         information, so Jade asked one of our prepared questions, saying, "How were you supposed to
+         identify yourself when returning with the kid?"
+         "A signet ring."
+            -A more thorough search of the corpse turned that up.
+        -Suspecting we'd learned about as much as she'd know about the noble house, Jade then asked,
+         "How can we find the Jester Guild?"
+         "At a tavern called The Brass Trumpet," the corpse replied.
+        -As a follow up to that, then, Jade asked, "What are the Jester Guild's goals?"
+         "Mischief, Money, and Blackmail," the corpse replied, before falling back down. . . well,
+         _still_ dead, but behaving more like it.
+    -Well, after that fun, we went back inside and spoke with the. . . orphan-keeper?
+        -Jade asked her to wait half an hour before alerting the guards to that abduction attempt
+         and resulting bloody mess.
+    -Before departing, I gave egging various party member on to adopt children another shot.
+        -Lucien almost bit (not, if you can believe it, literally), but wasn't _quite_ willing to
+         take responsibility for the sad little tiefling.
+            -Not sure the kid's caretaker would have been on board anyways. She seemed a little
+             alarmed when I asked Lucien what he thought the kids rum ration would need to be.
+        -Maya, though, ended up promising to come back for a little half-elf girl named Lyressa, once
+         Maya was able to talk to her father about the subject.
+            -She also left some gold for Lyressa's care and education in the meantime.
+    -We then took our leave, and headed out to find the house of House Rhavaldi.
+        -While we walked, I brought up the matter of the surprisingly talkative dead woman's
+         possessions, as I was eyeing her enchanted gloves.
+            -Maya was also interested in them, but eventually saw my point.
+            -Of course, given their great value, I didn't actually have enough gold on hand to pay
+             in everyone else's shares of their price. But, they were willing to let me pay the rest
+             back later.
+        -Once we reached the noble district, the people we passed certainly showed a lot more
+         wealth. They were mostly dressed in finery and were chatting about the evening's parties
+         to come.
+            -Taking advantage of that, Maya stopped one such group of her noble peers and asked
+             where the best party was this evening.
+            -Apparently, the big party this evening was hosted by the Vanderborns, which certainly
+             caught my attention.
+            -It was apparently to be a fundraiser for the new mayor and the city guard. . . with a
+             suggested donation of ten thousand gold.
+            -Maya began to express interest in attending, and I certainly wouldn't mind getting
+             closer to the Vanderborn I'm hoping to stab.
+            -That said, we had other priorities this evening too, and I had an attack of conscience,
+             a thing I was ill-equipped to resist, given how rarely it happened to me.
+            -"Wait, Lady Maya," I interjected. "Didn't you have that engagement with House Rhavaldi?"
+             "Oh? Oh! Yes. Yes of course I did!" Maya played along. "Will any of them be at the
+             party?" she asked the passing party people.
+                -They said the lady Rhavaldi will of course be at the party.
+            -"Still," I said "to Maya", "We should call on the Rhavaldis before the party. . ."
+                -Turning to our unwitting informants, I added, "I'm afraid were newly arrived in
+                 town, though. Do you know the way to the Rhavaldi estate?"
+                -They gave us the general location, in terms of the hour o'clock as such things
+                 seemed to work here, and mentioned there was a big dragon statue out front.
+            -We then let them continue on their way.
+        -Well, with a new potential option for the evening, we began fervently discussing our options.
+            -We debated splitting up to attend to both. . . but I felt rather uncomfortable with
+             that. Good way to end up dead, solo mission-ing this home invasion.
+            -Thankfully, the noble's district is fairly compact, so we decided to head first to
+             House Rhavaldi and then, if we don't die or need to flee the city, head tot he party.
+    -So, we headed towards the Rhavaldi estate and then, once nearby, looked for a close public
+     establishment where we could set up our base of operations (preferably one with drinks).
+        -About 3 blocks from the estate, we found a bar named The Coy Nixie.
+        -Just outside, Jade cast a kind of scrying spell, one she assured us would allow her to
+         scout the estate remotely.
+        -Inside, we secured a booth for our uses, slide Jade in towards the wall, and situated the
+         rest of the party with Maya and I at the end, to deflect any awkward questions.
+        -Jade then relayed to us what she saw:
+            -Through the eyes of the spell, she'd found the estate with it's dragon statue out front.
+            -Sneaking the "sensor", as she called it, through an open gate, she saw inside a kind of
+             throne room, with a great dragon-sculpted throne.
+            -In the room, an angry woman was haranguing someone else, though the spell could not
+             relay sound.
+                -Maya said Jade's description of the angry woman probably meant she was Lady
+                 Rhavaldi.
+            -Outside the estate, Jade also spotted a trail of what seemed to be claw marks, somewhat
+             obscured by a subsequent sweeping of the dirt path along the waterfront outside, and
+             some scattered drops of blood.
+                -They led to. . . a rock face?
+                -I asked Jade if that rock face was in a public area or some private part of the
+                 estate.
+                -She said that the rock face abutted a public path. . . but the kind of place where
+                 loitering was likely to be swiftly discouraged.
+        -Well, we decided it was time to pay our tab and head over there to take a look at that rock
+         face in person.
+            -As we headed out, I strapped a giggling Grimble to my chest, it seeming like a good
+             time for me to do the creeping and him to do his arcane thing as needed.
+            -It was as Jade had described, and D'Roc was able to quickly confirm the trail.
+            -Taking a quick look at the rock face, there proved to be a small, circular indentation
+             on it. . . perfectly sized for that signet ring we'd recovered.
+            -I tried the ring and, sure enough, section of the rock face slid upwards, forming an
+             open doorway, through which there was a stonewalled room and another doorway on the
+             opposite side.
+            -The first room had a great deal more of the blood, with no real effort having been
+             taken to clean or conceal it.
+            -I began to step forward but Lucien caught me with an arm, pointing out a tripwire at
+             our feet, which we gingerly stepped over.
+            -Looking around the room, we found a bag of thousands of gold pieces. Perhaps the reward
+             for the kidnapper?
+            -Something about the next room, through the second doorway, seemed. . . off to me.
+                -By this point in my life, I'd seen more than my fair share of illusions, and I soon
+                 suspected this was another such.
+                -In a whispered conversation with Grimble, he confirmed he was thinking what I was
+                 thinking, and also suggested that interacting with the illusion would be required
+                 for our minds to really see through it.
+                -Well, Lucien and I crept forward to do some interacting. . .
+
+
+TODO:
+    -Figure out paying for the 36k Gloves of Dexterity.
+        -I owe 36k/2 (though some of that will be paid back to me), so 18k.
+        -I have a bit more than 6k, so paid that into the pot and recorded a debt for the rest.
     -Sort out that Schema: https://discord.com/channels/@me/838577998269120522/1470652551543263387
         -Spent the gold, so now just need to look into UMD DCs when Fantasy Grounds is up, and
          maybe spend the trivial XP if Shroud says he needs that.
         -Also maybe transfer it and wand to Fred?
             -UMD for everything involved is auto-success.
+    -Remove Grimble's Mage Armor.
+    -Deal with remaining loot.
+
 
 TODO:
     -I think Fred is now eligible for Epic Leadership: https://www.dandwiki.com/wiki/SRD:Epic_Leadership

@@ -11320,7 +11320,7 @@ TODO:
             -We debated splitting up to attend to both. . . but I felt rather uncomfortable with
              that. Good way to end up dead, solo mission-ing this home invasion.
             -Thankfully, the noble's district is fairly compact, so we decided to head first to
-             House Rhavaldi and then, if we don't die or need to flee the city, head tot he party.
+             House Rhavaldi and then, if we don't die or need to flee the city, head to the party.
     -So, we headed towards the Rhavaldi estate and then, once nearby, looked for a close public
      establishment where we could set up our base of operations (preferably one with drinks).
         -About 3 blocks from the estate, we found a bar named The Coy Nixie.
@@ -11352,7 +11352,7 @@ TODO:
             -Taking a quick look at the rock face, there proved to be a small, circular indentation
              on it. . . perfectly sized for that signet ring we'd recovered.
             -I tried the ring and, sure enough, section of the rock face slid upwards, forming an
-             open doorway, through which there was a stonewalled room and another doorway on the
+             open doorway, through which there was a stone-walled room and another doorway on the
              opposite side.
             -The first room had a great deal more of the blood, with no real effort having been
              taken to clean or conceal it.
@@ -11367,6 +11367,86 @@ TODO:
                  thinking, and also suggested that interacting with the illusion would be required
                  for our minds to really see through it.
                 -Well, Lucien and I crept forward to do some interacting. . .
+
+
+4/27/26:
+    -Well, I poked at various objects in the room, which appeared to be something like a kitchen.
+        -Everything. . . felt like pudding?
+        -Lucien investigated as well, and said something about cracks, or something, in the floor
+         there.
+        -We eventually crept back outside and collected Jade, who looked about for a bit, and then
+         began to put together some arcane apparatus from various components in her bag. Once
+         prepared, she waved her hands and the illusion fell away.
+        -We were in a much more sparsely furnished room, really just containing some kind of basin
+         surrounded by the cracks Lucien was talking about.
+        -Seen more clearly, the cracks rather suggested some kind of mechanism, and the shape of a
+         spiral stair, though flush with the floor, at least currently.
+        -Well, Jade poked at the mechanism for a bit.
+            -She mentioned it was supposed to be opened with the sacrifices of "a weak soul".
+            -That being a bit. . . ick, we asked Jade to keep poking at it, to see if she could
+             just jimmy the device some how.
+            -She shrugged and kept at it. Eventually, wiggling some thin strip of the metal in the
+             cracks in the floor, the bits of the store began to descend, indeed forming a
+             descending stairway. . . with a great deal of clanking and grinding.
+                -Not great for our stealthy entrance.
+    -Sure enough, we could soon here some more clanking coming from the direction we came: what
+     sounded like armored figures approaching.
+        -The rest of the party ran in through the open door, taking up positions in the room.
+        -When a pair of guards rounded the corner, Lucien rushed forwards and smacked both of them
+         over the head with his sheathed sword, swiftly dropping them.
+        -Not so swiftly that there weren't already more guards coming, still around the bend,
+         shouting clever stuff like, "Hey! What was that?"
+        -Lucien dove for cover and, as another four guards rounded the corner in a bunch, repeated
+         his feat.
+        -From there, D'Roc was dragging unconscious guards into a big pile just inside the not-a-
+         rock-face-actually-a-door while I, mimicking one of the voices I'd heard, called out, "Ah!
+         there's something wrong with the door mechanism! Seems to be jammed. . . That was the
+         grinding. . ."
+            -I heard an answering call from around the corner down the road, saying, "Well, we can
+             send for someone."
+             "No need!" I responded in a shout. "I think we've got this. Come on boys! Heave, ho!"
+             "Well, be quick about it. . ."
+    -That bought us at least some time, and Bruce had a suggestion to earn some more: chanting an
+     incantation, he conjured a wall of stone, sealing the previously-secret doorway.
+    -With that, we proceeded to descend the staircase.
+    -It led to a room containing four statues and with three doors leading out from it.
+        -The statues rested in a series of groves forming a clover leaf pattern, clearly being
+         meant to move.
+        -We did quite a lot of debating over what was clearly some kind of puzzle or similar secret.
+        -Eventually, I boldly tried to open one of the doors instead, yielding a beam of dangerous-
+         seeming light being emitted by some kind of magic mirror. . . which I fortunately managed
+         to stand out of the way of.
+        -That combined with some shiny patches on the (rather lifelike, now that we looked closely)
+         statues made the nature of this puzzle rather clear.
+        -Soon, Jade was shoving statues around until they reflected the light into a complicated
+         pattern and a portal appeared.
+    -Well, before we were going to leap blindly into some kind of portal, we figured we should
+     probably check the rest of the doors here.
+        -We found a fancy box containing a creepy, severed beholder eye with a note from the mayor.
+            -"Per our arrangement. -Lord Mayor"
+        -Several folks (thankfully not me) got hit with crossbow bolts, rigged to fire when one of
+         the doors opened.
+        -A concealed door led to a passage upwards, to what looked to be the rest of the estate.
+        -We also turned up some kind of hand mirror, which Jade used to manipulate the beam of light
+         further, seemingly stabilizing the portal a bit and allowing us to gaze inside.
+    -Through the portal, we could now see that it led to some kind of void studded with widely
+     spaced platforms.
+        -That proved to be about my limit, but Lucien was bold as ever and Bruce insisted he was a
+         kind of planar expert now, so the two of them stepped into the portal and were soon
+         drifting towards one of the platforms before we lost sight of them.
+        -Grimble and I shared a nip of my infinite rum while I felt quite secure in my decision to
+         relax here a moment.
+        -A short while later, Bruce came flapping back up to the other side of the portal, pointed
+         to Jade and motioned for her to come inside, to which she all too willingly (in my eyes)
+         assented.
+        -I remained standing there safely(ish) in a basement, rather smug in my decision.
+        -Quite a while later, Bruce came back to find me, explaining that they desperately needed
+         the help of Fred the heroic (or so I more or less heard).
+        -Well, I asked Grimble to magic me up to let me fly between those platforms and then the
+         three of us went to go find Jade and Lucien.
+        -It turned out they were struggling with some kind of magic door. Through a combination of
+         encouraging words to Jade and being able to read the Undercommon inscription on the door,
+         she was able to manipulate the doors magic enough to trigger it's opening.
 
 
 TODO:

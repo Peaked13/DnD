@@ -11386,7 +11386,7 @@ TODO:
             -That being a bit. . . ick, we asked Jade to keep poking at it, to see if she could
              just jimmy the device some how.
             -She shrugged and kept at it. Eventually, wiggling some thin strip of the metal in the
-             cracks in the floor, the bits of the store began to descend, indeed forming a
+             cracks in the floor, the bits of the floor began to descend, indeed forming a
              descending stairway. . . with a great deal of clanking and grinding.
                 -Not great for our stealthy entrance.
     -Sure enough, we could soon here some more clanking coming from the direction we came: what
@@ -11463,6 +11463,31 @@ TODO:
 
 
 TODO:
+    -Sounds like we're going to do the Followers idea, playing 5th level followers.
+        -Patches and Peggy are both that level.
+        - TODO: Get one of them entered into Fantasy Grounds!
+            -4d6, drop lowest, for Attributes.
+                -Base stat rolls:
+                    17
+                    16
+                    14
+                    15
+                    11
+                    16
+                -How Attributes work for monsters without level adjustments: https://www.enworld.org/threads/level-adjustment-playing-as-monsters-in-d-d-3-5.475266/
+                -Stats:
+                    Str: 16
+                    Dex: 24 (17 + 6 racial + 1 for 4HD)
+                    Con: 14
+                    Int: 10 (16 - 6 racial)
+                    Wis: 15
+                    Cha: 11
+            -Skills: 10 elemental, 24 rogue
+                17
+            -4,700 gp. worth of equipment.
+                -Club for comedy (and throwing!), instead of a slightly more effective weapon.
+                -Bracers of armor: https://www.dandwiki.com/wiki/SRD:Bracers_of_Armor
+                -Cloak of Resistance: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
     -I think Fred is now eligible for Epic Leadership: https://www.dandwiki.com/wiki/SRD:Epic_Leadership
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):

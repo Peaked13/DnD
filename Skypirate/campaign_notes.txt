@@ -11465,7 +11465,7 @@ TODO:
 TODO:
     -Sounds like we're going to do the Followers idea, playing 5th level followers.
         -Patches and Peggy are both that level.
-        - TODO: Get one of them entered into Fantasy Grounds!
+        -Peggy design:
             -4d6, drop lowest, for Attributes.
                 -Base stat rolls:
                     17
@@ -11489,9 +11489,20 @@ TODO:
                     -Or padded armor +1 instead?
                 -Cloak of Resistance: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
                 -Healing belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
-                -Gloves of DeX instead?
+                -Gloves of Dex instead?
                 -Craft stuff?!?
-                    -Rusty _did_ get 1000 XP for an item, and is an atrificer. . .
+                    -Rusty _did_ get 1000 XP for an item, and is an artificer. . .
+                    -For that matter, these folks have Fred backing them and access to Jade.
+                -So, lets call it:
+                    2000 gp., 160 XP    Gloves of Dexterity +2: https://www.dandwiki.com/wiki/SRD:Gloves_of_Dexterity
+                     500 gp.,  40 XP    Cloak of Resistance +1: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
+                    1155 gp.            Padded Armor +1: https://www.d20srd.org/srd/equipment/armor.htm
+                     750 gp.            Healing Belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
+                      30 gp.            Shortbow: https://www.dandwiki.com/wiki/SRD:Shortbow
+                       2 gp.            40 Arrows
+                       0                Club: https://www.dandwiki.com/wiki/SRD:Club
+                    ----
+                    4435 gp., 200 XP or 265 gp. remaining
     -I think Fred is now eligible for Epic Leadership: https://www.dandwiki.com/wiki/SRD:Epic_Leadership
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):

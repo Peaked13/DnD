@@ -11483,11 +11483,15 @@ TODO:
                     Wis: 15
                     Cha: 11
             -Skills: 10 elemental, 24 rogue
-                17
             -4,700 gp. worth of equipment.
                 -Club for comedy (and throwing!), instead of a slightly more effective weapon.
                 -Bracers of armor: https://www.dandwiki.com/wiki/SRD:Bracers_of_Armor
+                    -Or padded armor +1 instead?
                 -Cloak of Resistance: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
+                -Healing belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
+                -Gloves of DeX instead?
+                -Craft stuff?!?
+                    -Rusty _did_ get 1000 XP for an item, and is an atrificer. . .
     -I think Fred is now eligible for Epic Leadership: https://www.dandwiki.com/wiki/SRD:Epic_Leadership
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):

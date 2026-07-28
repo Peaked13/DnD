@@ -3251,7 +3251,7 @@ TODO:
 		 after my name before I revealed our past acquaintance.
 		-Maya reported what we'd learned about The Quickhammers and their portals.
 		-Lord Dracus doubted that Lord Thoreous would allow The Quickhammers to use his estate, and
-		 presumed he must not know the existance of the beacon there.
+		 presumed he must not know the existence of the beacon there.
 		-That matter done for now, as we did not wish to crack down on the transit network _just_
 		 yet, Maya then raised the matter of the guard officer's debt.
 		-She was able to talk her father into backing her assumption of the guard's debt, and he
@@ -6113,9 +6113,9 @@ TODO:
 			 "Tell them Fred needs a ride, and that there's good booze in it for them!"
 			-We went with that, though Maya was not content to wait, and took off after the serpent,
 			 flying a good deal slower, but heading the same direction.
-	-Soon enough, I could see the goblin's derigible hanging above the horizon, and heading for us.
+	-Soon enough, I could see the goblin's dirigible hanging above the horizon, and heading for us.
 		-They took us aboard and we headed back to Sasserine.
-	-There, we found a city devestated by the dragon atack: buildings clawed, drenched in acid, or
+	-There, we found a city devastated by the dragon attack: buildings clawed, drenched in acid, or
 	 damaged by flooding, and bodies in the streets.
 		-We eventually found Skye, who the city's people were hailing as a hero for driving off the
 		 dragon.
@@ -10376,7 +10376,7 @@ TODO:
      the portion of the cavern where Grimble, Bruce, and I were hiding. . . and into which one of
      the skeltons was walking.
     -D'Roc took that trap as the signal to start the attack, hurling an enormous rock at the drow,
-     only for the some kind of shield to flash into existance around her and deflect it.
+     only for the some kind of shield to flash into existence around her and deflect it.
     -Another of the skeletons began to walk into the dead end cavern in which I stood, and Jade,
      somewhat to my chagrin, collapsed _that_ section of the cavern roof onto it's head. . .
      trapping Bruce, Grimble, and I in the dead end with one of these things.
@@ -11575,7 +11575,7 @@ TODO:
              over some arcane device, a circular object suspended between two scrolls.
                 -"It's my turn outside the hell week!" one of the statues insisted, wrenching the
                  device free from the other's hands.
-        -"Wait, someones here. . ." the victorious statue muttered.
+        -"Wait, someone's here. . ." the victorious statue muttered.
         -It walked over to the doorway and, seeing Wade, said, "You there! What are you doing here?"
          "We have a job here," Wade forthrightly replied. "Who are you?"
          "I'm Slate," the statue replied.
@@ -11611,6 +11611,86 @@ TODO:
             -It also, to Peggy the trained sailor, appeared to be a component for an airship.
 
 
+7/27/26: Follower Session 2
+    -Liara began to. . . stutter, walking quickly forward, then backward, and similar stop-and-go
+     back-and-forth.
+        -After a few moments of that sort of weirdness, she was suddenly back to normal, moving at
+         a reasonable speed and in seemingly only the one direction of time.
+        -Peggy and Wade took a moment to explain to her the odd statues and such inside their
+         little building, and our home of obtaining the other bits of this "Chromatic Stabilizer".
+            -Peggy mentioned that it might plunge the statue-things into an eternity of torment.
+            -Liara countered that perhaps the device was the _source_ of their looped week of hell,
+             and that removing it from their possession might _free_ them.
+            -"Well, whatever lets you sleep at night. . ." Peggy replied. "Personally, I don't."
+    -The group headed back inside the little building to let Liara have a shot at talking these
+     statues out of their device and into freedom. . . or maybe a more pleasant afterlife.
+        -Needless to say, the statues were more than a bit reluctant to risk and end to their
+         eternal-week-long existence when Liara began to go on about souls, an afterlife, and how
+         that might be preferable to the existence they knew.
+        -She can be rather persuasive, though, and, with only a little bit of bending the truth and
+         a complicated metaphor involving a length of string as a visual aid, they were convinced.
+        -Ominously, throughout the conversation, the rats were changing, seemingly undergoing some
+         kind of reverse evolution: becoming larger, more savage-seeming versions of themselves.
+        -The one holding the device handed it over to Liara. . . and then things went strange(r).
+        -The statues skated backwards, joining with the wall, the vines and lichen covering it, and
+         each other, forming some kind of shambling mass of stone, earth, and green muck.
+        -That alarming mass _and_ the now-enormous rats then rushed Liara.
+        -Meanwhile, the building and, even, the whole floating island _also_ seemed to be changing,
+         the building dissolving into natural stone and the whole place seemingly returning to the
+         form of a natural mountainside.
+        -Rather than tell Liara it told her so, about the freedom for statues and so forth, Peggy
+         flew for the ship, to bring it around for the rescue of it's ground-bound companions.
+        -Wade chugged a bottle of something but, rather than having simply resigned himself to his
+         imminent demise as Peggy first assumed, he grew to enormous size. He then used his now
+         much longer arms and hooked polearm both to hook the railing of the nearby goblin airship,
+         floating a bit off the side of the island, and pull it closer.
+        -The _already_ enormous mound-thing had similar thoughts (I guess?), grabbing the gangplank
+         from the side of the dirigible and using it to wail on the ship.
+        -Peggy flew a line to Wade to help him out, and between hook and line he was able to
+         scramble aboard the ship.
+        -Liara, fending off rat bites with her shield, whistled for her unicorn. The beast galloped
+         over and, Liara swinging herself up into the saddle, rode the unicorn in a great leap over
+         the side of the island and onto the deck of the ship.
+        -The rats managed to follow her in that, being now nearly the size of the unicorn, all but
+         one or two of them making the leap to the ship.
+        -The mound tried to grab the ship too, but Peggy rallied the crew and drove the creature
+         of with flung torches, liquor bottles, and other projectiles.
+        -Everyone aboard ship then made quick work of the rats.
+            -"Sailors!" Peggy shouted, addressing the goblin crew. "I brought dinner! . . . aren't
+              I the best captain ever?"
+            -They fell on the dead and dying pony-sized rat-things greedily and with much delight.
+             Soon, they were roasting up rat haunches over braziers in the airships crude kitchen.
+            -The whole thing evoked many expressions of disgust from Wade and Liana, but Peggy said,
+             "I think the fact that you creatures 'eat' stuff at all to be revolting, but you don't
+              hear me going on about it all the time. . ."
+    -The matter of the floating island. . . well, resolved, the party supposed, they went back to
+     Jade's shop in Sasserine.
+        -It took most of three days of travel.
+        -They, the group rousted Rusty at the empty shop's counter and let him know they done the
+         deed, more or less, and to contact the big blue guy.
+            -Liara had since let Peggy know, during the trip to the island, that he was a mercane
+             merchant, some species of interplanar trader of the arcane.
+        -Rusty reminded them that the mercane had given us Liara a magical business card to use to
+         contact him, to much complaining from Peggy that it had wasted _another_ long trip in a
+         week's time.
+        -Rusty helped us operate the elegant magical device and soon the mercane employer puffed
+         into existence before Peggy, Liara, and Wade.
+        -Unfortunately, it turned out the merchant was more interested in the floating _real estate_
+         than anything else. . . and was rather upset about it's smashed, time-traveled, and no
+         longer airborne state.
+        -He was inclined to pay us nothing, but Liara eventually talked him into paying 500 gp.
+         each to the three of us.
+            -She focused on the uncomfortable fact that we were essentially incompetent in arcane
+             matters (at least). . . which was kind of on him.
+            -Peggy _did_ point out, "It _is_ still real estate, after all, and certainly
+             unoccupied. . . along with whatever it landed on, if that's worth something."
+
+
+TODO:
+    -Talk to Rusty about that "Chromatic Stabilizer". Maybe, in Jade's absence, he can tell Peggy
+     something about it.
+
+
 TODO:
     -Figure out paying for the 36k Gloves of Dexterity.
         -I owe 36k/2 (though some of that will be paid back to me), so 18k.
@@ -11622,6 +11702,7 @@ TODO:
             -UMD for everything involved is auto-success.
     -Remove Grimble's Mage Armor.
     -Deal with remaining loot.
+        -Include stuff the followers found, notably that "Chromatic Stabilizer".
 
 
 TODO:

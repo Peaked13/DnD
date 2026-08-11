@@ -1497,7 +1497,7 @@ TODO:
 		-They asked us if we'd seen me, pointing at one of the wanted posters one held.
 		-I assured them we'd never associate with such rabble, but Sarge had to open his big lizard
 		 mouth too, and they suspected he was full of shit.
-		-Sarge began to threaten them and, half in support of theat and half to defuse things, I
+		-Sarge began to threaten them and, half in support of that and half to defuse things, I
  		 broke in, saying, "Do you know who he _is_? He's the party lizard! A genuine celebrity!"
 		 "Huh! I've heard tales of him," one of the guards responded. "They said he could drink a
 		  whole cask."
@@ -6326,7 +6326,7 @@ TODO:
 			-Well, I suppose D'Roc has a pair too. . .
 		-The stranger _did_ have welcome gifts: a bottle of black liquor and cupcakes.
 		-The trio were greeted by another trio, this one of gnome mimes.
-			-The gnomes, in their mismatched theatrical garb mimed astonishement at their arrival,
+			-The gnomes, in their mismatched thatrical garb mimed astonishement at their arrival,
 			 and then began to perform cartwheels around them.
 			-They were no mere entertainment, though, but guests themselves, as one made clear by
 			 grabbing the stranger's liquor bottle and running off with it.
@@ -10233,7 +10233,7 @@ TODO:
 			-Maya asked that the Lorchester grant us a commensurate favor, instead of cash, and he
 		     eagerly agreed.
 			-Jade pointed out we should find him some clothes first, and Maya chimed in asking
-			 Grimble if his theater troupe kin were still in Sasserine, they having provided us
+			 Grimble if his thater troupe kin were still in Sasserine, they having provided us
 			 tailoring in the past.
 				-He nodded and fluttered out the door in search of them.
 				-A drink or two later, he returned with a rather garish noble costume, something
@@ -11510,7 +11510,7 @@ TODO:
      island (they don't seem all that common on this plane, after all) with the ruins of a fortress
      resting upon it.
         -Looking over it from the airship, there didn't seem to be any signs of life.
-        -However, parts of the fortess looked. . . funny? They seemed to shimmer and shift when in
+        -However, parts of the fortress looked. . . funny? They seemed to shimmer and shift when in
          the corner of our eyes (and whatever Peggy sees out of).
         -Peggy and the goblins pulled the ship up alongside the island and, laying a gangplank
          across the gap, Peggy, Liara, and Wade disembarked.
@@ -11687,8 +11687,187 @@ TODO:
 
 
 TODO:
-    -Talk to Rusty about that "Chromatic Stabilizer". Maybe, in Jade's absence, he can tell Peggy
+    -(Done) Talk to Rusty about that "Chromatic Stabilizer". Maybe, in Jade's absence, he can tell Peggy
      something about it.
+
+
+8/10/26: Follower Session 3
+    -After the mercane departed, Peggy turned to Rusty and ask, "So, that ship bit, the crewmatic
+     stab-ilizer or whatever. . . what is it?"
+        -Peggy followed. . . some of that. Somehow, for ships that travel the planes, it negates the
+         time difference, or some impacts of it, between differing planes.
+        -Well, Peggy figured Fred might be interested in it, especially if framed in terms of "party
+         time."
+    -Liara was asking Rusty about other options for work, querying if he or the shop's proprietor,
+     Jade, would have anything.
+        -After poking at some kind of arcane-symbol-encrusted tome, Rusty demurred that Jade was
+         not contactable at the moment. . . but perhaps later.
+    -Well, the followers settled in to generally loiter around the shop.
+        -We saw a rude bugbear fail to purchase a magic club for various reasons, to some amusment
+         on Peggy's part.
+        -Another customer, though, proved somewhat more productive.
+            -He arrived in the shop wearing the robes of an arcanist and seemed somewhat shy, just
+             kind of standing around.
+            -Eventually, it dawned on Peggy that he was waiting in line and the elemental clarified,
+             "Oh! Don't wait on us! We're just loitering."
+            -The man then introduced himself to Rusty as Quill, asking if the shop-golem could help
+             determine the history of an item, perhaps with a wand of Legend Lore.
+            -Liara jumped into the conversation and those at the shop learned he was looking into a
+             disappearance.
+                -His boss, Voss, is (was?) the planar cartographer at a college of wizards here in
+                 the city and had gone missing.
+                -The college seemed to be ignoring the disappearance, telling Quill to not worry
+                 about the matter, despite it being _very_ out of character for Professor Voss.
+            -Liara then pointed out that the three followers were in fact a team of magical
+             investigators.
+                -Wally chimed in, agreeing and Liara cited the example of our _smashing_ success in
+                 the recent investigation of a floating island fortress.
+                -Quill looked skeptical, saying, "Well, I guess. . ."
+                -He then heartbreakingly added, "I don't really have much money. . . but I would
+                  welcome all the help I can get."
+                    -The no money is what broke Peggy's nonexistent heart.
+                    -Looking on the breezy side, though, Peggy said, "This guy's your boss, though?
+                      I bet he's got money. . ."
+            -Well, with and agreement made, Quill told us we'd need a reason to get inside the
+             college, and suggested we could perhaps pose as a repair crew for the planar orrery.
+                -"You'll need to look the part," he warned.
+                    -Here, they all gazed at Wally's ripped pants.
+                    -Peggy proclaimed that, "When you lack genitals, no one seems to pay much mind
+                      to pant."
+                -That turned into clothes shopping, which Liara enthusiastically dove into.
+                    -The followers and Quill sought out artisan outfits for Wally and Liara.
+                    -Procured, the clothes rendered substantially Wally substantially more
+                     respectable. . . but Liara mostly seemed like someone far too attractive
+                     dressed up in a technician costume.
+            -As the group got ready to leave for the college, Quill said, "One last thing: there
+             are weird little creatures, homonculi, all over the orrery. Homonculi all look different,
+             but always. . .odd."
+                -"Oh?" Peggy said, jovially. "That must be what we've got! What do yours look like?
+                  The ones aboard ship are green, loud, and like to start fires."
+                    -That earned it a measure of the blankly staring respect that so often follows
+                     it's idol, Fred.
+                -After a pause, Quill also warned, "Don't look into their eyes. The void looks
+                  back. . ."
+                    -All sorts of creepy, but Peggy didn't pay much attention as it was still busily
+                     laughing at it's own joke.
+    -The followers then followed their newest employer to his college.
+        -The school had fancy digs, an immense tower topped by some kind of observatory, with
+         expensively outfitted guards standing out front.
+        -They admitted "the repair crew" in Quill's wake, though, and we ascended the tower to it's
+         top (everyone but Peggy ended up. . . winded) which proved to be the planar orrery where
+         Quill worked.
+        -Once up there, the followers saw their first homunculus, which proved to be rather
+         creepy-cute.
+        -Quill then ushered us into a small room off the orrery proper for further discussion of
+         our cover.
+            -Liara was now talking about some kind of exchange student scheme, and attempting to
+             rope Peggy's even more obviously extra-planar self into it.
+            -In any event, Quill attached scraps of parchment to each of us (Peggy wears enough
+             magical stuff to offer options). Adorned with magical symbols, Quill called them
+             "temporary seals".
+            -He also dug out of a cabinet some kind of glass-fronted wooden box saying that magical
+             samples were brought back in such things. . . looking over at Peggy.
+                -"I'm not getting in that box," Peggy stormily asserted.
+                 "Fine, fine. Your companions can just carry it and if someone comes along. . ."
+                 Quill began.
+                 "It's _not_ happening."
+        -Quill then sent us off to our investigations, saying he needed to head to his desk for
+         a bit.
+        -Wally first set to inspecting the floors in the area for tracks, muttering about someone's
+         very regular habits.
+        -Eventually, in a little room filled with pipes and other machinery, he found a strange
+         patch on the floor roughly the size of a footprint, seemingly the indentation of some
+         rigid object.
+            -Searching the room further, he and Peggy found strange metal spikes attached to one of
+             the pipes, things that appeared recent additions to the machinery.
+            -"Let me go find some conductive wire," Wally suddenly said.
+            -Returning a few minutes later, and wearing a pair of this leather gloves, he began to
+             stretch a lenght of wire between the two spikes.
+                -"Do you know what you're doing?" Peggy asked.
+                 ". . . maybe?" was Wally's reply and the elemental shrugged.
+            -Once Wally touched it to the second spike, the wire heated up and there was the sound
+             of pressure building in the pipes.
+            -That was Peggy's queue to quickly fly out of the room as one of the homonculi came
+             running in screeching and ripped the wire away, spikes included.
+        -Quill came to join us asking what was going on here.
+            -Wally began to explain about the odd metal bits. . . but was interrupted by the sound
+             of the doors to the stairwell opening.
+            -Quill ducked out of the little room, then stuck his head back in, whispering, "It's the
+             senior academician! I need to go greet him!"
+            -He began to scurry off, but Wally suggested that Liara go join him, to aid in keeping
+             the senior scholar away from this room.
+            -Quill looked torn, but then quickly nodded and gestured for her to follow him.
+        -That left time for more Wally experiments.
+            -He noticed another spike attached to the door from, forming another another point in
+             an equal sided triangle with the locations where the original two were. . . centered
+             around that strange indentation.
+            -Fiddling with that spike, the indentation on the carpeted floor. . . changed, seemingly
+             becoming deeper and better defined. . . and now clearly reading "DIV" in it's center.
+        -Eventually, though, Peggy and Wally heard the sounds of an incoming tour.
+            -The two quickly found places to hide, shortly before Liara, Quill, and what must be
+             that academician entered the room.
+            -The senior academic had clearly bought some version of Liara's "exchange student" ruse
+             and was droning to her about safety regulations, procedures, and necessary paperwork.
+            -Eventually they left the room, thankfully before _quite_ managing to bore the
+             unsleeping Peggy to unconsciousness.
+            -On his way out, Quill tossed the removed spikes towards the machinery they'd previously
+             been attached to.
+        -Wally then returned to more reckless experimenting, this time involving ropes, in place of
+         the wire that hadn't been returned to him.
+            -He returned the original spikes to their locations and connected all three with a rope,
+             adjusting it repeatedly as it and reality in general, at least inside the triangle
+             formed, began to shimmer.
+            -Wally eventually met with some success as, amidst the crackling energy, a humanoid form
+             began to materialize, eventually proving to be a warforged in a suit, the indentation
+             having apparently been one of his footprints.
+        -The warforged that appeared proved to be a jackass in Peggy's estimation.
+            -Once he fully existed on the material plane, he just talked to his wrist in a low and
+             angry tone that Peggy didn't hear the contents of.
+            -. . . until Wally tried to speak to him, at which be turned and glared at Wally with
+             hostility in his all-too-earthen eyes.
+            -Wally managed to mostly deescalate the situation and get him talking.
+            -He claimed to be an "Agent W" of "The Division", supposedly working to somehow protect
+             people over their heads when traveling between planes and likely to get into some kind
+             of trouble.
+                -"Wait! Where th'fuck were you when some asshole arcanist bound me to an engine?!?"
+                 Peggy demanded.
+                -The warforged dissembled a bunch about why that wasn't the sort of thing they did
+                 but Peggy never really did get a satisfactory answer. It all seemed rather like
+                 the real reason was the elementals didn't "count". . . earning a lot of enimity
+                 from Peggy.
+            -Liara eventually showed up too, having apparently extracted herself from the clutches
+             of the academician's blathering.
+            -This warforged "agent" also seemed to know what happened to Voss, and to have had
+             something to do with it.
+                -He said something about the professor being in some sort of. . . containment,
+                 after something had happened to him.
+                    -He also claimed that senior figures at this college were at least partly aware
+                     of The Divsion's activities here.
+                -The followers kept demanding to talk to Voss, but Agent W went on about
+                 increasingly disturbing issues with that: he wouldn't talk be _able_ to talk,
+                 and that he was undergoing some kind of painful "reconstruction".
+                -They insisted, though, and, eventually, the agent began making some arcane gestures
+                 in contact with the device on his wrist.
+                    -In response, a. . . thing he claimed was Professor Voss briefly materialized.
+                    -It was constantly shifting. Occasionally, it looked like an elderly human. . .
+                     but it also grew and lost tentacles, became a plant that faded into a stones
+                     statue and so forth.
+                    -With a few more gestures, the horror show was banished as quickly as it had
+                    -Liara and Wally switched to demanding an _explanation_, to which the warforged
+                     offered some arcane gibberish about an dimensional anomaly that Voss
+                     encountered and the resulting chaotic energies.
+                    -Well, clearly. . . something had happened to. . . something. And whatever was
+                     going on here, W seemed to have the power to conjure something that _looked_
+                     like his unlikely story. . . and that's probably power to do something nastier
+                     than a tell us this unlikely story.
+                -Wally and Liara (Peggy still mostly fuming at this fuck) then quizzed the agent on
+                 what could be done to help Voss.
+                    -Apparently if the exact location of this anomaly can be found, that would help
+                     The Division resolve the professor's awful affliction.
+                    -That did seem to be the group's path to make good on their goal (and some kind
+                     of profit from the mess), so we agreed to help find this thing.
+                    -With the agreement of aid, W offered that those spikes Wally had used to call
+                     him here were "planar anchors", and something we might find handy.
 
 
 TODO:

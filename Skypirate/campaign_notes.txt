@@ -11694,8 +11694,8 @@ TODO:
 8/10/26: Follower Session 3
     -After the mercane departed, Peggy turned to Rusty and ask, "So, that ship bit, the crewmatic
      stab-ilizer or whatever. . . what is it?"
-        -Peggy followed. . . some of that. Somehow, for ships that travel the planes, it negates the
-         time difference, or some impacts of it, between differing planes.
+        -Rusty explained and Peggy followed. . . some of that. Somehow, for ships that travel the
+         planes, it negates the time difference, or some impacts of it, between differing planes.
         -Well, Peggy figured Fred might be interested in it, especially if framed in terms of "party
          time."
     -Liara was asking Rusty about other options for work, querying if he or the shop's proprietor,
@@ -11703,7 +11703,7 @@ TODO:
         -After poking at some kind of arcane-symbol-encrusted tome, Rusty demurred that Jade was
          not contactable at the moment. . . but perhaps later.
     -Well, the followers settled in to generally loiter around the shop.
-        -We saw a rude bugbear fail to purchase a magic club for various reasons, to some amusment
+        -We saw a rude bugbear fail to purchase a magic club for various reasons, to some amusement
          on Peggy's part.
         -Another customer, though, proved somewhat more productive.
             -He arrived in the shop wearing the robes of an arcanist and seemed somewhat shy, just
@@ -11731,9 +11731,9 @@ TODO:
             -Well, with and agreement made, Quill told us we'd need a reason to get inside the
              college, and suggested we could perhaps pose as a repair crew for the planar orrery.
                 -"You'll need to look the part," he warned.
-                    -Here, they all gazed at Wally's ripped pants.
+                    -Here, they all gazed at Wally's nearly shredded pants.
                     -Peggy proclaimed that, "When you lack genitals, no one seems to pay much mind
-                      to pant."
+                      to pants."
                 -That turned into clothes shopping, which Liara enthusiastically dove into.
                     -The followers and Quill sought out artisan outfits for Wally and Liara.
                     -Procured, the clothes rendered substantially Wally substantially more
@@ -11781,8 +11781,8 @@ TODO:
             -Searching the room further, he and Peggy found strange metal spikes attached to one of
              the pipes, things that appeared recent additions to the machinery.
             -"Let me go find some conductive wire," Wally suddenly said.
-            -Returning a few minutes later, and wearing a pair of this leather gloves, he began to
-             stretch a lenght of wire between the two spikes.
+            -Returning a few minutes later, and wearing a pair of thick leather gloves, he began to
+             stretch a length of wire between the two spikes.
                 -"Do you know what you're doing?" Peggy asked.
                  ". . . maybe?" was Wally's reply and the elemental shrugged.
             -Once Wally touched it to the second spike, the wire heated up and there was the sound
@@ -11827,13 +11827,13 @@ TODO:
              hostility in his all-too-earthen eyes.
             -Wally managed to mostly deescalate the situation and get him talking.
             -He claimed to be an "Agent W" of "The Division", supposedly working to somehow protect
-             people over their heads when traveling between planes and likely to get into some kind
-             of trouble.
+             people in over their heads when traveling between planes and likely to get into some
+             kind of trouble.
                 -"Wait! Where th'fuck were you when some asshole arcanist bound me to an engine?!?"
                  Peggy demanded.
                 -The warforged dissembled a bunch about why that wasn't the sort of thing they did
                  but Peggy never really did get a satisfactory answer. It all seemed rather like
-                 the real reason was the elementals didn't "count". . . earning a lot of enimity
+                 the real reason was that elementals didn't "count". . . earning a lot of enmity
                  from Peggy.
             -Liara eventually showed up too, having apparently extracted herself from the clutches
              of the academician's blathering.
@@ -11850,12 +11850,13 @@ TODO:
                  in contact with the device on his wrist.
                     -In response, a. . . thing he claimed was Professor Voss briefly materialized.
                     -It was constantly shifting. Occasionally, it looked like an elderly human. . .
-                     but it also grew and lost tentacles, became a plant that faded into a stones
+                     but it also grew and lost tentacles, became a plant that faded into a stone
                      statue and so forth.
                     -With a few more gestures, the horror show was banished as quickly as it had
+                     appeared.
                     -Liara and Wally switched to demanding an _explanation_, to which the warforged
-                     offered some arcane gibberish about an dimensional anomaly that Voss
-                     encountered and the resulting chaotic energies.
+                     offered some arcane gibberish about a dimensional anomaly that Voss encountered
+                     and the resulting chaotic energies.
                     -Well, clearly. . . something had happened to. . . something. And whatever was
                      going on here, W seemed to have the power to conjure something that _looked_
                      like his unlikely story. . . and that's probably power to do something nastier
@@ -11868,6 +11869,75 @@ TODO:
                      of profit from the mess), so we agreed to help find this thing.
                     -With the agreement of aid, W offered that those spikes Wally had used to call
                      him here were "planar anchors", and something we might find handy.
+
+
+8/24/26: Follower Session 4
+    -Some more back and forth with Agent Wanker ensued.
+        -We were trying to get a better handle on how exactly we find this anomalous location.
+        -For the immediate future, we settled on Liara distracting the academician more, getting
+         him out of our hair while Wally continued trying to follow in Voss's footsteps.
+    -Liara indeed went off to go chatter with the academic. . . followed by Agent W shortly after
+     they disappeared around the bend of the hallway.
+        -The warforged mumbled something about "the records" as he did so.
+        -Peggy and Wally looked at each other for a moment, unsure what to do now.
+        -From our position just inside the room of machinery, though, we saw a homunculus walk past,
+         heading in the direction that Agent W-the-jerkbag had gone.
+        -Peggy _also_ noticed the homunculus had a ring of keys around its wrist.
+        -Well, the elemental shrugged, drifted out into the hallway then flew purposefully down the
+         hallway in the same direction as the tiny homunculus.
+            -Making no attempt at stealth, relying instead on that seal Quill had given it and the
+             impression of business to attend to, the homunculus turned to stare at Peggy, but Peggy
+             just brushed by it. . . and slyly snatched the ring of keys from the oblivious
+             creature's wrist.
+            -Wally ended up hurrying after Peggy as it drifted onwards.
+    -Wally and Peggy caught up with Agent W then, who proved to be in an alcove examining some kind
+     of log book.
+        -"Ah, see here?" the besuited metal jerk said, as they approached. "There was an error when
+          Voss was going to a certain area of The Astral Plane. Owing to a mix up with similar
+          coordinates, Voss ended up in The Abyss instead."
+        -Agent W was able to extract the _mistaken_ coordinates from the log, presumably the
+         location of the anomaly and explained that the central chamber of the orrery could send
+         the followers to the coordinates.
+            -"How do we get back, though?" Peggy asked.
+            -The condescending agent ran through various options, wands, scrolls, and the like,
+             getting a lot of heads shakes from Peggy and Wally in response to each option, none
+             being things we could work with.
+            -Liara rejoined us during that and volunteered that she could read a fairly basic scroll.
+                -Agent Wanker warned her, though, that traveling between the planes would be no
+                 simple spell. . . but helpfully suggested that perhaps a boon from one of the
+                 city's temples could aid in using a divine scroll of Plane Shift to some thoughtful
+                 nodding from Liara.
+            -"Well, you'll at least have those planar anchors to help you get back to this exact
+              spot," Agent Wanker added.
+    -Well, the followers went in search of supplies for The Abyss, then.
+        -Wally wanted to procure cold iron arrows for dealing with demons, and idea which Peggy
+         happily copied.
+            -They procured them at a shop run by someone obsessed with preparing for "the magical
+             apocalypse."
+        -From there, they followed Liara to the cities temple of Selûne, the moon goddess she
+         apparently worshiped.
+            -There, Liara negotiated for a deal: a boon for a boon for the moon.
+            -In other words, the priestess there blessed Liara, conferring the ability to use once
+             the scroll of Plane Shift we required, in return for a promised future service by
+             Liara on the goddesses behalf. . . to be named later.
+                -Not a deal Peggy _or_ Fred would take. . . but that's on Liara.
+            -Finally, they made a quick trip to pick up the scroll itself, a thing Liara largely
+             funded with some small change from Wally.
+                -Questions about Peggy's wealth kept being met with, "Who's asking?"
+    -Supplies in hand, the followers attempted to return to the university only to find it's gates
+     locked for the evening and no one responding to knocks or shouts.
+        -Peggy tried the various keys on the ring it had obtained, but none did the job.
+        -So, they decided to adjourn for the evening, to return in the morning.
+        -Wally and Liara were making noises about seeking out food and rest. . . neither of which
+         were of any interest to Peggy who opted to go spend the evening partying with the goblins
+         aboard their ship.
+        -Eventually, Liara and Wally returned to the ship, reporting a pleasant but expensive dinner
+         with rude waitstaff. . . and little coin remaining to waste on accommodation elsewhere.
+            -Peggy warned them that it and the goblins would be going all night long but instructed
+             them to feel free to unroll their bedding wherever liquor bottles or goblins (both of
+             which were being tossed around liberally by Peggy in the form of a whirlwind) seemed
+             least likely to land.
+            -Liara and Wally seemed quite drunk, Peggy noted approvingly, and they quickly complied.
 
 
 TODO:
@@ -11885,46 +11955,6 @@ TODO:
 
 
 TODO:
-    -Sounds like we're going to do the Followers idea, playing 5th level followers.
-        -Patches and Peggy are both that level.
-        -Peggy design:
-            -4d6, drop lowest, for Attributes.
-                -Base stat rolls:
-                    17
-                    16
-                    14
-                    15
-                    11
-                    16
-                -How Attributes work for monsters without level adjustments: https://www.enworld.org/threads/level-adjustment-playing-as-monsters-in-d-d-3-5.475266/
-                -Stats:
-                    Str: 16
-                    Dex: 24 (17 + 6 racial + 1 for 4HD)
-                    Con: 14
-                    Int: 10 (16 - 6 racial)
-                    Wis: 15
-                    Cha: 11
-            -Skills: 10 elemental, 24 rogue
-            -4,700 gp. worth of equipment.
-                -Club for comedy (and throwing!), instead of a slightly more effective weapon.
-                -Bracers of armor: https://www.dandwiki.com/wiki/SRD:Bracers_of_Armor
-                    -Or padded armor +1 instead?
-                -Cloak of Resistance: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
-                -Healing belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
-                -Gloves of Dex instead?
-                -Craft stuff?!?
-                    -Rusty _did_ get 1000 XP for an item, and is an artificer. . .
-                    -For that matter, these folks have Fred backing them and access to Jade.
-                -So, lets call it:
-                    2000 gp., 160 XP    Gloves of Dexterity +2: https://www.dandwiki.com/wiki/SRD:Gloves_of_Dexterity
-                     500 gp.,  40 XP    Cloak of Resistance +1: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
-                    1155 gp.            Padded Armor +1: https://www.d20srd.org/srd/equipment/armor.htm
-                     750 gp.            Healing Belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
-                      30 gp.            Shortbow: https://www.dandwiki.com/wiki/SRD:Shortbow
-                       2 gp.            40 Arrows
-                       0                Club: https://www.dandwiki.com/wiki/SRD:Club
-                    ----
-                    4435 gp., 200 XP or 265 gp. remaining
     -I think Fred is now eligible for Epic Leadership: https://www.dandwiki.com/wiki/SRD:Epic_Leadership
 	-Dragon-lightning elemental friends as followers?
 	-Skill spending (remember tricks are once per encounter!):
@@ -12124,6 +12154,46 @@ TODONE:
 	-Charisma boosting stuff is a huge deal for you, between skills and power DCs.
 		-Chris did the calculation to go from +4 to +6: https://discord.com/channels/560915739796570113/1027415547278794782/1360112203407294505
 			"Cloak of Charisma +6 is 36000 gp, assuming Fred has got a +4 Cloak at 16000 gp I think he'd need to pay the difference in crafting materials (so that's (36000-16000)x0.75x0.5= 7500 gp and 20000/25 = 800 exp, if my calculations are correct?)."
+    -Sounds like we're going to do the Followers idea, playing 5th level followers.
+        -Patches and Peggy are both that level.
+        -Peggy design:
+            -4d6, drop lowest, for Attributes.
+                -Base stat rolls:
+                    17
+                    16
+                    14
+                    15
+                    11
+                    16
+                -How Attributes work for monsters without level adjustments: https://www.enworld.org/threads/level-adjustment-playing-as-monsters-in-d-d-3-5.475266/
+                -Stats:
+                    Str: 16
+                    Dex: 24 (17 + 6 racial + 1 for 4HD)
+                    Con: 14
+                    Int: 10 (16 - 6 racial)
+                    Wis: 15
+                    Cha: 11
+            -Skills: 10 elemental, 24 rogue
+            -4,700 gp. worth of equipment.
+                -Club for comedy (and throwing!), instead of a slightly more effective weapon.
+                -Bracers of armor: https://www.dandwiki.com/wiki/SRD:Bracers_of_Armor
+                    -Or padded armor +1 instead?
+                -Cloak of Resistance: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
+                -Healing belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
+                -Gloves of Dex instead?
+                -Craft stuff?!?
+                    -Rusty _did_ get 1000 XP for an item, and is an artificer. . .
+                    -For that matter, these folks have Fred backing them and access to Jade.
+                -So, lets call it:
+                    2000 gp., 160 XP    Gloves of Dexterity +2: https://www.dandwiki.com/wiki/SRD:Gloves_of_Dexterity
+                     500 gp.,  40 XP    Cloak of Resistance +1: https://www.dandwiki.com/wiki/SRD:Cloak_of_Resistance
+                    1155 gp.            Padded Armor +1: https://www.d20srd.org/srd/equipment/armor.htm
+                     750 gp.            Healing Belt: https://dnd.arkalseif.info/items/magic-item-compendium--73/healing-belt--500/index.html
+                      30 gp.            Shortbow: https://www.dandwiki.com/wiki/SRD:Shortbow
+                       2 gp.            40 Arrows
+                       0                Club: https://www.dandwiki.com/wiki/SRD:Club
+                    ----
+                    4435 gp., 200 XP or 265 gp. remaining
 
 
 TODON'T:

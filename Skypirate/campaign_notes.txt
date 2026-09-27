@@ -10585,7 +10585,6 @@ TODO:
         -Soon we were at The Lusty Leper and the party there was in swing.
         -Sophia complained they lacked a single good vintage, though, and wasn't too much
          impressed with the gnomish whiskey I suggested she try over wine here.
-        -She was also 
         -Out of the corner of my eye, I saw Maya, Jade, and Bruce wander off to go sit with some
          dour-looking cloaked woman and talk.
         -When I took a breather for a bit, sitting back down at a table, Maya filled me in on what
@@ -11919,7 +11918,7 @@ TODO:
             -There, Liara negotiated for a deal: a boon for a boon for the moon.
             -In other words, the priestess there blessed Liara, conferring the ability to use once
              the scroll of Plane Shift we required, in return for a promised future service by
-             Liara on the goddesses behalf. . . to be named later.
+             Liara on the goddess's behalf. . . to be named later.
                 -Not a deal Peggy _or_ Fred would take. . . but that's on Liara.
             -Finally, they made a quick trip to pick up the scroll itself, a thing Liara largely
              funded with some small change from Wally.
